@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due tr@oie sfondate.
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	tr@oie	tr@oia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	sfondate	sfondato	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ......
+1	.....	.....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando si dice "Giustizia divina!"
+1	Quando	quando	SCONJ	CS	_	3	mark	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	Giustizia	Giustizia	PROPN	SP	_	3	xcomp	_	_
+6	divina	divino	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	3	punct	_	SpacesAfter=\n\n
+

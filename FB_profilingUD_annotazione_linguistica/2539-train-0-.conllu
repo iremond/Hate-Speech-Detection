@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non ci siamo propio
+1	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	propio	propio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

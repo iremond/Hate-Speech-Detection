@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ITALIANI.
+1	ITALIANI	italiano	ADV	B	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = BRUCIAMO LA STREGA
+1	BRUCIAMO	BRUCIAMO	PROPN	SP	_	0	root	_	_
+2	LA	La	PROPN	SP	_	1	flat:name	_	_
+3	STREGA	Strega	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

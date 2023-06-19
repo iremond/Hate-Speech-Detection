@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = matteo ci puoi contare !!!!!!!
+1	matteo	matteo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+3	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	contare	contare	VERB	V	VerbForm=Inf	0	root	_	_
+5	!!!!!!!	!!!!!!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi dispiace paragonarle alle oche (che rispetto),ma vedere ste due,che mentre gli altri parlano, se la ridono sotto i baffi e interrompono.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	dispiace	dispiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	paragonarle	_	_	_	_	_	_	_	_
+3	paragonar	paragonare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	3	obj	_	_
+5-6	alle	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	oche	oca	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+8	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+9	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+10	rispetto	rispetto	ADV	B	_	12	advmod	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+12	,ma	,mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+13	vedere	vedere	VERB	V	VerbForm=Inf	12	obl	_	_
+14	ste	sto	ADJ	A	Gender=Fem|Number=Plur	13	xcomp	_	_
+15	due,che	due,ca	ADV	B	_	14	advmod	_	_
+16	mentre	mentre	SCONJ	CS	_	19	mark	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	19	nsubj	_	_
+19	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	19	punct	_	_
+21	se	se	SCONJ	CS	_	23	mark	_	_
+22	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+23	ridono	ridire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+24	sotto	sotto	ADP	E	_	26	case	_	_
+25	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	baffi	baffe	NOUN	S	Gender=Masc|Number=Plur	23	obl	_	_
+27	e	e	CCONJ	CC	_	28	cc	_	_
+28	interrompono.	interrompono.	NOUN	S	Gender=Masc|Number=Sing	19	conj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...Del Debbio dovrebbe spedirle fuori dallo studio subito...
+1	...Del	...Del	PROPN	SP	_	4	nsubj	_	_
+2	Debbio	Debbio	PROPN	SP	_	1	flat:name	_	_
+3	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4-5	spedirle	_	_	_	_	_	_	_	_
+4	spedir	spedire	VERB	V	VerbForm=Inf	0	root	_	_
+5	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+6	fuori	fuori	ADV	B	_	9	case	_	_
+7-8	dallo	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	6	fixed	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	studio	studio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+10	subito..	subito	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

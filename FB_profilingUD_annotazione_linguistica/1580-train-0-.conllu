@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non si possono davvero ascoltare!
+1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:impers	_	_
+3	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	davvero	davvero	ADV	B	_	5	advmod	_	_
+5	ascoltare	ascoltare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

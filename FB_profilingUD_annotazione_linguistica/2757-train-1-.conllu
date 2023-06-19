@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma perché non lì spostate tutti di peso usate gli idranti così si lavano
+1	Ma	ma	CCONJ	CC	_	14	cc	_	_
+2	perché	perché	SCONJ	CS	_	5	mark	_	SpacesAfter=\s\s\s
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	SpacesAfter=\s\s
+4	lì	lì	ADV	B	_	5	advmod	_	SpacesAfter=\s\s
+5	spostate	spostare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	14	advcl	_	SpacesAfter=\s\s
+6	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	SpacesAfter=\s\s
+7	di	di	ADP	E	_	8	case	_	_
+8	peso	peso	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpacesAfter=\s\s
+9	usate	usare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	SpacesAfter=\s\s
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	SpacesAfter=\s\s
+11	idranti	idrante	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	SpacesAfter=\s\s
+12	così	così	ADV	B	_	11	advmod	_	SpacesAfter=\s\s
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	SpacesAfter=\s\s
+14	lavano	lavare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

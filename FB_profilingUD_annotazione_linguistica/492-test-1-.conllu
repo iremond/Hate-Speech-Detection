@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi zingaro!
+1	Renzi	Renzi	ADP	E	_	2	case	_	_
+2	zingaro	zingaro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

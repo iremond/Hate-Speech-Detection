@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tu neanche puoi capire come le detesto pagherei oro x incontrarle faccia a faccia ste dementi
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	neanche	neanche	ADV	BN	PronType=Neg	4	advmod	_	_
+3	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	capire	capire	VERB	V	VerbForm=Inf	17	advcl	_	_
+5	come	come	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	detesto	detesto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	pagherei	paghere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+9	oro	oro	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	x	x	SYM	SYM	_	9	nmod	_	_
+11-12	incontrarle	_	_	_	_	_	_	_	_
+11	incontrar	incontrare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	faccia	faccia	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+16	ste	sto	ADJ	A	Number=Sing	15	amod	_	_
+17	dementi	demente	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho detto tutto
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	SpacesAfter=\n\n
+

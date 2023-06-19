@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No faccio fatica a sopportare questi programmi dove tutti sembra che litighino e alla fine fanno come i ladri di Pisa che di giorno discutono e la notte vanno a rubare insieme
+1	No	no	INTJ	I	Polarity=Neg	2	discourse	_	_
+2	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	fatica	fatica	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	sopportare	sopportare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+6	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+7	programmi	programma	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+8	dove	dove	ADV	B	_	10	advmod	_	_
+9	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	10	nsubj	_	_
+10	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	che	che	SCONJ	CS	_	30	mark	_	_
+12	litighino	litighino	NOUN	S	Gender=Masc|Number=Sing	30	nsubj	_	_
+13	e	e	CCONJ	CC	_	17	cc	_	_
+14-15	alla	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	fine	fine	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+17	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	conj	_	_
+18	come	come	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	ladri	ladro	NOUN	S	Gender=Masc|Number=Plur	30	obl	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	Pisa	Pisa	PROPN	SP	_	30	nmod	_	_
+23	che	che	PRON	PR	PronType=Rel	26	nsubj	_	_
+24	di	di	ADP	E	_	25	case	_	_
+25	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	26	obl	_	_
+26	discutono	discutere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	_
+27	e	e	CCONJ	CC	_	30	cc	_	_
+28	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	notte	notte	NOUN	S	Gender=Fem|Number=Sing	30	nsubj	_	_
+30	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+31	a	a	ADP	E	_	32	mark	_	_
+32	rubare	rubare	VERB	V	VerbForm=Inf	30	xcomp	_	_
+33	insieme	insieme	ADV	B	_	30	advmod	_	SpacesAfter=\n\n
+

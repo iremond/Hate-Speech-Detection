@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caro Presidente pensa proprio che gli italiani o almeno Buona parte di essi sia stupido?
+1	Caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	Presidente	Presidente	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	proprio	proprio	ADV	B	_	15	advmod	_	_
+5	che	che	SCONJ	CS	_	15	mark	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	15	nsubj	_	_
+8	o	o	CCONJ	CC	_	11	cc	_	_
+9	almeno	almeno	ADV	B	_	10	advmod	_	_
+10	Buona	buono	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	_
+11	parte	parte	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	essi	esso	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+14	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	stupido	stupidere	ADJ	A	Gender=Masc|Number=Sing	3	ccomp	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Proviamo a dire la verità sulla questione anche se per un politico è impossibile!
+1	Proviamo	Provare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	verità	verità	NOUN	S	Gender=Fem	3	obj	_	_
+6-7	sulla	_	_	_	_	_	_	_	_
+6	su	su	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	questione	questione	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	anche	anche	ADV	B	_	15	mark	_	_
+10	se	se	SCONJ	CS	_	9	fixed	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	politico	politico	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	impossibile	impossibile	ADJ	A	Number=Sing	1	advcl	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

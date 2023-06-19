@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono delle arpie ignoranti
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2-3	delle	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	arpie	arpia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+5	ignoranti	ignorante	ADJ	A	Number=Plur	4	amod	_	SpacesAfter=\n\n
+

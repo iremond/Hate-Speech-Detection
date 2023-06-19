@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Zeus se incazzato XD Ahahahahah
+1	Zeus	Zeus	NOUN	S	_	0	root	_	_
+2	se	se	SCONJ	CS	_	3	mark	_	_
+3	incazzato	incazzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+4	XD	XD	PROPN	SP	_	3	obj	_	_
+5	Ahahahahah	Ahahahahah	PROPN	SP	_	4	flat:name	_	SpacesAfter=\n\n
+

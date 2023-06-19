@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Votiamo no e mandiamoli a fare in culo!
+1	Votiamo	Votare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	no	no	ADV	BN	PronType=Neg	1	advmod	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4-5	mandiamoli	_	_	_	_	_	_	_	_
+4	mandiamo	mandare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	culo	culo	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

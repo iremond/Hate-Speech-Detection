@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Crusciani manganella...
+1	Crusciani	Crusciano	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	manganella...	manganella.	NOUN	S	Gender=Masc	1	compound	_	_
+
+# sent_id = 2
+# text = https://www.youtube.com/watch?v=xVQXz7_qoRg
+1	https://www.youtube.com/watch?v=xVQXz7_qoRg	https://www.youtube.com/watch?v=xvqxz7_qorg	SYM	X	_	0	root	_	SpacesAfter=\n\n
+

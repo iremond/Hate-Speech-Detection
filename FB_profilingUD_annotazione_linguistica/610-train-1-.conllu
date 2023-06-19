@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Penso che Del Debbio inviti apposta quelle due che, insieme a Librandi e al marocchino contribuiscono e non poco allo sputtanamento della sinistra.
+1	Penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	6	mark	_	_
+3-4	Del	_	_	_	_	_	_	_	_
+3	Di	Di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Debbio	Debbio	PROPN	SP	_	6	obl	_	_
+6	inviti	invire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	ccomp	_	_
+7	apposta	apposta	ADV	B	_	6	advmod	_	_
+8	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	6	nsubj:pass	_	_
+9	due	due	NUM	N	NumType=Card	8	nummod	_	_
+10	che	che	PRON	PR	PronType=Rel	19	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	SpacesAfter=\s\s
+12	insieme	insieme	ADV	B	_	14	case	_	_
+13	a	a	ADP	E	_	12	fixed	_	_
+14	Librandi	Librandi	PROPN	SP	_	19	obl	_	_
+15	e	e	CCONJ	CC	_	18	cc	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	marocchino	marocchino	NOUN	S	Gender=Masc|Number=Sing	14	conj	_	_
+19	contribuiscono	contribuire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+20	e	e	CCONJ	CC	_	25	cc	_	_
+21	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+22	poco	poco	ADV	B	_	25	advmod	_	_
+23-24	allo	_	_	_	_	_	_	_	_
+23	a	a	ADP	E	_	25	case	_	_
+24	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	sputtanamento	sputtanamento	NOUN	S	Gender=Masc|Number=Sing	19	conj	_	_
+26-27	della	_	_	_	_	_	_	_	_
+26	di	di	ADP	E	_	28	case	_	_
+27	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

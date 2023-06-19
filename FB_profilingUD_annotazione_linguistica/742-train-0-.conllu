@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No comment
+1	No	no	INTJ	I	Polarity=Neg	2	discourse	_	_
+2	comment	comment	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = io voto NO ,,perchè ho deciso Sono come voglio io e non come tu mi vuoi
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	NO	No	PROPN	SP	_	2	obj	_	_
+4	,	,	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+5	,perchè	,perché	CCONJ	CC	_	7	cc	_	_
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	deciso	decidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	_
+8	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	voglio	volere	NOUN	S	Gender=Masc|Number=Sing	7	ccomp	_	_
+11	io	io	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12	e	e	CCONJ	CC	_	17	cc	_	_
+13	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+14	come	come	ADP	E	_	15	case	_	_
+15	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	17	obl	_	_
+16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	expl	_	_
+17	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	SpacesAfter=\n\n
+

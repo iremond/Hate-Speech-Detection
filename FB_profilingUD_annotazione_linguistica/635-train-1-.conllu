@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = io,dico,solo,cosa,fra,10,anni,questi,negri,ce,la,faranno,pagare,è,spero,che,io,non,ci,saro,più
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+2	,dico,solo,cosa	,dico,solo,coso	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,fra,10	,fra,10	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+4	,anni	,anno	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+5	,questi	,questo	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	SpaceAfter=No
+6	,negri,ce,la	,negri,ce,la	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+7	,faranno	,faranno	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	SpaceAfter=No
+8	,pagare	,pagare	VERB	V	VerbForm=Inf	2	conj	_	SpaceAfter=No
+9	,è	,é	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	iobj	_	SpaceAfter=No
+10	,spero,che,io	,spero,che,io	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	,non,ci,saro,più	,non,ci,saro,più	CCONJ	CC	_	8	cc	_	SpacesAfter=\n\n
+

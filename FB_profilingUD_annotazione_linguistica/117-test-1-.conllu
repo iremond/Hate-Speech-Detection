@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che persone sgradevoli bugiarde poco simpatiche ma a lavare i piatti , no
+1	Che	che	DET	DQ	PronType=Int	2	det	_	SpacesAfter=\s\s
+2	persone	persona	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	SpacesAfter=\s\s\s
+3	sgradevoli	sgradevole	ADJ	A	Number=Plur	2	amod	_	SpacesAfter=\s\s
+4	bugiarde	bugiardere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s\s
+5	poco	poco	ADV	B	_	6	advmod	_	_
+6	simpatiche	simpatica	ADV	B	_	4	advmod	_	SpacesAfter=\s\s
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	lavare	lavare	VERB	V	VerbForm=Inf	4	conj	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	piatti	piatto	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
+12	,	,	PUNCT	FF	_	4	punct	_	SpacesAfter=\s\s\s\s
+13	no	no	ADV	BN	PronType=Neg	4	advmod	_	SpacesAfter=\n\n
+

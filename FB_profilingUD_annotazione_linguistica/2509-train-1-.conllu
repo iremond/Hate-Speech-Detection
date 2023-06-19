@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No..no...no..mille altre volte NO!
+1	No..no...no..mille	No..no...no..millo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	altre	altro	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	volte	volta	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	_
+4	NO	No	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Si togliessero dalle palle
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+2	togliessero	togliere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3-4	dalle	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	palle	palla	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	SpacesAfter=\n\n
+

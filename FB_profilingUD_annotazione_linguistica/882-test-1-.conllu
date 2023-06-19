@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Paolo io quando ci sono queste persone cambiò canale mi fanno venire il vomito se vuoi che noi guardiamo la tv non invitare quelle persone irritanti grazie
+1	Paolo	Paolare	PROPN	SP	_	8	nsubj	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	quando	quando	SCONJ	CS	_	5	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+5	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+6	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	persone	persona	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+8	cambiò	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	parataxis	_	_
+9	canale	canale	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+11	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
+12	venire	venire	VERB	V	VerbForm=Inf	11	ccomp	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	vomito	vomito	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	se	se	SCONJ	CS	_	16	mark	_	_
+16	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+17	che	che	SCONJ	CS	_	19	mark	_	_
+18	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
+19	guardiamo	guardare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	tv	tv	NOUN	S	Gender=Fem	19	obj	_	_
+22	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+23	invitare	invitare	VERB	V	VerbForm=Inf	19	xcomp	_	_
+24	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	25	det	_	_
+25	persone	persona	NOUN	S	Gender=Fem|Number=Plur	23	obj	_	_
+26	irritanti	irritante	ADJ	A	Number=Plur	25	amod	_	_
+27	grazie	grazie	NOUN	S	_	0	root	_	SpacesAfter=\n\n
+

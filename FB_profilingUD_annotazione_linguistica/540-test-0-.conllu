@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Basta basta e basta!
+1	Basta	bastare	PROPN	SP	_	2	nsubj	_	_
+2	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!!!!
+1	!!!!!!	!!!!!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

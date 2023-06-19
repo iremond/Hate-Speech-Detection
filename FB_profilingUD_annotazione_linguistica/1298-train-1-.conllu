@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Odiose dicono bugie come renzi
+1	Odiose	Odioso	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	2	nsubj	_	SpacesAfter=\s\s
+2	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bugie	bugia	NOUN	S	Gender=Fem|Number=Plur	2	xcomp	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	renzi	renzi	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpacesAfter=\n\n
+

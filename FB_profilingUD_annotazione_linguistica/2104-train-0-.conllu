@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Preferisco spegnere e mettermi a dormire .....
+1	Preferisco	preferisco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	spegnere	spegnero	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	mettermi	mettermo	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6	dormire	dormire	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	.....	.....	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

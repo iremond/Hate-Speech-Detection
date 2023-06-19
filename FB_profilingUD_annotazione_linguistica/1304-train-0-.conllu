@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sinceramente NOOOO
+1	Sinceramente	sinceramente	ADV	B	_	2	advmod	_	SpacesAfter=\s\s
+2	NOOOO	NOOOO	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

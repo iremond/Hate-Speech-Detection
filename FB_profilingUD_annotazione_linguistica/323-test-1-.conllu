@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È inutile lamentarsi se poi non andiamo a votare!
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	inutile	inutile	ADJ	A	Number=Sing	0	root	_	_
+3-4	lamentarsi	_	_	_	_	_	_	_	_
+3	lamentar	lamentarre	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	poi	poi	ADV	B	_	8	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	votare	votare	VERB	V	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = I Pidioti vanno tutti inquadrati a votare e allora le cose non cambieranno
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	Pidioti	Pidiota	PROPN	SP	_	5	nsubj	_	_
+3	vanno	andare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
+5	inquadrati	inquadrare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	votare	votare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	e	e	CCONJ	CC	_	13	cc	_	_
+9	allora	allora	ADV	B	_	13	advmod	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	cambieranno	cambiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	conj	_	SpacesAfter=\n\n
+

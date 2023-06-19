@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ....E VOLUTAMENTE TRASC...PER GUADAGNARSI
+1	....E	....e	PROPN	SP	_	0	root	_	_
+2	VOLUTAMENTE	voluto	PROPN	SP	_	1	flat:name	_	_
+3	TRASC...PER	TRASC...PER	PROPN	SP	_	1	flat:name	_	_
+4-5	GUADAGNARSI	_	_	_	_	_	_	_	_
+4	GUADAGNAR	GUADAGNAR	PROPN	SP	_	1	flat:name	_	_
+5	SI	si	PROPN	SP	_	1	flat:name	_	_
+
+# sent_id = 2
+# text = LA PAGNOTTA....FUORI
+1	LA	il	PROPN	SP	_	0	root	_	_
+2	PAGNOTTA....FUORI	PAGNOTTA....FUORI	PROPN	SP	_	1	flat:name	_	_
+
+# sent_id = 3
+# text = DA LÌ...SPECIE IL CRUCIVERBA.....PINZA...PINZA ..MA NON SFONDA....
+1	DA	da	ADP	E	_	2	case	_	_
+2	LÌ...SPECIE	LÌ...SPECIE	PROPN	SP	_	0	root	_	_
+3	IL	il	PROPN	SP	_	2	flat:name	_	_
+4	CRUCIVERBA.....PINZA...PINZA	CRUCIVERBA.....PINZA...PINZA	PROPN	SP	_	2	nmod	_	_
+5	..MA	..MA	PROPN	SP	_	4	flat:name	_	_
+6	NON	non	PROPN	SP	_	4	nmod	_	_
+7	SFONDA...	SFONDA...	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

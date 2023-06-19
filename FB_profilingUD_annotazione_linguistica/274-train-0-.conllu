@@ -1,0 +1,63 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grande trasmissione piena di argomenti vari, ma basta con i soliti gasparri, salvini otelma sgarbi taormina Santanchè efebal zamparini buonanno feltri fede ecc ecc.
+1	Grande	grande	ADJ	A	Number=Sing	2	amod	_	_
+2	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+3	piena	pieno	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	argomenti	argomente	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+6	vari	vario	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	ma	ma	CCONJ	CC	_	9	cc	_	_
+9	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+10	con	con	ADP	E	_	13	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	soliti	solito	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	_
+13	gasparri	gasparro	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	salvini	salvino	NOUN	S	Gender=Masc|Number=Plur	13	conj	_	_
+16	otelma	otelmo	ADV	B	_	17	advmod	_	_
+17	sgarbi	sgarbo	ADJ	A	Number=Plur	15	amod	_	_
+18	taormina	taorminare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	Santanchè	Santanché	PROPN	SP	_	18	obj	_	_
+20	efebal	efebal	DET	DQ	Number=Sing|PronType=Int	21	det	_	_
+21	zamparini	zamparino	NOUN	S	Gender=Masc|Number=Plur	22	nsubj	_	_
+22	buonanno	buonare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	18	conj	_	_
+23	feltri	feltro	ADJ	A	Gender=Masc|Number=Plur	24	amod	_	_
+24	fede	fede	NOUN	S	Gender=Fem|Number=Sing	22	obj	_	_
+25	ecc	eccetera	X	X	_	24	nmod	_	_
+26	ecc	eccetera	X	X	_	25	flat:foreign	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 2
+# text = Rinnoviamo un po gli ospiti questi hanno stufato......
+1	Rinnoviamo	Rinnovare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	po	po	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	ospiti	ospite	NOUN	S	Number=Plur	7	nsubj	_	_
+6	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	5	nmod	_	_
+7	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+8	stufato......	stufato......	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = e sempre gli stessi!!!
+1	e	e	CCONJ	CC	_	4	cc	_	_
+2	sempre	sempre	ADV	B	_	4	advmod	_	_
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	stessi	stesso	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Dai Giuseppe una rinnovata!!!
+1-2	Dai	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Giuseppe	Giuseppe	PROPN	SP	_	5	nmod	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	rinnovata	rinnovata	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+7	!!	!!	PUNCT	FF	_	5	punct	_	SpacesAfter=\n\n
+

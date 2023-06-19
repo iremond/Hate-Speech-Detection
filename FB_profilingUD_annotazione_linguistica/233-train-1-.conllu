@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ridicole ed inutili
+1	Ridicole	Ridicolo	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	ed	e	CCONJ	CC	_	3	cc	_	_
+3	inutili	inutile	NOUN	S	Gender=Masc|Number=Plur	1	conj	_	SpacesAfter=\n\n
+

@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non guardo!
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

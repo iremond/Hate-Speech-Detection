@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Zaia tutti i veneti sono conte
+1	Zaia	Zarire	ADV	B	_	6	advmod	_	_
+2	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	4	det:predet	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	veneti	veneto	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+5	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	conte	conto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

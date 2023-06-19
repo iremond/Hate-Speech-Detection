@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No ho ascoltato te e la Santachè e le zecche no ho pensato che ci guadagnavo di più andare a letto.😂😂😂
+1	No	no	INTJ	I	Polarity=Neg	3	discourse	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	ascoltato	ascoltare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Santachè	Santachè	PROPN	SP	_	4	conj	_	_
+8	e	e	CCONJ	CC	_	13	cc	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	zecche	zecca	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+11	no	no	ADV	BN	PronType=Neg	13	advmod	_	_
+12	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+14	che	che	SCONJ	CS	_	16	mark	_	_
+15	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	expl	_	_
+16	guadagnavo	guadagnavare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	13	ccomp	_	_
+17	di	di	ADP	E	_	19	mark	_	_
+18	più	più	ADV	B	_	19	advmod	_	_
+19	andare	andare	VERB	V	VerbForm=Inf	16	xcomp	_	_
+20	a	a	ADP	E	_	21	case	_	_
+21	letto.😂😂😂	letto.😂😂😂	PROPN	SP	_	19	obl	_	SpacesAfter=\n\n
+

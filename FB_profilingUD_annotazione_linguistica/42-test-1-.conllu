@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vi sta bene .....ribellatevi .
+1	Vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	4	iobj	_	_
+2	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	bene	bene	ADV	B	_	4	advmod	_	_
+4	.....ribellatevi	.....ribellateve	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+5	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

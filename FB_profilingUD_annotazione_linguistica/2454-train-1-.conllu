@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = no, non le sopporto!
+1	no	no	INTJ	I	Polarity=Neg	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	sopporto	sopporto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

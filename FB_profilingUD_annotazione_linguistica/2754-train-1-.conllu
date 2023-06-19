@@ -1,0 +1,92 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NESSUNO TI CHIEDE DI TOGLIERE LA RIFORMA LORENZIN E RIDARCI LE ANALISI CHE AVEVAMO PRIMA O I FARMACI CHE CI HANNO TOLTO A 65 ANNI ?
+1	NESSUNO	nessuno	PROPN	SP	_	0	root	_	_
+2	TI	Ti	PROPN	SP	_	1	flat:name	_	_
+3	CHIEDE	chiedere	PROPN	SP	_	1	flat:name	_	_
+4	DI	Di	ADP	E	_	5	case	_	_
+5	TOGLIERE	togliere	PROPN	SP	_	1	nmod	_	_
+6	LA	La	PROPN	SP	_	5	flat:name	_	_
+7	RIFORMA	Riforma	PROPN	SP	_	5	flat:name	_	_
+8	LORENZIN	LORENZIN	PROPN	SP	_	5	flat:name	_	_
+9	E	e	CCONJ	CC	_	10	cc	_	_
+10-11	RIDARCI	_	_	_	_	_	_	_	_
+10	RIDAR	RIDAR	PROPN	SP	_	8	conj	_	_
+11	CI	ci	PROPN	SP	_	10	flat:name	_	_
+12	LE	Le	PROPN	SP	_	10	flat:name	_	_
+13	ANALISI	analisi	PROPN	SP	_	10	flat:name	_	_
+14	CHE	che	PROPN	SP	_	23	obj	_	_
+15	AVEVAMO	avere	PROPN	SP	_	14	flat:name	_	_
+16	PRIMA	prima	PROPN	SP	_	14	flat:name	_	_
+17	O	o	CCONJ	CC	_	19	cc	_	_
+18	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	FARMACI	farmaci	PROPN	SP	_	23	nsubj	_	_
+20	CHE	che	PROPN	SP	_	19	nmod	_	_
+21	CI	Ci	PROPN	SP	_	20	flat:name	_	_
+22	HANNO	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+23	TOLTO	togliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+24	A	A	ADP	E	_	26	case	_	_
+25	65	65	NUM	N	NumType=Card	26	nummod	_	_
+26	ANNI	Anni	PROPN	SP	_	23	obl	_	_
+27	?	?	PUNCT	FS	_	23	punct	_	_
+
+# sent_id = 2
+# text = E RISPONDI!!!!!!!!!!!!!!!!!!!.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	RISPONDI	RISPONDI	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!!!!!!!!!!!!!!!!!!.	!!!!!!!!!!!!!!!!!!.	PUNCT	FF	_	2	punct	_	_
+
+# sent_id = 3
+# text = Guarda che Parisi ha detto a 8 e mezzo che fa i matrimoni gay per cui già è una sola e non siete della stessa idea così pure per le adozioni?
+1	Guarda	guardare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	Parisi	Parisi	PROPN	SP	_	5	nsubj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	8	8	NUM	N	NumType=Card	9	nummod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	matrimoni	matrimonio	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	gay	gay	CCONJ	CC	_	27	cc	_	_
+15	per	per	ADP	E	_	16	case	_	_
+16	cui	cui	PRON	PR	PronType=Rel	27	obl	_	_
+17	già	già	ADV	B	_	27	advmod	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
+19	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+20	sola	solo	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	_
+21	e	e	CCONJ	CC	_	27	cc	_	_
+22	non	non	ADV	BN	PronType=Neg	27	advmod	_	_
+23	siete	siere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	27	cop	_	_
+24-25	della	_	_	_	_	_	_	_	_
+24	di	di	ADP	E	_	27	case	_	_
+25	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+26	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	_
+27	idea	idea	NOUN	S	Gender=Fem|Number=Sing	13	conj	_	_
+28	così	così	ADV	B	_	29	advmod	_	_
+29	pure	pure	ADV	B	_	32	advmod	_	_
+30	per	per	ADP	E	_	32	case	_	_
+31	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	32	det	_	_
+32	adozioni	adozione	NOUN	S	Gender=Fem|Number=Plur	27	obl	_	SpaceAfter=No
+33	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = No tanto per sapere quanto ci prendete per culo pure voi.
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	_
+2	tanto	tanto	ADV	B	_	4	advmod	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	sapere	sapere	VERB	V	VerbForm=Inf	1	advcl	_	_
+5	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	4	obj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+7	prendete	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	culo	culo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+10	pure	pure	ADV	B	_	11	advmod	_	_
+11	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

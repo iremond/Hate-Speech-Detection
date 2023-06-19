@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = io pure
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	pure	pure	ADV	B	_	1	advmod	_	SpacesAfter=\n\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lasciamo perdere.
+1	Lasciamo	Lasciamo	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	perdere.	perdere.	NOUN	S	_	1	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..quelle due ...voglio Marcato per farle smettere di ridere
+1	..quelle	..quei	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	due	due	NUM	N	NumType=Card	3	nummod	_	_
+3	...voglio	...voglio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+4	Marcato	Marcato	PROPN	SP	_	3	nmod	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6-7	farle	_	_	_	_	_	_	_	_
+6	far	fare	VERB	V	VerbForm=Inf	1	acl	_	_
+7	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	smettere	smettere	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10	ridere	ridere	VERB	V	VerbForm=Inf	8	xcomp	_	SpacesAfter=\n\n
+

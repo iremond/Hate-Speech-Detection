@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Troppe parole.
+1	Troppe	troppo	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	parole.	parole.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...tabto schifo.
+1	...tabto	...tabto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	schifo.	schifo.	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ...bisogna accenderke le ruspe....
+1	...bisogna	...bisognare	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	accenderke	accenderke	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	ruspe...	ruspe...	NOUN	S	_	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

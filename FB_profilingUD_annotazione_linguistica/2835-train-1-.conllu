@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SALVINI IO METTEREI LA PENA DI MORTE COME INNAMERICA SE FANNO UNO STUPRO LA SONO GIA CONDANNATI
+1	SALVINI	Salvini	PROPN	SP	_	8	nmod	_	_
+2	IO	io	PROPN	SP	_	1	flat:name	_	_
+3	METTEREI	METTEREI	PROPN	SP	_	1	flat:name	_	_
+4	LA	La	PROPN	SP	_	1	flat:name	_	_
+5	PENA	pena	PROPN	SP	_	1	flat:name	_	_
+6	DI	Di	ADP	E	_	7	case	_	_
+7	MORTE	morte	PROPN	SP	_	8	nmod	_	_
+8	COME	come	PROPN	SP	_	0	root	_	_
+9	INNAMERICA	INNAMERICA	PROPN	SP	_	8	flat:name	_	_
+10	SE	se	PROPN	SP	_	8	flat:name	_	_
+11	FANNO	fare	PROPN	SP	_	8	flat:name	_	_
+12	UNO	uno	PROPN	SP	_	8	flat:name	_	SpacesAfter=\s\s
+13	STUPRO	STUPRO	PROPN	SP	_	8	flat:name	_	_
+14	LA	lo	PROPN	SP	_	8	flat:name	_	_
+15	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+16	GIA	Gia	PROPN	SP	_	8	flat:name	_	_
+17	CONDANNATI	CONDANNATI	PROPN	SP	_	8	flat:name	_	SpacesAfter=\n\n
+

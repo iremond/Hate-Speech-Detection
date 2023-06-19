@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = mi manca librandi per completare il trio, 2 papagalle che ripetono sempre quello che gli ha inculcato il pirl8 di firenze,2 galline starnazzanti.
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	librandi	librandi	ADJ	A	Gender=Masc|Number=Plur	2	xcomp	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5	completare	completare	VERB	V	VerbForm=Inf	2	advcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	trio	trio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	2	2	NUM	N	NumType=Card	10	nummod	_	_
+10	papagalle	papagalla	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	ripetono	ripetere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13	sempre	sempre	ADV	B	_	12	advmod	_	_
+14	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	obj	_	_
+15	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+16	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	iobj	_	_
+17	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	inculcato	inculcare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl:relcl	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	pirl8	pirl8	NUM	N	NumType=Card	18	obj	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	firenze,2	firenze,2	NUM	N	NumType=Card	23	nummod	_	_
+23	galline	gallina	NOUN	S	Gender=Fem|Number=Plur	20	nmod	_	_
+24	starnazzanti	starnazzante	ADV	B	_	23	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

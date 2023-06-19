@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per non sbagliarmi ieri sera ho cambiato canale
+1	Per	per	ADP	E	_	3	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	sbagliarmi	arma|sbagliarme	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+4	ieri	ieri	ADV	B	_	3	advmod	_	_
+5	sera	sera	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	canale	canale	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpacesAfter=\n\n
+

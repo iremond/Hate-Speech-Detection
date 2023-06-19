@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo salvaci tu!
+1	Matteo	Matteo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	salvaci	salvace	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	1	conj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

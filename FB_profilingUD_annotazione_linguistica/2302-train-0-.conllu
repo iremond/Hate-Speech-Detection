@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voterò no
+1	Voterò	Votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	no	no	ADV	BN	PronType=Neg	1	advmod	_	SpacesAfter=\n\n
+

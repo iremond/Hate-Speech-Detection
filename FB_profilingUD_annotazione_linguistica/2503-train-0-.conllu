@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chissà che avrà fatto di così brutto questo prete per far arrabbiare così tanto Zeus 😉
+1	Chissà	chissà	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	avrà	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	così	così	ADV	B	_	7	advmod	_	_
+7	brutto	brutto	ADJ	A	Gender=Masc|Number=Sing	4	obl	_	_
+8	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	_
+9	prete	prete	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	7	advcl	_	_
+10	per	per	ADP	E	_	11	mark	_	_
+11	far	fare	VERB	V	VerbForm=Inf	9	advcl	_	_
+12	arrabbiare	arrabbiare	VERB	V	VerbForm=Inf	11	ccomp	_	_
+13	così	così	ADV	B	_	12	advmod	_	_
+14	tanto	tanto	ADV	B	_	12	advmod	_	_
+15	Zeus	Zeus	PROPN	SP	_	12	obj	_	_
+16	😉	😉	SYM	SYM	_	15	flat:name	_	SpacesAfter=\n\n
+

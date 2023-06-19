@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciao matteo, sono un comunista peró se mi regali il tuo libro quasi quasi ti voto.
+1	Ciao	ciao	INTJ	I	_	7	discourse	_	_
+2	matteo	matteo	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	comunista	comunista	ADJ	A	Number=Sing	7	amod	_	_
+7	peró	peró	PROPN	SP	_	0	root	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	expl	_	_
+10	regali	regalo	NOUN	S	Gender=Masc|Number=Plur	7	advcl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	libro	libro	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+14	quasi	quasi	ADV	B	_	17	advmod	_	_
+15	quasi	quasi	ADV	B	_	17	advmod	_	_
+16	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	obj	_	_
+17	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	acl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Aspetto risp
+1	Aspetto	Aspetto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	risp	risp	NOUN	S	Gender=Masc	1	compound	_	SpacesAfter=\n\n
+

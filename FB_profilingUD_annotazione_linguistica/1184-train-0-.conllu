@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No no no no no no no no no no no no no no noooooooooooooo e mai no
+1	No	no	X	SW	Foreign=Yes	0	root	_	_
+2	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+5	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+6	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+7	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+8	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+9	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+10	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+11	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+12	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+13	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+14	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
+15	noooooooooooooo	noooooooooooooo	X	SW	Foreign=Yes	1	flat:foreign	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	mai	mai	ADV	B	_	18	advmod	_	_
+18	no	no	ADV	BN	PronType=Neg	1	advmod	_	SpacesAfter=\n\n
+

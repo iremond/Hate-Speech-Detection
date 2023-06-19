@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sono entrambi dei cessi parlano col il culo fanno schifo
+1	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	entrambi	entrambi	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nsubj	_	_
+3-4	dei	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	cessi	cesso	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+7-8	col	_	_	_	_	_	_	_	_
+7	con	con	ADP	E	_	10	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	culo	culo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+11	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpacesAfter=\n\n
+

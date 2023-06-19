@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = dagli amici mi guardi Dio che dai nomici mi guardo io.almeno i rom sai che sono nemici
+1-2	dagli	_	_	_	_	_	_	_	_
+1	da	da	ADP	E	_	3	case	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	amici	amico	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	expl	_	_
+5	guardi	guardare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	Dio	dio	PROPN	SP	_	5	nsubj	_	_
+7	che	che	PRON	PR	PronType=Rel	12	obj	_	_
+8-9	dai	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	nomici	nomico	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	expl	_	_
+12	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+13	io.almeno	io.almeno	ADV	B	_	12	advmod	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	rom	rom	NOUN	S	Gender=Masc	12	obj	_	_
+16	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+17	che	che	SCONJ	CS	_	19	mark	_	_
+18	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	nemici	nemico	ADJ	A	Gender=Masc|Number=Plur	16	ccomp	_	SpacesAfter=\n\n
+

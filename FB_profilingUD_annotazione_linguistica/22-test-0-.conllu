@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = GRANDI ,GRANDE ZAIA !!!!
+1	GRANDI	Grandi	PROPN	SP	_	0	root	_	_
+2	,	,	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+3	GRANDE	Grande	PROPN	SP	_	1	conj	_	_
+4	ZAIA	ZAIA	PROPN	SP	_	3	flat:name	_	_
+5	!!!	!!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

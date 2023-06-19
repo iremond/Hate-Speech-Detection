@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non si ricorda più .....oppure finge di non ricordare!
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	ricorda	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	più	più	ADV	B	_	3	advmod	_	_
+5	.....oppure	.....oppure	SCONJ	CS	_	6	mark	_	_
+6	finge	fingere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	di	di	ADP	E	_	9	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	ricordare	ricordare	VERB	V	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!!
+1	!!!!	!!!!	PUNCT	FF	_	0	root	_	_
+
+# sent_id = 3
+# text = IO NON MI FIDO CHISSA CISA BOLLE IN PENTOLA E POI CE LO ZAMPINO DI NAPOLITANO!!!!!
+1	IO	io	PROPN	SP	_	0	root	_	_
+2	NON	non	PROPN	SP	_	1	nmod	_	_
+3	MI	mi	PROPN	SP	_	2	flat:name	_	_
+4	FIDO	FIDO	PROPN	SP	_	2	flat:name	_	SpacesAfter=\s\s
+5	CHISSA	CHISSA	PROPN	SP	_	2	nmod	_	_
+6	CISA	Cisa	PROPN	SP	_	5	flat:name	_	_
+7	BOLLE	bolle	PROPN	SP	_	5	flat:name	_	_
+8	IN	in	PROPN	SP	_	5	flat:name	_	_
+9	PENTOLA	pentola	PROPN	SP	_	5	flat:name	_	_
+10	E	e	CCONJ	CC	_	12	cc	_	_
+11	POI	poi	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	CE	ce	PROPN	SP	_	5	conj	_	_
+13	LO	lo	PROPN	SP	_	12	flat:name	_	_
+14	ZAMPINO	zampino	PROPN	SP	_	12	flat:name	_	_
+15	DI	Di	ADP	E	_	16	case	_	_
+16	NAPOLITANO	Napolitano	PROPN	SP	_	12	nmod	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+18	!!!!	!!!!	PUNCT	FF	_	12	punct	_	SpacesAfter=\s\s
+
+# sent_id = 4
+# text = AIUTO
+1	AIUTO	aiuto	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

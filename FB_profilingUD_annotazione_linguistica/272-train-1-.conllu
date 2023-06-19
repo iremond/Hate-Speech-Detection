@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ieri sera avevo deciso di NON VOMITARE.
+1	Ieri	ieri	ADV	B	_	4	advmod	_	_
+2	sera	sera	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+3	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	deciso	decidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	NON	Non	PROPN	SP	_	4	obl	_	_
+7	VOMITARE.	VOMITARE.	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..allora non ho guardato la MALPEZZI e la CASTALDINI.....
+1	..allora	..allora	ADV	B	_	4	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	guardato	guardare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	MALPEZZI	MALPEZZI	PROPN	SP	_	4	obj	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	CASTALDINI.....	CASTALDINI.....	PROPN	SP	_	6	conj	_	SpacesAfter=\n\n
+

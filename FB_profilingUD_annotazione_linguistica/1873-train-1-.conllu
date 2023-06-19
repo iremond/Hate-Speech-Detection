@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MI è VENUTO I BRUCIORI DI STOMACO ........!
+1	MI	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	VENUTO	venire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	BRUCIORI	BRUCIORI	PROPN	SP	_	3	nsubj	_	_
+6	DI	Di	ADP	E	_	7	case	_	_
+7	STOMACO	stomaco	PROPN	SP	_	5	nmod	_	_
+8	........!	........!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n\n
+

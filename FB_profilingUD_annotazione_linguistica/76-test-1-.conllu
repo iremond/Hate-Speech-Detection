@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spuorc r omm
+1	Spuorc	Spuorc	ADV	B	_	2	advmod	_	_
+2	r	r	VERB	V	VerbForm=Inf	0	root	_	_
+3	omm	omm	X	X	_	2	obj	_	SpacesAfter=\n\n
+

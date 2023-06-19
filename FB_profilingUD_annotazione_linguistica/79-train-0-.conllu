@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini fatti sentire di più
+1	Salvini	Salvini	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	sentire	sentire	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	più	più	ADV	B	_	3	advmod	_	SpacesAfter=\n\n
+

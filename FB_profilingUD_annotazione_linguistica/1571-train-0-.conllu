@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Forti danni per I cittadini voto no
+1	Forti	forte	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+2	danni	danno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	SpacesAfter=\s\s
+6	voto	votare	NOUN	S	Gender=Masc|Number=Sing	5	compound	_	_
+7	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpacesAfter=\n\n
+

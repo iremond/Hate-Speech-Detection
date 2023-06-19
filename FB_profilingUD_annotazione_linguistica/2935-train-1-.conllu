@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non le sopportooooooo
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	sopportooooooo	sopportooooooo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

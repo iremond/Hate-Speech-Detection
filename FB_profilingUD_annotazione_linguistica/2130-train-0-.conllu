@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vero sono quelli che non anno voglia di lavorare e fanno i servizi sociali
+1	Vero	vero	CCONJ	CC	_	3	cc	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	anno	e	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	3	acl:relcl	_	_
+7	voglia	voglia	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	lavorare	lavorare	VERB	V	VerbForm=Inf	7	acl	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	servizi	servizio	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	sociali	sociale	ADJ	A	Number=Plur	13	amod	_	SpacesAfter=\n\n
+

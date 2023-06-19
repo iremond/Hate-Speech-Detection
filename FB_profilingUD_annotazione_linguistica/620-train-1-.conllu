@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ti preghiamo Paolo!!
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+2	preghiamo	preghare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Paolo	Paolo	PROPN	SP	_	2	nsubj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Non farle venire più alla nostra vista !!
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2-3	farle	_	_	_	_	_	_	_	_
+2	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+3	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	venire	venire	VERB	V	VerbForm=Inf	2	ccomp	_	_
+5	più	più	ADV	B	_	4	advmod	_	_
+6-7	alla	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	vista	vista	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+10	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Ci bloccano la digestione!
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	bloccano	bloccare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	digestione	digestione	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Tristi risultati, mal di testa e vomito !!!
+1	Tristi	triste	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	mal	mal	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	testa	testa	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	vomito	vomito	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	_
+9	!!!	!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

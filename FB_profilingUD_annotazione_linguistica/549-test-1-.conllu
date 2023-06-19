@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma chi sa da dove arriva la malpezzi??
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	chi	chi	PRON	PR	Number=Sing|PronType=Rel	3	nsubj	_	_
+3	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	dove	dove	ADV	B	_	6	advmod	_	_
+6	arriva	arrivare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = personaggio squallido antiitaliano bugiarda ma come fa a guardarsi allo specchio è tutta una bugia
+1	personaggio	personaggio	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
+2	squallido	squallido	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	antiitaliano	antiitaliano	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+4	bugiarda	bugiardo	ADJ	A	Number=Sing	1	amod	_	_
+5	ma	ma	CCONJ	CC	_	7	cc	_	_
+6	come	come	ADV	B	_	7	advmod	_	_
+7	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9-10	guardarsi	_	_	_	_	_	_	_	_
+9	guardar	guardare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+11-12	allo	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	specchio	specchio	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+14	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	tutta	tutto	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	bugia	bugia	NOUN	S	Gender=Fem|Number=Sing	15	xcomp	_	SpacesAfter=\n\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Certo che sì... Volentieri....
+1	Certo	certo	ADV	B	_	0	root	_	_
+2	che	che	SCONJ	CS	_	4	fixed	_	_
+3	sì...	sì.	PUNCT	FF	_	4	punct	_	_
+4	Volentieri...	Volentieri...	PROPN	SP	_	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Fai star zitta quella del PD che non si può sentire
+1	Fai	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+2	star	stare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	zitta	ziggere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	3	obj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	PD	Pd	PROPN	SP	_	4	nmod	_	_
+8	che	che	PRON	PR	PronType=Rel	12	obj	_	_
+9	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:impers	_	_
+11	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	sentire	sentire	VERB	V	VerbForm=Inf	4	acl:relcl	_	SpacesAfter=\n\n
+

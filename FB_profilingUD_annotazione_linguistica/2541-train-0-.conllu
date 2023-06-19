@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pure:
+1	Pure	pure	ADV	B	_	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = NO
+1	NO	no	INTJ	I	Polarity=Neg	0	root	_	SpacesAfter=\n\n
+

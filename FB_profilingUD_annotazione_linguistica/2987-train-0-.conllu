@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = CASAPOUND UNICA SOLUZIONE
+1	CASAPOUND	CASAPOUND	PROPN	SP	_	0	root	_	_
+2	UNICA	unica	PROPN	SP	_	1	flat:name	_	_
+3	SOLUZIONE	soluzione	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

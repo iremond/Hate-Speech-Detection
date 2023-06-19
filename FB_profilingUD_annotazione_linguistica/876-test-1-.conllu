@@ -1,0 +1,77 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E gli zingari?
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	zingari	zingaro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = ?adesso?
+1	?	?	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	adesso	adesso	ADV	B	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = ?comandano loro se andare o no nel campo rom, ,hanno preso troppo piede, perché e il governo più gli permette di fare cme C***O vogliono loro è gli hanno permesso di vivere cme più gli pare e pace.
+1	?	?	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	comandano	comandare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	andare	andare	VERB	V	VerbForm=Inf	13	advcl	_	_
+6	o	o	CCONJ	CC	_	7	cc	_	_
+7	no	no	ADV	BN	PronType=Neg	5	conj	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	campo	campo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+11	rom	rom	NOUN	S	Gender=Masc	10	compound	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	5	punct	_	_
+13	,hanno	,he	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	xcomp	_	_
+14	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	_
+15	troppo	troppo	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	16	det	_	_
+16	piede	piede	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	14	punct	_	_
+18	perché	perché	SCONJ	CS	_	24	mark	_	_
+19	e	e	CCONJ	CC	_	24	cc	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	governo	governo	NOUN	S	Gender=Masc|Number=Sing	24	nsubj	_	_
+22	più	più	ADV	B	_	24	advmod	_	_
+23	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	iobj	_	_
+24	permette	permetta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+25	di	di	ADP	E	_	26	mark	_	_
+26	fare	fare	VERB	V	VerbForm=Inf	24	xcomp	_	_
+27	cme	cme	ADP	E	_	28	case	_	_
+28	C***O	C***O	PROPN	SP	_	26	obl	_	_
+29	vogliono	volere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
+30	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	34	nsubj	_	_
+31	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
+32	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	iobj	_	_
+33	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
+34	permesso	permettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	conj	_	_
+35	di	di	ADP	E	_	36	mark	_	_
+36	vivere	vivere	VERB	V	VerbForm=Inf	34	xcomp	_	_
+37	cme	cme	ADV	B	_	36	advmod	_	_
+38	più	più	ADV	B	_	36	advmod	_	_
+39	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	iobj	_	_
+40	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	parataxis	_	_
+41	e	e	CCONJ	CC	_	42	cc	_	_
+42	pace	pace	NOUN	S	Gender=Fem|Number=Sing	40	conj	_	SpaceAfter=No
+43	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = ...cioè nella ILLEGALITÀ più Assoluta.
+1	...cioè	...cioè	ADV	B	_	4	advmod	_	_
+2-3	nella	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ILLEGALITÀ	Illegalità	PROPN	SP	_	0	root	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	Assoluta	assoluto	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 5
+# text = .....
+1	.....	.....	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

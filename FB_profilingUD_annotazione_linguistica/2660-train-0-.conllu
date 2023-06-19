@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ciao matteo so claudio di napoli
+1	ciao	ciao	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	matteo	matteo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	claudio	claudio	NOUN	S	Gender=Masc|Number=Sing	3	xcomp	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	napoli	napolo	NOUN	S	Gender=Fem	4	nmod	_	SpacesAfter=\n\n
+

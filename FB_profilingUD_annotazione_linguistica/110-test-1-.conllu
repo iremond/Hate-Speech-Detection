@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buongiorno Matteo se sei te a governare manda questi schifosi dei Rom
+1	Buongiorno	Buongiorno	PROPN	SP	_	0	root	_	_
+2	Matteo	Matteo	PROPN	SP	_	1	flat:name	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	te	te	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	advcl	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	governare	governare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	manda	mandare	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+9	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+10	schifosi	schifoso	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+11-12	dei	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	Rom	Rom	PROPN	SP	_	10	nmod	_	SpacesAfter=\n\n
+

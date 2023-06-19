@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = troppo per chiunque!!
+1	troppo	troppo	ADV	B	_	3	advmod	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	chiunque	chiunque	PRON	PR	Number=Sing|PronType=Rel	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

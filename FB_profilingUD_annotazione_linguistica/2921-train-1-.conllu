@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che pena.....due donne ai limiti della follia pura!!!
+1	Che	che	SCONJ	CS	_	3	advmod	_	_
+2	pena.....due	pena.....due	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	donne	donna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4-5	ai	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	limiti	limite	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	follia	follia	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	pura	puro	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+12	!!	!!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n\n
+

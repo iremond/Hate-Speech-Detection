@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ITALIA...
+1	ITALIA...	ITALIA.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = ALLO SBANDO.
+1-2	ALLO	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	2	case	_	_
+2	LO	il	PROPN	SP	_	0	root	_	_
+3	SBANDO	SBANDO	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

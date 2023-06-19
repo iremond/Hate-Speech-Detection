@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sto guardando Piazza pulita.
+1	Sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	guardando	guardare	VERB	V	VerbForm=Ger	0	root	_	_
+3	Piazza	piazza	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	pulita	pulito	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Vergognosa la Germania!!!
+1	Vergognosa	Vergognoso	ADV	B	_	3	advmod	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Germania	Germania	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	!!	!!	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Respingono immigrati e senza alcun controllo li fanno partire con i treni x farli arrivare in Italia !!!
+1	Respingono	Respingere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	immigrati	immigrato	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+3	e	e	CCONJ	CC	_	8	cc	_	_
+4	senza	senza	ADP	E	_	6	case	_	_
+5	alcun	alcuno	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+6	controllo	controllo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+7	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+8	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+9	partire	partire	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	con	con	ADP	E	_	12	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	treni	treno	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+13	x	x	SYM	SYM	_	14	xcomp	_	_
+14-15	farli	_	_	_	_	_	_	_	_
+14	far	fare	VERB	V	VerbForm=Inf	9	ccomp	_	_
+15	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+16	arrivare	arrivare	VERB	V	VerbForm=Inf	14	ccomp	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	Italia	Italia	PROPN	SP	_	16	obl	_	_
+19	!	!	PUNCT	FS	_	16	punct	_	SpaceAfter=No
+20	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

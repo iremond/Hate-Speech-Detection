@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MALCAZZI CASTALCRETINI ?
+1	MALCAZZI	MALCAZZI	ADP	E	_	2	case	_	_
+2	CASTALCRETINI	CASTALCRETINI	PROPN	SP	_	0	root	_	_
+3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

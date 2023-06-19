@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Credo che media e bombardamento negativo, non aiuti a far capire.
+1	Credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	3	mark	_	_
+3	media	medio	NOUN	S	Gender=Fem|Number=Sing	1	ccomp	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	bombardamento	bombardamento	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+6	negativo	negativo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	3	punct	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	aiuti	aiuto	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	far	fare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+12	capire	capire	VERB	V	VerbForm=Inf	11	ccomp	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E come la temperatura estiva, tra percepita ed effettiva.
+1	E	e	CCONJ	CC	_	4	cc	_	_
+2	come	come	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	temperatura	temperatura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	estiva	estivo	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	tra	tra	ADP	E	_	8	case	_	_
+8	percepita	percepita	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+9	ed	e	CCONJ	CC	_	10	cc	_	_
+10	effettiva	effettiva	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Si lasciano influenzare di più dalla percepita...
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+2	lasciano	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	influenzare	influenzare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	più	più	ADV	B	_	3	advmod	_	_
+6-7	dalla	_	_	_	_	_	_	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	percepita...	percepita...	NOUN	S	_	3	obl	_	SpacesAfter=\n\n
+

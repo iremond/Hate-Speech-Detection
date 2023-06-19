@@ -1,0 +1,65 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciao Salvini soltanto la santanche ha fatto discorso sano difendendo gl italiani esponendo il vero problema della casa della disoccupazione delle misere pensioni attribuendo il tutto all invasione dei clandestini per fortuna i cittadini si vanno svegliando parlano senza paura contro i politici era ora Matteo così li manderemo tutti a fanculo
+1	Ciao	ciao	INTJ	I	_	7	discourse	_	_
+2	Salvini	Salvini	PROPN	SP	_	7	nsubj	_	_
+3	soltanto	soltanto	ADV	B	_	5	advmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	santanche	santanca	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	2	nsubj	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	discorso	discorso	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+9	sano	sano	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+10	difendendo	difendendere	VERB	V	VerbForm=Ger	7	advcl	_	_
+11	gl	gl	NOUN	S	Gender=Masc	10	obj	_	_
+12	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+13	esponendo	esporre	VERB	V	VerbForm=Ger	10	advcl	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	vero	vero	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	problema	problema	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+17-18	della	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	casa	casa	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpacesAfter=\s\s
+20-21	della	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	disoccupazione	disoccupazione	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+23-24	delle	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	26	case	_	_
+24	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
+25	misere	misera	ADJ	A	Gender=Fem|Number=Plur	26	amod	_	_
+26	pensioni	pensione	NOUN	S	Gender=Fem|Number=Plur	19	nmod	_	_
+27	attribuendo	attribuire	VERB	V	VerbForm=Ger	13	advcl	_	_
+28	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	27	obj	_	_
+30	all	all	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	invasione	invasione	NOUN	S	Gender=Masc|Number=Sing	41	obj	_	_
+32-33	dei	_	_	_	_	_	_	_	_
+32	di	di	ADP	E	_	34	case	_	_
+33	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	_
+34	clandestini	clandestino	NOUN	S	Gender=Masc|Number=Plur	31	nmod	_	_
+35	per	per	ADP	E	_	36	case	_	_
+36	fortuna	fortuno	NOUN	S	Gender=Fem|Number=Sing	31	nmod	_	_
+37	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	38	det	_	_
+38	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	41	nsubj	_	_
+39	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	41	expl	_	_
+40	vanno	andare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	41	aux	_	_
+41	svegliando	svegliare	VERB	V	VerbForm=Ger	27	advcl	_	_
+42	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	50	acl:relcl	_	_
+43	senza	senza	ADP	E	_	44	case	_	_
+44	paura	paura	NOUN	S	Gender=Fem|Number=Sing	42	obl	_	_
+45	contro	contro	ADP	E	_	47	case	_	_
+46	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	47	det	_	_
+47	politici	politico	NOUN	S	Gender=Masc|Number=Plur	42	obl	_	_
+48	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	50	cop	_	_
+49	ora	ora	ADV	B	_	50	advmod	_	_
+50	Matteo	Matteo	PROPN	SP	_	41	obj	_	_
+51	così	così	ADV	B	_	53	advmod	_	_
+52	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	53	obj	_	_
+53	manderemo	mandare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	50	conj	_	_
+54	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	53	obl	_	_
+55	a	a	ADP	E	_	56	case	_	_
+56	fanculo	fanculo	NOUN	S	Gender=Masc|Number=Sing	53	obl	_	SpacesAfter=\n\n
+

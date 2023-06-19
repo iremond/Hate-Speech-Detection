@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tutti gli italiani con un briciolo di cervello devono votare "no"!!!
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	3	det:predet	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	briciolo	briciolo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	votare	votare	VERB	V	VerbForm=Inf	0	root	_	_
+11	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+12	no	no	ADV	BN	PronType=Neg	10	advmod	_	SpaceAfter=No
+13	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+15	!!	!!	PUNCT	FF	_	10	punct	_	SpacesAfter=\n\n
+

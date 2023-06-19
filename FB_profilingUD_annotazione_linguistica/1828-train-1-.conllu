@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dicono cose assurde qui non esiste giustizia !!!
+1	Dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+2	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	1	nsubj	_	_
+3	assurde	assurdere	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+4	qui	qui	ADV	B	_	1	advmod	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	giustizia	giustizia	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+8	!!!	!!!	PUNCT	FF	_	6	punct	_	_
+
+# sent_id = 2
+# text = È uno schifo ma è possibile sopportare tutto questo?
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	schifo	schifo	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	possibile	possibile	ADJ	A	Number=Sing	2	conj	_	_
+7	sopportare	sopportare	VERB	V	VerbForm=Inf	6	csubj	_	_
+8	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+9	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Ma sei zingari non pagano nulla ma perché dobbiamo subire tutta sta gente schifosa!
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	sei	essere	NUM	N	NumType=Card	3	nummod	_	_
+3	zingari	zingari	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	pagano	paere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	obj	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	perché	perché	SCONJ	CS	_	10	mark	_	_
+9	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	subire	subire	VERB	V	VerbForm=Inf	5	advcl	_	_
+11	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	13	det	_	_
+12	sta	sto	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+13	gente	gente	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+14	schifosa	schifoso	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = !!!
+1	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+2	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

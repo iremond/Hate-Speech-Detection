@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scontro fra Titani...
+1	Scontro	scontro	ADV	B	_	3	advmod	_	_
+2	fra	fra	ADP	E	_	3	case	_	_
+3	Titani..	Titani..	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

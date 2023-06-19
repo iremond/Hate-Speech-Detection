@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fermate la malpezzi.
+1	Fermate	fermare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ....zecca zecca zecca
+1	....zecca	....zeccare	ADP	E	_	2	case	_	_
+2	zecca	zecca	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	zecca	zecco	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpacesAfter=\n\n
+

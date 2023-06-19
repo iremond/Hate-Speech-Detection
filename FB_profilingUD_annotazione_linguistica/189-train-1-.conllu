@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La Castaldini è terribile!!!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Castaldini	Castaldini	PROPN	SP	_	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	terribile	terribile	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+5	!!!	!!!	PUNCT	FF	_	4	punct	_	_
+
+# sent_id = 2
+# text = 😱😱😱 ignorante , la voce è irritante, parla solo di tavoli di concertazione per progetti condivisi.
+1	😱😱😱	😱😱😱	SYM	SYM	_	7	vocative	_	_
+2	ignorante	ignorante	ADJ	A	Number=Sing	1	amod	_	_
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	voce	voce	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	irritante	irritante	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+10	solo	solo	ADV	B	_	12	advmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	tavoli	tavolo	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	concertazione	concertazione	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+15	per	per	ADP	E	_	16	case	_	_
+16	progetti	progetto	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+17	condivisi	condiviso	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 3
+# text = .......cosa significa?
+1	.......cosa	.......cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	significa	significare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = ??
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = Praticamente niente 😡😡😡😡
+1	Praticamente	praticamente	ADV	B	_	2	advmod	_	_
+2	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	😡😡😡😡	😡😡😡😡	SYM	SYM	_	2	nmod	_	SpacesAfter=\n\n
+

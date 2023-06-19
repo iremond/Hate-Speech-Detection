@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = questa malpezzi nn ha rispetto x nessuno è convinta che urlando ,nn dando la possibilità agli altri di parlare ha ragione.nn si può sentire ,quella voce stridula
+1	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+2	malpezzi	malpezzo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	3	amod	_	_
+3	nn	nn	NOUN	S	Gender=Fem	5	nsubj	_	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	rispetto	rispettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	x	x	SYM	SYM	_	5	obj	_	_
+7	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	convinta	convincere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+10	che	che	SCONJ	CS	_	25	mark	_	_
+11	urlando	urlare	VERB	V	VerbForm=Ger	25	advcl	_	_
+12	,nn	,nno	ADV	B	_	13	advmod	_	_
+13	dando	dare	VERB	V	VerbForm=Ger	11	advcl	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	possibilità	possibilità	NOUN	S	Gender=Fem	13	obj	_	_
+16-17	agli	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	15	nmod	_	_
+19	di	di	ADP	E	_	20	mark	_	_
+20	parlare	parlare	VERB	V	VerbForm=Inf	21	xcomp	_	_
+21	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+22	ragione.nn	ragione.nn	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	23	det	_	_
+23	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	obj	_	_
+24	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	sentire	sentire	VERB	V	VerbForm=Inf	9	advcl	_	_
+26	,quella	,quella	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	27	det	_	_
+27	voce	voce	NOUN	S	Gender=Fem|Number=Sing	25	obj	_	_
+28	stridula	stridulare	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	SpacesAfter=\n\n
+

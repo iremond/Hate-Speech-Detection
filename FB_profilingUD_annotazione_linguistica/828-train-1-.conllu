@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non esistono più i diritti degli italiani.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	più	più	ADV	B	_	2	advmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	diritti	diritto	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+6-7	degli	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	italiani.	italiani.	NOUN	S	_	5	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..voglio uno Stato che faccia rispettare i diritti dei propri cittadini regolari!
+1	..voglio	..vogliare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Stato	Stato	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	rispettare	rispettare	VERB	V	VerbForm=Inf	5	ccomp	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	diritti	diritto	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	propri	proprio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+13	regolari	regolare	ADJ	A	Number=Plur	12	amod	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

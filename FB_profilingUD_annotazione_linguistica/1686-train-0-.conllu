@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 1,10,100,1000 NO
+1	1,10,100,1000	1,10,100,1000	NUM	N	NumType=Range	2	nummod	_	_
+2	NO	No	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

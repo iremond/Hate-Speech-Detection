@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non le sopporto la Castaldini e un oca non sa quello che dice la Malpezzi interrompe sempre con le solite balle classica PD !!,
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+3	sopporto	sopporto	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Castaldini	Castaldini	PROPN	SP	_	10	nsubj	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	oca	oca	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+9	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+10	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+11	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Malpezzi	Malpezzi	PROPN	SP	_	13	obj	_	SpacesAfter=\s\s\s
+16	interrompe	interrompo	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	_
+17	sempre	sempre	ADV	B	_	15	advmod	_	_
+18	con	con	ADP	E	_	21	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+20	solite	solite	ADJ	A	Gender=Fem|Number=Plur	21	amod	_	_
+21	balle	ballo	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
+22	classica	classico	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	_
+23	PD	Pd	PROPN	SP	_	21	nmod	_	_
+24	!!	!!	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	3	punct	_	SpacesAfter=\n\n
+

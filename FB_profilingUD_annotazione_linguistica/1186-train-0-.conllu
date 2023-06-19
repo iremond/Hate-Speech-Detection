@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi ossia parole in libertà
+1	Renzi	Renzi	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	ossia	ossia	CCONJ	CC	_	3	cc	_	_
+3	parole	parola	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	libertà	libertà	NOUN	S	Gender=Fem	3	nmod	_	SpacesAfter=\n\n
+

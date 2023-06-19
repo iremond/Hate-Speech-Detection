@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = io a vista in tv cambio canale perche non mi facio prendere per c... cosa hanno fatto per essere cosi importante solo in presenza di Sig Salvini li sopporto non centra partito ma propio le signore
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	vista	vista	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	tv	tv	NOUN	S	Gender=Fem	3	nmod	_	_
+6	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	5	compound	_	_
+7	canale	canale	NOUN	S	Gender=Masc|Number=Sing	6	compound	_	SpacesAfter=\s\s\s
+8	perche	perca	ADV	B	_	11	advmod	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	expl	_	_
+11	facio	faciare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	prendere	prendere	VERB	V	VerbForm=Inf	11	xcomp	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	c...	c...	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpacesAfter=\s\s
+15	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	17	obj	_	_
+16	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	29	acl:relcl	_	_
+18	per	per	ADP	E	_	20	mark	_	_
+19	essere	essere	AUX	VA	VerbForm=Inf	20	aux:pass	_	_
+20	cosi	coso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	17	advcl	_	_
+21	importante	importante	ADJ	A	Number=Sing	20	xcomp	_	_
+22	solo	solo	ADV	B	_	24	advmod	_	_
+23	in	in	ADP	E	_	24	case	_	_
+24	presenza	presenza	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	_
+25	di	di	ADP	E	_	26	case	_	_
+26	Sig	Sig	PROPN	SP	_	24	nmod	_	_
+27	Salvini	Salvini	PROPN	SP	_	26	flat:name	_	_
+28	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	obj	_	_
+29	sopporto	sopporgere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+30	non	non	ADV	BN	PronType=Neg	32	advmod	_	_
+31	centra	centrare	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	32	det	_	_
+32	partito	partito	NOUN	S	Gender=Masc|Number=Sing	29	obl	_	_
+33	ma	ma	CCONJ	CC	_	34	cc	_	_
+34	propio	propiare	NOUN	S	Gender=Masc|Number=Sing	32	conj	_	_
+35	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	36	det	_	_
+36	signore	signore	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	SpacesAfter=\n\n
+

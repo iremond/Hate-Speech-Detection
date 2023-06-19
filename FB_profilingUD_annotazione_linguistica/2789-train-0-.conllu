@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = briscola a quadri .....
+1	briscola	briscolare	NOUN	S	_	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	quadri	quadro	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	.....	.....	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Forza capitano fatti valere
+1	Forza	forza	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+2	capitano	capitano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	xcomp	_	_
+4	valere	valere	VERB	V	VerbForm=Inf	3	ccomp	_	SpacesAfter=\n\n
+

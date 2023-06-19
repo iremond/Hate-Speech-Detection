@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = T aspettiamo.
+1	T	T	NOUN	S	_	0	root	_	_
+2	aspettiamo.	aspettiamo.	NOUN	S	_	1	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...falli neri iii
+1	...falli	...fallo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	neri	nero	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	iii	terzo	ADJ	NO	Number=Sing|NumType=Ord	1	amod	_	SpacesAfter=\n\n
+

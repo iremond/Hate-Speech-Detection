@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Condivido pienamente
+1	Condivido	Condividere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	pienamente	pienamente	ADV	B	_	1	advmod	_	SpacesAfter=\n\n
+

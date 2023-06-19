@@ -1,0 +1,59 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due persone inutili !!!!
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	persone	persona	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	inutili	inutile	ADJ	A	Number=Plur	2	amod	_	_
+4	!!!	!!!	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Queste dovrebbero andare a lavorare ma di braccia !!!!
+1	Queste	questo	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	3	nsubj	_	_
+2	dovrebbero	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	andare	andare	VERB	V	VerbForm=Inf	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	lavorare	lavorare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	ma	ma	CCONJ	CC	_	8	cc	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	braccia	braccio	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+9	!!!	!!!	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Ogni volta che aprono bocca e una vergogna!!!!
+1	Ogni	ogni	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	volta	volta	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+3	che	che	SCONJ	CS	_	4	mark	_	_
+4	aprono	aprire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+9	!!!	!!!	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = E vergognoso avere gente cosi al governo di una nazione.
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	vergognoso	vergognoso	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+4	gente	gente	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	cosi	coso	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	governo	governo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	nazione	nazione	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 5
+# text = Fate veramente schifo.
+1	Fate	fare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	veramente	veramente	ADV	B	_	3	advmod	_	_
+3	schifo	schifo	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

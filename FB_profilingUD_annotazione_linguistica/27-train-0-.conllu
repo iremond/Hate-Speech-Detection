@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vai.
+1	Vai	Vai	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = Renzo.
+1	Renzo	Renzo	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\s
+
+# sent_id = 3
+# text = Sei.
+1	Sei	sei	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\s
+
+# sent_id = 4
+# text = Grande
+1	Grande	Grande	ADJ	A	Number=Sing	0	root	_	SpacesAfter=\n\n
+

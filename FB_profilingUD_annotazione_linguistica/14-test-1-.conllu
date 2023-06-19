@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = VOREI SAPERE CHE TIPO DI COLLA USATE CHE LA POLTRONA NON SISTACCA DAL SEDERE E NON FATE ALTRO DIRE CAZATE E CI PRENDERE PER I FONDELLI SIAMO STANCHI
+1	VOREI	VOREI	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	SAPERE	sapere	PROPN	SP	_	0	root	_	_
+3	CHE	Che	PROPN	SP	_	2	flat:name	_	_
+4	TIPO	tipo	PROPN	SP	_	2	flat:name	_	_
+5	DI	Di	ADP	E	_	6	case	_	_
+6	COLLA	colla	PROPN	SP	_	2	nmod	_	_
+7	USATE	USATE	PROPN	SP	_	6	flat:name	_	_
+8	CHE	Che	PROPN	SP	_	7	flat:name	_	_
+9	LA	La	PROPN	SP	_	7	flat:name	_	_
+10	POLTRONA	poltrona	PROPN	SP	_	7	flat:name	_	_
+11	NON	non	PROPN	SP	_	29	nmod	_	_
+12	SISTACCA	SISTACCA	PROPN	SP	_	11	flat:name	_	SpacesAfter=\s\s
+13-14	DAL	_	_	_	_	_	_	_	_
+13	DA	Da	PROPN	SP	_	11	flat:name	_	_
+14	IL	il	PROPN	SP	_	11	flat:name	_	_
+15	SEDERE	sedere	PROPN	SP	_	11	flat:name	_	_
+16	E	e	CCONJ	CC	_	29	cc	_	_
+17	NON	non	PROPN	SP	_	29	nsubj	_	_
+18	FATE	Fate	PROPN	SP	_	17	flat:name	_	_
+19	ALTRO	altro	PROPN	SP	_	17	flat:name	_	_
+20	DIRE	dire	PROPN	SP	_	29	nmod	_	_
+21	CAZATE	CAZATE	PROPN	SP	_	20	flat:name	_	_
+22	E	e	CCONJ	CC	_	29	cc	_	_
+23	CI	ci	PROPN	SP	_	29	nmod	_	_
+24	PRENDERE	prendere	PROPN	SP	_	23	flat:name	_	_
+25	PER	per	PROPN	SP	_	23	flat:name	_	_
+26	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
+27	FONDELLI	FONDELLI	PROPN	SP	_	29	nsubj	_	_
+28	SIAMO	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	29	cop	_	_
+29	STANCHI	stanchi	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n\n
+

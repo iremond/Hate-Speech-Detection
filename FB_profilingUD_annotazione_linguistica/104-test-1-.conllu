@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = vomito puro.e metteteci anche librandi.poker assicurato
+1	vomito	vomito	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+2	puro.e	puro.e	ADV	B	_	3	advmod	_	_
+3-4	metteteci	_	_	_	_	_	_	_	_
+3	mettete	mettere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	obj	_	_
+5	anche	anche	ADV	B	_	7	advmod	_	_
+6	librandi.poker	librandi.pokere	AUX	VA	VerbForm=Inf	7	aux	_	_
+7	assicurato	assicurare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mariangela Matano !!!!
+1	Mariangela	Mariangela	PROPN	SP	_	0	root	_	_
+2	Matano	Matano	PROPN	SP	_	1	flat:name	_	SpacesAfter=\s\s
+3	!!!	!!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = così si prendono altri soldi per le presenze e discutere di cose inutili
+1	così	così	ADV	B	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	prendono	prendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	altri	altro	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+6	per	per	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	presenze	presenza	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	discutere	discutere	VERB	V	VerbForm=Inf	3	conj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+13	inutili	inutile	ADJ	A	Number=Plur	12	amod	_	SpacesAfter=\n\n
+

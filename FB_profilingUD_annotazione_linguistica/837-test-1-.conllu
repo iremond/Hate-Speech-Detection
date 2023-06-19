@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Schifo.
+1	Schifo	Schifo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Perché restano impuniti???
+1	Perché	perché	ADV	B	_	2	advmod	_	_
+2	restano	restare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	impuniti	impunire	ADJ	A	Gender=Masc|Number=Plur	2	xcomp	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

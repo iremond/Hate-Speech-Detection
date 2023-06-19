@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No!
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Che domande?
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	domande	domanda	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

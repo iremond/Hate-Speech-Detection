@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono vergognose io le manderei a zappare la terra sotto 40 gradi x 10 ore al giorno x 800€ al mese
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	vergognose	vergognorre	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+5	manderei	mandereo	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	a	a	ADP	E	_	7	mark	_	_
+7	zappare	zappare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	terra	terra	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	sotto	sotto	ADP	E	_	12	case	_	_
+11	40	40	NUM	N	NumType=Card	12	nummod	_	_
+12	gradi	grado	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+13	x	x	SYM	SYM	_	15	nmod	_	_
+14	10	10	NUM	N	NumType=Card	15	nummod	_	_
+15	ore	ora	NOUN	S	Gender=Fem|Number=Plur	12	nmod	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+19	x	x	SYM	SYM	_	18	nmod	_	_
+20	800€	800€	PROPN	SP	_	19	flat:name	_	_
+21-22	al	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	mese	mese	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	SpacesAfter=\n\n
+

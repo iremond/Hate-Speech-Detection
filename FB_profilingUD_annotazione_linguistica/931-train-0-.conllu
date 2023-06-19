@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voterò no ovvio
+1	Voterò	voterò	CCONJ	CC	_	3	cc	_	_
+2	no	no	ADV	BN	PronType=Neg	3	advmod	_	_
+3	ovvio	ovvio	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

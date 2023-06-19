@@ -1,0 +1,57 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = questa famiglia albanese o italoalbanese che sia, non mi convince, li vedo dalla mattina alla sera in tutte le trasmisioni tv, ma che ci faceva al buio in un posto dove io non ci metterei piede manco armato di bombe a mano.
+1	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+3	albanese	albanese	ADJ	A	Number=Sing	2	amod	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5	italoalbanese	italoalbanese	ADJ	A	Number=Sing	3	conj	_	_
+6	che	che	SCONJ	CS	_	7	mark	_	_
+7	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	convince	convincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+14	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
+15-16	dalla	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+18-19	alla	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	sera	sera	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+21	in	in	ADP	E	_	24	case	_	_
+22	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	24	det:predet	_	_
+23	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
+24	trasmisioni	trasmisione	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+25	tv	tv	NOUN	S	Gender=Fem	24	compound	_	SpaceAfter=No
+26	,	,	PUNCT	FF	_	30	punct	_	_
+27	ma	ma	CCONJ	CC	_	30	cc	_	_
+28	che	che	PRON	PR	PronType=Rel	30	nsubj	_	_
+29	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	30	obj	_	_
+30	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	conj	_	_
+31-32	al	_	_	_	_	_	_	_	_
+31	a	a	ADP	E	_	33	case	_	_
+32	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	buio	buio	NOUN	S	Gender=Masc|Number=Sing	30	obl	_	_
+34	in	in	ADP	E	_	36	case	_	_
+35	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+36	posto	posto	NOUN	S	Gender=Masc|Number=Sing	33	nmod	_	_
+37	dove	dove	ADV	B	_	41	advmod	_	_
+38	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	41	nsubj	_	_
+39	non	non	ADV	BN	PronType=Neg	41	advmod	_	_
+40	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	41	iobj	_	_
+41	metterei	mettere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	36	acl:relcl	_	_
+42	piede	piede	NOUN	S	Gender=Masc|Number=Sing	41	obj	_	_
+43	manco	manco	ADJ	A	Gender=Masc|Number=Sing	42	amod	_	_
+44	armato	armare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	42	acl	_	_
+45	di	di	ADP	E	_	46	case	_	_
+46	bombe	bomba	NOUN	S	Gender=Fem|Number=Plur	44	obl	_	_
+47	a	a	ADP	E	_	48	case	_	_
+48	mano	mano	NOUN	S	Gender=Fem|Number=Sing	46	nmod	_	SpaceAfter=No
+49	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n\n
+

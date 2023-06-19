@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come sei al governo questa lurida maramaglia la devi far sparire
+1	Come	come	ADP	E	_	2	case	_	_
+2	sei	sei	NUM	N	NumType=Card	11	obl	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	governo	governo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+7	lurida	lurido	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	maramaglia	maramaglia	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+10	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+12	sparire	sparire	VERB	V	VerbForm=Inf	11	ccomp	_	SpacesAfter=\n\n
+

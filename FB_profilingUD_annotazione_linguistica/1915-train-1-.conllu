@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non sopporto la voce della malpezzi è così stridula e dice solo c. . . . .
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	SpacesAfter=\s\s
+2	sopporto	sopporgere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	SpacesAfter=\s\s
+4	voce	voce	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpacesAfter=\s\s
+5-6	della	_	_	_	_	_	_	_	SpacesAfter=\s\s
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	SpacesAfter=\s\s
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	SpacesAfter=\s\s
+9	così	così	ADV	B	_	10	advmod	_	SpacesAfter=\s\s
+10	stridula	stridulare	ADJ	A	Gender=Fem|Number=Sing	2	conj	_	SpacesAfter=\s\s
+11	e	e	CCONJ	CC	_	12	cc	_	SpacesAfter=\s\s
+12	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	SpacesAfter=\s\s
+13	solo	solo	ADV	B	_	14	advmod	_	SpacesAfter=\s\s
+14	c.	eccera	ADV	B	_	12	advmod	_	_
+15	.	.	PUNCT	FS	_	2	punct	_	_
+16	.	.	PUNCT	FS	_	2	punct	_	_
+17	.	.	PUNCT	FS	_	2	punct	_	_
+18	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

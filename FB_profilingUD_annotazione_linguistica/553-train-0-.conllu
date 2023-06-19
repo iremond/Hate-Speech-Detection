@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Manca "Obama è buono perché nero" oppure lo stesso con "la Clinton perché donna"
+1	Manca	Manca	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+2	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+3	Obama	Obama	PROPN	SP	_	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	buono	buono	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	_
+6	perché	perché	SCONJ	CS	_	7	mark	_	_
+7	nero	nero	ADJ	A	Gender=Masc|Number=Sing	5	advcl	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	5	punct	_	_
+9	oppure	oppure	CCONJ	CC	_	11	cc	_	_
+10	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	stesso	stesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	conj	_	_
+12	con	con	ADP	E	_	15	case	_	_
+13	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Clinton	Clinton	PROPN	SP	_	1	obl	_	_
+16	perché	perché	SCONJ	CS	_	17	mark	_	_
+17	donna	donna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	17	punct	_	SpacesAfter=\n\n
+

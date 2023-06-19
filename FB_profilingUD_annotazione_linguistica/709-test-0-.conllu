@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Hanno il primato per essere le donne più sputtate in faccia attraverso lo schermo della televisione.
+1	Hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	primato	primato	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	per	per	ADP	E	_	7	mark	_	_
+5	essere	essere	AUX	V	VerbForm=Inf	7	cop	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	donne	donna	NOUN	S	Gender=Fem|Number=Plur	1	advcl	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	sputtate	sputtato	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+12	attraverso	attraverso	ADP	E	_	14	case	_	_
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	schermo	schermo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	televisione	televisione	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

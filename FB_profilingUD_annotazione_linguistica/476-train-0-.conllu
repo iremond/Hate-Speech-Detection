@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sarà la menopausa...
+1	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	cop	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	menopausa...	menopausa...	NOUN	S	_	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,57 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciao Matteo Salvini!!!
+1	Ciao	ciao	INTJ	I	_	2	discourse	_	_
+2	Matteo	Matteo	PROPN	SP	_	0	root	_	_
+3	Salvini	Salvini	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sono venuto in Italia 20 anni fa, e da sempre sostengo la lega, per la gente per bene che lavora e che manda avanti questo paese...MANDA RENZIE A CASA!!! GRAZIE CAPITANO IN BOCCA AL LUPO!!
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	venuto	venire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	Italia	Italia	PROPN	SP	_	2	obl	_	_
+5	20	20	NUM	N	NumType=Card	6	nummod	_	_
+6	anni	anno	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+7	fa	fa	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	14	punct	_	_
+9	e	e	CCONJ	CC	_	14	cc	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	sempre	sempre	ADV	B	_	14	advmod	_	_
+12	sostengo	sostenere	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	lega	lega	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	2	punct	_	_
+16	per	per	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	gente	gente	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+19	per	per	ADP	E	_	20	case	_	_
+20	bene	bene	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+21	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+22	lavora	lavorare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+23	e	e	CCONJ	CC	_	25	cc	_	_
+24	che	che	PRON	PR	PronType=Rel	25	nsubj	_	_
+25	manda	mandare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	_
+26	avanti	avanti	ADV	B	_	25	advmod	_	_
+27	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	28	det	_	_
+28	paese...MANDA	paese...MANDA	PROPN	SP	_	25	obj	_	_
+29	RENZIE	RENZIE	PROPN	SP	_	28	flat:name	_	_
+30	A	a	ADP	E	_	31	case	_	_
+31	CASA	casa	PROPN	SP	_	28	nmod	_	SpaceAfter=No
+32	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+33	!!	!!	PUNCT	FF	_	2	punct	_	_
+34	GRAZIE	grazie	PROPN	SP	_	2	obj	_	_
+35	CAPITANO	capitano	PROPN	SP	_	34	flat:name	_	_
+36	IN	in	PROPN	SP	_	34	flat:name	_	_
+37	BOCCA	bocca	PROPN	SP	_	34	flat:name	_	_
+38-39	AL	_	_	_	_	_	_	_	_
+38	A	A	ADP	E	_	39	case	_	_
+39	IL	Il	PROPN	SP	_	34	flat:name	_	_
+40	LUPO	LUPO	PROPN	SP	_	34	flat:name	_	SpaceAfter=No
+41	!	!	PUNCT	FS	_	34	punct	_	SpaceAfter=No
+42	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

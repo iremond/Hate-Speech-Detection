@@ -1,0 +1,95 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma mi domando cosa ci fanno lì.
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	domando	domare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	6	obj	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	lì	lì	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Il Governo dovrebbe essere la voce del popolo e dovrebbe dico dovrebbe, fare leggi scelte dal popolo e non da loro libero arbitrio.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	essere	essere	AUX	V	VerbForm=Inf	6	cop	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	voce	voce	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	dico	dire	ADJ	A	Gender=Masc|Number=Sing	6	conj	_	_
+13	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	fare	fare	VERB	V	VerbForm=Inf	12	csubj	_	_
+16	leggi	legge	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	_
+17	scelte	scegliere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	16	acl	_	_
+18-19	dal	_	_	_	_	_	_	_	_
+18	da	da	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	17	obl:agent	_	_
+21	e	e	CCONJ	CC	_	26	cc	_	_
+22	non	non	ADV	BN	PronType=Neg	26	advmod	_	_
+23	da	da	ADP	E	_	26	case	_	_
+24	loro	loro	DET	AP	Poss=Yes|PronType=Prs	26	det:poss	_	_
+25	libero	libero	ADJ	A	Gender=Masc|Number=Sing	26	amod	_	_
+26	arbitrio	arbitrio	NOUN	S	Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = Siamo governati da una massa di deficienti e non è giusto accettare le LORO decisioni.
+1	Siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
+2	governati	governare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	massa	massa	NOUN	S	Gender=Fem|Number=Sing	2	obl:agent	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	deficienti	deficiento	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	2	conj	_	_
+12	accettare	accettare	VERB	V	VerbForm=Inf	11	csubj	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+14	LORO	loro	DET	AP	Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	decisioni	decisione	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Sono lì ma chi li ha messi lì?????
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	lì	lì	ADV	B	_	4	advmod	_	_
+3	ma	ma	CCONJ	CC	_	4	cc	_	_
+4	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	messi	mettere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+8	lì	lì	ADV	B	_	7	advmod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 5
+# text = Mah, non ci sdarà mai una giustizia VERA!!!!!
+1	Mah	Mah	INTJ	I	_	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+5	sdarà	sdare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	mai	mai	ADV	B	_	5	advmod	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	giustizia	giustizia	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+9	VERA	Vera	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	9	punct	_	SpaceAfter=No
+11	!!	!!	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+12	!!	!!	PUNCT	FF	_	5	punct	_	SpacesAfter=\n\n
+

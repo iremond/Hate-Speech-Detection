@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Manca Bolognia metticci1a!!!
+1	Manca	Manca	PROPN	SP	_	3	nsubj	_	_
+2	Bolognia	Bolognia	PROPN	SP	_	1	flat:name	_	_
+3	metticci1a	metticci1o	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n\n
+

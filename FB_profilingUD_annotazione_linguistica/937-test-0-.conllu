@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Allora ho ragione io;
+1	Allora	allora	ADV	B	_	2	advmod	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+5	;	;	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = praticamente sei diventato democristiano.😜😜😜
+1	praticamente	praticamente	ADV	B	_	3	advmod	_	_
+2	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	diventato	diventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	democristiano.😜😜😜	democristiano.😜😜😜	PROPN	SP	_	3	xcomp	_	SpacesAfter=\n\n
+

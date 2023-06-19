@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io ti seguo e voterò NO NO NO NO NO!!!!!!!!!!
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	expl	_	_
+3	seguo	seguire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	voterò	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+6	NO	No	PROPN	SP	_	5	obj	_	_
+7	NO	No	PROPN	SP	_	6	flat:name	_	_
+8	NO	No	PROPN	SP	_	6	flat:name	_	_
+9	NO	No	PROPN	SP	_	6	flat:name	_	_
+10	NO	No	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+12	!!	!!	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+13	!!!!!!!	!!!!!!!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n\n
+

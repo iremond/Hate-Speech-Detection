@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = TI RINGRAZIAMO SALVINI
+1	TI	Ti	PROPN	SP	_	0	root	_	_
+2	RINGRAZIAMO	RINGRAZIAMO	PROPN	SP	_	1	flat:name	_	_
+3	SALVINI	Salvini	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo prima li devi costruire
+1	Matteo	Matteo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+2	prima	primo	ADV	B	_	1	advmod	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+4	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	costruire	costruire	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n\n
+

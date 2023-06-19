@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = parenzo galleggia--------cruciani nuota-----------
+1	parenzo	parenzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	galleggia	galleggia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+9	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+11	cruciani	cruciano	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+12	nuota	nuoto	NOUN	S	Number=Sing	11	compound	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+14	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+16	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+17	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+18	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+19	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+20	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+21	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+22	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+23	-	-	PUNCT	FB	_	1	punct	_	SpacesAfter=\n\n
+

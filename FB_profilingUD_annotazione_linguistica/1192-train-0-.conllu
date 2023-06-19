@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Proprio noooooo!!!😈😈😈
+1	Proprio	proprio	ADV	B	_	2	advmod	_	_
+2	noooooo	noooooo	ADV	B	_	4	advmod	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!!😈😈😈	!!😈😈😈	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = la Malpezzi non la posso vedere !!
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Malpezzi	Malpezzi	PROPN	SP	_	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+5	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+7	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,87 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho appena finito di rivedere "Porta a Porta" e come al solito sei stato grande, nonostante la presenza faziosa di un Ferruccio De Bortoli giornalista "spocchioso" (il menzionare "Carrai" da parte di De bortoli, nello staff del presidente è stato penoso.
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	appena	appena	ADV	B	_	3	advmod	_	_
+3	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	rivedere	rivedere	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	Porta	Porta	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	xcomp	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	Porta	Porta	PROPN	SP	_	7	obl	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	7	punct	_	_
+11	e	e	CCONJ	CC	_	18	cc	_	_
+12	come	come	ADV	B	_	18	advmod	_	_
+13-14	al	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	solito	solito	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+16	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	aux	_	_
+17	stato	stato	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	cop	_	_
+18	grande	grande	ADJ	A	Number=Sing	3	conj	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	18	punct	_	_
+20	nonostante	nonostante	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	presenza	presenza	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	_
+23	faziosa	fazioso	ADJ	A	Gender=Fem|Number=Sing	22	amod	_	_
+24	di	di	ADP	E	_	26	case	_	_
+25	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	Ferruccio	Ferruccio	PROPN	SP	_	22	nmod	_	_
+27	De	De	PROPN	SP	_	26	flat:name	_	_
+28	Bortoli	Bortoli	PROPN	SP	_	26	flat:name	_	_
+29	giornalista	giornalista	NOUN	S	Number=Sing	26	appos	_	_
+30	"	"	PUNCT	FB	_	31	punct	_	SpaceAfter=No
+31	spocchioso	spocchioso	ADJ	A	Gender=Masc|Number=Sing	29	amod	_	SpaceAfter=No
+32	"	"	PUNCT	FB	_	31	punct	_	_
+33	(	(	PUNCT	FB	_	35	punct	_	SpaceAfter=No
+34	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	SpacesAfter=\s\s
+35	menzionare	menzionare	VERB	V	VerbForm=Inf	29	acl	_	_
+36	"	"	PUNCT	FB	_	37	punct	_	SpaceAfter=No
+37	Carrai	carrai	PROPN	SP	_	35	obj	_	SpaceAfter=No
+38	"	"	PUNCT	FB	_	37	punct	_	SpacesAfter=\s\s
+39	da	da	ADP	E	_	40	case	_	_
+40	parte	parte	NOUN	S	Gender=Fem|Number=Sing	37	nmod	_	_
+41	di	di	ADP	E	_	42	case	_	_
+42	De	De	PROPN	SP	_	40	nmod	_	_
+43	bortoli	bortolo	NOUN	S	Gender=Masc|Number=Plur	42	flat:name	_	SpaceAfter=No
+44	,	,	PUNCT	FF	_	42	punct	_	_
+45-46	nello	_	_	_	_	_	_	_	_
+45	in	in	ADP	E	_	47	case	_	_
+46	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
+47	staff	staff	NOUN	S	Gender=Masc|Number=Sing	53	obl	_	_
+48-49	del	_	_	_	_	_	_	_	_
+48	di	di	ADP	E	_	50	case	_	_
+49	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	50	det	_	_
+50	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	47	nmod	_	_
+51	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	53	aux	_	_
+52	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	53	aux:pass	_	_
+53	penoso	penoso	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	42	conj	_	SpaceAfter=No
+54	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = )
+1	)	)	PUNCT	FB	_	0	root	_	_
+
+# sent_id = 3
+# text = Bravo presidente, sempre avanti alla faccia di questi personaggi "gattopardiani impenitenti ed impuniti.
+1	Bravo	bravo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	sempre	sempre	ADV	B	_	5	advmod	_	_
+5	avanti	avanti	ADV	B	_	8	advmod	_	_
+6-7	alla	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
+11	personaggi	personaggio	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	gattopardiani	gattopardiano	NOUN	S	Gender=Masc|Number=Plur	8	appos	_	_
+14	impenitenti	impenitente	ADJ	A	Number=Plur	13	amod	_	_
+15	ed	e	CCONJ	CC	_	16	cc	_	_
+16	impuniti	impunito	ADJ	A	Number=Plur	14	conj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

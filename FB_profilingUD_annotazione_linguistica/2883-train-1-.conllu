@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Castrazione subito.
+1	Castrazione	Castrazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	subito.	subito.	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n\n
+

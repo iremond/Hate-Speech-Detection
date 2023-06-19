@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Siamo in un paese fallito ..rovinato dalla sinistra ...
+1	Siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	paese	paese	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	fallito	fallito	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	..rovinato	..rovinare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+7-8	dalla	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	6	obl:agent	_	_
+10	...	.	PUNCT	FF	_	4	punct	_	SpacesAfter=\n\n
+

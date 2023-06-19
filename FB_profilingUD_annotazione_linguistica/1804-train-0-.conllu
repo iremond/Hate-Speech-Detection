@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Elvio Vox Giorgio Bianchi
+1	Elvio	Elvio	PROPN	SP	_	0	root	_	_
+2	Vox	Vox	PROPN	SP	_	1	flat:name	_	_
+3	Giorgio	Giorgio	PROPN	SP	_	1	flat:name	_	_
+4	Bianchi	Bianchi	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

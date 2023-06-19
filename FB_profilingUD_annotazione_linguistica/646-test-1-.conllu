@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 1 parola insopportabili!
+1	1	1	NUM	N	NumType=Card	2	nummod	_	_
+2	parola	parola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\s\s
+3	insopportabili	insopportabile	ADJ	A	Number=Plur	2	amod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!!!
+1	!!!!!	!!!!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

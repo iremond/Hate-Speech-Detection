@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = VAI MATTEO!
+1	VAI	andare	PROPN	SP	_	0	root	_	_
+2	MATTEO	MATTEO	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!...NELLA OCCASIONE PORTA I MIEI SALUTI A GIORGIA....E SE NON TI BASTA LA RUSPA.....
+1	!!...NELLA	!!...NELLA	ADP	E	_	2	case	_	_
+2	OCCASIONE	occasione	PROPN	SP	_	5	nmod	_	_
+3	PORTA	Porta	PROPN	SP	_	2	flat:name	_	_
+4	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	MIEI	mio	PROPN	SP	_	0	root	_	_
+6	SALUTI	Saluti	PROPN	SP	_	5	flat:name	_	_
+7	A	a	ADP	E	_	8	case	_	_
+8	GIORGIA....E	GIORGIA....E	PROPN	SP	_	5	nmod	_	_
+9	SE	se	PROPN	SP	_	8	flat:name	_	_
+10	NON	non	PROPN	SP	_	8	nmod	_	_
+11	TI	Ti	PROPN	SP	_	10	flat:name	_	_
+12	BASTA	bastare	PROPN	SP	_	10	flat:name	_	_
+13	LA	lo	PROPN	SP	_	10	flat:name	_	_
+14	RUSPA.....	RUSPA.....	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n\n
+

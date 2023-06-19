@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi fanno pena!
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pena	pena	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

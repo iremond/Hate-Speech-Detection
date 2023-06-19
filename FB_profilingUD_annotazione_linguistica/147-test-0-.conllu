@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grazie Zaia!!!
+1	Grazie	grazie	NOUN	S	_	2	case	_	_
+2	Zaia	Zaio	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!!	!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

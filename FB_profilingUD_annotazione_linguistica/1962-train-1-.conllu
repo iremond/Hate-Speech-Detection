@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = almeno hanno cancellato quel sorrisetto da radical chic che sta ai piani nobili.
+1	almeno	almeno	ADV	B	_	3	advmod	_	_
+2	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	cancellato	cancellare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	sorrisetto	sorrisetto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	da	da	ADP	E	_	8	case	_	_
+7	radical	radical	DET	DQ	Number=Sing|PronType=Int	8	det	_	_
+8	chic	chic	NOUN	S	Gender=Fem	3	obl	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11-12	ai	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	piani	piano	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+14	nobili	nobile	ADJ	A	Number=Plur	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

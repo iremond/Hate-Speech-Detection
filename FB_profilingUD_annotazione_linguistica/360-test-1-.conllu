@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quel rom li veniva voglia di rusparlo subito tanto era insolente offensivo.
+1	Quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	rom	rom	NOUN	S	Gender=Masc	4	nsubj	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+4	veniva	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	voglia	vogliare	NOUN	S	Gender=Fem|Number=Sing	4	xcomp	_	_
+6	di	di	ADP	E	_	7	mark	_	_
+7-8	rusparlo	_	_	_	_	_	_	_	_
+7	ruspar	ruspare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	subito	subito	ADV	B	_	13	advmod	_	_
+10	tanto	tanto	ADV	B	_	13	advmod	_	_
+11	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
+12	insolente	insolente	ADV	B	_	13	advmod	_	_
+13	offensivo	offensivo	ADJ	A	Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

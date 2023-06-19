@@ -1,0 +1,126 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se valutiamo attentamente cosa ha in mente questo scellerato , cambierebbe gran parte della costituzione italiana , rendendola inutile , in quanto non potremmo più controbattere ne sotto il profilo politico ne giuridico gran parte dei dictat assurdi di questa folle Europa , ogni loro decisione importante ce la dovremo digerire che piaccia o no.
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	valutiamo	valutare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+3	attentamente	attento	ADV	B	_	2	advmod	_	_
+4	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	obj	_	_
+5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	mente	menta	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+8	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	scellerato	scellerato	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+10	,	,	PUNCT	FF	_	5	punct	_	_
+11	cambierebbe	cambiare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+12	gran	gran	ADJ	A	Number=Sing	13	amod	_	_
+13	parte	parte	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
+14-15	della	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	costituzione	costituzione	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+17	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	16	amod	_	_
+18	,	,	PUNCT	FF	_	5	punct	_	_
+19-20	rendendola	_	_	_	_	_	_	_	_
+19	rendendo	rendere	VERB	V	VerbForm=Ger	5	advcl	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	inutile	inutile	ADJ	A	Number=Sing	19	obj	_	SpacesAfter=\s\s
+22	,	,	PUNCT	FF	_	19	punct	_	_
+23	in	in	ADP	E	_	28	mark	_	_
+24	quanto	quanto	ADV	B	_	23	fixed	_	_
+25	non	non	ADV	BN	PronType=Neg	28	advmod	_	_
+26	potremmo	potere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	28	aux	_	_
+27	più	più	ADV	B	_	28	advmod	_	_
+28	controbattere	controbattere	VERB	V	VerbForm=Inf	19	advcl	_	_
+29	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	28	iobj	_	_
+30	sotto	sotto	ADP	E	_	32	case	_	_
+31	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	profilo	profilo	NOUN	S	Gender=Masc|Number=Sing	54	obl	_	_
+33	politico	politico	ADJ	A	Gender=Masc|Number=Sing	32	amod	_	_
+34	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	54	iobj	_	_
+35	giuridico	giuridire	ADJ	A	Gender=Masc|Number=Sing	37	amod	_	_
+36	gran	gran	ADJ	A	Number=Sing	37	amod	_	_
+37	parte	parte	NOUN	S	Gender=Fem|Number=Sing	34	obj	_	_
+38-39	dei	_	_	_	_	_	_	_	_
+38	di	di	ADP	E	_	40	case	_	_
+39	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	40	det	_	_
+40	dictat	dictat	NOUN	S	Gender=Masc	37	nmod	_	_
+41	assurdi	assurdo	ADJ	A	Gender=Masc|Number=Plur	40	amod	_	_
+42	di	di	ADP	E	_	45	case	_	_
+43	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	45	det	_	_
+44	folle	folle	ADJ	A	Number=Sing	45	amod	_	_
+45	Europa	Europa	PROPN	SP	_	40	nmod	_	_
+46	,	,	PUNCT	FF	_	40	punct	_	_
+47	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	49	det	_	_
+48	loro	loro	DET	AP	Poss=Yes|PronType=Prs	49	det:poss	_	_
+49	decisione	decisione	NOUN	S	Gender=Fem|Number=Sing	54	nsubj	_	_
+50	importante	importante	ADJ	A	Number=Sing	49	amod	_	_
+51	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	54	expl	_	_
+52	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	54	obj	_	_
+53	dovremo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	54	aux	_	_
+54	digerire	digerire	VERB	V	VerbForm=Inf	28	ccomp	_	_
+55	che	che	SCONJ	CS	_	56	mark	_	_
+56	piaccia	piacciare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	ccomp	_	_
+57	o	o	CCONJ	CC	_	58	cc	_	_
+58	no	no	ADV	BN	PronType=Neg	56	conj	_	SpaceAfter=No
+59	.	.	PUNCT	FS	_	54	punct	_	_
+
+# sent_id = 2
+# text = Questo vuole dire una sola cosa un cappio al collo al popolo italiano.
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	sola	solo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	cappio	cappio	NOUN	S	Gender=Masc|Number=Sing	3	xcomp	_	_
+9-10	al	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	collo	collo	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+15	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Non saremo più padroni a casa nostra.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	saremo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	più	più	ADV	B	_	2	advmod	_	_
+4	padroni	padrone	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Già ora ne hanno combinate di grosse contro i prodotti e le aziende italiane.
+1	Già	già	ADV	B	_	2	advmod	_	SpacesAfter=\s\s
+2	ora	ora	ADV	B	_	4	advmod	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	combinate	combinare	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	grosse	grosso	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	contro	contro	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	prodotti	prodotto	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	aziende	azienda	NOUN	S	Gender=Fem|Number=Plur	10	conj	_	_
+14	italiane	italiano	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 5
+# text = Sono una banda di farabutti.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	banda	banda	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	farabutti	farabutto	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

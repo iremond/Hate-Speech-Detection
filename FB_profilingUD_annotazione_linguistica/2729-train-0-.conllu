@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = tanto non è più reato come dice lui
+1	tanto	tanto	ADV	B	_	5	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	reato	reare	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+6	come	come	SCONJ	CS	_	7	mark	_	_
+7	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+8	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	SpacesAfter=\n\n
+

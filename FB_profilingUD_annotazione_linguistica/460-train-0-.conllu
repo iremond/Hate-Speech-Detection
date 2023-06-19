@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Luca Gambini Alessandro Gambini Alessandro Sala Francesco Scinico la gioia che volevo 🤗
+1	Luca	Luca	PROPN	SP	_	0	root	_	_
+2	Gambini	Gambini	PROPN	SP	_	1	flat:name	_	_
+3	Alessandro	Alessandro	PROPN	SP	_	1	flat:name	_	_
+4	Gambini	Gambini	PROPN	SP	_	1	flat:name	_	_
+5	Alessandro	Alessandro	PROPN	SP	_	1	nmod	_	_
+6	Sala	Sala	PROPN	SP	_	5	flat:name	_	_
+7	Francesco	Francesco	PROPN	SP	_	5	flat:name	_	_
+8	Scinico	Scinico	PROPN	SP	_	5	flat:name	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	gioia	gioia	NOUN	S	Gender=Fem|Number=Sing	1	appos	_	_
+11	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+12	volevo	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	13	cop	_	_
+13	🤗	🤗	SYM	SYM	_	10	acl:relcl	_	SpacesAfter=\n\n
+

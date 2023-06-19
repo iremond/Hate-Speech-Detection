@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Condivido parole sante morte ha tutta quella feccia.
+1	Condivido	Condivido	ADP	E	_	2	case	_	_
+2	parole	parole	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	_
+3	sante	sante	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	4	det	_	_
+4	morte	morto	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	8	det:predet	_	_
+7	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	feccia	feccia	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

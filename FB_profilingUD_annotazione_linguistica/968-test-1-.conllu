@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini gli ha detto di non fare manutenzione?
+1	Salvini	Salvini	PROPN	SP	_	4	nsubj	_	_
+2	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	di	di	ADP	E	_	7	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	fare	fare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+8	manutenzione	manutenzione	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Perché il problema non è la concessione ma la speculazione spinta all'estremo
+1	Perché	perché	ADV	B	_	7	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	problema	problema	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	concessione	concessione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+8	ma	ma	CCONJ	CC	_	10	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	speculazione	speculazione	NOUN	S	Gender=Fem|Number=Sing	7	conj	_	_
+11	spinta	spingere	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12-13	all'	_	_	_	_	_	_	_	SpaceAfter=No
+12	a	a	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	estremo	estremo	ADJ	A	Gender=Masc|Number=Sing	11	obl	_	SpacesAfter=\n\n
+

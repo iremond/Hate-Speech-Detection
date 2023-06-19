@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Armate il popolo!
+1	Armate	armare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

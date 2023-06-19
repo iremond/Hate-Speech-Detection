@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Antipatico il loro tono di voce e antipatiche loro fisicamente si vede che non si sono mai sporcate le mani......
+1	Antipatico	Antipatico	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	loro	loro	DET	AP	Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	tono	tono	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	voce	voce	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	12	cc	_	_
+8	antipatiche	antipatico	ADV	B	_	12	advmod	_	_
+9	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+10	fisicamente	fisico	ADV	B	_	9	advmod	_	SpacesAfter=\s\s
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:impers	_	_
+12	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+13	che	che	SCONJ	CS	_	18	mark	_	_
+14	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	_
+16	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+17	mai	mai	ADV	B	_	18	advmod	_	_
+18	sporcate	sporcare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	12	ccomp	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	mani......	mani......	NOUN	S	Gender=Masc	18	nsubj	_	_
+
+# sent_id = 2
+# text = a zappare ste zocc...
+1	a	a	ADP	E	_	2	mark	_	_
+2	zappare	zappare	VERB	V	VerbForm=Inf	0	root	_	_
+3	ste	sto	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+4	zocc..	zocc..	NOUN	S	_	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MA BASTA CON QUESTE RIDICOLE!!!
+1	MA	ma	PROPN	SP	_	0	root	_	_
+2	BASTA	bastare	PROPN	SP	_	1	flat:name	_	_
+3	CON	con	PROPN	SP	_	1	flat:name	_	_
+4	QUESTE	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
+5	RIDICOLE	RIDICOLE	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+7	!!	!!	PUNCT	FF	_	5	punct	_	SpacesAfter=\n\n
+

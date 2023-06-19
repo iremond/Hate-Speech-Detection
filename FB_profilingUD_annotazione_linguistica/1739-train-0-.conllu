@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È nella dimensione del paradosso si colloca esattamente dove ognuno di noi vuole che sia
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2-3	nella	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	dimensione	dimensione	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	paradosso	paradosso	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpacesAfter=\s\s\s\s
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	colloca	collocare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	esattamente	esattamente	ADV	B	_	9	advmod	_	_
+11	dove	dove	ADV	B	_	15	advmod	_	_
+12	ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	15	nsubj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	15	obl	_	_
+15	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+16	che	che	SCONJ	CS	_	17	mark	_	_
+17	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	SpacesAfter=\n\n
+

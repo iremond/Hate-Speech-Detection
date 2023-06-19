@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma di che parlano?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = aria fritta.
+1	aria	aria	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	fritta.	fritta.	NOUN	S	_	1	compound	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .....
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

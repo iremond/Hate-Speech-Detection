@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fin quando non toccherà alla figlia di ......
+1	Fin	fino	ADP	E	_	4	mark	_	_
+2	quando	quando	SCONJ	CS	_	1	fixed	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	toccherà	toccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5-6	alla	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	figlia	figlia	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	.....	.....	PUNCT	FF	_	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = allora qualcosa si farà ciao Matteo
+1	allora	allora	ADV	B	_	4	advmod	_	_
+2	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	ciao	ciao	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	Matteo	Matteo	PROPN	SP	_	5	nmod	_	SpacesAfter=\n\n
+

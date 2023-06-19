@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Inizziamo a bruciarne qualquno vedrete km kambieran le cose
+1	Inizziamo	Inizzare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3-4	bruciarne	_	_	_	_	_	_	_	_
+3	bruciar	bruciare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+5	qualquno	qualquno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	_
+6	vedrete	vedere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	conj	_	_
+7	km	chilometro	NOUN	S	Gender=Masc	6	obl	_	_
+8	kambieran	kambieran	ADJ	A	Number=Sing	7	amod	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	SpacesAfter=\n\n
+

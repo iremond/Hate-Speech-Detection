@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le solite balle, come te insomma.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	solite	solito	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+3	balle	balla	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+7	insomma	insomma	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

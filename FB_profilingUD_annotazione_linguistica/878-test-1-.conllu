@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "La ""CURA"" è Casapound"
+1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+3	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+5	CURA	cura	PROPN	SP	_	9	nsubj	_	SpaceAfter=No
+6	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	5	punct	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	Casapound	Casapound	PROPN	SP	_	0	root	_	SpaceAfter=No
+10	"	"	PUNCT	FB	_	9	punct	_	SpacesAfter=\n\n
+

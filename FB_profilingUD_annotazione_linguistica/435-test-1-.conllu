@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dio ha ragione.
+1	Dio	Dio	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ragione.	ragione.	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = donne inferiori
+1	donne	donna	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	inferiori	inferiore	ADJ	A	Degree=Cmp|Number=Plur	1	amod	_	SpacesAfter=\n\n
+

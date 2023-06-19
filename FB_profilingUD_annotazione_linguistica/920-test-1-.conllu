@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dorme si vede tanto i 50milioni sono al sicuro LEGA LADRONA ROMA NON PERDONA IN PIÙ VAFFANCULO
+1	Dorme	dorma	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tanto	tanto	ADV	B	_	3	advmod	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	50milioni	50milione	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	11	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	LEGA	lega	PROPN	SP	_	3	obl	_	_
+12	LADRONA	LADRONA	PROPN	SP	_	11	flat:name	_	_
+13	ROMA	Roma	PROPN	SP	_	11	flat:name	_	_
+14	NON	Non	PROPN	SP	_	11	nmod	_	_
+15	PERDONA	PERDONA	PROPN	SP	_	14	flat:name	_	_
+16	IN	In	PROPN	SP	_	14	flat:name	_	_
+17	PIÙ	più	PROPN	SP	_	11	flat:name	_	_
+18	VAFFANCULO	VAFFANCULO	PROPN	SP	_	11	flat:name	_	SpacesAfter=\n\n
+

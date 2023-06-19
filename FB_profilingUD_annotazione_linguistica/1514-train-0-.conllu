@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Presente Capitano!
+1	Presente	presente	PROPN	SP	_	0	root	_	_
+2	Capitano	capitano	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!!!
+1	!!!!!	!!!!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

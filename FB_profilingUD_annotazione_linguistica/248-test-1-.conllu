@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non le digerisco.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	digerisco	digerisco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = ....
+1	...	...	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = perché fortunatamente non le mangio......!
+1	perché	perché	SCONJ	CS	_	5	mark	_	_
+2	fortunatamente	fortunatamente	ADV	B	_	5	advmod	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	mangio......	mangio......	NOUN	S	_	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = Mi fanno schifo!
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 5
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n\n
+

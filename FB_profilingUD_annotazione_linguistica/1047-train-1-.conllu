@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = è PIù FACILE DIGERIRE LA CAZZIEUL COME LA CHIAMATE VOI MILANESI
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	PIù	più	PROPN	SP	_	0	root	_	_
+3	FACILE	facile	PROPN	SP	_	2	nsubj	_	_
+4	DIGERIRE	DIGERIRE	PROPN	SP	_	3	flat:name	_	_
+5	LA	La	PROPN	SP	_	3	flat:name	_	_
+6	CAZZIEUL	CAZZIEUL	PROPN	SP	_	3	flat:name	_	_
+7	COME	come	PROPN	SP	_	3	nmod	_	_
+8	LA	La	PROPN	SP	_	7	flat:name	_	_
+9	CHIAMATE	chiamate	PROPN	SP	_	7	flat:name	_	_
+10	VOI	Vo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	MILANESI	milanesi	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n\n
+

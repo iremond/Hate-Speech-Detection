@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma per carità!
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	carità	carità	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = !!! Mollale.
+1	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+2	!!	!!	PUNCT	FF	_	3	punct	_	_
+3	Mollale	Mollale	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

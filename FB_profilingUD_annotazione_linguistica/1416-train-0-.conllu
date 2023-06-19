@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo SALVINI miglior politico attuale!
+1	Matteo	Matteo	PROPN	SP	_	0	root	_	_
+2	SALVINI	Salvini	PROPN	SP	_	1	flat:name	_	_
+3	miglior	migliore	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+4	politico	politico	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	attuale	attuale	ADJ	A	Number=Sing	1	amod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = 👍🇮🇪👍🇮🇪👍🇮🇪🏆🏆
+1	👍🇮🇪👍🇮🇪👍🇮🇪🏆🏆	👍🇮🇪👍🇮🇪👍🇮🇪🏆🏆	SYM	SYM	_	0	root	_	SpacesAfter=\n\n
+

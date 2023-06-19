@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Certo !!! Stiamo aspettando !!!!!
+1	Certo	certo	ADV	B	_	4	advmod	_	_
+2	!!!	!!!	PUNCT	FF	_	4	punct	_	_
+3	Stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	aspettando	aspettare	VERB	V	VerbForm=Ger	0	root	_	_
+5	!!!	!!!	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	!!	!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SI (nel bene e nel male)
+1	SI	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	0	root	_	_
+2	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+3-4	nel	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	bene	bene	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	male	male	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	1	punct	_	SpacesAfter=\n\n
+

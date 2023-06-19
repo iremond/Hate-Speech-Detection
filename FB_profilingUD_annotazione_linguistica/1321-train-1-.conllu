@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma basta con quelle due cornacchie rosse !!!!
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	con	con	ADP	E	_	4	case	_	_
+4	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	2	obl	_	_
+5	due	due	NUM	N	NumType=Card	6	nummod	_	_
+6	cornacchie	cornacchia	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+7	rosse	rosso	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+8	!!!	!!!	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

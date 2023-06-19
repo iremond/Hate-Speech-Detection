@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Andrea Trupia lo trova sempre lo spazio per il milan hahahga
+1	Andrea	andrea	PROPN	SP	_	4	nsubj	_	_
+2	Trupia	Trupio	PROPN	SP	_	1	flat:name	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+5	sempre	sempre	ADV	B	_	7	advmod	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	spazio	spazio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	per	per	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	milan	milan	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	hahahga	hahahgare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

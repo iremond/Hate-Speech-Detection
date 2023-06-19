@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Senza Citrosodina no
+1	Senza	senza	ADP	E	_	2	case	_	_
+2	Citrosodina	Citrosodina	PROPN	SP	_	0	root	_	_
+3	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpacesAfter=\n\n
+

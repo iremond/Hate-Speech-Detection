@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = allucinante la Malpezzi , inaccettabile la Castaldini.
+1	allucinante	allucinare	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Malpezzi	Malpezzi	PROPN	SP	_	0	root	_	_
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	inaccettabile	inaccettabile	ADJ	A	Number=Sing	7	amod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Castaldini	Castaldini	PROPN	SP	_	3	appos	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

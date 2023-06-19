@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bleeeeeee!
+1	Bleeeeeee	Bleeeeeee	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = W la ruspa
+1	W	W	PROPN	SP	_	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	ruspa	ruspa	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n\n
+

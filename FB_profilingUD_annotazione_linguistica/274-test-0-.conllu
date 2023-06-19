@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini nel video hao salutato tutti mentrea andavi a rai 3...e come al solito ti dimentichi di salutare meeee.
+1	Salvini	Salvine	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2-3	nel	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	video	video	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	hao	hao	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+6	salutato	salutare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+7	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+8	mentrea	mentrea	NOUN	S	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+9	andavi	andave	ADV	B	_	11	advmod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	rai	ere	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	3...e	3...e	ADV	B	_	18	advmod	_	_
+13	come	come	ADP	E	_	16	case	_	_
+14-15	al	_	_	_	_	_	_	_	_
+14	a	a	ADP	E	_	13	fixed	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	solito	solito	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+17	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	18	iobj	_	_
+18	dimentichi	dimenticare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	_
+19	di	di	ADP	E	_	20	mark	_	_
+20	salutare	salutare	VERB	V	VerbForm=Inf	18	xcomp	_	_
+21	meeee.	meeee.	NOUN	S	Gender=Masc	20	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...ma lo fai apposta o a cartolina ...in qualsiasi modo ma FALLOOOO...CIAOOO GRANDE SALVINI...SE VUOI PUOI FARLO ORA....SOGNI D ORO
+1	...ma	...mare	ADV	B	_	3	advmod	_	_
+2	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	fai	faio	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	apposta	apposto	ADV	B	_	3	advmod	_	_
+5	o	o	CCONJ	CC	_	7	cc	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	cartolina	cartolina	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+8	...in	...ino	ADP	E	_	10	case	_	_
+9	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	10	det	_	_
+10	modo	modo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+11	ma	ma	CCONJ	CC	_	12	cc	_	_
+12	FALLOOOO...CIAOOO	FALLOOOO...CIAOOO	PROPN	SP	_	15	obl	_	_
+13	GRANDE	grande	PROPN	SP	_	15	nsubj	_	_
+14	SALVINI...SE	SALVINI...SE	PROPN	SP	_	13	flat:name	_	_
+15	VUOI	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+16	PUOI	potere	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17-18	FARLO	_	_	_	_	_	_	_	_
+17	FAR	far	PROPN	SP	_	3	obj	_	_
+18	LO	Lo	PROPN	SP	_	17	flat:name	_	_
+19	ORA....SOGNI	ORA....SOGNI	PROPN	SP	_	17	flat:name	_	_
+20	D	D	PROPN	SP	_	17	flat:name	_	_
+21	ORO	oro	PROPN	SP	_	3	xcomp	_	SpacesAfter=\n\n
+

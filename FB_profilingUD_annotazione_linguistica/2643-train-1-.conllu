@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ....inguardabili, inascoltabili...penose!!!
+1	....inguardabili	....inguardabile	ADJ	A	Number=Plur	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	inascoltabili...penose	inascoltabili...penoso	ADJ	A	Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma mi sapete spiegare chi ha inventato la figura di mediatore culturale?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	sapete	sapere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	spiegare	spiegare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+5	chi	chi	PRON	PR	Number=Sing|PronType=Rel	4	obj	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	inventato	inventare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	figura	figura	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	mediatore	mediatore	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+12	culturale	culturale	ADJ	A	Number=Sing	11	amod	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = E chi lei paga?a cosa servono?
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+3	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	paga	pagare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+5	?a	?a	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+6	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	7	nsubj	_	_
+7	servono	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Poverini questi rom tutti puliti buoni.
+1	Poverini	Poverino	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
+3	rom	rom	NOUN	S	Gender=Masc	1	obj	_	_
+4	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
+5	puliti	pulito	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+6	buoni.	buoni.	NOUN	S	_	1	obl	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noooo,inascoltabili
+1	Noooo	Noooo	ADV	B	_	3	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	inascoltabili	inascoltabile	ADJ	A	Number=Plur	0	root	_	SpacesAfter=\n\n
+

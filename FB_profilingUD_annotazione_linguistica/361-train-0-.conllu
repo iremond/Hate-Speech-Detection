@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giulia Mantovan xD
+1	Giulia	Giulia	PROPN	SP	_	0	root	_	_
+2	Mantovan	Mantovan	PROPN	SP	_	1	flat:name	_	_
+3	xD	xD	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

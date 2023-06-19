@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = li odio due stupide ridicole irritanti cretine da donna a donna dico che nonsono nemmeno buone a raccogliere pomodori figurarsi le politiche oponioniste -a casa e possono portarsi dietro un pò di clandestini peccato che sono sempre in tv -mi costringono a cambiare programma
+1	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+2	odio	odiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	due	due	NUM	N	NumType=Card	4	nummod	_	_
+4	stupide	stupide	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	_
+5	ridicole	ridicolo	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6	irritanti	irritante	ADJ	A	Number=Plur	4	amod	_	_
+7	cretine	cretina	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	donna	donna	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	donna	donna	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+12	dico	dico	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+14	nonsono	esnonsere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	nemmeno	nemmeno	ADV	BN	PronType=Neg	16	advmod	_	_
+16	buone	buono	ADJ	A	Gender=Fem|Number=Plur	11	acl:relcl	_	_
+17	a	a	ADP	E	_	18	mark	_	_
+18	raccogliere	raccogliere	VERB	V	VerbForm=Inf	16	advcl	_	_
+19	pomodori	pomodoro	NOUN	S	Gender=Masc|Number=Plur	18	obj	_	_
+20-21	figurarsi	_	_	_	_	_	_	_	_
+20	figurar	figurare	VERB	V	VerbForm=Inf	18	advcl	_	_
+21	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl	_	_
+22	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	politiche	politica	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
+24	oponioniste	oponionista	ADJ	A	Gender=Fem|Number=Plur	23	amod	_	_
+25	-	-	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+26	a	a	ADP	E	_	27	case	_	_
+27	casa	casa	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
+28	e	e	CCONJ	CC	_	30	cc	_	_
+29	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	_
+30-31	portarsi	_	_	_	_	_	_	_	_
+30	portar	portare	VERB	V	VerbForm=Inf	2	conj	_	_
+31	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	30	expl	_	_
+32	dietro	dietro	ADP	E	_	34	case	_	_
+33	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	pò	pò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	30	obl	_	_
+35	di	di	ADP	E	_	37	case	_	_
+36	clandestini	clandestino	ADJ	A	Gender=Masc|Number=Plur	37	amod	_	_
+37	peccato	peccato	NOUN	S	Gender=Masc|Number=Sing	34	nmod	_	_
+38	che	che	PRON	PR	PronType=Rel	42	nsubj	_	_
+39	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	42	cop	_	_
+40	sempre	sempre	ADV	B	_	42	advmod	_	_
+41	in	in	ADP	E	_	42	case	_	_
+42	tv	tv	NOUN	S	Gender=Fem	37	acl:relcl	_	_
+43	-mi	-mo	ADJ	A	Number=Plur	42	amod	_	_
+44	costringono	costringere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	advcl	_	_
+45	a	a	ADP	E	_	46	mark	_	_
+46	cambiare	cambiare	VERB	V	VerbForm=Inf	44	xcomp	_	_
+47	programma	programma	NOUN	S	Gender=Masc|Number=Sing	46	obj	_	SpacesAfter=\n\n
+

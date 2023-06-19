@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NOOOOOOOOOOOOOO, mille volte NOOOOOOOOOOOOO
+1	NOOOOOOOOOOOOOO	NOOOOOOOOOOOOOO	ADV	B	_	5	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	mille	mille	NUM	N	NumType=Card	4	nummod	_	_
+4	volte	volta	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+5	NOOOOOOOOOOOOO	NOOOOOOOOOOOOO	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

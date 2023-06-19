@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = hai capito i teppistelli?
+1	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	teppistelli	teppistello	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = drogati figli di p.....
+1	drogati	drogare	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	p.....	p.....	NOUN	S	_	2	nmod	_	SpacesAfter=\n\n
+

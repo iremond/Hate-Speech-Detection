@@ -1,0 +1,75 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = qui da noi in Franciadove i problemi di sicurezza sono peggio che in italia sui treni di periferia della regione parigine e ormai da anni che i controllori (in gruppo di almeno 6 persone) sono accompagnati sistematicamente dalla polizia ferroviaria per le operazioni di controllo.
+1	qui	qui	ADV	B	_	11	advmod	_	_
+2	da	da	ADP	E	_	3	case	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	11	obl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Franciadove	Franciadove	PROPN	SP	_	11	obl	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	peggio	peggiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	che	che	SCONJ	CS	_	14	case	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	italia	italia	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+15-16	sui	_	_	_	_	_	_	_	_
+15	su	su	ADP	E	_	17	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	treni	treno	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	periferia	periferia	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+20-21	della	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	regione	regione	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+23	parigine	parigine	ADJ	A	Number=Sing	22	amod	_	_
+24	e	e	CCONJ	CC	_	27	cc	_	_
+25	ormai	ormai	ADV	B	_	27	advmod	_	_
+26	da	da	ADP	E	_	27	case	_	_
+27	anni	anno	NOUN	S	Gender=Masc|Number=Plur	23	conj	_	_
+28	che	che	SCONJ	CS	_	40	mark	_	_
+29	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
+30	controllori	controllore	NOUN	S	Gender=Masc|Number=Plur	40	nsubj:pass	_	_
+31	(	(	PUNCT	FB	_	33	punct	_	SpaceAfter=No
+32	in	in	ADP	E	_	33	case	_	_
+33	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	30	nmod	_	_
+34	di	di	ADP	E	_	37	case	_	_
+35	almeno	almeno	ADV	B	_	36	advmod	_	_
+36	6	6	NUM	N	NumType=Card	37	nummod	_	_
+37	persone	persona	NOUN	S	Gender=Fem|Number=Plur	33	nmod	_	SpaceAfter=No
+38	)	)	PUNCT	FB	_	33	punct	_	_
+39	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	aux:pass	_	_
+40	accompagnati	accompagnare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	27	acl	_	_
+41	sistematicamente	sistematicamente	ADV	B	_	40	advmod	_	_
+42-43	dalla	_	_	_	_	_	_	_	_
+42	da	da	ADP	E	_	44	case	_	_
+43	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	_
+44	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	40	obl:agent	_	_
+45	ferroviaria	ferroviario	ADJ	A	Gender=Fem|Number=Sing	44	amod	_	_
+46	per	per	ADP	E	_	48	case	_	_
+47	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	48	det	_	_
+48	operazioni	operazione	NOUN	S	Gender=Fem|Number=Plur	44	nmod	_	_
+49	di	di	ADP	E	_	50	case	_	_
+50	controllo	controllo	NOUN	S	Gender=Masc|Number=Sing	48	nmod	_	SpaceAfter=No
+51	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = In caso di agressione fisica le pene di prigione sono state rinforzate.
+1	In	in	ADP	E	_	2	case	_	_
+2	caso	caso	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	agressione	agressione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	fisica	fisico	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	pene	pena	NOUN	S	Gender=Fem|Number=Plur	12	nsubj:pass	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	prigione	prigione	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	state	essere	AUX	VA	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	12	aux:pass	_	_
+12	rinforzate	rinforzare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

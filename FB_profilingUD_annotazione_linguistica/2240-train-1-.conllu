@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi fanno pena ..se nn era per del debbio nessuno avrebbe mai saputo della loro esistenza!
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+3	pena	pena	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+4	..se	..so	ADJ	A	Number=Sing	5	amod	_	_
+5	nn	nn	NOUN	S	Gender=Fem	3	compound	_	_
+6	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+7	per	per	ADP	E	_	10	case	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	7	fixed	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	debbio	debbio	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+11	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
+12	avrebbe	avere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	mai	mai	ADV	B	_	14	advmod	_	_
+14	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	18	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	loro	loro	DET	AP	Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	esistenza	esistenza	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ah ah ah!!!
+1	Ah	ah	INTJ	I	_	0	root	_	_
+2	ah	ah	INTJ	I	_	3	discourse	_	_
+3	ah	ah	INTJ	I	_	4	discourse	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

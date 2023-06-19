@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = So che sarà molto difficile introdurre la flessibilità in uscita per noi sessantenni ma, sono sicuro che ci riuscirai a costo di mettere la fiducia, aiutaci che noi ti aiuteremo Matteo Renzi è una promessa.
+1	So	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	cop	_	_
+4	molto	molto	ADV	B	_	5	advmod	_	_
+5	difficile	difficile	ADJ	A	Number=Sing	1	ccomp	_	_
+6	introdurre	introdurre	VERB	V	VerbForm=Inf	5	csubj	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	flessibilità	flessibilità	NOUN	S	Gender=Fem	6	obj	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	uscita	uscita	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	obl	_	_
+13	sessantenni	sessantenne	NOUN	S	Gender=Masc|Number=Plur	12	appos	_	_
+14	ma	ma	CCONJ	CC	_	17	cc	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	1	conj	_	_
+18	che	che	SCONJ	CS	_	20	mark	_	_
+19	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	20	expl	_	_
+20	riuscirai	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	costo	costo	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	_
+23	di	di	ADP	E	_	24	mark	_	_
+24	mettere	mettere	VERB	V	VerbForm=Inf	22	acl	_	_
+25	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	fiducia	fiducia	NOUN	S	Gender=Fem|Number=Sing	24	obj	_	SpaceAfter=No
+27	,	,	PUNCT	FF	_	26	punct	_	_
+28	aiutaci	aiutaco	NOUN	S	Gender=Masc|Number=Plur	26	nmod	_	_
+29	che	che	PRON	PR	PronType=Rel	37	nsubj	_	_
+30	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	37	nsubj	_	_
+31	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	32	obj	_	_
+32	aiuteremo	aiutare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	30	acl:relcl	_	_
+33	Matteo	Matteo	PROPN	SP	_	32	nsubj	_	_
+34	Renzi	Renzi	PROPN	SP	_	33	flat:name	_	_
+35	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cop	_	_
+36	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
+37	promessa	promessa	NOUN	S	Gender=Fem|Number=Sing	28	acl:relcl	_	SpaceAfter=No
+38	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

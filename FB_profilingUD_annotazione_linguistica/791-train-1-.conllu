@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = quelle due racchie
+1	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	3	nmod	_	_
+2	due	due	NUM	N	NumType=Card	3	nummod	_	_
+3	racchie	racchia	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
+

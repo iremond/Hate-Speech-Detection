@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nooooooooooooo ma cosa rideee quelle ebete
+1	Nooooooooooooo	Nooooooooooooo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ma	ma	CCONJ	CC	_	4	cc	_	_
+3	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	obj	_	_
+4	rideee	rideeo	VERB	V	VerbForm=Inf	1	conj	_	_
+5	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	4	obl	_	_
+6	ebete	ebeto	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	SpacesAfter=\n\n
+

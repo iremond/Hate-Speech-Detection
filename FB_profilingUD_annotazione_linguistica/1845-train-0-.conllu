@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voto il NO!
+1	Voto	votare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	NO	No	PROPN	SP	_	1	nsubj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

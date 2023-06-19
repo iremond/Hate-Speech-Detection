@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Odiose.
+1	Odiose.	Odiose.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n\n
+

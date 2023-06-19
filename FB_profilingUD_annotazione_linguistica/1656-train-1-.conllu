@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SONO FUORI DI TESTA QUESTE DUE !!!!!!!!!!!!!
+1	SONO	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	FUORI	fuori	PROPN	SP	_	0	root	_	_
+3	DI	Di	ADP	E	_	4	case	_	_
+4	TESTA	testa	PROPN	SP	_	2	nmod	_	_
+5	QUESTE	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+6	DUE	Due	PROPN	SP	_	2	nsubj	_	_
+7	!!!	!!!	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	!!!!!!!!!!	!!!!!!!!!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

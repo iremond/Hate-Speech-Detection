@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini cerca di far votare anche il lunedì x le comunali
+1	Salvini	Salvini	PROPN	SP	_	2	nsubj	_	_
+2	cerca	cercare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4	far	fare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	votare	votare	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	anche	anche	ADV	B	_	8	advmod	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	lunedì	lunedì	NOUN	S	Gender=Masc	5	obl	_	_
+9	x	x	SYM	SYM	_	8	nmod	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	comunali	comunali	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpacesAfter=\n\n
+

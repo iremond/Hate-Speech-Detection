@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = rari come perle
+1	rari	raro	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
+2	come	come	ADV	B	_	1	advmod	_	_
+3-4	perle	_	_	_	_	_	_	_	SpacesAfter=\n\n
+3	per	per	ADP	E	_	4	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	det	_	_
+

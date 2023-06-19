@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scusa Matteo, ma se io quel muratore lo prendo dalla collottola e lo faccio uscire da casa mia di prepotenza, magari dalla finestra, che mi possono fare ?
+1	Scusa	scusa	PROPN	SP	_	0	root	_	_
+2	Matteo	Matteo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	8	punct	_	_
+4	ma	ma	CCONJ	CC	_	8	cc	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	muratore	muratore	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	prendo	prendere	VERB	V	VerbForm=Ger	8	advcl	_	_
+11-12	dalla	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	collottola	collottola	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	_
+17	uscire	uscire	VERB	V	VerbForm=Inf	16	xcomp	_	_
+18	da	da	ADP	E	_	19	case	_	_
+19	casa	casa	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+20	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	prepotenza	prepotenza	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	17	punct	_	_
+24	magari	magari	ADV	B	_	27	advmod	_	_
+25-26	dalla	_	_	_	_	_	_	_	_
+25	da	da	ADP	E	_	27	case	_	_
+26	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	finestra	finestra	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+28	,	,	PUNCT	FF	_	27	punct	_	_
+29	che	che	PRON	PR	PronType=Rel	32	nsubj	_	_
+30	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	32	iobj	_	_
+31	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	_
+32	fare	fare	VERB	V	VerbForm=Inf	27	acl:relcl	_	_
+33	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

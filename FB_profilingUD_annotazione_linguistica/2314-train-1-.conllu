@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voto No.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	No.	No.	PROPN	SP	_	2	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..qualsiasi cosa pur di mandare a casa sto buffone!
+1	..qualsiasi	..qualsiasi	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	pur	pure	ADV	B	_	5	advmod	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	mandare	mandare	VERB	V	VerbForm=Inf	2	acl	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	casa	casa	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+8	sto	sto	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	buffone	buffone	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !..
+1	!.	!.	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

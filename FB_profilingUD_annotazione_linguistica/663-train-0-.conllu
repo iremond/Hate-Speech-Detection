@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MI SEMBRAVA STRANO CHE NON CI FOSSIIIIIII,HA,HA FORZA TENIAMO DUROOOO,E VAIIII CAPITANOOOO
+1	MI	mi	PROPN	SP	_	0	root	_	_
+2	SEMBRAVA	sembrare	PROPN	SP	_	1	flat:name	_	_
+3	STRANO	strano	PROPN	SP	_	1	flat:name	_	_
+4	CHE	Che	PROPN	SP	_	9	obj	_	_
+5	NON	non	PROPN	SP	_	4	flat:name	_	_
+6	CI	ci	PROPN	SP	_	4	flat:name	_	_
+7	FOSSIIIIIII,HA,HA	FOSSIIIIIII,HA,HA	PROPN	SP	_	4	flat:name	_	_
+8	FORZA	Forza	PROPN	SP	_	4	flat:name	_	_
+9	TENIAMO	tenere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+10	DUROOOO,E	DUROOOO,E	PROPN	SP	_	9	obj	_	_
+11	VAIIII	VAIIII	PROPN	SP	_	10	flat:name	_	_
+12	CAPITANOOOO	CAPITANOOOO	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n\n
+

@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Speriamo di liberarci presto di sta gente , chissa che siano costrette ad emigrare .
+1	Speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3-4	liberarci	_	_	_	_	_	_	_	_
+3	liberar	liberare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+5	presto	presto	ADV	B	_	8	advmod	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	sta	sta	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+8	gente	gente	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	chissa	chissare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	che	che	SCONJ	CS	_	13	mark	_	_
+12	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
+13	costrette	costringere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	ccomp	_	_
+14	ad	a	ADP	E	_	15	mark	_	_
+15	emigrare	emigrare	VERB	V	VerbForm=Inf	13	xcomp	_	_
+16	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

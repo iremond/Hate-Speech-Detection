@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fai zittire quel Room ..sono bugiardi.
+1	Fai	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+2	zittire	zittire	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	Room	Room	PROPN	SP	_	6	nsubj	_	_
+5	..sono	es..sere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	bugiardi.	bugiardi.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma vedi come ci prendono per il c.......che vergogna
+1	..ma	..ma	ADV	B	_	2	advmod	_	_
+2	vedi	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	come	come	SCONJ	CS	_	5	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	_
+5	prendono	prendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	per	per	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	c.......che	c.......ca	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+9	vergogna	vergogna	NOUN	S	Gender=Fem	5	obl	_	SpacesAfter=\n\n
+

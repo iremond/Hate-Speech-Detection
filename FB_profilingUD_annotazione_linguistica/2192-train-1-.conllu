@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quelli dei cessi a-sociali.....
+1	Quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	0	root	_	_
+2-3	dei	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	cessi	cesso	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+5	a-sociali.....	a-sociali...	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ah ah ruspaaaaaaa
+1	Ah	ah	INTJ	I	_	3	discourse	_	_
+2	ah	ah	INTJ	I	_	3	discourse	_	_
+3	ruspaaaaaaa	ruspaaaaaao	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

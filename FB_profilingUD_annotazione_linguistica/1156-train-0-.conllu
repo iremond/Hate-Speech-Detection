@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non è possibile che il Cruciani abbia effettuato una deriva tale da farmi condividere quello che pensa Parenzo!!!!!
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	possibile	possibile	ADJ	A	Number=Sing	0	root	_	_
+4	che	che	SCONJ	CS	_	8	mark	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Cruciani	Cruciani	PROPN	SP	_	8	nsubj	_	_
+7	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	effettuato	effettuare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	csubj	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	deriva	derivo	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	tale	tale	ADJ	A	Number=Sing	10	amod	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	farmi	arma|farme	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+14	condividere	condividere	VERB	V	VerbForm=Inf	13	acl	_	_
+15	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	14	obj	_	_
+16	che	che	PRON	PR	PronType=Rel	17	obj	_	_
+17	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+18	Parenzo	Parenzo	PROPN	SP	_	17	nsubj	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+20	!!!!	!!!!	PUNCT	FF	_	3	punct	_	_
+
+# sent_id = 2
+# text = Rivoglio il vecchio Cruciani....
+1	Rivoglio	Rivoglio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	vecchio	vecchio	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	Cruciani...	Cruciani...	PROPN	SP	_	1	obj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = quello attuale per me è finto ... studiato a tavolino!!!!!!
+1	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
+2	attuale	attuale	ADJ	A	Number=Sing	1	amod	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	finto	finto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	...	...	PUNCT	FF	_	6	punct	_	_
+8	studiato	studiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	tavolino	tavolino	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+12	!!!!!	!!!!!	PUNCT	FF	_	6	punct	_	SpacesAfter=\n\n
+

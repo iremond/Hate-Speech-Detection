@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = É
+1	É	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# sent_id = 2
+# text = Parenzo che é finto
+1	Parenzo	Parenzo	PROPN	SP	_	0	root	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	finto	finto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	SpacesAfter=\n\n
+

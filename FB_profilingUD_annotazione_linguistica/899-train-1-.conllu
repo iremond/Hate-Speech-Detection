@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che pericolosi questi brutti razzisti bianchi di Destra!!!!
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	pericolosi	pericoloso	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+3	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+4	brutti	brutto	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+5	razzisti	razzista	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+6	bianchi	bianco	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Destra	destra	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+9	!!!	!!!	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\s\s
+
+# sent_id = 2
+# text = La sinistra ha finito le scuse.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	finito	finire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	scuse.	scuse.	NOUN	S	_	4	obj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = Avanti Matteo!
+1	Avanti	avanti	PROPN	SP	_	0	root	_	_
+2	Matteo	Matteo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

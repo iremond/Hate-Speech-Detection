@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Preferisco lanciare la tv dal balcone, che seguire una persona come te!
+1	Preferisco	preferisco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	lanciare	lanciare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	tv	tv	NOUN	S	Gender=Fem	2	obj	_	_
+5-6	dal	_	_	_	_	_	_	_	_
+5	da	da	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	balcone	balcone	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	1	punct	_	_
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	seguire	seguire	VERB	V	VerbForm=Inf	1	ccomp	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	persona	persona	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+13	come	come	ADP	E	_	14	case	_	_
+14	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	nmod	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Degrado...
+1	Degrado..	Degrado	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

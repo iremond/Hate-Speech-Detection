@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MA NA DENUNCIA NO!?
+1	MA	ma	PROPN	SP	_	0	root	_	_
+2	NA	Na	PROPN	SP	_	1	flat:name	_	_
+3	DENUNCIA	denuncia	PROPN	SP	_	1	flat:name	_	_
+4	NO	No	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !?
+1	!?	!?	PUNCT	FF	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ....
+1	....	....	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

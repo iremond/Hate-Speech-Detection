@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spero di no ma mi sa di si cruciani Parenzo sono la destra chiassosa fancazzo e la sinistra chic amica dei rom e l itaLia e la spazzatura
+1	Spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	no	no	ADV	BN	PronType=Neg	1	advmod	_	_
+4	ma	ma	CCONJ	CC	_	6	cc	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+6	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+7	di	di	ADP	E	_	13	case	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl:impers	_	_
+9	cruciani	cruciano	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+10	Parenzo	Parenzo	PROPN	SP	_	9	nmod	_	_
+11	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	destra	destra	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+14	chiassosa	chiassoso	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	fancazzo	fancazzo	NOUN	S	Gender=Masc|Number=Sing	6	xcomp	_	_
+16	e	e	CCONJ	CC	_	18	cc	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+19	chic	chic	NOUN	S	Gender=Fem	18	compound	_	_
+20	amica	amico	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	_
+21-22	dei	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	rom	rom	NOUN	S	Gender=Masc	18	nmod	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	l	l	NOUN	S	Gender=Masc	23	conj	_	_
+26	itaLia	itaLia	PROPN	SP	_	25	nmod	_	_
+27	e	e	CCONJ	CC	_	29	cc	_	_
+28	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	spazzatura	spazzatura	NOUN	S	Gender=Fem|Number=Sing	26	conj	_	SpacesAfter=\n\n
+

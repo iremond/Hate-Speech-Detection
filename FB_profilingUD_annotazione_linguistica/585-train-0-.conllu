@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grazie per condividere i nostri contenuti, ma manca il tag con il nome della nostra pagina in descrizione.
+1	Grazie	grazie	NOUN	S	_	0	root	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	condividere	condividere	VERB	V	VerbForm=Inf	1	acl	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	contenuti	contenuto	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	1	punct	_	_
+8	ma	ma	CCONJ	CC	_	9	cc	_	_
+9	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	tag	tag	NOUN	S	Gender=Masc	9	obj	_	_
+12	con	con	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	nome	nome	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	18	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	pagina	pagina	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+19	in	in	ADP	E	_	20	case	_	_
+20	descrizione	descrizione	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Strana dimenticanza.
+1	Strana	Strano	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	dimenticanza	dimenticanza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 3
+# text = - Peris
+1	-	-	PUNCT	FF	_	2	punct	_	_
+2	Peris	Peris	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

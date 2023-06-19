@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Basta cambiare canale
+1	Basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cambiare	cambiare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	canale	canale	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpacesAfter=\n\n
+

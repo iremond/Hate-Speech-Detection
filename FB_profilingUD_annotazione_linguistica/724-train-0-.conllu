@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 90% reale
+1	90	90	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+2	%	%	SYM	SYM	_	0	root	_	_
+3	reale	reale	ADJ	A	Number=Sing	2	amod	_	SpacesAfter=\n\n
+

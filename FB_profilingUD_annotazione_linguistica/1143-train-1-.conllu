@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Preferisco avere una gastroenterite con diarrea e vomito, piuttosto che ascoltare queste 2 ridicole pagliacce!!
+1	Preferisco	preferisco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	avere	avere	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	gastroenterite	gastroenterita	NOUN	S	Gender=Fem	2	obj	_	_
+5	con	con	ADP	E	_	6	case	_	_
+6	diarrea	diarrea	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	vomito	vomito	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	2	punct	_	_
+10	piuttosto	piuttosto	ADV	B	_	12	mark	_	_
+11	che	che	SCONJ	CS	_	10	fixed	_	_
+12	ascoltare	ascoltare	VERB	V	VerbForm=Inf	2	advcl	_	_
+13	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	16	det	_	_
+14	2	2	NUM	N	NumType=Card	16	nummod	_	_
+15	ridicole	ridicolo	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	_
+16	pagliacce	pagliaccia	NOUN	S	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

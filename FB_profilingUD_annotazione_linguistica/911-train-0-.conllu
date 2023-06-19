@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io si.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

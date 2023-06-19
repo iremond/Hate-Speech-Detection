@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NO, tanto è vero che ho cambiato canale ....
+1	NO	no	INTJ	I	Polarity=Neg	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	tanto	tanto	ADV	B	_	5	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	_
+9	canale	canale	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+10	...	...	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma mi domando 2 racchie del PD dovevi scieglire sono rompicoglioni sono buoni forse ad fare le badante.
+1	ma	ma	CCONJ	CC	_	3	cc	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	domando	domare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	2	2	NUM	N	NumType=Card	5	nummod	_	_
+5	racchie	racchia	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	PD	Pd	PROPN	SP	_	5	nmod	_	_
+9	dovevi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	10	aux	_	_
+10	scieglire	scieglire	VERB	V	VerbForm=Inf	14	nsubj	_	_
+11	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	rompicoglioni	rompicoglione	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+13	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	buoni	buono	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+15	forse	forse	ADV	B	_	14	advmod	_	_
+16	ad	a	ADP	E	_	17	mark	_	_
+17	fare	fare	VERB	V	VerbForm=Inf	14	xcomp	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	badante	badante	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

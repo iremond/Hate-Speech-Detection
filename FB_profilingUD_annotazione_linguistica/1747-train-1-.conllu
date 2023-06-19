@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Altra domanda, la signora Malpezzi non ha vergogna di confrontarsi con persone bisognose che non sanno come mettere insieme il pranzo con la cena,mentre, in parlamento si discute step child adoption ed unioni civili?
+1	Altra	altro	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+2	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	signora	signore	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+6	Malpezzi	Malpezzi	PROPN	SP	_	5	nmod	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11-12	confrontarsi	_	_	_	_	_	_	_	_
+11	confrontar	confrontarre	VERB	V	VerbForm=Inf	9	acl	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+13	con	con	ADP	E	_	14	case	_	_
+14	persone	persona	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+15	bisognose	bisognoso	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	_
+16	che	che	PRON	PR	PronType=Rel	18	nsubj	_	_
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+19	come	come	SCONJ	CS	_	20	mark	_	_
+20	mettere	mettere	VERB	V	VerbForm=Inf	18	ccomp	_	_
+21	insieme	insieme	ADV	B	_	20	advmod	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	pranzo	pranzo	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+24	con	con	ADP	E	_	26	case	_	_
+25	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	cena,mentre	cena,mentre	NOUN	S	Gender=Fem|Number=Plur	23	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	FF	_	8	punct	_	_
+28	in	in	ADP	E	_	29	case	_	_
+29	parlamento	parlamento	NOUN	S	Gender=Masc|Number=Sing	31	obl	_	_
+30	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	31	expl	_	_
+31	discute	discutere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+32	step	step	X	SW	Foreign=Yes	31	obj	_	_
+33	child	child	X	SW	Foreign=Yes	32	flat:foreign	_	_
+34	adoption	adoption	X	SW	Foreign=Yes	32	flat:foreign	_	_
+35	ed	e	CCONJ	CC	_	36	cc	_	_
+36	unioni	unioni	NOUN	S	Gender=Fem|Number=Plur	32	conj	_	_
+37	civili	civile	ADJ	A	Number=Plur	36	amod	_	SpaceAfter=No
+38	?	?	PUNCT	FS	_	8	punct	_	SpacesAfter=\n\n
+

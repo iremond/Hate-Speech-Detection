@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No mi vanno x traversoooo
+1	No	no	INTJ	I	Polarity=Neg	3	discourse	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	x	x	SYM	SYM	_	3	xcomp	_	_
+5	traversoooo	traversoooo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	SpacesAfter=\n\n
+

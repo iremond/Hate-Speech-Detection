@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No, sono pesanti come la peperonata.
+1	No	no	INTJ	I	Polarity=Neg	4	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	pesanti	pesare	ADJ	A	Number=Plur	0	root	_	_
+5	come	come	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	peperonata	peperonata	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

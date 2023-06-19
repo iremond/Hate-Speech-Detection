@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ehhhh siii!
+1	Ehhhh	Ehhhh	ADV	B	_	2	advmod	_	_
+2	siii	sterzo	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!Tutte persone perbene!!!!
+1	!!Tutte	!!Tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	2	det	_	_
+2	persone	persona	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	perbene	perbene	ADJ	A	_	2	amod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

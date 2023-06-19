@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spaccali tutti!
+1	Spaccali	Spaccale	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	obj	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!👍👍👍
+1	!!!👍👍👍	!!!👍👍👍	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

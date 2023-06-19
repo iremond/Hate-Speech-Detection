@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma sta deficente che cazz dice ma falla tacere x non se li porta a casa sua
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	deficente	deficente	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	cazz	cazz	NOUN	S	Gender=Masc	6	nsubj	_	_
+6	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	falla	fallare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+9	tacere	tacere	VERB	V	VerbForm=Inf	8	ccomp	_	SpacesAfter=\s\s
+10	x	x	SYM	SYM	_	14	nsubj	_	_
+11	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+12	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
+14	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	casa	casa	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+17	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	nsubj	_	SpacesAfter=\n\n
+

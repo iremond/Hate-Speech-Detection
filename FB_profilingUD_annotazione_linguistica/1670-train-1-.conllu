@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = RIBELLATEVI,BLOCCATE TUTTO........
+1	RIBELLATEVI	RIBELLATEVI	ADJ	NO	Number=Sing|NumType=Ord	3	amod	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	BLOCCATE	BLOCCATE	PROPN	SP	_	0	root	_	_
+4	TUTTO.......	TUTTO.......	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

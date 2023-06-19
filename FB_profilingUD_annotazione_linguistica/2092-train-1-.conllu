@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo per me sono due oche, ma la malpezzi la riempierei di sberle sembra una rom come si veste
+1	Matteo	Matteo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	due	due	NUM	N	NumType=Card	6	nummod	_	_
+6	oche	oco	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	12	punct	_	_
+8	ma	ma	CCONJ	CC	_	12	cc	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+11	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	riempierei	riempiereo	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+13	di	di	ADP	E	_	14	mark	_	_
+14-15	sberle	_	_	_	_	_	_	_	_
+14	sber	sber	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	14	obj	_	_
+16	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+17	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	rom	rom	NOUN	S	Gender=Masc	16	obj	_	_
+19	come	come	ADP	E	_	21	mark	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl:impers	_	_
+21	veste	vestire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	SpacesAfter=\n\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = è semplice ....basta cambiare canale ahahaha!
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	semplice	semplice	ADJ	A	Number=Sing	0	root	_	_
+3	....basta	....basta	ADJ	A	Number=Sing	4	amod	_	_
+4	cambiare	cambiare	VERB	V	VerbForm=Inf	2	csubj	_	_
+5	canale	canale	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6	ahahaha	ahahaha	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!!!....
+1	!!!!!...	!!!!!...	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

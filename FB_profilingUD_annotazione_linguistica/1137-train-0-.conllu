@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo coraggio .
+1	Matteo	Matteo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

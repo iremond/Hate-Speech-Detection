@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo, TI ASPETTIAMO IN BOLOGNINA la zona più degradata di Bologna, in mano alla criminalità straniera!
+1	Matteo	Matteo	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	TI	ti	PROPN	SP	_	1	flat:name	_	_
+4	ASPETTIAMO	aspettare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+5	IN	in	PROPN	SP	_	4	obj	_	_
+6	BOLOGNINA	BOLOGNINA	PROPN	SP	_	5	flat:name	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	zona	zona	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	più	più	ADV	B	_	10	advmod	_	_
+10	degradata	degradato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Bologna	Bologna	PROPN	SP	_	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	5	punct	_	_
+14	in	in	ADP	E	_	15	case	_	_
+15	mano	mano	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+16-17	alla	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	criminalità	criminalità	NOUN	S	Gender=Fem	15	nmod	_	_
+19	straniera	straniero	ADJ	A	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Chiediamo più militari e più militarizzazione!
+1	Chiediamo	chiedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	più	più	ADV	B	_	3	advmod	_	_
+3	militari	militare	ADJ	A	Number=Plur	1	xcomp	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	più	più	ADV	B	_	6	advmod	_	_
+6	militarizzazione	militarizzazione	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

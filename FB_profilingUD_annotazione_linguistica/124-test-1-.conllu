@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ruspare forza
+1	Ruspare	Ruspare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	forza	forza	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpacesAfter=\n\n
+

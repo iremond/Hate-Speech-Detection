@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SE NON PRIMA QUALCUNO STUPRI
+1	SE	se	PROPN	SP	_	0	root	_	_
+2	NON	non	PROPN	SP	_	1	flat:name	_	_
+3	PRIMA	Primo	PROPN	SP	_	2	flat:name	_	_
+4	QUALCUNO	qualcuno	PROPN	SP	_	2	flat:name	_	_
+5	STUPRI	STUPRI	PROPN	SP	_	2	flat:name	_	_
+
+# sent_id = 2
+# text = LA BOLDRINI FINO A SAZIARLA .QUESTO SCEMPIO NON LO FANNO FINIRE
+1	LA	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	BOLDRINI	BOLDRINI	PROPN	SP	_	0	root	_	_
+3	FINO	Fino	PROPN	SP	_	2	flat:name	_	_
+4	A	A	ADP	E	_	5	case	_	_
+5-6	SAZIARLA	_	_	_	_	_	_	_	_
+5	SAZIAR	SAZIAR	PROPN	SP	_	2	nmod	_	_
+6	LA	La	PROPN	SP	_	5	flat:name	_	_
+7	.QUESTO	.QUESTO	PROPN	SP	_	5	flat:name	_	_
+8	SCEMPIO	scempio	PROPN	SP	_	5	flat:name	_	_
+9	NON	non	PROPN	SP	_	8	nmod	_	_
+10	LO	lo	PROPN	SP	_	9	flat:name	_	_
+11	FANNO	fare	PROPN	SP	_	9	flat:name	_	_
+12	FINIRE	finire	PROPN	SP	_	9	flat:name	_	SpacesAfter=\n\n
+

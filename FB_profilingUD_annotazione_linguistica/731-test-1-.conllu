@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = quello ha la faccia da culo
+1	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	culo	culo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpacesAfter=\n\n
+

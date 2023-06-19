@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È dura, per la miseria!!!!
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	dura	duro	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	per	per	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	miseria	miseria	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	!!!	!!!	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

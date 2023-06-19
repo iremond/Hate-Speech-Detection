@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma non le vedete che ridacchiano e ci prendono x il c..o?
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	le	lo	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	vedete	vedere	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	ridacchiano	ridacchiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	iobj	_	_
+9	prendono	prendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+10	x	x	SYM	SYM	_	9	obl	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	c..o	c..o	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Vergogna
+1	Vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+

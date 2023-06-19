@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Assolutanente nooooo.
+1	Assolutanente	Assolutanente	NOUN	S	Number=Sing	0	root	_	_
+2	nooooo	nooooo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Messe assieme poi sono in coktail letale.
+1	Messe	mettere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+2	assieme	assieme	ADV	B	_	6	advmod	_	_
+3	poi	poi	ADV	B	_	6	advmod	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	coktail	coktail	NOUN	S	Gender=Masc	0	root	_	_
+7	letale	letale	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

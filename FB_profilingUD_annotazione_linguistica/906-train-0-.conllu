@@ -1,0 +1,67 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Presidente, il processo di ricollocamento dei dipendenti provinciali e CRI ha vanificato per quasi un biennio le graduatorie dei concorsi pubblici.
+1	Presidente	Presidente	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	processo	processo	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	ricollocamento	ricollocamento	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7-8	dei	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	dipendenti	dipendente	NOUN	S	Number=Plur	6	nmod	_	_
+10	provinciali	provinciale	ADJ	A	Number=Plur	9	amod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	CRI	CRI	PROPN	SP	_	1	conj	_	_
+13	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	vanificato	vanificare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+15	per	per	ADP	E	_	18	case	_	_
+16	quasi	quasi	ADV	B	_	18	advmod	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	SpacesAfter=\s\s
+18	biennio	biennio	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	graduatorie	graduatoria	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+21-22	dei	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	23	case	_	_
+22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	concorsi	concorso	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	_
+24	pubblici	pubblico	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 2
+# text = Non ritiene sia corretto restituire tale tempo alla validità delle graduatorie ?
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	ritiene	ritenere	SCONJ	CS	_	4	mark	_	_
+3	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	corretto	corretto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	restituire	restituire	VERB	V	VerbForm=Inf	4	csubj	_	_
+6	tale	tale	DET	DD	Number=Sing|PronType=Dem	7	det	_	_
+7	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8-9	alla	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	validità	validità	NOUN	S	Gender=Fem	5	obl	_	_
+11-12	delle	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	graduatorie	graduatoria	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+14	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = Non ritiene sia corretto restituire il tempo agli idonei PA ?
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	ritiene	ritenere	SCONJ	CS	_	4	mark	_	_
+3	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	corretto	corretto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	restituire	restituire	VERB	V	VerbForm=Inf	4	csubj	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8-9	agli	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	11	case	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	idonei	idoneo	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	_
+11	PA	PA	PROPN	SP	_	5	obl	_	_
+12	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

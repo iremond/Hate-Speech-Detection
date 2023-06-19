@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma bai a cagai.
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	bai	bai	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	SpacesAfter=\s\s
+4	cagai	cagaio	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

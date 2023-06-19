@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A parte che non ti sto a spiegare la differenza tra incontri di stato e incontri privati ma come funziona se fa una cosa sbagliata gentioni/ renzi e poi la fa salvini il secondo gode di un ' immunita data dal primo?
+1	A	a	ADP	E	_	2	case	_	_
+2	parte	parte	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
+3	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	expl	_	_
+6	sto	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	spiegare	spiegare	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	tra	tra	ADP	E	_	12	case	_	_
+12	incontri	incontro	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	stato	stato	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	incontri	incontro	NOUN	S	Gender=Masc|Number=Plur	12	conj	_	_
+17	privati	privato	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18	ma	ma	CCONJ	CC	_	20	cc	_	_
+19	come	come	SCONJ	CS	_	20	mark	_	_
+20	funziona	funzionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	se	se	SCONJ	CS	_	22	mark	_	_
+22	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+23	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	22	obj	_	_
+25	sbagliata	sbagliato	ADJ	A	Gender=Fem|Number=Sing	24	amod	_	_
+26	gentioni	gentione	NOUN	S	Gender=Fem|Number=Plur	24	nsubj	_	SpaceAfter=No
+27	/	/	PUNCT	FF	_	26	punct	_	_
+28	renzi	renziare	NOUN	S	Gender=Masc|Number=Plur	26	compound	_	_
+29	e	e	CCONJ	CC	_	33	cc	_	_
+30	poi	poi	ADV	B	_	33	advmod	_	_
+31	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+32	fa	fare	ADV	B	_	33	advmod	_	_
+33	salvini	salvino	ADJ	A	Gender=Masc|Number=Plur	26	conj	_	_
+34	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+35	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	36	amod	_	_
+36	gode	gode	NOUN	S	Gender=Masc	33	nsubj	_	_
+37	di	di	ADP	E	_	40	mark	_	_
+38	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
+39	'	'	PUNCT	FB	_	40	punct	_	_
+40	immunita	immunita	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	36	acl	_	_
+41	data	dare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	40	advcl	_	_
+42-43	dal	_	_	_	_	_	_	_	_
+42	da	da	ADP	E	_	44	case	_	_
+43	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
+44	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	41	obl:agent	_	SpaceAfter=No
+45	?	?	PUNCT	FS	_	20	punct	_	SpacesAfter=\n\n
+

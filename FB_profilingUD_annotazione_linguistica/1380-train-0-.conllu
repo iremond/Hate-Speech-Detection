@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voterò No!!
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voterò	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	No	No	PROPN	SP	_	2	obj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

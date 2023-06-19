@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = https://www.facebook.com/Noi-che-voteremo-NO-al-referendum-costituzionale-Contiamoci-135495336828546/?fref=ts Invitate tutti
+1	https://www.facebook.com/Noi-che-voteremo-NO-al-referendum-costituzionale-Contiamoci-135495336828546/?fref=ts	https://www.facebook.com/Noi-che-voteremo-NO-al-referendum-costituzionale-Contiamoci-135495336828546/?fref=ts	PROPN	SP	_	0	root	_	_
+2	Invitate	Invitate	PROPN	SP	_	1	flat:name	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	nmod	_	SpacesAfter=\n\n
+

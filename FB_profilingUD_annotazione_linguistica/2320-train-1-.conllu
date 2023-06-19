@@ -1,0 +1,52 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma la Malpezzi con il suo dondolio col capo sembra quei canetti che si mettevano dietro il lunotto della macchina ,poi ride sempre non credo stia bene stasera (sempre) fategli dare dalla suora la pasticca gialla!
+1	ma	ma	CCONJ	CC	_	11	cc	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Malpezzi	Malpezzi	PROPN	SP	_	11	nsubj	_	_
+4	con	con	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	dondolio	dondolio	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+8-9	col	_	_	_	_	_	_	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	capo	capo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+11	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	13	det	_	_
+13	canetti	canetto	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+14	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	mettevano	mettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
+17	dietro	dietro	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	lunotto	lunotto	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+20-21	della	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	_
+23	,poi	,po	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	24	obj	_	_
+24	ride	ridere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	parataxis	_	_
+25	sempre	sempre	ADV	B	_	24	advmod	_	_
+26	non	non	ADV	BN	PronType=Neg	27	advmod	_	_
+27	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
+28	stia	stare	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
+29	bene	bene	ADV	B	_	30	advmod	_	_
+30	stasera	stasera	ADV	B	_	34	advmod	_	_
+31	(	(	PUNCT	FB	_	34	punct	_	SpaceAfter=No
+32	sempre	sempre	ADV	B	_	34	advmod	_	SpaceAfter=No
+33	)	)	PUNCT	FB	_	32	punct	_	_
+34-35	fategli	_	_	_	_	_	_	_	_
+34	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	_
+35	gli	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	iobj	_	_
+36	dare	dare	VERB	V	VerbForm=Inf	34	ccomp	_	_
+37-38	dalla	_	_	_	_	_	_	_	_
+37	da	da	ADP	E	_	39	case	_	_
+38	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
+39	suora	suora	NOUN	S	Gender=Fem|Number=Sing	36	obl	_	_
+40	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
+41	pasticca	pasticca	NOUN	S	Gender=Fem|Number=Sing	36	obj	_	_
+42	gialla	giallo	ADJ	A	Gender=Fem|Number=Sing	41	amod	_	SpaceAfter=No
+43	!	!	PUNCT	FS	_	34	punct	_	SpacesAfter=\n\n
+

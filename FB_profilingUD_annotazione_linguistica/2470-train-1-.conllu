@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No noi lo ma che ci vengono a fare in tv a sfoggiare abiti costosi a spese ns che si vergognino
+1	No	no	INTJ	I	Polarity=Neg	7	discourse	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
+7	vengono	venire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	fare	fare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	tv	tv	NOUN	S	Gender=Fem	9	obl	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13	sfoggiare	sfoggiare	VERB	V	VerbForm=Inf	9	xcomp	_	_
+14	abiti	abito	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	_
+15	costosi	costoso	ADJ	A	Gender=Masc|Number=Plur	14	amod	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
+18	ns	ns	PROPN	Sw	_	17	nmod	_	_
+19	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl	_	_
+21	vergognino	vergognare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	SpacesAfter=\n\n
+

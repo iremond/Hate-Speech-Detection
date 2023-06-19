@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = burocrati.
+1	burocrati.	burocrati.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..succhiapalle
+1	..succhiapalle	..succhiapallo	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
+

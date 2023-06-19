@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = togliere la legge fornero , gabbie salariali e esportare il modello lombardia matteo !!!
+1	togliere	togliere	VERB	V	VerbForm=Inf	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	legge	legge	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	fornero	fornero	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	gabbie	gabbia	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+7	salariali	salariale	ADJ	A	Number=Plur	6	amod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	SpacesAfter=\s\s
+9	esportare	esportare	VERB	V	VerbForm=Inf	1	conj	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	modello	modello	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	lombardia	lombardio	NOUN	S	Gender=Fem|Number=Sing	11	compound	_	SpacesAfter=\s\s
+13	matteo	matteo	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+15	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

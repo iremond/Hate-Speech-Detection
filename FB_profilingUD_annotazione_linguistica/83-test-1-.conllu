@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Neanche un po. Sono le antiitaliane doc.
+1	Neanche	neanche	ADV	BN	PronType=Neg	3	advmod	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	po	po	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+5	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	antiitaliane	antiitaliano	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
+8	doc	doc	NOUN	S	Gender=Fem	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	_
+
+# sent_id = 2
+# text = Disintegrarle
+1-2	Disintegrarle	_	_	_	_	_	_	_	SpacesAfter=\n\n
+1	Disintegrar	Disintegrare	VERB	V	VerbForm=Inf	0	root	_	_
+2	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	1	det	_	_
+

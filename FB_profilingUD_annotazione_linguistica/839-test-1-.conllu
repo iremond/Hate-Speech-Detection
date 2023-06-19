@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La malpezzi sta esprimendo tutta la sua deficienza, ma ha capito la malpezzi che la ruspa va usata per questo Governo di fantocci e poi ai campi degli zingari, ruspa prima al governo e poi ai campi!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	esprimendo	esprimere	VERB	V	VerbForm=Ger	0	root	_	_
+5	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	8	det:predet	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	deficienza	deficienza	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	ma	ma	CCONJ	CC	_	12	cc	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	12	obj	_	_
+15	che	che	SCONJ	CS	_	19	mark	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	ruspa	ruspa	NOUN	S	Gender=Fem|Number=Sing	19	nsubj:pass	_	_
+18	va	andare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:pass	_	_
+19	usata	usare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+20	per	per	ADP	E	_	22	case	_	_
+21	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	22	det	_	_
+22	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+23	di	di	ADP	E	_	24	case	_	_
+24	fantocci	fantoccio	NOUN	S	Gender=Masc|Number=Plur	22	nmod	_	_
+25	e	e	CCONJ	CC	_	29	cc	_	_
+26	poi	poi	ADV	B	_	29	advmod	_	_
+27-28	ai	_	_	_	_	_	_	_	_
+27	a	a	ADP	E	_	29	case	_	_
+28	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
+29	campi	campo	NOUN	S	Gender=Masc|Number=Plur	19	conj	_	_
+30-31	degli	_	_	_	_	_	_	_	_
+30	di	di	ADP	E	_	32	case	_	_
+31	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
+32	zingari	zingaro	NOUN	S	Gender=Masc|Number=Plur	29	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	FF	_	34	punct	_	_
+34	ruspa	ruspare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+35	prima	prima	ADV	B	_	38	case	_	_
+36-37	al	_	_	_	_	_	_	_	_
+36	a	a	ADP	E	_	35	fixed	_	_
+37	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
+38	governo	governo	NOUN	S	Gender=Masc|Number=Sing	34	obl	_	_
+39	e	e	CCONJ	CC	_	43	cc	_	_
+40	poi	poi	ADV	B	_	43	advmod	_	_
+41-42	ai	_	_	_	_	_	_	_	_
+41	a	a	ADP	E	_	43	case	_	_
+42	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	43	det	_	_
+43	campi	campo	NOUN	S	Gender=Masc|Number=Plur	38	conj	_	SpaceAfter=No
+44	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

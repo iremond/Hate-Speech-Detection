@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anno la faccia come il Culo
+1	Anno	e	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+4	come	come	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Culo	Culo	PROPN	SP	_	3	nmod	_	SpacesAfter=\n\n
+

@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non capisco perchè del debbio le faccia partecipare sempre alla trasmissione.
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	capisco	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	perchè	perché	SCONJ	CS	_	6	mark	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	debbio	debbio	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	faccia	faccia	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
+9	partecipare	partecipare	VERB	V	VerbForm=Inf	8	acl	_	_
+10	sempre	sempre	ADV	B	_	9	advmod	_	_
+11-12	alla	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Io quando le vedo cambio canale, credo siamo in molti a non vedere la trasmissione.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+2	quando	quando	SCONJ	CS	_	4	mark	_	_
+3	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	4	iobj	_	_
+4	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+5	cambio	cambio	ADJ	A	Gender=Masc|Number=Sing	4	obj	_	_
+6	canale	canale	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	molti	molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	9	obl	_	_
+12	a	a	ADP	E	_	14	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	vedere	vedere	VERB	V	VerbForm=Inf	9	ccomp	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n\n
+

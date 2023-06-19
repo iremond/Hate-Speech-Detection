@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini in TV?
+1	Salvini	Salvini	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	in	in	ADP	E	_	3	case	_	_
+3	TV	TV	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Che strano
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	strano	strano	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

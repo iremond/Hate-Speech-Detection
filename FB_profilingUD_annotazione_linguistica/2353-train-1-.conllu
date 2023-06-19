@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Difatti ho cambiato canale perché proprio non le digerisco....
+1	Difatti	difatti	CCONJ	CC	_	3	cc	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	canale	canale	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	perché	perché	SCONJ	CS	_	9	mark	_	_
+6	proprio	proprio	ADV	B	_	9	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	digerisco...	digerisco...	NUM	N	NumType=Card	3	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

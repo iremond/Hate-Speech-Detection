@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voto No ..
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	No	No	INTJ	I	Polarity=Neg	2	advmod	_	SpacesAfter=\s\s
+4	..	..	PUNCT	FF	_	3	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = mi auguro che si dimetta.
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+2	auguro	augurare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	SpacesAfter=\s\s
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	dimetta	dimettare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

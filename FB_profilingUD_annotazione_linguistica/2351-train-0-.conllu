@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tu vota quello che vuoi e non influenzare i tuoi adepti dicendo che voti no.
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	vota	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	obj	_	_
+5	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	influenzare	influenzare	VERB	V	VerbForm=Inf	5	conj	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	adepti	adepto	ADJ	A	Gender=Masc|Number=Plur	8	obj	_	_
+12	dicendo	dire	VERB	V	VerbForm=Ger	8	advcl	_	_
+13	che	che	SCONJ	CS	_	14	mark	_	_
+14	voti	voto	NOUN	S	Gender=Masc|Number=Plur	12	ccomp	_	_
+15	no	no	ADV	BN	PronType=Neg	14	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

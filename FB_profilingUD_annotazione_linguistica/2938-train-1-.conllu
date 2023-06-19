@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non mi fanno digerire ma, in compenso, mi fanno cagare.....
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	digerire	digerire	VERB	V	VerbForm=Inf	11	xcomp	_	_
+5	ma	ma	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	11	punct	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	compenso	compenso	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12	cagare.....	cagare.....	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

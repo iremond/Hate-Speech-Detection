@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = odiose muovono il sistema nervoso!la castaldini si vede che nn risce a trovare altro lavoro,come laltra!che facce da culo!
+1	odiose	odioso	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	2	nsubj	_	_
+2	muovono	muovere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	sistema	sistema	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	nervoso!la	nervoso!la	DET	RD	Gender=Fem|Number=Sing	6	det	_	_
+6	castaldini	castaldine	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	SpacesAfter=\s\s
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+8	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	che	che	DET	DQ	PronType=Int	10	det	_	_
+10	nn	nn	NOUN	S	Gender=Fem	8	obj	_	_
+11	risce	riscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13	trovare	trovare	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	obj	_	_
+15	lavoro,come	lavoro,come	ADP	E	_	17	case	_	_
+16	laltra!che	laltra!co	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	17	det	_	_
+17	facce	faccia	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
+18	da	da	ADP	E	_	19	case	_	_
+19	culo	culo	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

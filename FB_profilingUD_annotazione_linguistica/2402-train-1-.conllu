@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = .......tante cazzate!!!
+1	.......tante	.......tante	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	2	det	_	_
+2	cazzate	cazzato	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sembrano alieni che vivono su altri mondi,e sono venuti qui per romperci le scatole e farci incazzare!
+1	Sembrano	sembrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	alieni	alieno	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	vivono	vivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	su	su	ADP	E	_	7	case	_	_
+6	altri	altro	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
+7	mondi,e	mondi,e	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	venuti	venire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	xcomp	_	_
+10	qui	qui	ADV	B	_	9	advmod	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	romperci	rompere	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	scatole	scatola	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16-17	farci	_	_	_	_	_	_	_	_
+16	far	fare	VERB	V	VerbForm=Inf	1	conj	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	16	obj	_	_
+18	incazzare	incazzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !!!!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

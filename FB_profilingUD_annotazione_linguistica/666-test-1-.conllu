@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciao io tutti gli zingari li manderei a lavorare nei campi
+1	Ciao	ciao	INTJ	I	_	2	discourse	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+3	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	5	det:predet	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	zingari	zingaro	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+6	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+7	manderei	mandare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	lavorare	lavorare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10-11	nei	_	_	_	_	_	_	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	campi	campo	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	SpacesAfter=\n\n
+

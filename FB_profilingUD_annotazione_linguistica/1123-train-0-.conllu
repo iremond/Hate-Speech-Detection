@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sig.
+1	Sig	Sig	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Matteo Renzi ma perchė sfogliando questa pagina mi accorgo che le arrivano più commenti di insulti che di complimenti per il suo lavoro?
+1	Matteo	Matteo	PROPN	SP	_	9	nsubj	_	_
+2	Renzi	Renzi	PROPN	SP	_	1	flat:name	_	_
+3	ma	ma	CCONJ	CC	_	4	cc	_	_
+4	perchė	perchė	PROPN	SP	_	1	conj	_	_
+5	sfogliando	sfogliare	VERB	V	VerbForm=Ger	9	advcl	_	_
+6	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	pagina	pagina	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	expl	_	_
+9	accorgo	accorgere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	che	che	SCONJ	CS	_	12	mark	_	_
+11	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	12	iobj	_	_
+12	arrivano	arrivare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+13	più	più	ADV	B	_	14	advmod	_	_
+14	commenti	commento	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	insulti	insulto	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+17	che	che	PRON	PR	PronType=Rel	19	case	_	_
+18	di	di	ADP	E	_	19	case	_	_
+19	complimenti	complimento	NOUN	S	Gender=Fem|Number=Sing	14	acl:relcl	_	_
+20	per	per	ADP	E	_	23	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 3
+# text = È una mia impressione ?
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	impressione	impressione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

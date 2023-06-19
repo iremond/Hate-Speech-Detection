@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Schifezza di gente la peggiore spazzatura dell,umanità !!
+1	Schifezza	Schifezza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	gente	gente	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	peggiore	peggiore	ADJ	A	Degree=Cmp|Number=Sing	6	amod	_	_
+6	spazzatura	spazzatura	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+7	dell,umanità	dell,umanità	NOUN	S	Gender=Fem	6	compound	_	_
+8	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

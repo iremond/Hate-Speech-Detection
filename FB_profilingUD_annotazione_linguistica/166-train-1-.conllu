@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mamma mia le più odiose,due streghe bacheche
+1	Mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	1	det:poss	_	_
+3	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	odiose,due	odiose,due	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+6	streghe	strega	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+7	bacheche	bacheco	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpacesAfter=\n\n
+

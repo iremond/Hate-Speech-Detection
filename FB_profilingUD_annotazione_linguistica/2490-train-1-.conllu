@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci mancava solo Librandi ed eravamo al completo.
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	mancava	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	solo	solo	ADV	B	_	4	advmod	_	_
+4	Librandi	Librandi	PROPN	SP	_	2	nsubj	_	_
+5	ed	e	CCONJ	CC	_	9	cc	_	_
+6	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	9	cop	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	completo.	completo.	NOUN	S	Gender=Masc	4	conj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....ma quante str.....te dicono, pensano che siamo tutti scemi...
+1	....ma	....mare	ADV	B	_	6	advmod	_	_
+2	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	3	det	_	_
+3	str.....te	str.....to	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+4	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	pensano	pensare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	che	che	SCONJ	CS	_	9	mark	_	_
+8	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nsubj	_	_
+10	scemi...	scemi.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

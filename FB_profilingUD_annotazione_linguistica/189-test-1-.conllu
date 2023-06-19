@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = no , infatti non guardo più queste trasmissioni ,sono come il prezzemolo e sfoggiano le idee come se fossero brillanti , datevi una mossa e buttateli tutti giù.
+1	no	no	INTJ	I	Polarity=Neg	5	discourse	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	infatti	infatti	ADV	B	_	5	advmod	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	più	più	ADV	B	_	5	advmod	_	_
+7	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	_
+8	trasmissioni	trasmissione	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+9	,sono	es,sere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+10	come	come	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	prezzemolo	prezzemolo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	sfoggiano	sfoggiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	idee	idea	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+17	come	come	ADV	B	_	20	mark	_	_
+18	se	se	SCONJ	CS	_	17	fixed	_	_
+19	fossero	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
+20	brillanti	brillare	ADJ	A	Number=Plur	14	advcl	_	_
+21	,	,	PUNCT	FF	_	22	punct	_	_
+22	datevi	dare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	_
+23	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+24	mossa	mossa	NOUN	S	Gender=Fem|Number=Sing	22	obj	_	_
+25	e	e	CCONJ	CC	_	26	cc	_	_
+26-27	buttateli	_	_	_	_	_	_	_	_
+26	buttate	buttare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	_
+27	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	26	obj	_	_
+28	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	26	obl	_	_
+29	giù	giù	ADV	B	_	26	advmod	_	SpaceAfter=No
+30	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questa a detto una cazzata le leggi ci sono
+1	Questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	9	nsubj	_	_
+2	a	a	ADP	E	_	5	case	_	_
+3	detto	dire	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cazzata	cazzata	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	leggi	legge	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

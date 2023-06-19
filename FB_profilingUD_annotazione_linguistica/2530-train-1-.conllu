@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La castaldini e Inchiavabile!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	castaldini	castaldine	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	Inchiavabile	Inchiavabile	PROPN	SP	_	2	conj	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

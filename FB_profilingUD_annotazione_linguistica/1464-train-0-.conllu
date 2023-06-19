@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = neanche col bicarbonatooooo
+1	neanche	neanche	ADV	BN	PronType=Neg	4	advmod	_	_
+2-3	col	_	_	_	_	_	_	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bicarbonatooooo	bicarbonatooooo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

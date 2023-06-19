@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grande cultura ascoltando ,questi due ladri di Pisa che di giorno litigano è di notte vanno ha rubare assieme .
+1	Grande	grande	ADJ	A	Number=Sing	2	amod	_	_
+2	cultura	cultura	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+3	ascoltando	ascoltare	VERB	V	VerbForm=Ger	2	advcl	_	_
+4	,questi	,quedere	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
+5	due	due	NUM	N	NumType=Card	6	nummod	_	_
+6	ladri	ladro	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	Pisa	Pisa	PROPN	SP	_	6	nmod	_	_
+9	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+12	litigano	litigano	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	notte	notte	NOUN	S	Gender=Fem|Number=Sing	6	acl:relcl	_	_
+16	vanno	andare	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	rubare	rubare	VERB	V	VerbForm=Inf	0	root	_	_
+19	assieme	assieme	ADV	B	_	18	advmod	_	_
+20	.	.	PUNCT	FS	_	18	punct	_	SpacesAfter=\n\n
+

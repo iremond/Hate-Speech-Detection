@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stiamo digerendo la pietra....x non dire altro.
+1	Stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	digerendo	digerere	VERB	V	VerbForm=Ger	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	pietra....x	pietra....x	NOUN	S	Number=Sing	2	obj	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	dire	dire	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ..
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

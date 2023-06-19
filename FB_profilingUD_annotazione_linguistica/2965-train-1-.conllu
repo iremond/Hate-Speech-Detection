@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo mi sto esaurendo ........togli tutto questo degrado ti prego ....
+1	Matteo	Matteo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+3	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	esaurendo	esaurire	AUX	V	VerbForm=Ger	5	aux	_	SpacesAfter=\s\s
+5-6	........togli	_	_	_	_	_	_	_	_
+5	........to	........to	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obj	_	_
+8	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	degrado	degrado	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+10	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
+11	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	_
+12	...	...	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = .donaci la nostra italia ........😠 non ne posso piuuuuuuu😠😠😠
+1	.donaci	.donace	NUM	N	NumType=Card	9	nummod	_	SpacesAfter=\s\s
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	italia	italia	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	SpacesAfter=\s\s
+5	........😠	........😠	PROPN	SP	_	4	nmod	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	9	iobj	_	_
+8	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	piuuuuuuu😠😠😠	piuuuuuuu😠😠😠	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giustissimo!
+1	Giustissimo	Giustissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!!!!!!!!!!!!!!!!!!!!!!!!!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

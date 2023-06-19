@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NO forever!
+1	NO	no	ADV	BN	PronType=Neg	2	advmod	_	_
+2	forever	forevere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

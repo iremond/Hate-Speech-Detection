@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io me le mangio e me le cago tutte e due 🙃
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	me	me	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	mangio	mangio	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	conj	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	cago	cago	NOUN	S	Gender=Masc|Number=Sing	2	xcomp	_	_
+9	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	12	det	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	due	due	NUM	N	NumType=Card	9	conj	_	_
+12	🙃	🙃	SYM	SYM	_	8	nmod	_	SpacesAfter=\n\n
+

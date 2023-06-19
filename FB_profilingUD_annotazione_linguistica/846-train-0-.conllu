@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = cosa farà il governo per rilanciare gli investimenti privati per la creazione di nuovi posti di lavoro presidente renzi?
+1	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	nsubj	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	governo	governo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	rilanciare	rilanciare	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	investimenti	investimento	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	privati	privato	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+10	per	per	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	creazione	creazione	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	nuovi	nuovo	ADJ	A	Gender=Masc|Number=Plur	15	amod	_	_
+15	posti	posto	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+18	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	17	compound	_	_
+19	renzi	renzi	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	18	amod	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

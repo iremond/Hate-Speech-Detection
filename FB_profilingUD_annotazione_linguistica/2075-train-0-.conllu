@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando sento che ci sono quelle due e Liprandi, mi spiace per Del Debbio, cambio canale.
+1	Quando	quando	SCONJ	CS	_	2	mark	_	_
+2	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	5	expl	_	_
+5	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	5	nsubj	_	_
+7	due	due	NUM	N	NumType=Card	6	nummod	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	Liprandi	Liprandi	PROPN	SP	_	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	SpacesAfter=\s\s
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	spiace	spiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14-15	Del	_	_	_	_	_	_	_	_
+14	Di	di	PROPN	SP	_	12	obl	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Debbio	Debbio	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	14	punct	_	SpacesAfter=\s\s
+18	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+19	canale	canale	NOUN	S	Gender=Masc|Number=Sing	18	compound	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n\n
+

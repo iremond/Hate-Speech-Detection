@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sarai pure consigliere ma sei pure un cretino!
+1	Sarai	Saere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	3	aux	_	_
+2	pure	pure	ADV	B	_	3	advmod	_	_
+3	consigliere	consigliere	VERB	V	VerbForm=Inf	0	root	_	_
+4	ma	ma	CCONJ	CC	_	8	cc	_	_
+5	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	pure	pure	ADV	B	_	8	advmod	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	cretino	cretino	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

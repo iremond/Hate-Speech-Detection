@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma no sono brave persone cosa stai dicendo...sono risorse per il nostro paese...sporcano rubano non fanno un ca...z...dalla mattina alla sera.
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	no	no	ADV	BN	PronType=Neg	4	advmod	_	_
+3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	brave	brave	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+5	persone	persona	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+6	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	7	nsubj	_	_
+7	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	dicendo...sono	esdicendo...sere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+9	risorse	risorrere	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	_
+10	per	per	ADP	E	_	13	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	paese...sporcano	paese...sporcano	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+14	rubano	rubano	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+15	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+16	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	ca...z...dalla	ca...z...dalla	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+19	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	_
+20-21	alla	_	_	_	_	_	_	_	_
+20	a	a	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	sera.	sera.	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..sono fondamentali altrimenti la criminalità come va avanti...
+1	..sono	es..sere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	fondamentali	fondamentale	ADJ	A	Number=Plur	0	root	_	_
+3	altrimenti	altrimenti	ADV	B	_	2	advmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	criminalità	criminalità	NOUN	S	Gender=Fem	2	nsubj	_	_
+6	come	come	SCONJ	CS	_	7	mark	_	_
+7	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+8	avanti...	avanti.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

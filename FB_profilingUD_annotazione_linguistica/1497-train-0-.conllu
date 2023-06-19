@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il reddito di cittadinanza per i disoccupati sarebbe utile a contrastare la povertà ed a incrementare i consumi .
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	reddito	reddito	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	cittadinanza	cittadinanza	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	per	per	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	disoccupati	disoccupato	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+8	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	utile	utile	ADJ	A	Number=Sing	0	root	_	_
+10	a	a	ADP	E	_	11	mark	_	_
+11	contrastare	contrastare	VERB	V	VerbForm=Inf	9	advcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	povertà	povertà	NOUN	S	Gender=Fem	11	obj	_	_
+14	ed	e	CCONJ	CC	_	16	cc	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	incrementare	incrementare	VERB	V	VerbForm=Inf	11	conj	_	_
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	consumi	consumo	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+19	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = I soldi ci sarebbero se non si buttassero in cose inutili, e potrei qui fare un lungo elenco .
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	iobj	_	_
+4	sarebbero	essere	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+8	buttassero	buttare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	_
+11	inutili	inutile	ADJ	A	Number=Plur	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	16	punct	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	potrei	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+15	qui	qui	ADV	B	_	16	advmod	_	_
+16	fare	fare	VERB	V	VerbForm=Inf	4	conj	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	lungo	lungo	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	_
+19	elenco	elenco	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	_
+20	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

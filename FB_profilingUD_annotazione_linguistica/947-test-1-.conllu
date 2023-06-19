@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma questo cazzone non aveva detto che si sarebbe dato fuoco ?
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	cazzone	cazzone	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+9	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	ccomp	_	_
+11	fuoco	fuoco	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+12	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Cosa aspetta ?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	aspetta	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

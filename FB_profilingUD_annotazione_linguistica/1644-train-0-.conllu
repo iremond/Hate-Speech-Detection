@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No mi stanno indigesto
+1	No	no	INTJ	I	Polarity=Neg	4	discourse	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+3	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	indigesto	indigedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n\n
+

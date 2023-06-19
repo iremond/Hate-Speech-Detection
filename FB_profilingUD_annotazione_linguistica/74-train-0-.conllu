@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = FACCIA DI BRONZO?
+1	FACCIA	fare	PROPN	SP	_	0	root	_	_
+2	DI	Di	ADP	E	_	3	case	_	_
+3	BRONZO	Bronzo	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = COME SEI DELICATO OGGI!
+1	COME	come	PROPN	SP	_	0	root	_	_
+2	SEI	essere	PROPN	SP	_	1	flat:name	_	_
+3	DELICATO	delicato	PROPN	SP	_	1	flat:name	_	_
+4	OGGI	Oggi	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

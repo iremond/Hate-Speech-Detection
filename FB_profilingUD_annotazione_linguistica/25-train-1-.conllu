@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non le sopporto , ma perchè le invitano sempre in tv ?
+1	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+3	sopporto	sopporto	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	,	,	PUNCT	FF	_	8	punct	_	_
+5	ma	ma	CCONJ	CC	_	8	cc	_	_
+6	perchè	perché	SCONJ	CS	_	8	mark	_	_
+7	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+8	invitano	invitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	sempre	sempre	ADV	B	_	8	advmod	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	tv	tv	NOUN	S	Gender=Fem	8	obl	_	_
+12	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = a casa devono stare !
+1	a	a	ADP	E	_	2	case	_	_
+2	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+3	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	stare	stare	VERB	V	VerbForm=Inf	0	root	_	_
+5	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

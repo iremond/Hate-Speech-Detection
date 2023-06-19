@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Queste non si riesce adigerirle neanche co cento scatole di magnesia S. Pellegrino
+1	Queste	questo	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	adigerirle	_	_	_	_	_	_	_	_
+5	adigerir	adigerire	ADP	E	_	7	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	neanche	neanca	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	_
+8	co	co	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	cento	cento	NUM	N	NumType=Card	10	nummod	_	_
+10	scatole	scatola	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	magnesia	magnesia	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	S.	S.	PROPN	SP	_	12	nmod	_	_
+14	Pellegrino	pellegrino	PROPN	SP	_	13	flat:name	_	SpacesAfter=\n\n
+

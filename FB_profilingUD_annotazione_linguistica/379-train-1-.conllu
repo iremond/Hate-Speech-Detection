@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Assolutamente NO.
+1	Assolutamente	assolutamente	ADV	B	_	2	advmod	_	_
+2	NO	No	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Sono più digeribili i peperoni ripieni di aglio.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	più	più	ADV	B	_	3	advmod	_	_
+3	digeribili	digeribile	ADJ	A	Number=Plur	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	peperoni	peperone	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+6	ripieni	ripieno	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	aglio	aglio	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Due 👡 in perfetta malafede.
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	👡	👡	SYM	SYM	_	0	root	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	perfetta	perfetto	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	malafede	malafede	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le 2 sceme
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	2	2	NUM	N	NumType=Card	3	nummod	_	_
+3	sceme	sceme	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A nessuno frega un c......
+1	A	a	ADP	E	_	2	case	_	_
+2	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	obl	_	_
+3	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	c.....	c.....	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No comment anzi vomitevole e faccia da schiaffi
+1	No	no	INTJ	I	Polarity=Neg	2	discourse	_	_
+2	comment	comment	NOUN	S	Gender=Masc	0	root	_	_
+3	anzi	anzi	ADV	B	_	4	advmod	_	_
+4	vomitevole	vomitevole	ADJ	A	Number=Sing	2	amod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	faccia	fare	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	schiaffi	schiaffo	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	SpacesAfter=\n\n
+

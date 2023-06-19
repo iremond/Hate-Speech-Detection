@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Odiose come la scarlattina
+1	Odiose	Odioso	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	0	root	_	_
+2	come	come	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	scarlattina	scarlattina	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n\n
+

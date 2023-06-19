@@ -1,0 +1,65 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chiama due imbianchini immigrati:
+1	Chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	due	due	NUM	N	NumType=Card	3	nummod	_	_
+3	imbianchini	imbianchino	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	_
+4	immigrati	immigrato	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	1	punct	_	_
+
+# sent_id = 2
+# text = la picchiano e le occupano casa Una donna malata di Thiene è stata caccitata dalla sua casa da due immigrati cui aveva chiesto di imbiancare le pareti.
+1	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	picchiano	picchiano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	nsubj:pass	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	iobj	_	_
+5	occupano	occupare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	casa	casa	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	donna	donna	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+9	malata	malato	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Thiene	thiene	PROPN	SP	_	8	nmod	_	_
+12	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	aux:pass	_	_
+14	caccitata	caccitare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+15-16	dalla	_	_	_	_	_	_	_	_
+15	da	da	ADP	E	_	18	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	casa	casa	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	due	due	NUM	N	NumType=Card	21	nummod	_	_
+21	immigrati	immigrato	NOUN	S	Gender=Masc|Number=Plur	14	obl:agent	_	_
+22	cui	cui	PRON	PR	PronType=Rel	24	obl	_	_
+23	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux	_	_
+24	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	acl:relcl	_	_
+25	di	di	ADP	E	_	26	mark	_	_
+26	imbiancare	imbiancare	VERB	V	VerbForm=Inf	24	xcomp	_	_
+27	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
+28	pareti	parete	NOUN	S	Gender=Fem|Number=Plur	26	obj	_	SpaceAfter=No
+29	.	.	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 3
+# text = E la polizia non può cacciarli Giuseppe De Lorenzo - Lun, 16/05/2016 - 12:35 il giornale
+1	E	e	CCONJ	CC	_	6	cc	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6-7	cacciarli	_	_	_	_	_	_	_	SpacesAfter=\s\s
+6	cacciar	cacciare	VERB	V	VerbForm=Inf	0	root	_	_
+7	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+8	Giuseppe	Giuseppe	PROPN	SP	_	6	obl	_	_
+9	De	De	PROPN	SP	_	8	flat:name	_	_
+10	Lorenzo	Lorenzo	PROPN	SP	_	8	flat:name	_	_
+11	-	-	PUNCT	FF	_	8	punct	_	_
+12	Lun	Lun	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	8	punct	_	_
+14	16/05/2016	16/05/2016	NUM	N	NumType=Card	8	nummod	_	_
+15	-	-	PUNCT	FF	_	14	punct	_	_
+16	12:35	12:35	NUM	N	NumType=Card	8	flat:name	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	giornale	giornale	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpacesAfter=\n\n
+

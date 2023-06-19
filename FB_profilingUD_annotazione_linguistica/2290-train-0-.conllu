@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che facia da stupid Parenzo
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	facia	faciare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	stupid	stupid	NOUN	S	Gender=Masc	2	nmod	_	_
+5	Parenzo	Parenzo	PROPN	SP	_	4	nmod	_	SpacesAfter=\n\n
+

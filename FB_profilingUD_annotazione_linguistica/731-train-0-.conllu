@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ribadisco non da lavoro ora
+1	ribadisco	ribadire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+5	ora	ora	ADV	B	_	1	advmod	_	SpacesAfter=\n\n
+

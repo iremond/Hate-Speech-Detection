@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Votare NO...votare tutti.
+1	Votare	votare	VERB	V	VerbForm=Inf	0	root	_	_
+2	NO...votare	NO...votare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = .mandiamolo a casa!
+1-2	.mandiamolo	_	_	_	_	_	_	_	_
+1	.mandiamo	.mandare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	casa	casa	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = !!!!
+1	!!!!	!!!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

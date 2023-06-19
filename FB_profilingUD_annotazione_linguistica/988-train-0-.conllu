@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Copiamo in tutto il paese la sanità del Veneto.
+1	Copiamo	Copare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	in	in	ADP	E	_	5	case	_	_
+3	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	5	det:predet	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	paese	paese	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	sanità	sanità	NOUN	S	Gender=Fem	1	obj	_	_
+8-9	del	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Veneto.	Veneto.	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..risparmiare ed essere virtuosi, SI PUÒ... un infermiere di Padova FORZA MATTEO
+1	..risparmiare	..risparmiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ed	e	CCONJ	CC	_	4	cc	_	_
+3	essere	essere	AUX	VA	VerbForm=Inf	4	aux:pass	_	_
+4	virtuosi	virtuoso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
+6	SI	si	PROPN	SP	_	1	appos	_	_
+7	PUÒ...	PUÒ.	PROPN	SP	_	6	flat:name	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	infermiere	infermiera	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Padova	Padova	PROPN	SP	_	9	nmod	_	_
+12	FORZA	forza	PROPN	SP	_	11	flat:name	_	_
+13	MATTEO	MATTEO	PROPN	SP	_	6	flat:name	_	SpacesAfter=\n\n
+

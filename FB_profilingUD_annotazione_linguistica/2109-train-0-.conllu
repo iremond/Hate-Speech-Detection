@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma quelli del PD non la guardano questa trasmissione ??????
+1	Ma	ma	CCONJ	CC	_	8	cc	_	_
+2	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	8	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	PD	pd	PROPN	SP	_	2	nmod	_	SpacesAfter=\s\s
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	guardano	guardare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
+10	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+11	?	?	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+16	?	?	PUNCT	FS	_	8	punct	_	SpacesAfter=\n\n
+

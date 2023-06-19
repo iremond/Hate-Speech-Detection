@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ci poteva capitare di peggio !!!!!!!!!!!!!
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	capitare	capitare	VERB	V	VerbForm=Inf	0	root	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	peggio	peggio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+7	!!!	!!!	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+8	!!!!!!!!!!	!!!!!!!!!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n\n
+

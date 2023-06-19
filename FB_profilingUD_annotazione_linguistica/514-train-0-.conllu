@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli spazi sociali NON si sgomberano
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	spazi	spazio	NOUN	S	Gender=Masc|Number=Plur	6	nsubj:pass	_	_
+3	sociali	sociale	ADJ	A	Number=Plur	2	amod	_	_
+4	NON	non	PROPN	SP	_	6	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	sgomberano	sgomberere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

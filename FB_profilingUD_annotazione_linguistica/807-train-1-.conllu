@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MATTEO.
+1	MATTEO.	MATTEO.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....ASFALTALEEEEEEEEEE!!!!!!
+1	....ASFALTALEEEEEEEEEE	....ASFALTALEEEEEEEEEE	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	!!!!!	!!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

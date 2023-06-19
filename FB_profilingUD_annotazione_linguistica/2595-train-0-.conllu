@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che si icazza a fare Gerard???
+1	Che	che	SCONJ	CS	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	icazza	icazzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	Gerard	Gerard	PROPN	SP	_	5	obj	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Le....dimensioni contano anche nel cinema😏😎
+1	Le....dimensioni	Le....dimensione	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	_
+2	contano	contare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	anche	anche	ADV	B	_	6	advmod	_	_
+4-5	nel	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	cinema😏😎	cinema😏😎	PROPN	SP	_	2	obl	_	SpacesAfter=\n\n
+

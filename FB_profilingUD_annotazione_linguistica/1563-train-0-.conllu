@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io NO
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	NO	no	PROPN	SP	_	1	appos	_	SpacesAfter=\n\n
+

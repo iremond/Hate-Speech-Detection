@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = cambio canale !!!!!!!!!!!!!!
+1	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	canale	canale	NOUN	S	Gender=Masc|Number=Sing	1	compound	_	_
+3	!!!	!!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	!!!!!!!!!!!	!!!!!!!!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

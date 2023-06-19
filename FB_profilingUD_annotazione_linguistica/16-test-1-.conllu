@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io ieri ho cambiato canale, la Malpezzi Castaldini e Librandi sono veramente insopportabili, Del Debbio insiste a proporceli sempre quindi ho deciso di non guardare più questo programma.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	ieri	ieri	ADV	B	_	4	advmod	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	canale	canale	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Malpezzi	Malpezzi	PROPN	SP	_	14	nsubj	_	_
+9	Castaldini	Castaldini	PROPN	SP	_	8	flat:name	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	Librandi	Librandi	PROPN	SP	_	8	conj	_	SpacesAfter=\s\s
+12	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	veramente	veramente	ADV	B	_	14	advmod	_	_
+14	insopportabili	insopportabile	ADJ	A	Number=Plur	4	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	4	punct	_	_
+16-17	Del	_	_	_	_	_	_	_	_
+16	Di	Di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Debbio	Debbio	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+19	insiste	insistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+20	a	a	ADP	E	_	21	case	_	_
+21	proporceli	proporcelo	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	_
+22	sempre	sempre	ADV	B	_	19	advmod	_	_
+23	quindi	quindi	ADV	B	_	19	advmod	_	_
+24	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	deciso	decidere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	ccomp	_	_
+26	di	di	ADP	E	_	28	mark	_	_
+27	non	non	ADV	BN	PronType=Neg	28	advmod	_	_
+28	guardare	guardare	VERB	V	VerbForm=Inf	25	xcomp	_	_
+29	più	più	ADV	B	_	28	advmod	_	_
+30	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	31	det	_	_
+31	programma	programma	NOUN	S	Gender=Masc|Number=Sing	28	obj	_	SpaceAfter=No
+32	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

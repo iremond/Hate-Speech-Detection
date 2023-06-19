@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pulisci qst paese
+1	Pulisci	Pulisce	NOUN	S	Gender=Masc	0	root	_	_
+2	qst	qst	CCONJ	CC	_	3	cc	_	_
+3	paese	paese	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpacesAfter=\n\n
+

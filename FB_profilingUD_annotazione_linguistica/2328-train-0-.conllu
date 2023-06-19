@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le maestrine !
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	maestrine	maestrina	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che prima di andare in trasmissione ai deve far spiegare dai dirigenti della sanità cosa deve dire ahahahah
+1	Che	che	SCONJ	CS	_	20	mark	_	_
+2	prima	prima	ADV	B	_	4	mark	_	_
+3	di	di	ADP	E	_	2	fixed	_	_
+4	andare	andare	VERB	V	VerbForm=Inf	20	advcl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7-8	ai	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	10	mark	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	far	fare	VERB	V	VerbForm=Inf	20	aux	_	_
+11	spiegare	spiegare	VERB	V	VerbForm=Inf	20	advcl	_	SpacesAfter=\s\s
+12-13	dai	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	dirigenti	dirigente	NOUN	S	Number=Plur	11	obl	_	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	sanità	sanità	NOUN	S	Gender=Fem	14	nmod	_	_
+18	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	20	nsubj	_	_
+19	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
+20	dire	dire	VERB	V	VerbForm=Inf	0	root	_	_
+21	ahahahah	ahahahah	ADJ	A	_	20	xcomp	_	SpacesAfter=\n\n
+

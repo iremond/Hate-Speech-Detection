@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La Boldrini non ce se trova mai!!! su questi meszzi pubblici
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Boldrini	Boldrini	PROPN	SP	_	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mai	mai	ADV	B	_	6	advmod	_	SpaceAfter=No
+8	!!!	!!!	PUNCT	FF	_	11	punct	_	_
+9	su	su	ADP	E	_	11	case	_	_
+10	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
+11	meszzi	meszzo	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+12	pubblici	pubblico	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	SpacesAfter=\n\n
+

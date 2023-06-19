@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No non le sopporto stanno rompendo le palle
+1	No	no	INTJ	I	Polarity=Neg	6	discourse	_	_
+2	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	sopporto	sopporto	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	rompendo	rompere	VERB	V	VerbForm=Ger	0	root	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	palle	palla	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	SpacesAfter=\n\n
+

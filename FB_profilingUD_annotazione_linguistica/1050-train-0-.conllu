@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando arrivi Salvini?
+1	Quando	quando	SCONJ	CS	_	2	advmod	_	_
+2	arrivi	arrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	Salvini	Salvini	PROPN	SP	_	2	nsubj	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ???
+1	?	?	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

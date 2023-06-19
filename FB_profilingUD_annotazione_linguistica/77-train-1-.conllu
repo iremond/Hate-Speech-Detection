@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma sto "giornale" che minchia é?
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	sto	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	giornale	giornale	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	4	punct	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	minchia	minchiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	é	é	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

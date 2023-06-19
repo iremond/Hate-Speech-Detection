@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo bastonate per me quelle due oche per favore 👍
+1	Matteo	Matteo	PROPN	SP	_	0	root	_	_
+2	bastonate	bastonare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	obl	_	_
+5	quelle	quei	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	7	nmod	_	_
+6	due	due	NUM	N	NumType=Card	7	nummod	_	_
+7	oche	oca	NOUN	S	Gender=Fem|Number=Plur	1	appos	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	favore	favore	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	👍	👍	SYM	SYM	_	1	flat:name	_	SpacesAfter=\n\n
+

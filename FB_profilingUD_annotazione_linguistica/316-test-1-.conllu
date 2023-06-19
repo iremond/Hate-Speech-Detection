@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In due non fanno una mezza testa!
+1	In	in	ADP	E	_	2	case	_	_
+2	due	due	NUM	N	NumType=Card	4	obl	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	mezza	mezzo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	testa	testa	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = E pure brutte oltretutto!
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	pure	pure	ADV	B	_	3	advmod	_	_
+3	brutte	brutto	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+4	oltretutto	oltretutto	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

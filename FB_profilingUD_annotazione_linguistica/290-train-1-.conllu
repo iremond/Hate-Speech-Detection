@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È tanto reale quanto è brutto Parenzo
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	tanto	tanto	ADV	B	_	3	advmod	_	_
+3	reale	reale	ADJ	A	Number=Sing	0	root	_	_
+4	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	brutto	brutto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+7	Parenzo	Parenzo	PROPN	SP	_	6	nsubj	_	SpacesAfter=\n\n
+

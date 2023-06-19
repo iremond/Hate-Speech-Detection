@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lager lager lager lager lager lager lager
+1	Lager	Lagere	X	SW	Foreign=Yes	0	root	_	_
+2	lager	lagere	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	lager	lagere	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	lager	lager	X	SW	Foreign=Yes	1	flat:foreign	_	_
+5	lager	lagere	X	SW	Foreign=Yes	1	flat:foreign	_	_
+6	lager	lagere	X	SW	Foreign=Yes	1	flat:foreign	_	_
+7	lager	lagere	X	SW	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n\n
+

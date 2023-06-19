@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = solo una settimana.
+1	solo	solo	ADV	B	_	3	advmod	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = lo farei stare anche solo una settimana in un centro libico.
+1	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+2	farei	fare	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	stare	stare	VERB	V	VerbForm=Inf	0	root	_	_
+4	anche	anche	ADV	B	_	5	advmod	_	_
+5	solo	solo	ADV	B	_	7	advmod	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	centro	centro	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+11	libico	libico	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = governativo.
+1	governativo	governativo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = vediamo come esce
+1	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	SCONJ	CS	_	3	mark	_	_
+3	esce	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpacesAfter=\n\n
+

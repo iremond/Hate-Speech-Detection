@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Solo una parola ..........DEMENTI
+1	Solo	solo	ADV	B	_	3	advmod	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	parola	parola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	..........DEMENTI	..........DEMENTI	PROPN	SP	_	3	nmod	_	SpacesAfter=\n\n
+

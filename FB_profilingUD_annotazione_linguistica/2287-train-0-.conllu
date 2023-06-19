@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stiamo aspettando che tu arrivi !!!!
+1	Stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	aspettando	aspettare	VERB	V	VerbForm=Ger	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	arrivi	arrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	!!!	!!!	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pur di prende soldi si venderebbe anche il culo
+1	Pur	pure	ADV	B	_	4	advmod	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	prende	prendere	ADJ	A	Number=Sing	4	amod	_	_
+4	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:pass	_	_
+6	venderebbe	vendere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	anche	anche	ADV	B	_	9	advmod	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	culo	culo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj:pass	_	SpacesAfter=\n\n
+

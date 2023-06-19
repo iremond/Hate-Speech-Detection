@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini dammi metà del tuo vitalizio...
+1	Salvini	Salvini	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	dammi	dare	ADJ	A	Number=Plur	3	amod	_	_
+3	metà	metà	NOUN	S	Gender=Fem	1	nmod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	vitalizio...	vitalizio...	NOUN	S	_	1	nmod	_	_
+
+# sent_id = 2
+# text = poi parliamo.
+1	poi	poi	ADV	B	_	2	advmod	_	_
+2	parliamo	parlare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

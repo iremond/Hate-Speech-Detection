@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caro Matteo ....abbiamo bisogno di lavoroooo oo......detassazione immediata alle aziende.
+1	Caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	Matteo	Matteo	PROPN	SP	_	3	nsubj	_	_
+3	....abbiamo	....abbare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	lavoroooo	lavoroooo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	oo......detassazione	oo......detassazione	NOUN	S	Gender=Fem|Number=Sing	6	compound	_	_
+8	immediata	immediato	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9-10	alle	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	aziende	azienda	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..anche se è già troppo tardi
+1	..anche	..anche	ADV	B	_	6	advmod	_	_
+2	se	se	SCONJ	CS	_	6	mark	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	già	già	ADV	B	_	6	advmod	_	_
+5	troppo	troppo	ADV	B	_	6	advmod	_	_
+6	tardi	tardi	ADV	B	_	0	root	_	SpacesAfter=\n\n
+

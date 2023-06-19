@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Aiuta Daniela.
+1	Aiuta	aiutare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2-3	Daniela	_	_	_	_	_	_	_	SpaceAfter=No
+2	Danie	Danie	PROPN	SP	_	1	xcomp	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ...
+1	...	.	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

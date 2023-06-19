@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Maledette zecche.....
+1	Maledette	Maledetta	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	_
+2	zecche....	zecche..	NOUN	S	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

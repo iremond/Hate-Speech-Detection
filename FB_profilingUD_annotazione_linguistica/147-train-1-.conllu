@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vai Matteo,falle nere,sono due ciarlatane che raccontano una montagna di menzogne!
+1	Vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Matteo	Matteo	PROPN	SP	_	1	obj	_	SpaceAfter=No
+3	,falle	,fallo	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	4	nsubj	_	_
+4	nere,sono	esnere,sere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	due	due	NUM	N	NumType=Card	6	nummod	_	_
+6	ciarlatane	ciarlatana	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	raccontano	raccontare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	montagna	montagna	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	menzogne	menzogna	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

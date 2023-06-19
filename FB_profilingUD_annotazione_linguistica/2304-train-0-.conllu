@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Assolutamente - N O - N-O
+1	Assolutamente	assolutamente	ADV	B	_	3	advmod	_	SpacesAfter=\s\s
+2	-	-	PUNCT	FF	_	1	punct	_	_
+3	N	n	PROPN	SP	_	0	root	_	_
+4	O	O	PROPN	SP	_	3	flat:name	_	_
+5	-	-	PUNCT	FF	_	3	punct	_	SpacesAfter=\s\s\s
+6	N	n	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+7	-O	-O	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n\n
+

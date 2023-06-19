@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A posto siamo
+1	A	a	ADP	E	_	2	case	_	_
+2	posto	posto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+3	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

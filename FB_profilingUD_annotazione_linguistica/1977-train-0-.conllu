@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = In effetti ho cambiato canale .
+1	In	in	ADP	E	_	2	case	_	_
+2	effetti	effetto	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	canale	canale	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

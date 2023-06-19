@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sia la Castaldini, sia la Malpezzi sono completamente fuori strada!!!, ma la Malpezzi forse è ancora peggio perché ultimamente si sta montando la testa!
+1	Sia	sia	CCONJ	CC	_	3	cc	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Castaldini	Castaldini	PROPN	SP	_	11	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	7	punct	_	_
+5	sia	essere	CCONJ	CC	_	7	cc	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Malpezzi	Malpezzi	PROPN	SP	_	3	conj	_	_
+8	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	completamente	completamente	ADV	B	_	10	advmod	_	_
+10	fuori	fuori	ADV	B	_	11	advmod	_	_
+11	strada	strada	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+12	!!!	!!!	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	20	punct	_	_
+14	ma	ma	CCONJ	CC	_	20	cc	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Malpezzi	Malpezzi	PROPN	SP	_	20	nsubj	_	_
+17	forse	forse	ADV	B	_	20	advmod	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	ancora	ancora	ADV	B	_	20	advmod	_	_
+20	peggio	peggio	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+21	perché	perché	SCONJ	CS	_	25	mark	_	_
+22	ultimamente	ultimo	ADV	B	_	25	advmod	_	_
+23	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	25	expl	_	_
+24	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	montando	montare	VERB	V	VerbForm=Ger	20	advcl	_	_
+26	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	testa	testa	NOUN	S	Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
+28	!	!	PUNCT	FS	_	11	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

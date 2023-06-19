@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bravo REnzi fai come Gianni MORANDI SI PUÒ DARE DI PIÙ È NO FERMARTI MAI SALUTI
+1	Bravo	bravo	PROPN	SP	_	3	nsubj	_	SpacesAfter=\s\s
+2	REnzi	REnzi	PROPN	SP	_	1	flat:name	_	_
+3	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	Gianni	Gianni	PROPN	SP	_	3	obl	_	SpacesAfter=\s\s
+6	MORANDI	MORANDI	PROPN	SP	_	5	flat:name	_	SpacesAfter=\s\s\s
+7	SI	si	PROPN	SP	_	3	obj	_	_
+8	PUÒ	potere	PROPN	SP	_	7	flat:name	_	SpacesAfter=\s\s
+9	DARE	dare	PROPN	SP	_	7	flat:name	_	_
+10	DI	Di	ADP	E	_	11	case	_	_
+11	PIÙ	più	PROPN	SP	_	12	nmod	_	SpacesAfter=\s\s
+12	È	È	PROPN	SP	_	7	nmod	_	_
+13	NO	No	PROPN	SP	_	12	flat:name	_	_
+14	FERMARTI	FERMARTI	PROPN	SP	_	12	flat:name	_	SpacesAfter=\s\s
+15	MAI	Mai	PROPN	SP	_	12	flat:name	_	_
+16	SALUTI	Saluto	PROPN	SP	_	12	flat:name	_	SpacesAfter=\n\n
+

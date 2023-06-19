@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per me potrebbero anche bruciarle affinché non resti nulla.
+1	Per	per	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+3	potrebbero	potere	AUX	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	anche	anche	ADV	B	_	5	advmod	_	_
+5-6	bruciarle	_	_	_	_	_	_	_	_
+5	bruciar	bruciare	VERB	V	VerbForm=Inf	0	root	_	_
+6	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	affinché	affinché	SCONJ	CS	_	9	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	resti	re	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+10	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

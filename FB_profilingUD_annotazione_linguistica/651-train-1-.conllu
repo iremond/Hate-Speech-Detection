@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caro Matteo fatti sentire falli Neri!!!
+1	Caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	Matteo	Matteo	PROPN	SP	_	0	root	_	_
+3	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+4	sentire	sentire	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	falli	fallo	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+6	Neri	neri	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+7	!!	!!	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Io sto guardando e ci conto Tanti saluti
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	guardando	guardare	VERB	V	VerbForm=Ger	0	root	_	_
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+6	conto	contare	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+7	Tanti	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	saluti	saluti	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	SpacesAfter=\n\n
+

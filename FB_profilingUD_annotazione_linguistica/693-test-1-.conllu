@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tagliarglielo subito in piazza.........e quelle due deficienti che ridono
+1-2	Tagliarglielo	_	_	_	_	_	_	_	SpacesAfter=\s\s
+1	Tagliarglie	Tagliargliere	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+3	subito	subito	ADV	B	_	10	advmod	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	piazza.........e	piazza.........e	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	_
+6	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	8	nmod	_	_
+7	due	due	NUM	N	NumType=Card	8	nummod	_	_
+8	deficienti	deficiento	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	SpacesAfter=\s\s
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+10	ridono	ridere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

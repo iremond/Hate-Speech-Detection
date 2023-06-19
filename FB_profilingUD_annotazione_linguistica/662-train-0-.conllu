@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noi ci siamo !!!!
+1	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	!!!	!!!	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

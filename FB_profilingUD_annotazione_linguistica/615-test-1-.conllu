@@ -1,0 +1,61 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voto NO,è una riforma votata solo dal PD,NCD e Verdiani leccac.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	voto	votare	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	NO,	NO,	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	riforma	riforma	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+7	votata	votare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+8	solo	solo	ADV	B	_	11	advmod	_	_
+9-10	dal	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	PD,NCD	PD,NCD	PROPN	SP	_	7	obl:agent	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	Verdiani	Verdiani	PROPN	SP	_	11	conj	_	_
+14	leccac.	eccleccaera	ADV	B	_	6	advmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...non mi sento ignorante,ma realista e poi ricordiamoci che questa riforma è fatta da un governo non eletto dal popolo,con ministri collusi in loschi e boschi affari.
+1	...non	...non	ADP	E	_	3	mark	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	expl	_	_
+3	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ignorante,ma	ignorante,ma	ADV	B	_	5	advmod	_	_
+5	realista	realista	ADJ	A	Number=Sing	3	xcomp	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	poi	poi	ADV	B	_	8	advmod	_	_
+8	ricordiamoci	ricordiamoci	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+9	che	che	SCONJ	CS	_	13	mark	_	_
+10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	riforma	riforma	NOUN	S	Gender=Fem|Number=Sing	13	nsubj:pass	_	_
+12	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
+13	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	governo	governo	NOUN	S	Gender=Masc|Number=Sing	13	obl:agent	_	_
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	_
+18	eletto	eleggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
+19-20	dal	_	_	_	_	_	_	_	_
+19	da	da	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	popolo,con	popolo,con	NOUN	S	Gender=Masc|Number=Sing	18	obl:agent	_	_
+22	ministri	ministro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	collusi	colluso	NOUN	S	Gender=Masc|Number=Plur	21	compound	_	_
+24	in	in	ADP	E	_	25	case	_	_
+25	loschi	losco	NOUN	S	Gender=Masc|Number=Plur	23	nmod	_	_
+26	e	e	CCONJ	CC	_	27	cc	_	_
+27	boschi	bosco	NOUN	S	Gender=Masc|Number=Plur	23	conj	_	_
+28	affari.	affari.	NOUN	S	Gender=Masc|Number=Sing	27	compound	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ...anticostituzionale è poco!!!!
+1	...anticostituzionale	...anticostituzionale	ADJ	A	Number=Sing	0	root	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	poco	poco	ADV	B	_	5	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

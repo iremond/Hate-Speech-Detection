@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Odiose..la malpezzi vive su un altro pianeta.
+1	Odiose..la	Odiose..la	DET	RD	Gender=Fem|Number=Sing	2	det	_	_
+2	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	vive	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	su	su	ADP	E	_	7	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	altro	altro	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	pianeta.	pianeta.	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..e la castaldini fa parte del partito più ridicolo d Italia ed è irritante..da prendere a schiaffi x ore.
+1	..e	..e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	castaldini	castaldine	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+5	parte	parte	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	partito	partito	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	più	più	ADV	B	_	10	advmod	_	_
+10	ridicolo	ridicolo	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+11	d	d	NOUN	S	_	8	nmod	_	_
+12	Italia	Italia	PROPN	SP	_	11	flat:name	_	_
+13	ed	e	CCONJ	CC	_	15	cc	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	irritante..da	irritante..do	ADJ	A	Number=Sing	4	conj	_	_
+16	prendere	prendere	VERB	V	VerbForm=Inf	15	csubj	_	_
+17	a	a	ADP	E	_	18	case	_	_
+18	schiaffi	schiaffo	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	_
+19	x	x	SYM	SYM	_	20	nmod	_	_
+20	ore	ora	NOUN	S	Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

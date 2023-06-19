@@ -1,0 +1,133 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo Salvini ieri a Berlino è successa la stessa cosa che accadde a Colonia:
+1	Matteo	Matteo	PROPN	SP	_	7	nsubj	_	_
+2	Salvini	Salvini	PROPN	SP	_	1	flat:name	_	SpacesAfter=\s\s
+3	ieri	ieri	ADV	B	_	7	advmod	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	Berlino	Berlino	PROPN	SP	_	3	obl	_	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	SpacesAfter=\s\s
+7	successa	successare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	accadde	accaddere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	Colonia	colonia	PROPN	SP	_	12	obl	_	SpaceAfter=No
+15	:	:	PUNCT	FC	_	7	punct	_	_
+
+# sent_id = 2
+# text = gruppi di ragazzi hanno circondato, aggredito e derivato delle ragazze che festeggiavano.
+1	gruppi	gruppo	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	ragazzi	ragazzo	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	_
+4	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	circondato	circondare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	aggredito	aggredire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	derivato	derivare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+10-11	delle	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	ragazze	ragazza	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+14	festeggiavano	festeggiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	acl:relcl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = I media non ne parlano, ma lo scrive la stessa polizia tramite Twitter.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	media	media	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	5	iobj	_	_
+5	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	9	punct	_	_
+7	ma	ma	CCONJ	CC	_	9	cc	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	scrive	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	_
+12	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+13	tramite	tramite	ADP	E	_	14	case	_	_
+14	Twitter	Twitter	PROPN	SP	_	9	obl	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 4
+# text = Sono stati fermati 2 turchi e un terzo ragazzo di nazionalità sconosciuta.
+1	Sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	aux:pass	_	_
+3	fermati	fermare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	2	2	NUM	N	NumType=Card	5	nummod	_	_
+5	turchi	turchio	NOUN	S	Gender=Masc|Number=Plur	3	nsubj:pass	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	terzo	terzo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	nazionalità	nazionalità	NOUN	S	Gender=Fem	9	nmod	_	_
+12	sconosciuta	sconosciuto	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\s
+
+# sent_id = 5
+# text = PolizeiBerlinEinsatz 23 Std.vor 23 Stunden PolizeiBerlinEinsatz @PolizeiBerlin_E Eine Gruppe junger Männer soll gestern auf d. #karnevalderkulturen am Blücherplatz junge Frauen umringt,sexuell belästigt & bestohlen haben.
+1	PolizeiBerlinEinsatz	PolizeiBerlinEinsatz	PROPN	SP	_	19	nsubj	_	_
+2	23	23	NUM	N	NumType=Card	3	nummod	_	_
+3	Std.vor	Std.vor	PROPN	SP	_	1	flat:name	_	_
+4	23	23	NUM	N	NumType=Card	5	nummod	_	_
+5	Stunden	Stunden	PROPN	SP	_	1	flat:name	_	_
+6	PolizeiBerlinEinsatz	PolizeiBerlinEinsatz	PROPN	SP	_	19	nsubj	_	_
+7	@PolizeiBerlin_E	@PolizeiBerlin_E	PROPN	SP	_	6	flat:name	_	_
+8	Eine	Eine	PROPN	SP	_	6	flat:name	_	_
+9	Gruppe	Gruppe	PROPN	SP	_	6	flat:name	_	_
+10	junger	jungere	ADP	E	_	11	case	_	_
+11	Männer	Männer	PROPN	SP	_	6	nmod	_	_
+12	soll	soll	ADJ	A	_	13	amod	_	_
+13	gestern	gestern	X	SW	Foreign=Yes	11	nmod	_	_
+14	auf	auf	X	SW	Foreign=Yes	13	flat:foreign	_	_
+15	d.	d.	NUM	N	NumType=Card	13	flat:foreign	_	_
+16	#karnevalderkulturen	#karnevalderkulturen	X	SW	Foreign=Yes	13	flat:foreign	_	_
+17	am	am	X	SW	Foreign=Yes	13	flat:foreign	_	_
+18	Blücherplatz	Blücherplatz	PROPN	SP	_	13	flat:name	_	_
+19	junge	jungere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	Frauen	Frauen	PROPN	SP	_	19	obj	_	_
+21	umringt,sexuell	umringt,sexuell	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	belästigt	belästigt	NOUN	S	Gender=Masc	19	obj	_	_
+23	&	&	SYM	SYM	_	22	nmod	_	_
+24	bestohlen	bestohlen	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	25	det	_	_
+25	haben.	habenerale	NOUN	S	Gender=Masc	22	nmod	_	SpacesAfter=\s\s
+
+# sent_id = 6
+# text = 20 Std.vor 20 Stunden PolizeiBerlinEinsatz @PolizeiBerlin_E Die 3 wiedererkannten Tatverdächtigen sind polizeibekannt, 2 sind türkischer Herkunft, Herkunft des 3. ist ungeklärt.
+1	20	20	NUM	N	NumType=Card	2	nummod	_	_
+2	Std.vor	Std.vor	PROPN	SP	_	0	root	_	_
+3	20	20	NUM	N	NumType=Card	4	nummod	_	_
+4	Stunden	Stunden	PROPN	SP	_	2	flat:name	_	_
+5	PolizeiBerlinEinsatz	PolizeiBerlinEinsatz	PROPN	SP	_	2	conj	_	_
+6	@PolizeiBerlin_E	@PolizeiBerlin_E	PROPN	SP	_	5	flat:name	_	_
+7	Die	die	PROPN	SP	_	5	flat:name	_	_
+8	3	3	NUM	N	NumType=Card	5	flat:name	_	_
+9	wiedererkannten	wiedererkannten	X	SW	Foreign=Yes	5	flat:foreign	_	_
+10	Tatverdächtigen	Tatverdächtigen	X	SW	Foreign=Yes	9	flat:foreign	_	_
+11	sind	sind	X	SW	Foreign=Yes	5	flat:foreign	_	_
+12	polizeibekannt	polizeibekannt	X	SW	Foreign=Yes	5	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	15	punct	_	_
+14	2	2	NUM	N	NumType=Card	15	nummod	_	_
+15	sind	sind	NOUN	S	Gender=Masc	2	conj	_	_
+16	türkischer	türkischere	ADP	E	_	17	case	_	_
+17	Herkunft	Herkunft	PROPN	SP	_	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	Herkunft	Herkunft	PROPN	SP	_	2	conj	_	_
+20	des	di	ADP	E	_	21	case	_	_
+21	3	3	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	19	punct	_	_
+23	ist	ist	X	SW	Foreign=Yes	19	compound	_	_
+24	ungeklärt	ungeklärt	X	SW	Foreign=Yes	23	flat:foreign	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 7
+# text = #karnevalderkulturen
+1	#karnevalderkulturen	#karnevalderkulturen	INTJ	I	_	0	root	_	SpacesAfter=\n\n
+

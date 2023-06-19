@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mattarella lo hanno voluto come presidente x insabbiare tutto.
+1	Mattarella	Mattarello	PROPN	SP	_	4	nsubj	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	SpacesAfter=\s\s
+4	voluto	volere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\s\s
+7	x	x	SYM	SYM	_	4	xcomp	_	_
+8	insabbiare	insabbiare	VERB	V	VerbForm=Inf	4	xcomp	_	SpacesAfter=\s\s
+9	tutto.	tutto.	ADJ	A	Gender=Masc|Number=Sing	8	xcomp	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...cosa ci meravigliano e il capo dei mafiosi......
+1	...cosa	...cosa	PRON	PI	Number=Sing|PronType=Ind	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	meravigliano	meravigliare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	e	e	CCONJ	CC	_	6	cc	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	capo	capo	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+7-8	dei	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	mafiosi.....	mafiosi.....	NOUN	S	_	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

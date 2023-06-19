@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche io Voto NO MANDARE A CASA RENZI
+1	Anche	anche	ADV	B	_	2	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+3	Voto	voto	PROPN	SP	_	2	nsubj:pass	_	_
+4	NO	No	PROPN	SP	_	3	flat:name	_	SpacesAfter=\s\s
+5	MANDARE	mandare	PROPN	SP	_	3	flat:name	_	_
+6	A	A	ADP	E	_	7	case	_	_
+7	CASA	Casa	PROPN	SP	_	3	nmod	_	_
+8	RENZI	RENZI	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n\n
+

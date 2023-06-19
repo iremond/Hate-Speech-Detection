@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Spero che noi tutti voteremo no
+1	Spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	5	mark	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	5	obl	_	_
+5	voteremo	votare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
+6	no	no	ADV	BN	PronType=Neg	1	advmod	_	SpacesAfter=\n\n
+

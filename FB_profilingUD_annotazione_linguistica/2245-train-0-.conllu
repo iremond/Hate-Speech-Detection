@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No con te
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	_
+2	con	con	ADP	E	_	3	case	_	_
+3	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	1	obl	_	SpacesAfter=\n\n
+

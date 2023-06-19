@@ -1,0 +1,63 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La priorità è il lavoro x tutti gli italiani,la casa, la sanità pubblica che funzioni,la scuola pubblica sicura e funzionante, meno tasse x i pensionati,meno tasse x chi ha meno e più X chi guadagna troppo.La sicurezza x strada e in casa ,ospedali efficienti e ecc ecc ecc ecc ecc ecc ecc ecc ecc ecc.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	priorità	priorità	NOUN	S	Gender=Fem	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpacesAfter=\s\s
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	x	x	SYM	SYM	_	10	nmod	_	_
+7	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	10	det:predet	_	_
+8	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+9	italiani,la	italiani,la	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	casa	casa	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	sanità	sanità	NOUN	S	Gender=Fem	10	conj	_	_
+14	pubblica	pubblico	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	funzioni,la	funzioni,lare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+17	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	_
+18	pubblica	pubblico	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
+19	sicura	sicuro	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	funzionante	funzionante	ADJ	A	Number=Sing	19	conj	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	24	punct	_	_
+23	meno	meno	ADV	B	_	24	advmod	_	_
+24	tasse	tassa	NOUN	S	Gender=Fem|Number=Plur	5	conj	_	_
+25	x	x	SYM	SYM	_	30	nmod	_	_
+26	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
+27	pensionati,meno	pensionati,meno	NOUN	S	Gender=Masc|Number=Sing	30	nsubj	_	_
+28	tasse	tarre	NOUN	S	Gender=Fem|Number=Plur	27	compound	_	_
+29	x	x	SYM	SYM	_	28	nmod	_	_
+30	chi	chi	PRON	PR	Number=Sing|PronType=Rel	5	parataxis	_	_
+31	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	_
+32	meno	meno	ADV	B	_	31	advmod	_	_
+33	e	e	CCONJ	CC	_	35	cc	_	_
+34	più	più	ADV	B	_	35	advmod	_	SpacesAfter=\s\s
+35	X	X	ADJ	NO	Number=Sing|NumType=Ord	32	conj	_	_
+36	chi	chi	PRON	PR	Number=Sing|PronType=Rel	31	obj	_	_
+37	guadagna	guadagnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	acl:relcl	_	_
+38	troppo.La	troppo.La	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
+39	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	37	obj	_	_
+40	x	x	SYM	SYM	_	39	nmod	_	_
+41	strada	strada	NOUN	S	Gender=Fem|Number=Sing	40	compound	_	SpacesAfter=\s\s
+42	e	e	CCONJ	CC	_	44	cc	_	_
+43	in	in	ADP	E	_	44	case	_	_
+44	casa	casa	NOUN	S	Gender=Fem|Number=Sing	41	conj	_	_
+45	,ospedali	,ospedale	ADJ	A	Number=Plur	44	amod	_	_
+46	efficienti	efficiente	ADJ	A	Number=Plur	44	amod	_	_
+47	e	e	CCONJ	CC	_	48	cc	_	SpacesAfter=\s\s\s
+48	ecc	ecc	X	SW	Foreign=Yes	44	conj	_	_
+49	ecc	ecc	X	SW	Foreign=Yes	48	flat:foreign	_	_
+50	ecc	ecc	X	SW	Foreign=Yes	48	flat:foreign	_	_
+51	ecc	ecc	X	SW	Foreign=Yes	48	flat:foreign	_	_
+52	ecc	ecc	X	SW	Foreign=Yes	48	flat:foreign	_	_
+53	ecc	ecc	X	SW	Foreign=Yes	48	flat:foreign	_	_
+54	ecc	ecc	X	SW	Foreign=Yes	48	flat:foreign	_	_
+55	ecc	ecc	X	SW	Foreign=Yes	48	flat:foreign	_	_
+56	ecc	ecc	X	SW	Foreign=Yes	48	flat:foreign	_	_
+57	ecc	ecc	X	SW	Foreign=Yes	48	flat:foreign	_	SpaceAfter=No
+58	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

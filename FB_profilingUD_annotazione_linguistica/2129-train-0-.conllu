@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Paga le multe Matteo!
+1	Paga	pagare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	multe	multa	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	Matteo	Matteo	PROPN	SP	_	3	nmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

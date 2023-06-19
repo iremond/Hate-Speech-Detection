@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci mancano "E i marò11!!" Dicendolo credendosi simpatici 😂😂😂😂
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	mancano	mancare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
+4	E	e	CCONJ	CC	_	11	cc	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	marò11	marò11	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+9	"	"	PUNCT	FB	_	6	punct	_	_
+10	Dicendolo	Dicendolo	PROPN	SP	_	11	nsubj	_	_
+11-12	credendosi	_	_	_	_	_	_	_	_
+11	credendo	credendere	VERB	V	VerbForm=Ger	2	advcl	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+13	simpatici	simpatico	ADJ	A	Gender=Masc|Number=Plur	11	xcomp	_	_
+14	😂😂😂😂	😂😂😂😂	SYM	SYM	_	11	obj	_	SpacesAfter=\n\n
+

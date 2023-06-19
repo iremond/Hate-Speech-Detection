@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prenderemo un maalox.
+1	Prenderemo	Prendere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	maalox.	maalox.	NOUN	S	Gender=Masc	1	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .........ormai non ci resta che questo politica sterile inconcludente ma soprattutto indecente.
+1	.........ormai	.........ormai	ADV	B	_	4	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	iobj	_	_
+4	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	7	advmod	_	_
+6	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+7	politica	politica	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	sterile	sterile	ADJ	A	Number=Sing	12	amod	_	_
+9	inconcludente	inconcludente	ADJ	A	Number=Sing	12	amod	_	_
+10	ma	ma	CCONJ	CC	_	11	cc	_	_
+11	soprattutto	soprattutto	ADV	B	_	9	advmod	_	_
+12	indecente.	indecente.	NOUN	S	_	7	compound	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .........Matteo combatti ................
+1	.........Matteo	.........Matteo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	combatti	combatto	ADV	B	_	1	advmod	_	_
+3	...............	...............	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

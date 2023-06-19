@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Passatempo divertente : GUARDARE I POST DI ELOGI A RENZI.
+1	Passatempo	Passatempo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	divertente	divertente	ADJ	A	Number=Sing	1	amod	_	_
+3	:	:	PUNCT	FC	_	1	punct	_	_
+4	GUARDARE	guardare	PROPN	SP	_	1	parataxis	_	_
+5	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	POST	post	PROPN	SP	_	4	flat:name	_	SpacesAfter=\s\s\s
+7	DI	Di	ADP	E	_	8	case	_	_
+8	ELOGI	elogi	PROPN	SP	_	6	nmod	_	_
+9	A	a	ADP	E	_	10	case	_	_
+10	RENZI	RENZI	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ....CLICCARE SUGLI AUTORI E VEDERE CHE IL 90 %SONO FALSI.
+1	....CLICCARE	....CLICCARE	PROPN	SP	_	0	root	_	_
+2-3	SUGLI	_	_	_	_	_	_	_	_
+2	SU	su	PROPN	SP	_	1	flat:name	_	_
+3	GLI	gli	PROPN	SP	_	1	flat:name	_	_
+4	AUTORI	autore	PROPN	SP	_	1	flat:name	_	_
+5	E	e	CCONJ	CC	_	6	cc	_	_
+6	VEDERE	vedere	PROPN	SP	_	1	nmod	_	_
+7	CHE	Che	PROPN	SP	_	6	flat:name	_	_
+8	IL	il	PROPN	SP	_	6	flat:name	_	_
+9	90	90	NUM	N	NumType=Card	10	nummod	_	_
+10	%SONO	%SONO	PROPN	SP	_	6	nmod	_	_
+11	FALSI	falsi	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 3
+# text = ..vi farà affrontare la giornata con più OTTIMISMO.
+1	..vi	..vo	ADV	B	_	2	advmod	_	_
+2	farà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	affrontare	affrontare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	con	con	ADP	E	_	8	case	_	_
+7	più	più	ADV	B	_	8	advmod	_	_
+8	OTTIMISMO	ottimismo	PROPN	SP	_	3	obl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = 😊
+1	😊	😊	SYM	SYM	_	0	root	_	SpacesAfter=\n\n
+

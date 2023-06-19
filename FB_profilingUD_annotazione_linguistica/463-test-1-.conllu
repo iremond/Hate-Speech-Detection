@@ -1,0 +1,52 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due cornacche che sputano sentenze e pare abbiano fatto tutto loro in realtà non hanno fatto un ca..o.
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	cornacche	cornacca	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	sputano	sputare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	sentenze	sentenza	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	abbiano	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	ccomp	_	_
+10	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	16	obl	_	_
+11	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+12	in	in	ADP	E	_	13	case	_	_
+13	realtà	realtà	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+14	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+15	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+17	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	ca..o	ca..o	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Scusate non è vero che non hanno fatto un ca..o, hanno fatto un sacco di casini e di favori alla banche.
+1	Scusate	scusato	PROPN	SP	_	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	ca..o	ca..o	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	4	punct	_	_
+12	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	casini	casino	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	_
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	di	di	ADP	E	_	20	case	_	_
+20	favori	favore	NOUN	S	Gender=Masc|Number=Plur	17	conj	_	_
+21-22	alla	_	_	_	_	_	_	_	_
+21	a	a	ADP	E	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	banche	banca	NOUN	S	Gender=Fem|Number=Plur	20	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

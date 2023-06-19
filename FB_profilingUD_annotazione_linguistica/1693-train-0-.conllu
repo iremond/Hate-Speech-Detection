@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alessandro Lavista 😂 😂 😂
+1	Alessandro	Alessandro	PROPN	SP	_	0	root	_	_
+2	Lavista	Lavista	PROPN	SP	_	1	flat:name	_	_
+3	😂	😂	SYM	SYM	_	1	flat:name	_	_
+4	😂	😂	SYM	SYM	_	1	flat:name	_	_
+5	😂	😂	SYM	SYM	_	1	flat:name	_	SpacesAfter=\n\n
+

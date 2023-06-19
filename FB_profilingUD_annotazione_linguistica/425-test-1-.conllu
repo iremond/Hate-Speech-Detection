@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo, ma come fai a non mandare a fare in cu*o ste comuniste di merd*?
+1	Matteo	Matteo	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	5	punct	_	_
+3	ma	ma	CCONJ	CC	_	5	cc	_	_
+4	come	come	ADV	B	_	5	advmod	_	_
+5	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	a	a	ADP	E	_	8	mark	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	mandare	mandare	VERB	V	VerbForm=Inf	5	xcomp	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	fare	fare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	cu*o	cu*o	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+13	ste	sto	ADJ	A	Number=Sing	12	amod	_	_
+14	comuniste	comunista	ADJ	A	Number=Sing	12	amod	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	merd*	merd*	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sono false e odiose
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	false	falso	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	odiose	odioso	ADJ	A	Gender=Fem|Number=Plur	2	conj	_	SpacesAfter=\n\n
+

@@ -1,0 +1,58 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il mio mondo è reale che mi rompo il culo tutto il giorno altro che il mondo della Zanzara.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	reale	reale	ADJ	A	Number=Sing	0	root	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	rompo	rompo	NOUN	S	Gender=Masc|Number=Sing	5	csubj	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	culo	culo	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+11	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	13	det:predet	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+14	altro	altro	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	_
+15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	13	acl:relcl	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	Zanzara	zanzara	PROPN	SP	_	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = La Zanzara è il punto di riferimento verso il basso della società.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Zanzara	zanzara	PROPN	SP	_	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	punto	punto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	di	di	ADP	E	_	7	case	_	_
+7	riferimento	riferimento	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+8	verso	verso	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	basso	basso	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	società	società	NOUN	S	Gender=Fem	5	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\s\s
+
+# sent_id = 3
+# text = Ascoltarvi ci fa sentire tutti persone migliori.
+1-2	Ascoltarvi	_	_	_	_	_	_	_	_
+1	Ascoltar	ascoltare	VERB	V	VerbForm=Inf	4	csubj	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	1	iobj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	iobj	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sentire	sentire	VERB	V	VerbForm=Inf	4	ccomp	_	_
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	7	det	_	_
+7	persone	persona	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	_
+8	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

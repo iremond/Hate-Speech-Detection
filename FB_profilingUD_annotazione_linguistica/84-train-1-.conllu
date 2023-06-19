@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E tutto reale tranne Parenzo!
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	reale	reale	ADJ	A	Number=Sing	2	amod	_	_
+4	tranne	tranne	ADP	E	_	5	case	_	_
+5	Parenzo	Parenzo	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Conta come il due di pichhe con la briscola a fiori!
+1	Conta	contare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	come	come	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	due	due	NUM	N	NumType=Card	1	obl	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	pichhe	picha	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7	con	con	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	briscola	briscola	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	fiori	fiore	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

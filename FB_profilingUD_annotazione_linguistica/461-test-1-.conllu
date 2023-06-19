@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo Povera Ragazza ...Ho Una Rabbia !!! Castrazione chimica a questi mostri
+1	Matteo	Matteo	PROPN	SP	_	0	root	_	_
+2	Povera	povera	PROPN	SP	_	1	flat:name	_	_
+3	Ragazza	ragazzare	PROPN	SP	_	1	flat:name	_	_
+4	...Ho	...Ho	PROPN	SP	_	1	flat:name	_	_
+5	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Rabbia	rabbia	PROPN	SP	_	1	nmod	_	_
+7	!!!	!!!	PUNCT	FF	_	6	punct	_	_
+8	Castrazione	Castrazione	NOUN	S	Gender=Fem|Number=Sing	6	appos	_	_
+9	chimica	chimico	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
+12	mostri	mostro	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpacesAfter=\n\n
+

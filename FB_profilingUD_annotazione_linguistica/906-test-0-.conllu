@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bravo Riondino!
+1	Bravo	bravo	PROPN	SP	_	0	root	_	_
+2	Riondino	Riondino	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Lo apprezzavo come attore adesso anche come uomo
+1	Lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	apprezzavo	apprezzavo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	come	come	ADP	E	_	4	case	_	_
+4	attore	attore	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	adesso	adesso	ADV	B	_	8	advmod	_	_
+6	anche	anche	ADV	B	_	8	advmod	_	_
+7	come	come	ADP	E	_	8	case	_	_
+8	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpacesAfter=\n\n
+

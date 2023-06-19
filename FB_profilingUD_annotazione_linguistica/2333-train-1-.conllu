@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io sono un ex elettore di questa sinistra balorda e accattona.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	ex	ex	ADJ	A	_	5	amod	_	_
+5	elettore	elettore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+9	balorda	balordo	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	accattona.	accattona.	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..corrotta e ladra....ora BASTA.....Fanculo le ideologie che non fanno fatti.
+1	..corrotta	..corrurre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	ladra....ora	ladra....orare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+4	BASTA.....Fanculo	BASTA.....Fanculo	PROPN	SP	_	3	obj	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	ideologie	ideologia	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	fatti.	fatti.	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ...ben venga chi difende le nostre case....il nostro domani..la nostra economia e soprattutto la nostra sicurezza...VAI MATTEO....Sono con TE !!!!
+1	...ben	...bene	ADV	B	_	3	advmod	_	_
+2	venga	venire	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	chi	chi	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
+4	difende	difendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	case....il	case....il	NOUN	S	Gender=Masc	4	obj	_	_
+8	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	domani..la	domani..lare	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+10	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	economia	economia	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	e	e	CCONJ	CC	_	16	cc	_	_
+13	soprattutto	soprattutto	ADV	B	_	16	advmod	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	sicurezza...VAI	sicurezza...VAI	PROPN	SP	_	9	conj	_	_
+17	MATTEO....Sono	esMatteo....sere	PROPN	SP	_	16	flat:name	_	_
+18	con	con	ADP	E	_	19	case	_	_
+19	TE	Te	PROPN	SP	_	16	nmod	_	_
+20	!!!	!!!	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

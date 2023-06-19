@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per te posso farcela!
+1	Per	per	ADP	E	_	2	case	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+3	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	farcela	farcelare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = 😉
+1	😉	😉	SYM	SYM	_	0	root	_	SpacesAfter=\n\n
+

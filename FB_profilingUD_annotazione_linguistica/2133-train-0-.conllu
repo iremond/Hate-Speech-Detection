@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando le vedo cambio canale o metto il muto alla TV!
+1	Quando	quando	SCONJ	CS	_	3	mark	_	_
+2	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	3	iobj	_	_
+3	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	cambio	cambio	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	canale	canale	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	o	o	CCONJ	CC	_	7	cc	_	_
+7	metto	mettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	muto	muto	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+10-11	alla	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	TV	TV	PROPN	SP	_	7	obl	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

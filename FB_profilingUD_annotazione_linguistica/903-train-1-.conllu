@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono due capre arroganti che cercano di prendere in giro gli italiani ma bisogna informarle che non ci riescono sono veramente ridicole fanno pena
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	due	due	NUM	N	NumType=Card	3	nummod	_	_
+3	capre	capra	NOUN	S	Gender=Fem|Number=Plur	24	nsubj	_	_
+4	arroganti	arrogante	ADJ	A	Number=Plur	3	amod	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	cercano	cercare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	prendere	prendere	VERB	V	VerbForm=Inf	6	xcomp	_	_
+9	in	in	ADP	E	_	10	case	_	_
+10	giro	giro	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	_
+13	ma	ma	CCONJ	CC	_	14	cc	_	_
+14	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+15-16	informarle	_	_	_	_	_	_	_	_
+15	informar	informare	VERB	V	VerbForm=Inf	14	ccomp	_	_
+16	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+17	che	che	SCONJ	CS	_	20	mark	_	_
+18	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+19	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	20	expl	_	_
+20	riescono	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+21	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+22	veramente	veramente	ADV	B	_	23	advmod	_	_
+23	ridicole	ridicolo	ADJ	A	Gender=Fem|Number=Plur	20	nsubj	_	_
+24	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+25	pena	pena	NOUN	S	Gender=Fem|Number=Sing	24	obj	_	SpacesAfter=\n\n
+

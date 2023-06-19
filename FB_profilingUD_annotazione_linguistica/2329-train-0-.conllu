@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se non erano invitate non avremmo mai saputo in che mondo vivono ,già con le loro espressioni ci fanno capire , se parlano poi .....
+1	Se	se	SCONJ	CS	_	4	mark	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	erano	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+4	invitate	invitato	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	advcl	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	SpacesAfter=\s\s
+6	avremmo	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	mai	mai	ADV	B	_	8	advmod	_	_
+8	saputo	sapere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	che	che	DET	DQ	PronType=Int	11	det	_	_
+11	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+12	vivono	vivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+13	,già	,già	ADV	B	_	12	advmod	_	_
+14	con	con	ADP	E	_	17	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+16	loro	loro	DET	AP	Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	espressioni	espressione	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	iobj	_	_
+19	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+20	capire	capire	VERB	V	VerbForm=Inf	19	ccomp	_	_
+21	,	,	PUNCT	FF	_	12	punct	_	_
+22	se	se	SCONJ	CS	_	23	mark	_	_
+23	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+24	poi	poi	ADV	B	_	23	advmod	_	_
+25	.....	.....	PUNCT	FF	_	8	punct	_	SpacesAfter=\n\n
+

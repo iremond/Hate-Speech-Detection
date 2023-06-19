@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non capisco il conduttore invitare gente che nessuno può vedere ma perché ci sono per caso degli interessi di qualcuno ????
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	capisco	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	conduttore	conduttore	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	invitare	invitare	VERB	V	VerbForm=Inf	2	ccomp	_	_
+6	gente	gente	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+8	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	nsubj	_	_
+9	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	vedere	vedere	VERB	V	VerbForm=Inf	6	acl:relcl	_	SpacesAfter=\s\s\s\s\s
+11	ma	ma	CCONJ	CC	_	14	cc	_	_
+12	perché	perché	SCONJ	CS	_	14	mark	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	14	expl	_	_
+14	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+15	per	per	ADP	E	_	16	case	_	_
+16	caso	caso	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+17-18	degli	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	19	nmod	_	_
+22	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+23	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+25	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

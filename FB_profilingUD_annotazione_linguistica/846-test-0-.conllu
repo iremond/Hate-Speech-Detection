@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noooooooooooo!!!!!!!!!!!!!
+1	Noooooooooooo	Noooooooooooo	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+4	!!!!!!!!!!	!!!!!!!!!!	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ecco questo lo dedico a loro.
+1	Ecco	ecco	ADV	B	_	4	advmod	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	dedico	dedire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

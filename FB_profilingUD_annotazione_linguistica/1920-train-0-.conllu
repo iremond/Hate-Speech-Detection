@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Condivido con Cruciani al 100% invece Parenzo meglio se sta a casa
+1	Condivido	Condividere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	E	_	3	case	_	_
+3	Cruciani	Cruciani	PROPN	SP	_	1	obl	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	100	100	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+7	%	%	SYM	SYM	_	1	obl	_	_
+8	invece	invece	ADV	B	_	1	advmod	_	_
+9	Parenzo	Parenzo	PROPN	SP	_	1	obj	_	_
+10	meglio	meglio	ADV	B	_	1	advmod	_	_
+11	se	se	SCONJ	CS	_	12	mark	_	_
+12	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	casa	casa	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpacesAfter=\n\n
+

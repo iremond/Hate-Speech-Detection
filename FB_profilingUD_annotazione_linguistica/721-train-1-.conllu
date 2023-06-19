@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MAMMA MIA PESE COME IL BACCALÀ COI PORRI!!!!!!!!!!!
+1	MAMMA	mamma	PROPN	SP	_	0	root	_	_
+2	MIA	mia	PROPN	SP	_	1	flat:name	_	_
+3	PESE	PESE	PROPN	SP	_	1	flat:name	_	_
+4	COME	come	PROPN	SP	_	1	flat:name	_	_
+5	IL	Il	PROPN	SP	_	4	flat:name	_	_
+6	BACCALÀ	BACCALÀ	PROPN	SP	_	4	flat:name	_	_
+7-8	COI	_	_	_	_	_	_	_	_
+7	CON	con	PROPN	SP	_	4	flat:name	_	_
+8	I	I	ADJ	NO	Number=Sing|NumType=Ord	4	flat:name	_	_
+9	PORRI!	PORRI!	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+10	!!!!!!!!!!	!!!!!!!!!!	PUNCT	FF	_	4	punct	_	_
+
+# sent_id = 2
+# text = MA CHI LE HA VOTATE?
+1	MA	ma	PROPN	SP	_	0	root	_	_
+2	CHI	chi	PROPN	SP	_	1	flat:name	_	_
+3	LE	Le	PROPN	SP	_	1	flat:name	_	_
+4	HA	Ha	PROPN	SP	_	1	flat:name	_	_
+5	VOTATE	votate	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\s
+
+# sent_id = 3
+# text = LA MALPEZZI SEMBRA LA STRGA DI NERANEVE ( visto chi difende) LA CASTALDINI INCLASSIFICABILE!!
+1	LA	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	MALPEZZI	MALPEZZI	PROPN	SP	_	0	root	_	_
+3	SEMBRA	sembrare	PROPN	SP	_	2	flat:name	_	_
+4	LA	il	PROPN	SP	_	2	flat:name	_	_
+5	STRGA	STRGA	PROPN	SP	_	2	flat:name	_	_
+6	DI	Di	ADP	E	_	7	case	_	_
+7	NERANEVE	NERANEVE	PROPN	SP	_	2	nmod	_	_
+8	(	(	PUNCT	FB	_	9	punct	_	_
+9	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
+10	chi	chi	PRON	PR	Number=Sing|PronType=Rel	9	obj	_	_
+11	difende	difendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	SpaceAfter=No
+12	)	)	PUNCT	FB	_	9	punct	_	_
+13	LA	il	PROPN	SP	_	2	flat:name	_	_
+14	CASTALDINI	CASTALDINI	PROPN	SP	_	13	flat:name	_	_
+15	INCLASSIFICABILE	INCLASSIFICABILE	PROPN	SP	_	13	flat:name	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+17	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 4
+# text = NCD (nuovo centro distruzione)
+1	NCD	NCD	NOUN	S	_	0	root	_	SpacesAfter=\s\s
+2	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+3	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	centro	centro	NOUN	S	Gender=Masc|Number=Sing	1	appos	_	_
+5	distruzione	distruzione	NOUN	S	Gender=Fem|Number=Sing	4	compound	_	SpaceAfter=No
+6	)	)	PUNCT	FB	_	4	punct	_	SpacesAfter=\n\n
+

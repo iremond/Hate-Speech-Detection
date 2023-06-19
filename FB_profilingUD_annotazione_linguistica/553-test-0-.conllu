@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Da stasera ho capito che noi italiani , nella nostra nazione siamo ospiti .
+1	Da	da	ADP	E	_	2	case	_	_
+2	stasera	stasera	ADV	B	_	4	advmod	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	che	che	SCONJ	CS	_	14	mark	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
+7	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9-10	nella	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	nazione	nazione	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+13	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	ospiti	ospire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	ccomp	_	_
+15	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

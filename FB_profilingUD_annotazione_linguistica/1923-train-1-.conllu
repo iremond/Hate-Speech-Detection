@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avete fatto caso che il PD manda sempre le stesse persone,sono quelle con meno cervello e dicono quello che vuole Renzi,non sono capaci di ragionare con il proprio cervello,altrimenti non sarebbero del PD!!!
+1	Avete	avere	AUX	VM	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	caso	caso	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+4	che	che	SCONJ	CS	_	7	mark	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	PD	Pd	PROPN	SP	_	7	nsubj	_	_
+7	manda	mandare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+8	sempre	sempre	ADV	B	_	7	advmod	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	stesse	stesso	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	11	nsubj	_	_
+11	persone,sono	espersone,sere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	11	obj	_	_
+13	con	con	ADP	E	_	15	case	_	_
+14	meno	meno	ADV	B	_	15	advmod	_	_
+15	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+18	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	_
+19	che	che	PRON	PR	PronType=Rel	20	obj	_	_
+20	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+21	Renzi,non	Renzi,non	PROPN	SP	_	20	nsubj	_	_
+22	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+23	capaci	capace	ADJ	A	Number=Plur	17	ccomp	_	_
+24	di	di	ADP	E	_	25	mark	_	_
+25	ragionare	ragionare	VERB	V	VerbForm=Inf	23	advcl	_	_
+26	con	con	ADP	E	_	29	case	_	_
+27	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+28	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	29	det:poss	_	_
+29	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
+30	,	,	PUNCT	FF	_	36	punct	_	SpaceAfter=No
+31	altrimenti	altrimenti	CCONJ	CC	_	36	cc	_	_
+32	non	non	ADV	BN	PronType=Neg	36	advmod	_	_
+33	sarebbero	essere	AUX	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
+34-35	del	_	_	_	_	_	_	_	_
+34	di	di	ADP	E	_	36	case	_	_
+35	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+36	PD!	Pd!	PROPN	SP	_	25	conj	_	SpaceAfter=No
+37	!!	!!	PUNCT	FF	_	11	punct	_	SpacesAfter=\n\n
+

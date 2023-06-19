@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caro presidente :
+1	Caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = Matteo Renzi
+1	Matteo	Matteo	PROPN	SP	_	0	root	_	_
+2	Renzi	Renzi	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

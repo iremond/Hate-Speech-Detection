@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Capitano, le gallinelle coccoPDdè non le sopporto, entra e ruspale !!!
+1	Capitano	Capitano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	gallinelle	gallinella	NOUN	S	Gender=Fem|Number=Plur	1	nsubj	_	_
+5	coccoPDdè	coccoPDdé	PROPN	SP	_	4	nmod	_	_
+6	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	sopporto	sopporto	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	10	punct	_	_
+10	entra	entro	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	ruspale	ruspale	ADJ	A	Number=Sing	10	conj	_	_
+13	!	!	PUNCT	FS	_	12	punct	_	SpaceAfter=No
+14	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

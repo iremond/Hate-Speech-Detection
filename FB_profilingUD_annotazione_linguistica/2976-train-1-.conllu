@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = un governo che mentre la casa sta crollando si ocupa delquadro attacato storto e un governo di mentecatti ritardati mentali
+1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	governo	governo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	10	nsubj	_	_
+4	mentre	mentre	SCONJ	CS	_	8	mark	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	casa	casa	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	crollando	crollare	VERB	V	VerbForm=Ger	10	advcl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+10	ocupa	ocupare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpacesAfter=\s\s
+11	delquadro	delquadro	ADP	E	_	12	case	_	_
+12	attacato	attacato	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+13	storto	storto	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+14	e	e	CCONJ	CC	_	16	cc	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	governo	governo	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	mentecatti	mentecatto	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	_
+19	ritardati	ritardato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	acl	_	_
+20	mentali	mentale	ADJ	A	Number=Plur	19	xcomp	_	SpacesAfter=\n\n
+

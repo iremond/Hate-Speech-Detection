@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = acido muriatico.
+1	acido	acido	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	muriatico.	muriatico.	NOUN	S	Gender=Masc	1	compound	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n\n
+

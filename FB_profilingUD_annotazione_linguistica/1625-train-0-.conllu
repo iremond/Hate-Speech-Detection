@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cdcdcdcd di ❤
+1	Cdcdcdcd	Cdcdcdcd	NOUN	S	Gender=Masc	0	root	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	❤	❤	SYM	SYM	_	1	nmod	_	SpacesAfter=\n\n
+

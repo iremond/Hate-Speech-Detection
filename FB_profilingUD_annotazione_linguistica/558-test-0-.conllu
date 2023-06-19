@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi stupisco che si invitano in questa trasmissione personaggi simil
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl	_	_
+2	stupisco	stupire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+5	invitano	invitare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+9	personaggi	personaggio	NOUN	S	Gender=Masc|Number=Plur	8	compound	_	SpacesAfter=\s\s
+10	simil	simile	ADJ	A	_	9	amod	_	SpacesAfter=\n\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fra 5 mesi potremo festeggiare la liberazione ..
+1	Fra	fra	ADP	E	_	3	case	_	_
+2	5	5	NUM	N	NumType=Card	3	nummod	_	_
+3	mesi	mese	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+4	potremo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	5	aux	_	_
+5	festeggiare	festeggiare	VERB	V	VerbForm=Inf	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	liberazione	liberazione	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

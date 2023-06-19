@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E VAI VAI
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	VAI	Vai	PROPN	SP	_	0	root	_	_
+3	VAI	Vai	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n\n
+

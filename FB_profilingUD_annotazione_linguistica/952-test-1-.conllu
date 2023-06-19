@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = eccolo qui il Pdiota per eccellenza:
+1-2	eccolo	_	_	_	_	_	_	_	_
+1	ecco	ecco	ADV	B	_	2	advmod	_	_
+2	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+3	qui	qui	ADV	B	_	2	advmod	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Pdiota	Pdiota	PROPN	SP	_	2	nsubj	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7	eccellenza	eccellenza	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = vecchio pensionato stordito con 2 neuroni nel cervello
+1	vecchio	vecchio	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	pensionato	pensionato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	stordito	stordire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+4	con	con	ADP	E	_	6	case	_	_
+5	2	2	NUM	N	NumType=Card	6	nummod	_	_
+6	neuroni	neurone	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7-8	nel	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	cervello	cervello	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpacesAfter=\n\n
+

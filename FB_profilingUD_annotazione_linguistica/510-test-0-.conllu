@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Leggi i nostri mex in diretta.
+1	Leggi	legge	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+3	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	mex	mex	NOUN	S	Gender=Masc	1	obj	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	diretta	diretta	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = .fai capire alla gente cosa bisogna fare
+1	.fai	.fai	ADV	B	_	7	advmod	_	_
+2	capire	capire	VERB	V	VerbForm=Inf	7	csubj	_	_
+3-4	alla	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	gente	gente	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+6	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	7	obj	_	_
+7	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	fare	fare	VERB	V	VerbForm=Inf	7	ccomp	_	SpacesAfter=\n\n
+

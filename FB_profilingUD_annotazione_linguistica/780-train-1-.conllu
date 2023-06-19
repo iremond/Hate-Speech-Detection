@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ossignur , caro Matteo , le odio !!!
+1	Ossignur	Ossignure	ADV	B	_	4	advmod	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	caro	caro	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	Matteo	Matteo	PROPN	SP	_	0	root	_	SpacesAfter=\s\s
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	odio	odio	NOUN	S	Gender=Fem	4	nmod	_	_
+8	!!!	!!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n\n
+

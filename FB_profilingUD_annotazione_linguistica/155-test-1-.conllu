@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questa Donna e Indemoniata come Renzi andate via Ladri
+1	Questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	Donna	donna	PROPN	SP	_	7	nsubj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	Indemoniata	Indemoniata	PROPN	SP	_	2	conj	_	_
+5	come	come	ADP	E	_	6	case	_	_
+6	Renzi	Renzi	PROPN	SP	_	2	nmod	_	_
+7	andate	andare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	via	via	ADV	B	_	7	advmod	_	_
+9	Ladri	Ladri	PROPN	SP	_	7	xcomp	_	SpacesAfter=\n\n
+

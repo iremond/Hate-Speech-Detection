@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E hai ragione.
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	hai	avere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ragione.	ragione.	NOUN	S	_	2	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n\n
+

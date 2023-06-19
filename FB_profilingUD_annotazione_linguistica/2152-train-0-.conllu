@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Facciamo anche un referendum per abolire il canone rai, perché è un furto bello e buono
+1	Facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	anche	anche	ADV	B	_	4	advmod	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	referendum	referendum	NOUN	S	Gender=Masc	1	obj	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	abolire	abolire	VERB	V	VerbForm=Inf	4	acl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	canone	canone	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9	rai	re	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	9	punct	_	_
+11	perché	perché	SCONJ	CS	_	14	mark	_	SpacesAfter=\s\s
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	SpacesAfter=\s\s
+13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	furto	furto	NOUN	S	Gender=Masc|Number=Sing	9	advcl	_	_
+15	bello	bello	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+16	e	e	CCONJ	CC	_	17	cc	_	_
+17	buono	buono	ADJ	A	Gender=Masc|Number=Sing	15	conj	_	SpacesAfter=\n\n
+

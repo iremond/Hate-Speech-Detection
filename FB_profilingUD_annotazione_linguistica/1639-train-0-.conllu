@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Jack Burton
+1	Jack	Jack	PROPN	SP	_	0	root	_	_
+2	Burton	Burton	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

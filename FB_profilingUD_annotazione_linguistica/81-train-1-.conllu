@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ti prego asfalta le oche starnazzanti dì malpezzi e castaldini
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl	_	_
+2	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	asfalta	asfaltare	ADV	B	_	2	advmod	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	oche	oca	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+6	starnazzanti	starnazzante	ADV	B	_	7	advmod	_	_
+7	dì	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	castaldini	castaldine	NOUN	S	Gender=Masc|Number=Plur	8	conj	_	SpacesAfter=\n\n
+

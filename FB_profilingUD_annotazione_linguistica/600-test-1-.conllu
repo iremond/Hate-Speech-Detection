@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sentirle blaterare : UNA CAGATA PAZZESCA.
+1-2	Sentirle	_	_	_	_	_	_	_	_
+1	Sentir	sentire	VERB	V	VerbForm=Inf	0	root	_	_
+2	le	lo	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	blaterare	blaterare	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	:	:	PUNCT	FC	_	3	punct	_	_
+5	UNA	uno	PROPN	SP	_	3	nmod	_	_
+6	CAGATA	CAGATA	PROPN	SP	_	5	flat:name	_	_
+7	PAZZESCA	PAZZESCA	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

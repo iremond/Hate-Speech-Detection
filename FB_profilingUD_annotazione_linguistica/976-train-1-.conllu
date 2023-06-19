@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo fatti un giro presso un qualsiasi sportello di Equitalia!!!!....
+1	Matteo	Matteo	ADV	B	_	2	advmod	_	_
+2	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	giro	giro	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	presso	presso	ADP	E	_	8	case	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	qualsiasi	qualsiasi	ADJ	A	Number=Sing	8	amod	_	_
+8	sportello	sportello	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Equitalia	Equitalia	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+11	!!!!...	!!!!...	PUNCT	FF	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = da brivido!!!!
+1	da	da	ADP	E	_	2	case	_	_
+2	brivido	brivido	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!!	!!	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

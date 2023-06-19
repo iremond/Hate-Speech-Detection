@@ -1,0 +1,70 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Lo so che tutti qs ns sfoghi NN cambieranno nulla sig Renzi.
+1	Lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	che	che	SCONJ	CS	_	9	mark	_	_
+4	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	5	det	_	_
+5	qs	qs	NOUN	S	_	9	nsubj	_	_
+6	ns	ns	ADP	E	_	7	case	_	_
+7	sfoghi	sfogo	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+8	NN	NN	PROPN	SP	_	7	nmod	_	_
+9	cambieranno	cambiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	ccomp	_	_
+10	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	_
+11	sig	sig	SYM	X	_	10	nmod	_	_
+12	Renzi	Renzi	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Magari vi aiuteranno a fare qualche risata in più.
+1	Magari	magari	ADV	B	_	3	advmod	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
+3	aiuteranno	aiutare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	mark	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	7	det	_	_
+7	risata	risata	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	in	in	ADP	E	_	9	case	_	_
+9	più	più	ADV	B	_	7	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = Basta che le vs pance siano piene poi il resto è il nulla.
+1	Basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	7	mark	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	vs	vs	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+5	pance	pance	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+6	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	piene	penire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+8	poi	poi	ADV	B	_	7	advmod	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	resto	resto	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	nulla	nulla	NOUN	S	Gender=Masc	7	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 4
+# text = X fortuna dovreste lavorare X il popolo invece lavorate solo X le vs tasche.
+1	X	X	ADJ	NO	Number=Sing|NumType=Ord	2	amod	_	_
+2	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	dovreste	dovresto	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	lavorare	lavorare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+5	X	X	PROPN	SP	_	4	obj	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+8	invece	invece	ADV	B	_	9	advmod	_	_
+9	lavorate	lavorare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+10	solo	solo	ADV	B	_	11	advmod	_	_
+11	X	X	PROPN	SP	_	9	nsubj:pass	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	vs	vs	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	_
+14	tasche	tasco	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 5
+# text = Grazie
+1	Grazie	grazie	NOUN	S	_	0	root	_	SpacesAfter=\n\n
+

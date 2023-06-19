@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo aiutaci ad andare in pensione con 41anni di contributi e lascia perdere tutte le altre puttanate del governo renzi
+1	Matteo	Matteo	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	_
+2	aiutaci	aiutace	ADJ	A	Number=Plur	1	amod	_	_
+3	ad	a	ADP	E	_	4	mark	_	_
+4	andare	andare	VERB	V	VerbForm=Inf	1	acl	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	pensione	pensione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	41anni	41anno	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	contributi	contributo	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	lascia	lasciare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	perdere	perdere	VERB	V	VerbForm=Inf	12	ccomp	_	_
+14	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	17	det:predet	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+16	altre	altro	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	_
+17	puttanate	puttanata	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	governo	governo	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	_
+21	renzi	renzi	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

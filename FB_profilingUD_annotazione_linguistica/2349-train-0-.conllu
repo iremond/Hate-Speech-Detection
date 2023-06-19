@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = IO PER NATURA VOGLIO BENE A TUTTI!
+1	IO	io	PROPN	SP	_	0	root	_	_
+2	PER	per	PROPN	SP	_	1	flat:name	_	_
+3	NATURA	natura	PROPN	SP	_	1	flat:name	_	_
+4	VOGLIO	Voglio	PROPN	SP	_	1	flat:name	_	_
+5	BENE	Bene	PROPN	SP	_	4	flat:name	_	_
+6	A	A	PROPN	SP	_	4	flat:name	_	_
+7	TUTTI	Tutti	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = NON IMPORTA IL PARTITO.
+1	NON	non	PROPN	SP	_	0	root	_	_
+2	IMPORTA	importo	PROPN	SP	_	1	flat:name	_	_
+3	IL	il	PROPN	SP	_	1	flat:name	_	_
+4	PARTITO	Partito	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = piu controlli di polizia
+1	piu	piu	ADP	E	_	2	case	_	_
+2	controlli	controllo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n\n
+

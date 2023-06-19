@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due gatte attaccate nei maroni
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	gatte	gatta	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	attaccate	attaccare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
+4-5	nei	_	_	_	_	_	_	_	_
+4	in	in	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	maroni	marone	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	SpacesAfter=\n\n
+

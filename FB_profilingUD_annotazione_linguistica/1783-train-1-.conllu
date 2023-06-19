@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = io no trifolco
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	no	no	ADV	BN	PronType=Neg	1	advmod	_	_
+3	trifolco	trifolco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Del debbio perché non invita Renzi a faccia a faccia con te Matteo?
+1-2	Del	_	_	_	_	_	_	_	_
+1	Di	di	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	debbio	debbio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	perché	perché	SCONJ	CS	_	6	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	invita	invitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	Renzi	Renzi	PROPN	SP	_	6	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	9	fixed	_	_
+12	con	con	ADP	E	_	13	case	_	_
+13	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+14	Matteo	Matteo	PROPN	SP	_	13	flat:name	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..che spettacolo!!
+1	..che	..ca	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = e la UOMO SESSUALITà non è una malattia
+1	e	e	CCONJ	CC	_	8	cc	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	UOMO	uomo	PROPN	SP	_	8	nsubj	_	_
+4	SESSUALITà	sessualità	PROPN	SP	_	3	flat:name	_	_
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	malattia	malattia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+

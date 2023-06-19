@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E arrivata la castrardini n altra scema
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	arrivata	arrivare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	castrardini	castrardine	NOUN	S	Gender=Masc|Number=Plur	2	nsubj:pass	_	_
+5	n	no	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+6	altra	altro	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	scema	scema	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n\n
+

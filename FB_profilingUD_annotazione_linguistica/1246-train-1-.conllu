@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ci sono prodotti che possa far digerire queste due.
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	prodotti	prodotto	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	far	fare	VERB	V	VerbForm=Inf	4	acl:relcl	_	_
+8	digerire	digerire	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+10	due	due	NUM	N	NumType=Card	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

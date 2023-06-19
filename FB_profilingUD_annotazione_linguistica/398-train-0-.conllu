@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = e reggggenee???
+1	e	e	CCONJ	CC	_	2	cc	_	_
+2	reggggenee	reggggenea	ADV	B	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

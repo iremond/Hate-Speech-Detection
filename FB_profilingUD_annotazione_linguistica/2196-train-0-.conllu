@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sisi bravo allora finanzia anche le ricerche universitarie.
+1	Sisi	Sisi	NOUN	S	Number=Sing	4	nsubj	_	_
+2	bravo	bravo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	allora	allora	ADV	B	_	4	advmod	_	_
+4	finanzia	finanziare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	anche	anche	ADV	B	_	7	advmod	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	ricerche	ricerca	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+8	universitarie	universitario	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Che i bambini allasilo possono anche pagare.
+1	Che	che	SCONJ	CS	_	7	mark	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+4	allasilo	allasilo	ADJ	A	_	3	amod	_	_
+5	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	anche	anche	ADV	B	_	7	advmod	_	_
+7	pagare	pagare	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,48 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fai tacere la sinistra quella che dice abbiamo fatto tutto noi non si puo sentire tutte le puttanate che dice...ci stanno portando alla rovina x vavore Matteo falla tacere mi fa venire i crampi allo stomaco x il nervoso...
+1	Fai	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+2	tacere	tacere	VERB	V	VerbForm=Inf	1	ccomp	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	9	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+8	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
+11	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
+12	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	14	expl	_	_
+14	puo	puo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+15	sentire	sentire	VERB	V	VerbForm=Inf	14	xcomp	_	_
+16	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	18	det:predet	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	puttanate	puttanata	NOUN	S	Gender=Fem|Number=Plur	29	nsubj	_	_
+19	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+20	dice...ci	dice...co	NUM	N	NumType=Card	22	nummod	_	_
+21	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	portando	portare	VERB	V	VerbForm=Ger	29	acl:relcl	_	_
+23-24	alla	_	_	_	_	_	_	_	_
+23	a	a	ADP	E	_	25	case	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	rovina	rovina	NOUN	S	Gender=Fem|Number=Sing	29	obl	_	_
+26	x	x	SYM	SYM	_	29	obj	_	_
+27	vavore	vavore	NOUN	S	Gender=Masc|Number=Sing	29	nsubj	_	_
+28	Matteo	Matteo	PROPN	SP	_	27	nmod	_	_
+29	falla	fallo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+30	tacere	tacere	VERB	V	VerbForm=Inf	32	xcomp	_	_
+31	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	32	iobj	_	_
+32	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
+33	venire	venire	VERB	V	VerbForm=Inf	32	csubj	_	_
+34	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	35	det	_	_
+35	crampi	crampo	NOUN	S	Gender=Masc|Number=Plur	33	obj	_	_
+36-37	allo	_	_	_	_	_	_	_	_
+36	a	a	ADP	E	_	38	case	_	_
+37	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
+38	stomaco	stomaco	NOUN	S	Gender=Masc|Number=Sing	33	obl	_	_
+39	x	x	SYM	SYM	_	38	nmod	_	_
+40	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
+41	nervoso...	nervoso...	NOUN	S	Gender=Masc|Number=Sing	29	obj	_	SpacesAfter=\n\n
+

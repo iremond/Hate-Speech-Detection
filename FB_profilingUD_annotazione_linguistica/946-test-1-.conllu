@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Giordano il tipico giornalista inutile, con risultati perennemente scadenti, è una specie di ciaccolone acido come le zitelle vergini.
+1	Giordano	Giordare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	parataxis	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	tipico	tipico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
+4	giornalista	giornalista	NOUN	S	Number=Sing	1	nsubj	_	_
+5	inutile	inutile	ADJ	A	Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+9	perennemente	perennemente	ADV	B	_	10	advmod	_	_
+10	scadenti	scadente	ADJ	A	Number=Plur	8	amod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	1	punct	_	_
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	specie	specie	NOUN	S	Gender=Fem	0	root	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	ciaccolone	ciaccolone	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	_
+17	acido	acidere	NOUN	S	Gender=Masc|Number=Sing	16	compound	_	_
+18	come	come	ADP	E	_	20	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	zitelle	zitella	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
+21	vergini	vergino	ADJ	A	Number=Plur	20	amod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	14	punct	_	SpacesAfter=\n\n
+

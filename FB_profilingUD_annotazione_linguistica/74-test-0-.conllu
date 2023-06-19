@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = The family
+1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
+2	family	family	NOUN	S	Gender=Fem	0	root	_	SpacesAfter=\n\n
+

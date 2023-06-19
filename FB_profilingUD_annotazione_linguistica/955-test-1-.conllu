@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gli elettori del m5s si riconoscono dai 47 cromosomi e dal fatto che quando gli altri parlano di fatti tirano fuori solo offese dato il quoziente intellettivo pari a quello di una medusa spiaggiata
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	elettori	elettore	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	m5s	m5s	NOUN	S	Gender=Masc	2	nmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	riconoscono	riconoscere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8-9	dai	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	11	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	47	47	NUM	N	NumType=Card	11	nummod	_	_
+11	cromosomi	cromosoma	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13-14	dal	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	_
+16	che	che	SCONJ	CS	_	20	mark	_	_
+17	quando	quando	SCONJ	CS	_	20	mark	_	_
+18	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	20	nsubj	_	_
+20	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	_
+23	tirano	tirare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
+24	fuori	fuori	ADV	B	_	23	advmod	_	_
+25	solo	solo	ADV	B	_	26	advmod	_	_
+26	offese	offese	ADJ	A	Number=Sing	23	xcomp	_	_
+27	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	advcl	_	_
+28	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	quoziente	quoziente	NOUN	S	Gender=Masc|Number=Sing	27	obj	_	_
+30	intellettivo	intellettivo	ADJ	A	Gender=Masc|Number=Sing	29	amod	_	_
+31	pari	pari	ADJ	A	_	29	amod	_	_
+32	a	a	ADP	E	_	33	case	_	_
+33	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	31	obl	_	_
+34	di	di	ADP	E	_	36	case	_	_
+35	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
+36	medusa	medusa	NOUN	S	Gender=Fem|Number=Sing	33	nmod	_	_
+37	spiaggiata	spiaggiato	ADJ	A	Gender=Fem|Number=Sing	36	amod	_	SpacesAfter=\n\n
+

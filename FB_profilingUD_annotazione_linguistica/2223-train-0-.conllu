@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grande Capitano!
+1	Grande	Grande	ADJ	A	Number=Sing	2	amod	_	_
+2	Capitano	capitano	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = La mattina a Milano e il pomeriggio a Bergamo con ben 7 comizi!
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	Milano	Milano	PROPN	SP	_	2	nmod	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	pomeriggio	pomeriggio	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	Bergamo	Bergamo	PROPN	SP	_	7	nmod	_	_
+10	con	con	ADP	E	_	13	case	_	_
+11	ben	bene	ADV	B	_	13	advmod	_	_
+12	7	7	NUM	N	NumType=Card	13	nummod	_	_
+13	comizi	comizio	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Instancabie e grandissimo!!
+1	Instancabie	Instancabio	ADV	B	_	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	grandissimo	grandissimo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 5
+# text = Avanti che lo mandiamo a casa quel PALLONE GONFIATO di Renzi!!!!
+1	Avanti	avanti	ADV	B	_	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	mandiamo	mandare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	casa	casa	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+7	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	PALLONE	Pallone	PROPN	SP	_	4	nsubj	_	_
+9	GONFIATO	gonfiato	PROPN	SP	_	8	flat:name	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Renzi	Renzi	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No
+13	!!	!!	PUNCT	FF	_	8	punct	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

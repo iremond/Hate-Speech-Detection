@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Abbraccia quella bambina x tutti noi Matteo ti prego
+1	Abbraccia	abbraccio	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+2	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	bambina	bambino	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+4	x	x	SYM	SYM	_	3	nmod	_	_
+5	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	3	nmod	_	_
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+7	Matteo	Matteo	PROPN	SP	_	6	flat:name	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	expl	_	_
+9	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

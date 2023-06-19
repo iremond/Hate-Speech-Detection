@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Finalmente Matteo ....
+1	Finalmente	finalmente	ADV	B	_	2	advmod	_	_
+2	Matteo	Matteo	PROPN	SP	_	0	root	_	_
+3	...	...	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Stendile quelle due!!!
+1	Stendile	Stendile	ADJ	A	Number=Sing	2	amod	_	_
+2	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	0	root	_	_
+3	due	due	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+4	!!!	!!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

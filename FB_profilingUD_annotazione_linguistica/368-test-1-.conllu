@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bastardi maledetti
+1	Bastardi	Bastardo	ADV	B	_	2	advmod	_	_
+2	maledetti	maledetto	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 6 un grande
+1	6	6	NUM	N	NumType=Card	3	nummod	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	grande	grande	ADJ	A	Number=Sing	0	root	_	SpacesAfter=\n\n
+

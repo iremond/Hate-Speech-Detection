@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo quando Renzuccio se ne va a casa cosa succederà, a parte i festeggiamenti.
+1	Matteo	Matteare	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+2	quando	quando	SCONJ	CS	_	6	mark	_	_
+3	Renzuccio	Renzuccio	PROPN	SP	_	6	nsubj	_	_
+4	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+6	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+7	a	a	ADP	E	_	8	case	_	_
+8	casa	casa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+9	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	10	obj	_	_
+10	succederà	succedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	parte	parte	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	festeggiamenti.	festeggiamenti.	NOUN	S	_	10	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .il popolo Italiano avrà la possibilità di votare il nuovo Presidente??
+1	.il	.il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	Italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	possibilità	possibilità	NOUN	S	Gender=Fem	4	obj	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	votare	votare	VERB	V	VerbForm=Inf	6	acl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	Presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,111 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dai su, non prendertela anche coi bravissimi democratici dei centri sociali!
+1-2	Dai	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	su	su	NOUN	S	Gender=Masc	6	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+6	prendertela	prendertelare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	anche	anche	ADV	B	_	6	advmod	_	_
+8-9	coi	_	_	_	_	_	_	_	_
+8	con	con	ADP	E	_	11	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	bravissimi	bravo	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	11	amod	_	_
+11	democratici	democratico	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	centri	centro	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	_
+15	sociali	sociale	ADJ	A	Number=Plur	14	amod	_	SpaceAfter=No
+16	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Lo sai che servono per far casini per cosí dar la possibilità al dittatore + stupido della storia di fare i suoi cazzi!
+1	Lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sai	sai	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+4	servono	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	far	fare	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	casini	casino	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	cosí	cosí	PROPN	SP	_	7	nmod	_	_
+10	dar	dare	VERB	V	VerbForm=Inf	0	root	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	possibilità	possibilità	NOUN	S	Gender=Fem	10	obj	_	_
+13-14	al	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	dittatore	dittatore	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+16	+	+	SYM	SYM	_	15	nmod	_	_
+17	stupido	stupido	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	storia	storia	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	_
+21	di	di	ADP	E	_	22	mark	_	_
+22	fare	fare	VERB	V	VerbForm=Inf	20	acl	_	_
+23	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+24	suoi	suo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	25	det:poss	_	_
+25	cazzi	cazzo	NOUN	S	Gender=Masc|Number=Plur	22	obj	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 3
+# text = È democratico che 4 deficienti si facciano padroni di quello che vogliono dai!
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	democratico	democratico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	che	che	SCONJ	CS	_	7	mark	_	_
+4	4	4	NUM	N	NumType=Card	5	nummod	_	_
+5	deficienti	deficiento	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+8	padroni	padrone	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nmod	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	vogliono	volere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13-14	dai	_	_	_	_	_	_	_	SpaceAfter=No
+13	da	da	ADP	E	_	15	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	!	!	PUNCT	FS	_	12	obl	_	_
+
+# sent_id = 4
+# text = Purtroppo sberle da piccoli non le hanno avute e son diventati degli inutili parassiti corrompibili con delle caramelle.
+1	Purtroppo	purtroppo	ADV	B	_	2	advmod	_	_
+2-3	sberle	_	_	_	_	_	_	_	_
+2	sber	sbere	VERB	V	VerbForm=Inf	0	root	_	_
+3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	2	obj	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	2	obl	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	avute	avere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	2	advcl	_	_
+10	e	e	CCONJ	CC	_	12	cc	_	_
+11	son	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	diventati	diventare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	conj	_	_
+13-14	degli	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	16	case	_	_
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	inutili	inutile	ADJ	A	Number=Plur	16	amod	_	_
+16	parassiti	parassito	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	_
+17	corrompibili	corrompibile	ADJ	A	Number=Plur	16	amod	_	_
+18	con	con	ADP	E	_	21	case	_	_
+19-20	delle	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	caramelle	caramella	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 5
+# text = Bisogna compatirli quei cretini
+1	Bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2-3	compatirli	_	_	_	_	_	_	_	_
+2	compatir	compatire	VERB	V	VerbForm=Inf	1	csubj	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+4	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+5	cretini	cretino	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpacesAfter=\n\n
+

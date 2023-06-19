@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 2 STRONZE MALGAGATE..
+1	2	2	NUM	N	NumType=Card	2	nummod	_	_
+2	STRONZE	STRONZE	PROPN	SP	_	0	root	_	_
+3	MALGAGATE..	MALGAGATE..	PROPN	SP	_	2	flat:name	_	_
+
+# sent_id = 2
+# text = LE DETESTO
+1	LE	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	DETESTO	DETESTO	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

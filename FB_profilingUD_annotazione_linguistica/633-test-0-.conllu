@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Partecipano per farsi odiare.
+1	Partecipano	partecipare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3-4	farsi	_	_	_	_	_	_	_	_
+3	far	fare	VERB	V	VerbForm=Inf	1	advcl	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+5	odiare	odiare	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Meglio così.
+1	Meglio	meglio	ADV	B	_	2	advmod	_	_
+2	così	così	ADV	B	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Un caro saluto ad entrambe...
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	caro	caro	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	saluto	salere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	ad	a	ADP	E	_	5	case	_	_
+5	entrambe..	entrambe..	NOUN	S	_	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I sinistronzi hanno rotto le palle di vedere e fare cose superficiali.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	sinistronzi	sinistronzo	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	rotto	rompere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	palle	palla	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8	vedere	vedere	VERB	V	VerbForm=Inf	6	acl	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	fare	fare	VERB	V	VerbForm=Inf	8	conj	_	_
+11	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+12	superficiali.	superficiali.	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..fuori dalle palle la fabbrica della delinquenza e della povertà, vogliamo diritti e sicurezza !!!!
+1	..fuori	..fuori	ADV	B	_	4	advmod	_	_
+2-3	dalle	_	_	_	_	_	_	_	_
+2	da	da	ADP	E	_	4	case	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	palle	palla	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	fabbrica	fabbrica	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+7-8	della	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	delinquenza	delinquenza	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	e	e	CCONJ	CC	_	13	cc	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	povertà	povertà	NOUN	S	Gender=Fem	9	conj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	4	punct	_	_
+15	vogliamo	volere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	diritti	diritto	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	_
+19	!!!	!!!	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	15	punct	_	SpacesAfter=\n\n
+

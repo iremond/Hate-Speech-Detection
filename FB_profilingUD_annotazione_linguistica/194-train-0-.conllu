@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Minchia che coppia.
+1	Minchia	Minchiare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	3	mark	_	_
+3	coppia.	coppia.	NOUN	S	Gender=Masc	1	ccomp	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...neanche a ping pong li farebbero giocare....
+1	...neanche	...neanche	ADV	B	_	6	advmod	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	ping	ping	NOUN	S	_	6	obl	_	_
+4	pong	pong	NOUN	S	_	3	compound	_	_
+5	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	giocare...	giocare...	NOUN	S	Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

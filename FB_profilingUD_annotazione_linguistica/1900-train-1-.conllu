@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini sei un poraccio, la gente normale se si becca una molta la paga , tu no !!!
+1	Salvini	Salvini	PROPN	SP	_	4	nsubj	_	_
+2	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	poraccio	poraccio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	SpacesAfter=\s\s
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	gente	gente	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+8	normale	normale	ADJ	A	Number=Sing	7	amod	_	_
+9	se	se	SCONJ	CS	_	11	mark	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:pass	_	_
+11	becca	beccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	molta	molto	NOUN	S	Gender=Fem|Number=Sing	11	nsubj:pass	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	paga	paga	NOUN	S	Gender=Fem|Number=Sing	11	nsubj:pass	_	_
+16	,	,	PUNCT	FF	_	17	punct	_	_
+17	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	15	conj	_	_
+18	no	no	ADV	BN	PronType=Neg	17	advmod	_	_
+19	!!!	!!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bla bla bla inutili RUSPE!!!!!!!!!
+1	Bla	Bla	DET	RD	Gender=Fem|Number=Sing	2	det	_	_
+2	bla	bla	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	bla	bla	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	inutili	inutile	ADJ	A	Number=Plur	2	amod	_	_
+5	RUSPE	RUSPE	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+7	!!	!!	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+8	!!!!!!	!!!!!!	PUNCT	FF	_	5	punct	_	SpacesAfter=\n\n
+

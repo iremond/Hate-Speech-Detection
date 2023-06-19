@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Becchi!...per chi scrivi?
+1	Becchi!...per	Becchi!...per	ADP	E	_	2	case	_	_
+2	chi	chi	PRON	PQ	PronType=Int	3	obl	_	_
+3	scrivi	scrivare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..quanti commenti positivi vedo oh!complimenti
+1	..quanti	..quante	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+2	commenti	commente	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	positivi	positivo	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+4	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	oh!complimenti	oh!complimento	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	SpacesAfter=\n\n
+

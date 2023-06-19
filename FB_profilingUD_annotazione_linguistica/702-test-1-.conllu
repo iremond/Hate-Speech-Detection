@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le più odiose ma tu sei forte e le sopporti anche x noi
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	più	più	ADV	B	_	3	advmod	_	_
+3	odiose	odioso	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+6	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	forte	forte	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	sopporti	sopporto	NOUN	S	Gender=Fem|Number=Plur	3	conj	_	_
+11	anche	anche	ADV	B	_	12	advmod	_	_
+12	x	x	SYM	SYM	_	10	nmod	_	_
+13	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	SpacesAfter=\n\n
+

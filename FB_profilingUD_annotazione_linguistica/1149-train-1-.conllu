@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si a Parma!
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	Parma	Parma	PROPN	SP	_	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Non so se spacciano però occupazione abusiva di una casa cantoniera e nessuno è andato a buttarli fuori!!!
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	4	mark	_	_
+4	spacciano	spacciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	però	però	ADV	B	_	4	advmod	_	_
+6	occupazione	occupazione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	abusiva	abusivo	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	casa	casa	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+11	cantoniera	cantoniero	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	e	e	CCONJ	CC	_	15	cc	_	_
+13	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	15	nsubj	_	_
+14	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	andato	andare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17-18	buttarli	_	_	_	_	_	_	_	_
+17	buttar	buttare	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+19	fuori	fuori	ADV	B	_	17	advmod	_	SpaceAfter=No
+20	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+21	!!	!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

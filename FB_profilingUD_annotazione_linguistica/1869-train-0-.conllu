@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noooo.Ma dove vivono su marte
+1	Noooo.Ma	Noooo.Ma	ADV	B	_	0	root	_	_
+2	dove	dove	ADV	B	_	3	advmod	_	_
+3	vivono	vivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	su	su	ADP	E	_	5	case	_	_
+5	marte	marte	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpacesAfter=\n\n
+

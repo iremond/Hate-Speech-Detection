@@ -1,0 +1,82 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = io sono di destra da anni, quando esistevano ancora le idee pure (tempi di Almirante) ma la Castandini è insopportabile e maleducatissima.
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	destra	destra	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	da	da	ADP	E	_	6	case	_	_
+6	anni	anno	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	quando	quando	SCONJ	CS	_	9	mark	_	_
+9	esistevano	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+10	ancora	ancora	ADV	B	_	9	advmod	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	idee	idea	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+13	pure	pure	ADV	B	_	15	advmod	_	_
+14	(	(	PUNCT	FB	_	15	punct	_	SpaceAfter=No
+15	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	Almirante	Almirante	PROPN	SP	_	15	nmod	_	SpaceAfter=No
+18	)	)	PUNCT	FB	_	15	punct	_	_
+19	ma	ma	CCONJ	CC	_	23	cc	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Castandini	Castandini	PROPN	SP	_	23	nsubj	_	_
+22	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+23	insopportabile	insopportabile	ADJ	A	Number=Sing	9	conj	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	maleducatissima	maleducatissimo	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	23	conj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = oltre a fare dei discorsi totalmente di sinistra.
+1	oltre	oltre	ADV	B	_	3	mark	_	_
+2	a	a	ADP	E	_	1	fixed	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	discorsi	discorso	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7	totalmente	totalmente	ADV	B	_	6	advmod	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = la Maplezzi è sicura di vivere in Italia ?
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Maplezzi	Maplezzi	PROPN	SP	_	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	sicura	sicuro	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+5	di	di	ADP	E	_	6	mark	_	_
+6	vivere	vivere	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	Italia	Italia	PROPN	SP	_	6	obl	_	_
+9	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = perchè ha detto delle cose allucinanti.
+1	perchè	perché	SCONJ	CS	_	3	mark	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
+7	allucinanti	allucinante	ADJ	A	Number=Plur	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 5
+# text = poi ci chiediamo come mai le cose vanno male.
+1	poi	poi	ADV	B	_	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
+3	chiediamo	chiedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	mai	mai	ADV	B	_	3	advmod	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+8	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9	male	male	ADV	B	_	8	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

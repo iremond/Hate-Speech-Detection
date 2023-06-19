@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Zittisci quel pirla di librandi per pietà!
+1	Zittisci	Zittisce	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3-4	pirla	_	_	_	_	_	_	_	_
+3	pir	pire	VERB	V	VerbForm=Inf	1	ccomp	_	_
+4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	librandi	librandi	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	pietà	pietà	NOUN	S	Gender=Fem	6	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

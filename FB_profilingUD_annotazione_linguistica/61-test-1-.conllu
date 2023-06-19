@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo spianiamoli tutti!!!!
+1	Matteo	Matteo	PROPN	SP	_	2	nsubj	_	_
+2-3	spianiamoli	_	_	_	_	_	_	_	_
+2	spianiamo	spianare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obl	_	SpaceAfter=No
+5	!!!	!!!	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = HAI RAGIONE SALVINI!!!
+1	HAI	avere	PROPN	SP	_	0	root	_	_
+2	RAGIONE	ragione	PROPN	SP	_	1	flat:name	_	_
+3	SALVINI	Salvini	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	1	punct	_	_
+
+# sent_id = 2
+# text = SONO LE PIÙ ANTIPATICHE,, E INGUARDABILI!
+1	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	LE	le	PROPN	SP	_	0	root	_	_
+3	PIÙ	più	PROPN	SP	_	2	flat:name	_	_
+4	ANTIPATICHE	ANTIPATICHE	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	E	e	CCONJ	CC	_	8	cc	_	_
+8	INGUARDABILI	INGUARDABILI	PROPN	SP	_	2	conj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = NON LE FATE PIÙ VEDERE!!!!
+1	NON	non	PROPN	SP	_	0	root	_	_
+2	LE	Le	PROPN	SP	_	1	flat:name	_	_
+3	FATE	Fate	PROPN	SP	_	1	flat:name	_	_
+4	PIÙ	più	PROPN	SP	_	3	flat:name	_	_
+5	VEDERE!	Vedere!	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+6	!!	!!	PUNCT	FF	_	3	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

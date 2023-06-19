@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buttale nei campi rom e poi ruspa👍
+1-2	Buttale	_	_	_	_	_	_	_	_
+1	Butta	Buttare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3-4	nei	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	campi	campo	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	_
+6	rom	rom	NOUN	S	Gender=Masc	5	compound	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	poi	poi	ADV	B	_	9	advmod	_	_
+9	ruspa👍	ruspa👍	PROPN	SP	_	1	conj	_	SpacesAfter=\n\n
+

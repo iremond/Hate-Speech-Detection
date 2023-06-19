@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Le due PiDiote sono veramente fuori dal mondo...ARRIVA PRESTO CAPITANO !!!!!!!!!
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+2	due	due	NUM	N	NumType=Card	3	nummod	_	_
+3	PiDiote	PiDiota	PROPN	SP	_	9	nsubj	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+5	veramente	veramente	ADV	B	_	9	advmod	_	_
+6	fuori	fuori	ADV	B	_	9	case	_	_
+7-8	dal	_	_	_	_	_	_	_	_
+7	da	da	ADP	E	_	6	fixed	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	mondo...ARRIVA	mondo...ARRIVA	PROPN	SP	_	0	root	_	_
+10	PRESTO	presto	PROPN	SP	_	9	nmod	_	_
+11	CAPITANO	capitano	PROPN	SP	_	10	flat:name	_	_
+12	!!!	!!!	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+13	!!!!!!	!!!!!!	PUNCT	FF	_	9	punct	_	SpacesAfter=\n\n
+

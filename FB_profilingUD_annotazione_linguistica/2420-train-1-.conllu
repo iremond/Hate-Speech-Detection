@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Munnezzaaaaaaaaaaa vendutaaaaaa
+1	Munnezzaaaaaaaaaaa	Munnezzaaaaaaaaaaa	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+2	vendutaaaaaa	vendutaaaaao	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

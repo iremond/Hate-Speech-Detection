@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si fa fatica!!
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	fatica	fatica	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

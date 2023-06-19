@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SCHIFOSI TOPI DI FOGNA.
+1	SCHIFOSI	Schifoso	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	TOPI	topi	PROPN	SP	_	0	root	_	_
+3	DI	Di	ADP	E	_	4	case	_	_
+4	FOGNA	FOGNA	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = DOPO I FINTI IMMIGRATI ELIMINARE I COGLIONI DI ITALIANI COME QUESTI.
+1	DOPO	dopo	ADP	E	_	3	case	_	_
+2	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	FINTI	FINTI	PROPN	SP	_	11	obl	_	_
+4	IMMIGRATI	immigrati	PROPN	SP	_	11	nsubj	_	_
+5	ELIMINARE	eliminare	PROPN	SP	_	4	flat:name	_	_
+6	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	COGLIONI	COGLIONI	PROPN	SP	_	4	flat:name	_	_
+8	DI	Di	ADP	E	_	9	case	_	_
+9	ITALIANI	italiani	PROPN	SP	_	4	nmod	_	_
+10	COME	come	PROPN	SP	_	4	flat:name	_	_
+11	QUESTI	questo	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n\n
+

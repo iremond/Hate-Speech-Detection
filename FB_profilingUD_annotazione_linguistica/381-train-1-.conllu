@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stanno parlando della tua amica fornero.
+1	Stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	parlando	parlare	VERB	V	VerbForm=Ger	0	root	_	_
+3-4	della	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	amica	amico	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+7	fornero.	fornero.	NOUN	S	_	2	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ......disoccupazione e quelli che ha lasciato sul lastrico.
+1	......disoccupazione	......disoccupazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	1	conj	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	lasciato	lasciare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+7-8	sul	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	lastrico.	lastrico.	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ....e i furbetti dei cartellini che quelli veramente manderei a spasso.
+1	....e	....e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	furbetti	furbetto	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	cartellini	cartellino	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+7	che	che	PRON	PR	PronType=Rel	10	obj	_	_
+8	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	10	nsubj	_	_
+9	veramente	veramente	ADV	B	_	10	advmod	_	_
+10	manderei	mandare	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	spasso.	spasso.	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .....ciao matteo falli neri o scusa falli vergognare
+1	.....ciao	.....ciao	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	matteo	matteo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+3	falli	fallo	ADJ	A	Number=Plur	2	amod	_	_
+4	neri	nero	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	_
+5	o	o	CCONJ	CC	_	6	cc	_	_
+6	scusa	scusa	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+7	falli	fallo	ADJ	A	Number=Plur	6	amod	_	_
+8	vergognare	vergognare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n\n
+

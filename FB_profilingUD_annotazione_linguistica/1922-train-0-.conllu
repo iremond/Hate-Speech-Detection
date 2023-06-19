@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = manca "il fascismo si combatte leggendo"
+1	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	fascismo	fascismo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	combatte	combattere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+7	leggendo	leggere	VERB	V	VerbForm=Ger	6	advcl	_	SpaceAfter=No
+8	"	"	PUNCT	FB	_	1	punct	_	SpacesAfter=\n\n
+

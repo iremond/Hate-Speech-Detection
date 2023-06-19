@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Continua..a..dire.
+1	Continua..a..dire	Continua..a..dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = che..se..perde...va..a..casa..x..me...può..andarci..subito.
+1	che..se..perde...va..a..casa..x..me...può	che..se..perde...va..a..casa..x..me...potere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	..andarci..subito.	..andarci..subito.	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .avanza....di..fare..dei...danni..😨
+1	.avanza....di..fare..dei...danni..😨	.avanza....di..fare..dei...danni..😨	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

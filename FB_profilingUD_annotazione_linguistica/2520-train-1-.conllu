@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prova a guardare che gente c è al governo...sempre peggio!
+1	Prova	provare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	guardare	guardare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	che	che	SCONJ	CS	_	10	mark	_	_
+5	gente	gente	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+6	c	c	NOUN	S	_	5	compound	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8-9	al	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	governo...sempre	governo...sempra	NOUN	S	Gender=Masc|Number=Sing	3	ccomp	_	_
+11	peggio	peggio	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

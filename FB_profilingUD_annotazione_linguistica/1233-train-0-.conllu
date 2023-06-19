@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Invece te !!
+1	Invece	invece	ADV	B	_	2	case	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+3	!!	!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

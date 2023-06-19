@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = tutte e due insieme credo proprio di no.
+1	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	0	root	_	_
+2	e	e	CCONJ	CC	_	5	cc	_	_
+3	due	due	NUM	N	NumType=Card	5	nummod	_	_
+4	insieme	insieme	ADV	B	_	5	advmod	_	_
+5	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	proprio	proprio	ADV	B	_	8	advmod	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	no	no	ADV	BN	PronType=Neg	5	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Io non le sopporto nemmeno singolarmente, di solito cambio canale.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+3	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+4	sopporto	sopporto	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	nemmeno	nemmeno	ADV	BN	PronType=Neg	6	advmod	_	_
+6	singolarmente	singolarmente	ADV	B	_	4	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	solito	solito	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+11	canale	canale	NOUN	S	Gender=Masc|Number=Sing	10	compound	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

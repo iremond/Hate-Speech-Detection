@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = e dura..........molto dura - impossibile
+1	e	e	CCONJ	CC	_	3	cc	_	_
+2	dura..........molto	dura..........mogliere	ADV	B	_	3	advmod	_	_
+3	dura	duro	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+4	-	-	PUNCT	FB	_	3	punct	_	_
+5	impossibile	impossibile	ADJ	A	Number=Sing	3	conj	_	SpacesAfter=\n\n
+

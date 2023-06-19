@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Uno schifo Pd tutti a casa...sveglia Italiani
+1	Uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	Pd	Pd	PROPN	SP	_	2	nmod	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	nmod	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	casa...sveglia	casa...sveglia	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+7	Italiani	italiano	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpacesAfter=\n\n
+

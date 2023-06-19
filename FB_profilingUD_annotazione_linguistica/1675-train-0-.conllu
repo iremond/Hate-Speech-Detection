@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = VAI IN MOLISE
+1	VAI	andare	PROPN	SP	_	0	root	_	_
+2	IN	in	PROPN	SP	_	1	flat:name	_	_
+3	MOLISE	Molise	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

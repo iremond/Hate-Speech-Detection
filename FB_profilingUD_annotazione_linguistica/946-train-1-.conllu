@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = da volta stomaco e cambio subito canale
+1	da	da	ADP	E	_	2	case	_	_
+2	volta	volta	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+3	stomaco	stomaco	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	cambio	cambio	ADJ	A	Gender=Masc|Number=Sing	3	conj	_	_
+6	subito	subito	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	canale	canale	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ti prego Matteo aiutaci
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+2	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Matteo	Matteo	PROPN	SP	_	2	nsubj	_	_
+4	aiutaci	aiutace	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	SpacesAfter=\n\n
+

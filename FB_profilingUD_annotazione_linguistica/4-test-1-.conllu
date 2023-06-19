@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma manda li a quel paese questi zingari bugiardi
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	manda	mandare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	paese	paese	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+7	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
+8	zingari	zingaro	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+9	bugiardi	bugiardo	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	SpacesAfter=\n\n
+

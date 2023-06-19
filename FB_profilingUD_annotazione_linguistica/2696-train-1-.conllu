@@ -1,0 +1,65 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi devo ancora rendere conto che con le nostre tasse paghiamo la castaldini, un politico di una inutilità atroce e mi chiedo perché la invitano in televisione.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+2	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	ancora	ancora	ADV	B	_	4	advmod	_	_
+4	rendere	rendere	VERB	V	VerbForm=Inf	0	root	_	_
+5	conto	conto	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+7	con	con	ADP	E	_	10	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	nostre	nostro	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	tasse	tassa	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+11	paghiamo	pagare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	castaldini	castaldine	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	16	punct	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	politico	politico	NOUN	S	Gender=Masc|Number=Sing	13	appos	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	inutilità	inutilità	NOUN	S	Gender=Fem	16	nmod	_	_
+20	atroce	atroce	ADJ	A	Number=Sing	19	amod	_	_
+21	e	e	CCONJ	CC	_	23	cc	_	_
+22	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	23	iobj	_	_
+23	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+24	perché	perché	SCONJ	CS	_	26	mark	_	_
+25	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	obj	_	_
+26	invitano	invitano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+27	in	in	ADP	E	_	28	case	_	_
+28	televisione.	televisione.	NOUN	S	Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .ok che tutti sti pd ed altri partiti dei miei coglioni sono pagliacci ad alti livelli ma la castaldini ragazzi miei è imbarazzante..forza salvini!!!!
+1	.ok	.ok	NOUN	S	Gender=Masc	25	nsubj	_	_
+2	che	che	SCONJ	CS	_	14	mark	_	_
+3	tutti	tutto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+4	sti	sto	NOUN	S	Gender=Masc|Number=Plur	14	nsubj	_	_
+5	pd	pd	ADJ	A	_	4	amod	_	_
+6	ed	e	CCONJ	CC	_	8	cc	_	_
+7	altri	altro	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	_
+8	partiti	partito	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	12	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	coglioni	coglione	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+13	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	pagliacci	pagliaccio	ADJ	A	Gender=Masc|Number=Plur	1	acl:relcl	_	_
+15	ad	a	ADP	E	_	17	case	_	_
+16	alti	alto	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	_
+17	livelli	livello	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	_
+18	ma	ma	CCONJ	CC	_	21	cc	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	castaldini	castaldine	NOUN	S	Gender=Masc|Number=Plur	21	nsubj	_	_
+21	ragazzi	ragazzo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+22	miei	mio	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	21	obj	_	_
+23	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+24	imbarazzante..forza	imbarazzante..forzare	ADV	B	_	25	advmod	_	_
+25	salvini	salvino	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+26	!	!	PUNCT	FS	_	25	punct	_	SpaceAfter=No
+27	!!	!!	PUNCT	FF	_	25	punct	_	SpaceAfter=No
+28	!	!	PUNCT	FS	_	25	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io ti chiedo allora se hai mai pensato di darti fuoco assieme a tutti i tuoi simili del partito democratico.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	allora	allora	ADV	B	_	3	advmod	_	_
+5	se	se	SCONJ	CS	_	8	mark	_	_
+6	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	mai	mai	ADV	B	_	8	advmod	_	_
+8	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	darti	darto	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	11	amod	_	_
+11	fuoco	fuoco	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+12	assieme	assieme	ADV	B	_	16	case	_	_
+13	a	a	ADP	E	_	12	fixed	_	_
+14	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	16	det:predet	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	tuoi	tuo	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	_
+17	simili	simile	ADJ	A	Number=Plur	16	amod	_	_
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	partito	partito	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+21	democratico	democratico	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

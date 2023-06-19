@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = insopportabili entrambe !
+1	insopportabili	insopportabile	ADJ	A	Number=Plur	2	amod	_	_
+2	entrambe	entrambi	DET	T	Gender=Fem|Number=Plur|PronType=Tot	0	root	_	_
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che str.......un giorno in più nelle amministrative niente, per il loro sporco referendum ... non lo sanno ancora
+1	Che	che	SCONJ	CS	_	19	mark	_	_
+2	str.......un	str.......uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	più	più	ADV	B	_	8	advmod	_	_
+6-7	nelle	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	amministrative	amministrativa	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+9	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	3	punct	_	_
+11	per	per	ADP	E	_	14	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	loro	loro	DET	AP	Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	sporco	sporco	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+15	referendum	referendum	NOUN	S	Gender=Masc	14	compound	_	SpacesAfter=\s\s
+16	...	...	PUNCT	FF	_	14	punct	_	_
+17	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	ancora	ancora	ADV	B	_	19	advmod	_	SpacesAfter=\n\n
+

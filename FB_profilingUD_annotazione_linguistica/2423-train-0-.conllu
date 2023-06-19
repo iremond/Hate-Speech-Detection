@@ -1,0 +1,40 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = pure io voto no, tanto se torna a casa e trova occupata la sua casa li perdona , hèèèèèèèèèèè!
+1	pure	pure	ADV	B	_	3	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	no	no	ADV	BN	PronType=Neg	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	tanto	tanto	ADV	B	_	8	advmod	_	_
+7	se	se	SCONJ	CS	_	8	mark	_	_
+8	torna	tornare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	casa	casa	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_
+13	occupata	occupare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	casa	casa	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	SpacesAfter=\s\s
+17	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+18	perdona	perdonare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+19	,	,	PUNCT	FF	_	29	punct	_	_
+20	hè	hé	CCONJ	CC	_	29	cc	_	SpaceAfter=No
+21	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	SpaceAfter=No
+22	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	SpaceAfter=No
+23	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	SpaceAfter=No
+24	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	SpaceAfter=No
+25	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	SpaceAfter=No
+26	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	SpaceAfter=No
+27	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	SpaceAfter=No
+28	èè	èé	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	29	expl:impers	_	SpaceAfter=No
+29	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	SpaceAfter=No
+30	!	!	PUNCT	FS	_	29	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!!!!!!!!!!!!!!!!!!!!!!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

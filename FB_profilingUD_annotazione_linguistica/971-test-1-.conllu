@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Votò la concessione?
+1	Votò	Votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	concessione	concessione	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = e cosa c'entra.
+1	e	e	CCONJ	CC	_	4	cc	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+3	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	SpaceAfter=No
+4	entra	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 3
+# text = La responsabilità è vostra, tutta vostra che non avete controllato una mazza.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	responsabilità	responsabilità	NOUN	S	Gender=Fem	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	vostra	vostrare	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	7	det:poss	_	_
+7	vostra	vostra	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+8	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	controllato	controllare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	mazza	mazza	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 4
+# text = Irresponsabili.
+1	Irresponsabili	irresponsabile	ADJ	A	Number=Plur	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

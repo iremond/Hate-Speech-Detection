@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io gli taglio la gola e le ho digerite subito.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	taglio	taglio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	gola	gola	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+6	e	e	CCONJ	CC	_	9	cc	_	_
+7	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	digerite	digerire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+10	subito.	subito.	ADJ	A	Gender=Masc|Number=Sing	9	xcomp	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....
+1	....	....	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

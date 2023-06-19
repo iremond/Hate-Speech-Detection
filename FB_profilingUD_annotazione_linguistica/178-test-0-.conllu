@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nun se ponno sentì.
+1	Nun	Nuno	PROPN	SP	_	3	nsubj	_	_
+2	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+3	ponno	ponno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sentì	sentire	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ......ma come se fà........
+1	......ma	......mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	come	come	ADV	B	_	4	case	_	_
+3	se	se	SCONJ	CS	_	2	fixed	_	_
+4	fà.......	fà.....	NOUN	S	_	1	obl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

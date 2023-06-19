@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un plauso ad un uomo coragioso !!!
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	plauso	plauso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	ad	a	ADP	E	_	5	case	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	coragioso	coragioso	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+7	!!!	!!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

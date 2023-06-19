@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma la polizia li vede questi video?
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+4	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+5	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+7	video	video	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

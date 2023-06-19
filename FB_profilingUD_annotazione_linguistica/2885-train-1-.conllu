@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No...sono odiose, soprattutto la Malpezzi....con quella faccia da prendere per i fondelli!
+1	No...sono	esNo...sere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	odiose	odioso	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	soprattutto	soprattutto	ADV	B	_	6	advmod	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Malpezzi....con	Malpezzi....con	PROPN	SP	_	7	nsubj	_	_
+7	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	2	obl	_	_
+8	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+9	da	da	ADP	E	_	10	mark	_	_
+10	prendere	prendere	VERB	V	VerbForm=Inf	8	ccomp	_	_
+11	per	per	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	fondelli	fondello	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

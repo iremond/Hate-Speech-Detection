@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = una sequenza di BUGIE o PRESE PER IL C::LO
+1	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	sequenza	sequenza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	BUGIE	BUGIE	PROPN	SP	_	2	nmod	_	_
+5	o	o	CCONJ	CC	_	6	cc	_	_
+6	PRESE	prese	PROPN	SP	_	4	conj	_	_
+7	PER	per	PROPN	SP	_	2	nmod	_	_
+8	IL	il	PROPN	SP	_	7	flat:name	_	SpacesAfter=\s\s
+9	C::LO	C::LO	PROPN	SP	_	7	flat:name	_	SpacesAfter=\n\n
+

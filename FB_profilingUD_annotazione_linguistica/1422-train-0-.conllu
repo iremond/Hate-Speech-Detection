@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La Malpezzi no, la Castaldini almeno è carina.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Malpezzi	Malpezzi	PROPN	SP	_	9	nsubj	_	_
+3	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Castaldini	Castaldini	PROPN	SP	_	9	nsubj	_	_
+7	almeno	almeno	ADV	B	_	9	advmod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	carina	carina	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n\n
+

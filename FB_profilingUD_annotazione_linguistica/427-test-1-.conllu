@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bisogna assolutamente votare NO al referendum costituzionale!
+1	Bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	assolutamente	assolutamente	ADV	B	_	1	advmod	_	_
+3	votare	votare	VERB	V	VerbForm=Inf	1	ccomp	_	_
+4	NO	No	PROPN	SP	_	3	obj	_	_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	referendum	referendum	NOUN	S	Gender=Masc	3	obl	_	_
+8	costituzionale	costituzionale	ADJ	A	Number=Sing	7	amod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Anzi mi chiedo come una cosa così importante sia fatta fare a uno che non ha eletto NESSUNO !
+1	Anzi	anzi	ADV	B	_	3	advmod	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	come	come	ADP	E	_	6	case	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+7	così	così	ADV	B	_	8	advmod	_	_
+8	importante	importante	ADJ	A	Number=Sing	6	amod	_	_
+9	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	fatta	fare	AUX	VM	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	aux	_	_
+11	fare	fare	VERB	V	VerbForm=Inf	3	ccomp	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obl	_	_
+14	che	che	PRON	PR	PronType=Rel	17	nsubj	_	_
+15	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+16	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	eletto	eleggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl:relcl	_	_
+18	NESSUNO	nessuno	PROPN	SP	_	17	obj	_	_
+19	!	!	PUNCT	FS	_	11	punct	_	SpacesAfter=\n\n
+

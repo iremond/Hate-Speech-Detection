@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voterò NO, spero solo che non ci siano brogli
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voterò	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
+3	NO	No	PROPN	SP	_	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	_
+6	solo	solo	ADV	B	_	10	advmod	_	_
+7	che	che	SCONJ	CS	_	10	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+10	siano	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	brogli	broglio	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	SpacesAfter=\n\n
+

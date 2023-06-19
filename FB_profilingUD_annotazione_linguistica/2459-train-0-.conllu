@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi vinceremo vai avanti cosi perché questa è la strada giusta il resto è solo Invidia
+1	Renzi	Renzi	ADV	B	_	2	advmod	_	_
+2	vinceremo	vincere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	16	acl	_	SpacesAfter=\s\s\s\s\s\s\s\s\s\s
+3	vai	andare	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+4	avanti	avanti	ADV	B	_	3	advmod	_	_
+5	cosi	coso	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+6	perché	perché	SCONJ	CS	_	10	mark	_	_
+7	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	10	nsubj	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	strada	strada	NOUN	S	Gender=Fem|Number=Sing	16	advcl	_	_
+11	giusta	giusto	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	resto	resto	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	solo	solo	ADV	B	_	16	advmod	_	_
+16	Invidia	Invidia	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

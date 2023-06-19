@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cari matteo , loro si dichiarono salvatori dei lavoratori ,diversamente ,se ne fregano del popolo ,le loro priorita e l immigrazione : che frutta ,le banche e leggi che le fan comodo per prendere voti .
+1	Cari	caro	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+2	matteo	matteo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+3	,	,	PUNCT	FF	_	1	punct	_	_
+4	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	dichiarono	dichiarere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	salvatori	salvatore	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	lavoratori	lavoratore	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+11	,diversamente	,diversamente	ADV	B	_	12	advmod	_	_
+12	,se	,so	ADJ	A	Number=Sing	10	amod	_	_
+13	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	14	iobj	_	_
+14	fregano	fregare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+18	,le	,le	ADJ	A	Number=Sing	17	amod	_	_
+19	loro	loro	DET	AP	Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	priorita	priorito	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	l	l	X	X	_	20	conj	_	_
+23	immigrazione	immigrazione	NOUN	S	Gender=Fem|Number=Sing	22	appos	_	_
+24	:	:	PUNCT	FC	_	23	punct	_	_
+25	che	che	SCONJ	CS	_	28	case	_	_
+26	frutta	fruttare	DET	T	Gender=Fem|Number=Sing|PronType=Tot	28	det	_	_
+27	,le	,le	ADJ	A	Gender=Fem|Number=Plur	28	amod	_	_
+28	banche	banca	NOUN	S	Gender=Fem|Number=Plur	23	nmod	_	_
+29	e	e	CCONJ	CC	_	30	cc	_	_
+30	leggi	legge	NOUN	S	Gender=Fem|Number=Plur	28	conj	_	_
+31	che	che	SCONJ	CS	_	33	case	_	_
+32	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	33	det	_	_
+33	fan	fan	NOUN	S	_	30	nmod	_	_
+34	comodo	comodo	ADJ	A	Gender=Masc|Number=Sing	33	amod	_	_
+35	per	per	ADP	E	_	36	mark	_	_
+36	prendere	prendere	VERB	V	VerbForm=Inf	33	acl	_	_
+37	voti	voto	NOUN	S	Gender=Masc|Number=Plur	36	obj	_	_
+38	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

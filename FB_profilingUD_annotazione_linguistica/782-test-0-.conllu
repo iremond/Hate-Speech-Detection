@@ -1,0 +1,81 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ho capito.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	capito.	capito.	NOUN	S	Gender=Masc	2	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..la riforma del senato o le unioni civili, o le stepchild adoption in che modo impediscono di far fiorire la vostra proposta di rendere gratuiti gli asili nido??
+1	..la	..la	DET	RD	Gender=Fem|Number=Sing	2	det	_	_
+2	riforma	riforma	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	senato	senato	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	o	o	CCONJ	CC	_	8	cc	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	unioni	unione	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+9	civili	civile	ADJ	A	Number=Plur	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	14	punct	_	_
+11	o	o	CCONJ	CC	_	14	cc	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+13	stepchild	stepchild	ADJ	A	_	14	amod	_	_
+14	adoption	adoption	NOUN	S	_	18	nsubj	_	_
+15	in	in	ADP	E	_	17	case	_	_
+16	che	che	DET	DQ	PronType=Int	17	det	_	_
+17	modo	modo	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	_
+18	impediscono	impedire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	di	di	ADP	E	_	20	mark	_	_
+20	far	fare	VERB	V	VerbForm=Inf	18	xcomp	_	_
+21	fiorire	fiorire	VERB	V	VerbForm=Inf	20	ccomp	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+23	vostra	vostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	24	det:poss	_	_
+24	proposta	proposta	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	_
+25	di	di	ADP	E	_	26	mark	_	_
+26	rendere	rendere	VERB	V	VerbForm=Inf	24	acl	_	_
+27	gratuiti	gratuito	ADJ	A	Gender=Masc|Number=Plur	26	xcomp	_	_
+28	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
+29	asili	asilo	NOUN	S	Gender=Masc|Number=Plur	26	obj	_	_
+30	nido	nido	ADJ	A	Gender=Masc|Number=Sing	29	amod	_	SpaceAfter=No
+31	?	?	PUNCT	FS	_	18	punct	_	SpaceAfter=No
+32	?	?	PUNCT	FS	_	18	punct	_	_
+
+# sent_id = 3
+# text = E soprattutto....in Francia le unioni civili e le stepchild adoptions sono già una realtà da tempo, forse prima della gratuità degli asili nido!
+1	E	e	CCONJ	CC	_	14	cc	_	_
+2	soprattutto....in	soprattutto....ino	ADV	B	_	3	advmod	_	_
+3	Francia	Francia	PROPN	SP	_	14	nsubj	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	unioni	unione	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+6	civili	civile	ADJ	A	Number=Plur	5	amod	_	_
+7	e	e	CCONJ	CC	_	10	cc	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+9	stepchild	stepchild	ADJ	A	_	10	amod	_	_
+10	adoptions	adoptions	NOUN	S	Gender=Fem	5	conj	_	_
+11	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+12	già	già	ADV	B	_	14	advmod	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	realtà	realtà	NOUN	S	Gender=Fem	0	root	_	_
+15	da	da	ADP	E	_	16	case	_	_
+16	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	22	punct	_	_
+18	forse	forse	ADV	B	_	22	advmod	_	_
+19	prima	prima	ADV	B	_	22	case	_	_
+20-21	della	_	_	_	_	_	_	_	_
+20	di	di	ADP	E	_	19	fixed	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	gratuità	gratuità	NOUN	S	Gender=Fem	14	conj	_	_
+23-24	degli	_	_	_	_	_	_	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	asili	asilo	NOUN	S	Gender=Masc|Number=Plur	22	nmod	_	_
+26	nido	nido	ADJ	A	Gender=Masc|Number=Sing	25	amod	_	SpaceAfter=No
+27	!	!	PUNCT	FS	_	14	punct	_	_
+
+# sent_id = 4
+# text = Testina !!
+1	Testina	Testina	PROPN	SP	_	0	root	_	_
+2	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

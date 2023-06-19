@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una 4trocchi e una piega 🍌
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	4trocchi	4trocco	NOUN	S	Number=Sing	0	root	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	piega	piega	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+6	🍌	🍌	SYM	SYM	_	5	nmod	_	SpacesAfter=\n\n
+

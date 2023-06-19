@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvinhulk : spacca
+1	Salvinhulk	Salvinhulk	PROPN	SP	_	3	nsubj	_	_
+2	:	:	PUNCT	FC	_	1	punct	_	_
+3	spacca	spaccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

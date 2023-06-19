@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rivota la merda del pd e facci la cortesia di tenertelo per te
+1	Rivota	Rivotare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	merda	merda	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	pd	pd	NOUN	S	Gender=Masc	3	nmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	facci	faccio	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	cortesia	cortesia	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	tenertelo	tenertelo	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+13	per	per	ADP	E	_	14	case	_	_
+14	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	nmod	_	SpacesAfter=\n\n
+

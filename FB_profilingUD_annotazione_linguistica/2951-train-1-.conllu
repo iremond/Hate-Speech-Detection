@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Prestamela un po a.me la malpezzente.
+1	Prestamela	Prestamelare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	po	po	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	a.me	a.mo	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	malpezzente.	malpezzente.	NOUN	S	_	3	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..la faccio divertire un po...la castaldini nn saprei come definirla....ridicola?
+1	..la	..la	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+3	divertire	divertire	VERB	V	VerbForm=Inf	2	ccomp	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	po...la	po...la	NUM	N	NumType=Card	6	nummod	_	_
+6	castaldini	castaldine	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+7	nn	nn	ADP	E	_	8	case	_	_
+8	saprei	sapre	NOUN	S	Gender=Masc|Number=Plur	6	nmod	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	definirla....ridicola	definirla....ridicolare	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

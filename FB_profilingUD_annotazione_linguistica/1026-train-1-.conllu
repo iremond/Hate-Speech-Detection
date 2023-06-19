@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due cessi !
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	cessi	cesso	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\s\s
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

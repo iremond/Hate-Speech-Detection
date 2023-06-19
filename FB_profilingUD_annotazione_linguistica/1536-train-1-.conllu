@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pulizia..............no polizia
+1	Pulizia..............no	Pulizia..............no	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	polizia	polizia	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	SpacesAfter=\n\n
+

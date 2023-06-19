@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = in bocca al lupo salvini anche da parte mia non mollare anzi devi realizzare tutto come il cristo sulla terra
+1	in	in	ADP	E	_	2	case	_	_
+2	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	lupo	lupo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	salvini	salvinare	ADJ	A	Number=Plur	5	amod	_	_
+7	anche	anche	ADV	B	_	9	advmod	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	parte	parte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+10	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+12	mollare	mollare	VERB	V	VerbForm=Inf	0	root	_	_
+13	anzi	anzi	ADV	B	_	15	advmod	_	_
+14	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	realizzare	realizzare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+16	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	15	obj	_	_
+17	come	come	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	cristo	cristo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+20-21	sulla	_	_	_	_	_	_	_	_
+20	su	su	ADP	E	_	22	case	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	terra	terra	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpacesAfter=\n\n
+

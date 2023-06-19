@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MI FANNO PIÙ SCHIFO GLI ITALIANI CHE SONO LÌ A DIFENDERE QUELLA GENTAGLIA ....ESSERI CHE NON HANNO PROPRIO BISOGNO DI DIFESA .....
+1	MI	mi	PROPN	SP	_	9	nsubj	_	_
+2	FANNO	fare	PROPN	SP	_	1	flat:name	_	_
+3	PIÙ	più	PROPN	SP	_	1	flat:name	_	_
+4	SCHIFO	SCHIFO	PROPN	SP	_	1	nmod	_	_
+5	GLI	gli	PROPN	SP	_	4	flat:name	_	_
+6	ITALIANI	italiani	PROPN	SP	_	4	flat:name	_	_
+7	CHE	che	PROPN	SP	_	4	flat:name	_	_
+8	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	LÌ	lì	PROPN	SP	_	0	root	_	_
+10	A	a	PROPN	SP	_	9	flat:name	_	_
+11	DIFENDERE	difendere	PROPN	SP	_	10	flat:name	_	_
+12	QUELLA	Quella	PROPN	SP	_	10	flat:name	_	_
+13	GENTAGLIA	GENTAGLIA	PROPN	SP	_	10	flat:name	_	_
+14	....ESSERI	....ESSERI	PROPN	SP	_	10	flat:name	_	_
+15	CHE	che	PROPN	SP	_	10	flat:name	_	_
+16	NON	non	PROPN	SP	_	10	flat:name	_	_
+17	HANNO	avere	PROPN	SP	_	10	flat:name	_	_
+18	PROPRIO	proprio	PROPN	SP	_	10	flat:name	_	_
+19	BISOGNO	bisogno	PROPN	SP	_	10	flat:name	_	_
+20	DI	Di	ADP	E	_	21	case	_	_
+21	DIFESA	difesa	PROPN	SP	_	10	nmod	_	SpacesAfter=\s\s
+22	.....	.....	PUNCT	FF	_	9	punct	_	SpacesAfter=\n\n
+

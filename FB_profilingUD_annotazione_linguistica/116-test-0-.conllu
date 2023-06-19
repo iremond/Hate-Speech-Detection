@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Francesca una vittima che ricama un gossip su una tragedia famigliare....la faccia finita.
+1	Francesca	Francesca	PROPN	SP	_	3	nmod	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	vittima	vittima	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	ricama	ricamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	gossip	gossip	NOUN	S	Gender=Masc	5	obj	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	tragedia	tragedia	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	famigliare....la	famigliare....la	DET	RD	Gender=Fem|Number=Sing	12	det	_	_
+12	faccia	fare	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	finita	finire	ADJ	A	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini?!
+1	Salvini	Salvini	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FF	_	1	punct	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sei tu?!
+1	Sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = 🙃
+1	🙃	🙃	SYM	SYM	_	0	root	_	SpacesAfter=\n\n
+

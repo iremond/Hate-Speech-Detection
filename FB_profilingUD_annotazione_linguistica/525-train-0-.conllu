@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chiudere centri sociali
+1	Chiudere	chiudere	VERB	V	VerbForm=Inf	0	root	_	_
+2	centri	centro	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+3	sociali	sociale	ADJ	A	Number=Plur	2	amod	_	SpacesAfter=\n\n
+

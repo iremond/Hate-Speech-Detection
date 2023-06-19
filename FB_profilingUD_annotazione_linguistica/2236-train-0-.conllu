@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci fosse 1 che abbia mai lavorato 1h...
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	1	1	NUM	N	NumType=Card	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+5	abbia	avere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	mai	mai	ADV	B	_	7	advmod	_	_
+7	lavorato	lavorare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+8	1h...	1h.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

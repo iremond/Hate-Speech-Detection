@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il governo è latitante x tanto sono certi che nessuno ci fa del male fanno le legge a loro favore
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	governo	governo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	latitante	latitante	ADJ	A	Number=Sing	5	amod	_	_
+5	x	x	SYM	SYM	_	0	root	_	_
+6	tanto	tanto	ADV	B	_	8	advmod	_	_
+7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	certi	certo	ADJ	A	Gender=Masc|Number=Plur	5	conj	_	_
+9	che	che	SCONJ	CS	_	12	mark	_	_
+10	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	_
+11	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	iobj	_	_
+12	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+13-14	del	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	male	male	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+16	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	legge	legge	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	_
+19	a	a	ADP	E	_	21	case	_	_
+20	loro	loro	DET	AP	Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	favore	favore	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	SpacesAfter=\n\n
+

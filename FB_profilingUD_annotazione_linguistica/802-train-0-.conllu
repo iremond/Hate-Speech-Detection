@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nemmeno librandi e carabue
+1	Nemmeno	nemmeno	ADV	B	_	2	advmod	_	_
+2	librandi	librande	ADJ	A	Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	carabue	carabue	ADJ	A	Gender=Fem|Number=Plur	2	conj	_	SpacesAfter=\n\n
+

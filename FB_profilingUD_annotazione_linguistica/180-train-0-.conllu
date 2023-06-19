@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = un chiaro NO !
+1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	chiaro	chiaro	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	NO	No	PROPN	SP	_	0	root	_	_
+4	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

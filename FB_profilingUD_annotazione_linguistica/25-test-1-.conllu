@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Questo cavolo di presidente è stato messo da quel infame di Napoletano senza spina dorsale pronto a prendere ordini dal Pd ..... Buffone !!!
+1	Questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	cavolo	cavolo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	_
+7	messo	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+10	infame	infama	NOUN	S	Gender=Masc|Number=Sing	7	obl:agent	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Napoletano	napoletano	PROPN	SP	_	10	nmod	_	_
+13	senza	senza	ADP	E	_	14	case	_	_
+14	spina	spina	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+15	dorsale	dorsale	ADJ	A	Number=Sing	14	amod	_	_
+16	pronto	pronto	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	_
+17	a	a	ADP	E	_	18	mark	_	_
+18	prendere	prendere	VERB	V	VerbForm=Inf	16	advcl	_	_
+19	ordini	ordine	NOUN	S	Gender=Masc|Number=Plur	18	obj	_	_
+20-21	dal	_	_	_	_	_	_	_	_
+20	da	da	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	Pd	Pd	PROPN	SP	_	18	obl	_	_
+23	.....	.....	PUNCT	FF	_	22	punct	_	_
+24	Buffone	buffone	PROPN	SP	_	22	flat:name	_	_
+25	!!!	!!!	PUNCT	FF	_	7	punct	_	SpacesAfter=\n\n
+

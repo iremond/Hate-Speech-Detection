@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Parenzo è molto più reale la zanzara che non gli inutili e deprimenti dibattiti Politci di la7
+1	Parenzo	Parenzo	PROPN	SP	_	5	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	molto	molto	ADV	B	_	4	advmod	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	reale	reale	ADJ	A	Number=Sing	0	root	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	zanzara	zanzara	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+8	che	che	PRON	PR	PronType=Rel	11	case	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	inutili	inutile	NOUN	S	Gender=Masc|Number=Plur	7	acl:relcl	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	deprimenti	deprimento	NOUN	S	Gender=Masc|Number=Plur	11	conj	_	_
+14	dibattiti	dibattito	ADJ	A	Gender=Masc|Number=Plur	13	amod	_	_
+15	Politci	Politci	PROPN	SP	_	13	nmod	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	la7	la7	NUM	N	NumType=Card	15	nummod	_	SpacesAfter=\n\n
+

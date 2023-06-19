@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche io voto no e così vedremo se Renzi va a casa ma credo di no.
+1	Anche	anche	ADV	B	_	2	advmod	_	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	no	no	ADV	BN	PronType=Neg	3	advmod	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	così	così	ADV	B	_	7	advmod	_	_
+7	vedremo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	3	conj	_	_
+8	se	se	SCONJ	CS	_	10	mark	_	_
+9	Renzi	Renzi	PROPN	SP	_	10	nsubj	_	_
+10	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	casa	casa	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	_
+13	ma	ma	CCONJ	CC	_	14	cc	_	_
+14	credo	credere	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	_
+15	di	di	ADP	E	_	16	case	_	_
+16	no	no	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Auguriiii!
+1	Auguriiii	Auguriterzo	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!!sotterra le racchie😊.
+1	!!!sotterra	!!!sotterra	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	racchie😊	racchie😊	PROPN	SP	_	1	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

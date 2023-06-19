@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due palleeeeee
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	palleeeeee	palleeeeea	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
+

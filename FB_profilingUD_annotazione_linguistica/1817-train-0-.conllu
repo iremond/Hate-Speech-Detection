@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = la malpezzi proprio no.
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	proprio	proprio	ADV	B	_	4	advmod	_	_
+4	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = la casta mi fa un po tenerezza ......
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	casta	casta	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	po	po	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	tenerezza	tenerezzo	NOUN	S	Gender=Fem|Number=Sing	6	compound	_	SpacesAfter=\s\s
+8	.....	.....	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

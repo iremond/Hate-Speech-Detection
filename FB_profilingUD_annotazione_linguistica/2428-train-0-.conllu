@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = il mio NO è categorico!
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	NO	No	PROPN	SP	_	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	categorico	categorico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = e forse, se ne avrà voglia, porterò al seggio anche mia nonna di 85 anni!
+1	e	e	CCONJ	CC	_	6	cc	_	_
+2	forse	forse	ADV	B	_	6	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+6	avrà	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	voglia	vogliare	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	porterò	portare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	6	conj	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	seggio	seggio	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+13	anche	anche	ADV	B	_	15	advmod	_	_
+14	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	nonna	nonna|nonno	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	85	85	NUM	N	NumType=Card	18	nummod	_	_
+18	anni	anno	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

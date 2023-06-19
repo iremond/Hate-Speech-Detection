@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Da agnostico dico;
+1	Da	da	ADP	E	_	2	case	_	_
+2	agnostico	agnostico	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	dico	dico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+4	;	;	PUNCT	FC	_	2	punct	_	_
+
+# sent_id = 2
+# text = VIVA
+1	VIVA	viva	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+
+# sent_id = 3
+# text = DIO!!!
+1	DIO	Dio	ADV	B	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+3	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

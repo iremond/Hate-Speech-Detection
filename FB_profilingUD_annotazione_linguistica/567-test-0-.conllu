@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Devono andare via!
+1	Devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	andare	andare	VERB	V	VerbForm=Inf	0	root	_	_
+3	via	via	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = ! Brava Santanchè
+1	!	!	PUNCT	FS	_	2	punct	_	_
+2	Brava	bravare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	Santanchè	Santanché	PROPN	SP	_	2	obj	_	SpacesAfter=\n\n
+

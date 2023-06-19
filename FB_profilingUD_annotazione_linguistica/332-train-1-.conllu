@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No sono odiose non si possono sentire 😨😨 dicono sempre le stesse cose 😬 andate a lavorare !!!!!!
+1	No	no	INTJ	I	Polarity=Neg	3	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	odiose	odioso	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+4	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:pass	_	_
+6	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	sentire	sentire	VERB	V	VerbForm=Inf	3	csubj	_	_
+8	😨😨	😨😨	SYM	SYM	_	7	nsubj:pass	_	SpacesAfter=\s\s
+9	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+10	sempre	sempre	ADV	B	_	9	advmod	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+12	stesse	stesso	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	_
+13	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	15	nsubj	_	SpacesAfter=\s\s
+14	😬	😬	SYM	SYM	_	15	obj	_	_
+15	andate	andare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+16	a	a	ADP	E	_	17	mark	_	_
+17	lavorare	lavorare	VERB	V	VerbForm=Inf	15	xcomp	_	_
+18	!!!	!!!	PUNCT	FF	_	15	punct	_	SpaceAfter=No
+19	!!!	!!!	PUNCT	FF	_	15	punct	_	SpacesAfter=\n\n
+

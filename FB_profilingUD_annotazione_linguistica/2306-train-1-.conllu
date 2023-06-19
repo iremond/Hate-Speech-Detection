@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fatemi risentire la vecchiaccia gallina starnazzante!
+1-2	Fatemi	_	_	_	_	_	_	_	_
+1	Fate	fare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	risentire	risentire	VERB	V	VerbForm=Inf	1	ccomp	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	vecchiaccia	vecchiaccia	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	gallina	gallino	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+7	starnazzante	starnazzante	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ah ah ah ah ah ah ah ah!
+1	Ah	ah	INTJ	I	_	3	discourse	_	_
+2	ah	ah	INTJ	I	_	3	discourse	_	_
+3	ah	ah	INTJ	I	_	7	discourse	_	_
+4	ah	ah	INTJ	I	_	5	discourse	_	_
+5	ah	ah	INTJ	I	_	7	discourse	_	_
+6	ah	ah	INTJ	I	_	7	discourse	_	_
+7	ah	ah	INTJ	I	_	0	root	_	_
+8	ah	ah	INTJ	I	_	9	discourse	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due extraterrestri nella terra..m
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	extraterrestri	extraterrestro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3-4	nella	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	terra..m	terra..m	NOUN	S	_	2	nmod	_	SpacesAfter=\n\n
+

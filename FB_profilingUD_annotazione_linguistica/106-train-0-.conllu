@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Al Referendum si presenterà il 30 % dei votanti e il 70 5 voterà si.
+1-2	Al	_	_	_	_	_	_	_	_
+1	A	a	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Referendum	referendum	NOUN	S	Gender=Masc	5	obl	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl:pass	_	_
+5	presenterà	presentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	acl:relcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	30	30	NUM	N	NumType=Card	8	nummod	_	_
+8	%	%	SYM	SYM	_	5	nsubj:pass	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	votanti	votante	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+12	e	e	CCONJ	CC	_	14	cc	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	70	70	NUM	N	NumType=Card	11	conj	_	_
+15	5	5	NUM	N	NumType=Card	11	nummod	_	_
+16	voterà	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	16	punct	_	_
+
+# sent_id = 2
+# text = Ciao.
+1	Ciao	ciao	INTJ	I	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

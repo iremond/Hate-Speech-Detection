@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Grande salvini!!
+1	Grande	grande	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	salvini	salvino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Russspa
+1	Russspa	Russspa	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

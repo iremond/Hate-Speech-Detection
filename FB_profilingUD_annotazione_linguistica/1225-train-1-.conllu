@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La domanda è:
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	FC	_	3	punct	_	_
+
+# sent_id = 2
+# text = Se noi cittadini normali occupassimo le case, cosa rischieremo per legge?
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+3	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+4	normali	normale	ADJ	A	Number=Plur	3	amod	_	_
+5	occupassimo	occupassimo	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	case	casa	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	10	obj	_	_
+10	rischieremo	rischiare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	7	advcl	_	_
+11	per	per	ADP	E	_	12	case	_	_
+12	legge	legge	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+13	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = La risposta "dovrebbe" valere per tutti, la legge però è uguale per tutti?
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	risposta	risposta	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+4	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	SpaceAfter=No
+5	"	"	PUNCT	FB	_	6	punct	_	_
+6	valere	valere	VERB	V	VerbForm=Inf	0	root	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	14	punct	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	legge	legge	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	_
+12	però	però	ADV	B	_	14	advmod	_	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	uguale	uguale	ADJ	A	Number=Sing	6	conj	_	_
+15	per	per	ADP	E	_	16	case	_	_
+16	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	14	obl	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

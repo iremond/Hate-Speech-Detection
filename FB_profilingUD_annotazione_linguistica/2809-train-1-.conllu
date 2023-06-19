@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ne la malpensi prepotente e arrogante non la sopporto così la casialdini
+1	ne	in	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	malpensi	malpenso	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+4	prepotente	prepotente	ADJ	A	Number=Sing	3	amod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	arrogante	arrogare	ADJ	A	Number=Sing	4	conj	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	la	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	sopporto	sopporto	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	così	così	ADV	B	_	9	advmod	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	casialdini	casialdine	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpacesAfter=\n\n
+

@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sarò breve:la Malpezzi è odiosa e ridicola
+1	Sarò	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	2	cop	_	_
+2	breve:la	breve:la	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+3	Malpezzi	Malpezzi	PROPN	SP	_	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	odiosa	odioso	ADJ	A	Gender=Fem|Number=Sing	2	conj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	ridicola	ridicolo	ADJ	A	Gender=Fem|Number=Sing	5	conj	_	SpacesAfter=\n\n
+

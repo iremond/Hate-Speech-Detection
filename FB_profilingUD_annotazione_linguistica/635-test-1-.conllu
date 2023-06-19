@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Per stupratori e pedofili nessuna pietà, castrazione e lavori forzati a vita.
+1	Per	per	ADP	E	_	2	case	_	_
+2	stupratori	stupratore	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	pedofili	pedofilo	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	_
+5	nessuna	nessuna	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
+6	pietà	pietà	NOUN	S	Gender=Fem	2	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	castrazione	castrazione	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	lavori	lavoro	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+11	forzati	forzato	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	vita	vita	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

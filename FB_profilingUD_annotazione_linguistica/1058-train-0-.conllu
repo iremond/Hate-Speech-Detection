@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Perché il mondo di Parenzo è reale?
+1	Perché	perché	ADV	B	_	7	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	Parenzo	Parenzo	PROPN	SP	_	3	nmod	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	reale	reale	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	7	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bravo Matteo 😚👍💖
+1	Bravo	bravo	PROPN	SP	_	0	root	_	SpacesAfter=\s\s
+2	Matteo	Matteo	PROPN	SP	_	1	flat:name	_	_
+3	😚👍💖	😚👍💖	SYM	SYM	_	1	flat:name	_	SpacesAfter=\n\n
+

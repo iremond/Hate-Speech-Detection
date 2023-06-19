@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No.
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Mi stanno sulle palle tutte e due,ma la Castaldini,mi fa venire fuori istinti omicidi.Io questa sera ,ho guardato solo la prima8 parte.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	sulle	_	_	_	_	_	_	_	_
+3	su	su	ADP	E	_	5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	palle	palla	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+6	tutte	tutto	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	due,ma	due,mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Castaldini,mi	Castaldini,mi	PROPN	SP	_	8	obj	_	_
+11	fa	fare	ADV	B	_	8	advmod	_	_
+12	venire	venire	AUX	VA	VerbForm=Inf	14	aux	_	_
+13	fuori	fuori	ADV	B	_	14	advmod	_	_
+14	istinti	istinto	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	19	advcl	_	_
+15	omicidi.Io	omicidi.Io	PROPN	SP	_	14	nsubj	_	_
+16	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	_
+17	sera	sera	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+18	,ho	,avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	guardato	guardare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	_
+20	solo	solo	ADV	B	_	23	advmod	_	_
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+22	prima8	prima8	NUM	N	NumType=Card	23	nummod	_	_
+23	parte	parte	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Di solito ,quelli del PD NCD Rifondazione sono dei grandissimi scassa
+1	Di	di	ADP	E	_	2	case	_	_
+2	solito	solito	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+3	,quelli	,quello	ADJ	A	Number=Plur	2	amod	_	_
+4-5	del	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	PD	pd	PROPN	SP	_	2	nmod	_	SpacesAfter=\s\s
+7	NCD	NCD	PROPN	SP	_	6	flat:name	_	SpacesAfter=\s\s\s
+8	Rifondazione	Rifondazione	PROPN	SP	_	6	flat:name	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+10-11	dei	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	13	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+12	grandissimi	grande	ADJ	A	Degree=Abs|Gender=Masc|Number=Plur	13	amod	_	_
+13	scassa	scassa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+

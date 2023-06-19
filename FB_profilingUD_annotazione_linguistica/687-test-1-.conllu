@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Andrebbero picchiate ogni volta che respirano.
+1	Andrebbero	Andere	AUX	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	picchiate	picchiato	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
+4	volta	volta	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	respirano	respirare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

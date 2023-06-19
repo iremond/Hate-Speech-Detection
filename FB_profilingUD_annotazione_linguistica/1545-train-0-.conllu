@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "gi viene più fagile.
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	gi	gio	ADV	B	_	3	advmod	_	_
+3	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	più	più	ADV	B	_	5	advmod	_	_
+5	fagile	fagile	ADJ	A	Number=Sing	3	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = "
+1	"	"	PUNCT	FB	_	0	root	_	SpacesAfter=\n\n
+

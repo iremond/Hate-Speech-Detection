@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma fatele tacere!!!!
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2	fatele	fatele	X	SW	Foreign=Yes	0	root	_	_
+3	tacere	tacera	X	SW	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+5	!!	!!	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

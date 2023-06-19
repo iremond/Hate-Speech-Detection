@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voto no.fanculo Renzi e tutti i Renzian.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	no.fanculo	no.fanculo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Renzi	Renzi	PROPN	SP	_	2	obj	_	_
+5	e	e	CCONJ	CC	_	8	cc	_	_
+6	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det:predet	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	Renzian	Renzian	PROPN	SP	_	2	conj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

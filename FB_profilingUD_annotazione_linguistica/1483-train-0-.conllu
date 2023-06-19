@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Meri Nicholas Vincenzo Nicolò
+1	Meri	Meri	PROPN	SP	_	0	root	_	_
+2	Nicholas	Nicholas	PROPN	SP	_	1	flat:name	_	_
+3	Vincenzo	Vincenzo	PROPN	SP	_	1	flat:name	_	_
+4	Nicolò	Nicolò	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

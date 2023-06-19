@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = HHAHAHAAHAH...DAIIIII
+1	HHAHAHAAHAH...DAIIIII	HHAHAHAAHAH...DAIIIII	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	_
+
+# sent_id = 2
+# text = FORZAAAAAAA
+1	FORZAAAAAAA	FORZAAAAAAA	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

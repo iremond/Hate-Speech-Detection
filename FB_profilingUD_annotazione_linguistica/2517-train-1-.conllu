@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NON LE SOPPORTO, ODIOSE.
+1	NON	non	PROPN	SP	_	0	root	_	_
+2	LE	Le	PROPN	SP	_	1	flat:name	_	_
+3	SOPPORTO	SOPPORTO	PROPN	SP	_	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	ODIOSE	ODIOSE	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

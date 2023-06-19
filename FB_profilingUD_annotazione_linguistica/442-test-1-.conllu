@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ...è normale parlare continuamente di caccole?
+1	...è	...é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	normale	normale	ADJ	A	Number=Sing	0	root	_	_
+3	parlare	parlare	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	continuamente	continuamente	ADV	B	_	3	advmod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	caccole	caccola	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...ho spento, mi fate vomitare!
+1	...ho	...ho	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	spento	spento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	vomitare	vomitare	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

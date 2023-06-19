@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dott.Del Debbio non invitare più ne Leandro, la Castaldi, la malpezzi con le loro stupidaggini la tua rubrica perde consensi con questi infami, mantenuti da noi, aspetto il voto dei comuni sono curioso di vedere chi vota il partito di questi personaggi
+1	Dott.Del	Dott.Di	PROPN	SP	_	4	nsubj	_	_
+2	Debbio	Debbio	PROPN	SP	_	1	flat:name	_	_
+3	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+4	invitare	invitare	VERB	V	VerbForm=Inf	0	root	_	_
+5	più	più	ADV	B	_	7	advmod	_	SpacesAfter=\s\s
+6	ne	in	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+7	Leandro	Leandro	PROPN	SP	_	4	obj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	SpacesAfter=\s\s
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Castaldi	Castaldi	PROPN	SP	_	4	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	13	punct	_	SpacesAfter=\s\s
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	SpacesAfter=\s\s
+14	con	con	ADP	E	_	17	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+16	loro	loro	DET	AP	Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	stupidaggini	stupidaggine	NOUN	S	Gender=Fem|Number=Plur	13	nmod	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	rubrica	rubrica	NOUN	S	Gender=Fem|Number=Sing	21	nsubj	_	_
+21	perde	perde	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+22	consensi	consensare	NOUN	S	Gender=Masc|Number=Plur	21	obj	_	_
+23	con	con	ADP	E	_	25	case	_	_
+24	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	25	det	_	_
+25	infami	infamo	NOUN	S	Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	FF	_	21	punct	_	_
+27	mantenuti	mantenere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	21	advcl	_	_
+28	da	da	ADP	E	_	29	case	_	_
+29	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	27	obl	_	SpaceAfter=No
+30	,	,	PUNCT	FF	_	29	punct	_	_
+31	aspetto	aspettare	ADP	E	_	33	case	_	_
+32	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	voto	voto	NOUN	S	Gender=Masc|Number=Sing	27	obl	_	_
+34-35	dei	_	_	_	_	_	_	_	_
+34	di	di	ADP	E	_	36	case	_	_
+35	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
+36	comuni	comune	NOUN	S	Gender=Masc|Number=Plur	33	nmod	_	_
+37	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	38	cop	_	_
+38	curioso	curioso	ADJ	A	Gender=Masc|Number=Sing	4	conj	_	_
+39	di	di	ADP	E	_	40	mark	_	_
+40	vedere	vedere	VERB	V	VerbForm=Inf	38	advcl	_	_
+41	chi	chi	PRON	PR	Number=Sing|PronType=Rel	40	obj	_	_
+42	vota	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	acl:relcl	_	_
+43	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
+44	partito	partito	NOUN	S	Gender=Masc|Number=Sing	42	obj	_	_
+45	di	di	ADP	E	_	47	case	_	_
+46	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	47	det	_	_
+47	personaggi	personaggio	NOUN	S	Gender=Masc|Number=Plur	44	nmod	_	SpacesAfter=\n\n
+

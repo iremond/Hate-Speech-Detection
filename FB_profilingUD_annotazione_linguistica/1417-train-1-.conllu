@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = QUESTE ANNO PROPIO UN SORRISO DA PRESA X IL CULO...!!!!!
+1	QUESTE	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	ANNO	anno	PROPN	SP	_	0	root	_	_
+3	PROPIO	PROPIO	PROPN	SP	_	2	flat:name	_	_
+4	UN	uno	PROPN	SP	_	2	flat:name	_	_
+5	SORRISO	sorriso	PROPN	SP	_	4	flat:name	_	_
+6	DA	Da	PROPN	SP	_	4	flat:name	_	_
+7	PRESA	presa	PROPN	SP	_	4	flat:name	_	_
+8	X	X	PROPN	SP	_	4	flat:name	_	_
+9	IL	il	PROPN	SP	_	8	flat:name	_	_
+10	CULO...	CULO...	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+11	!!!!!	!!!!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n\n
+

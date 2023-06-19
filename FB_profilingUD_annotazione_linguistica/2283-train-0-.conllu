@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Presidente ho una domanda: quando muore?
+1	Presidente	Presidente	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	FC	_	4	punct	_	_
+6	quando	quando	SCONJ	CS	_	7	mark	_	_
+7	muore	morire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Giusto x sapere
+1	Giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	x	x	SYM	SYM	_	3	obl	_	_
+3	sapere	sapere	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n\n
+

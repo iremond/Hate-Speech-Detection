@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Hahahahahaha dammi una ruspa che ci penso io!
+1	Hahahahahaha	Hahahahahaavere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	dammi	dare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ruspa	ruspa	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
+7	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = troppo forte Salvini 😀
+1	troppo	troppo	ADV	B	_	2	advmod	_	_
+2	forte	forte	ADJ	A	Number=Sing	3	amod	_	_
+3	Salvini	Salvini	PROPN	SP	_	0	root	_	_
+4	😀	😀	SYM	SYM	_	3	flat:name	_	SpacesAfter=\n\n
+

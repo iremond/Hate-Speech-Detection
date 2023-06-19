@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rosa La Scaleia
+1	Rosa	Rosa	PROPN	SP	_	3	nmod	_	_
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Scaleia	Scaleia	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

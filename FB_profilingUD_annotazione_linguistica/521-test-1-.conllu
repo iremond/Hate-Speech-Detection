@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che vergogna povera italia
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	povera	povero	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	italia	italia	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpacesAfter=\n\n
+

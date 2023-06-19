@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No, ho cambiato canale non siamo dello stesso pianeta!
+1	No	no	INTJ	I	Polarity=Neg	4	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	canale	canale	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+7	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	_
+8-9	dello	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	11	case	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+11	pianeta	pianeta	NOUN	S	Gender=Masc|Number=Sing	4	advcl	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

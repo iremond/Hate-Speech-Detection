@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NOOOO.
+1	NOOOO	NOOOO	ADV	B	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ....SONO ODIOSE!
+1	....SONO	....SONO	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	ODIOSE	ODIOSE	PROPN	SP	_	0	root	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Forza on.Salvini!Faccia sentire la voce del popolo!Grande e coraggiosa trasmissione sig.Del Debbio un grazie a Mario Giordano!
+1	Forza	Forza	PROPN	SP	_	4	nsubj	_	_
+2	on.Salvini	on.Salvini	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	!Faccia	!Faccia	PROPN	SP	_	1	flat:name	_	_
+4	sentire	sentire	VERB	V	VerbForm=Inf	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	voce	voce	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	di	di	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+10	!Grande	!Grande	ADJ	A	Number=Sing	9	amod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	coraggiosa	coraggioso	ADJ	A	Gender=Fem|Number=Sing	10	conj	_	_
+13	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+14	sig.Del	sig.Del	PROPN	SP	_	13	nmod	_	_
+15	Debbio	Debbio	PROPN	SP	_	14	flat:name	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	grazie	grazie	NOUN	S	_	19	case	_	_
+18	a	a	ADP	E	_	17	fixed	_	_
+19	Mario	Mario	PROPN	SP	_	4	obl	_	_
+20	Giordano	giordano	PROPN	SP	_	19	flat:name	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

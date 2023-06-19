@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buone solo per una cosa.
+1	Buone	buorre	PROPN	SP	_	0	root	_	_
+2	solo	solo	ADV	B	_	5	advmod	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = E solo x una volta, poi si chiamerebbe masochismo maniacale
+1	E	e	CCONJ	CC	_	9	cc	_	_
+2	solo	solo	ADV	B	_	3	advmod	_	_
+3	x	x	SYM	SYM	_	9	obl	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	volta	volta	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	poi	poi	ADV	B	_	9	advmod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	chiamerebbe	chiamare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	masochismo	masochismo	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+11	maniacale	maniacale	ADJ	A	Number=Sing	10	amod	_	SpacesAfter=\n\n
+

@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Se continua ad invitare alcune persone schifose Non guarderò più questa trasmissione poi ha un deficienze di nome Roberto ..ma quando lo mandano a fare un altro lavoro
+1	Se	se	SCONJ	CS	_	2	mark	_	_
+2	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+3	ad	a	ADP	E	_	4	mark	_	_
+4	invitare	invitare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	alcune	alcuno	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+6	persone	persona	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7	schifose	schifoso	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	SpacesAfter=\s\s
+8	Non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	guarderò	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	più	più	ADV	B	_	9	advmod	_	_
+11	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
+12	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+13	poi	poi	ADV	B	_	14	advmod	_	_
+14	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	deficienze	deficienza	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	nome	nome	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+19	Roberto	Roberto	PROPN	SP	_	18	flat:name	_	_
+20	..ma	..mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+21	quando	quando	SCONJ	CS	_	23	mark	_	_
+22	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
+23	mandano	mandare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+24	a	a	ADP	E	_	25	mark	_	_
+25	fare	fare	VERB	V	VerbForm=Inf	23	xcomp	_	_
+26	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+27	altro	altro	ADJ	A	Gender=Masc|Number=Sing	28	amod	_	_
+28	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	25	obj	_	SpacesAfter=\n\n
+

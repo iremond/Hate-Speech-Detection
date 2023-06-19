@@ -1,0 +1,76 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La soluzione per buona parte dei problemi è la redistribuzione dei beni.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+3	per	per	ADP	E	_	5	case	_	_
+4	buona	buono	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+5	parte	parte	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+6-7	dei	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	_
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	redistribuzione	redistribuzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+12-13	dei	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	beni	bene	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Le differenze e divisioni sociali sono insostenibili.Si rischia grosso.Abbandonare il modello americano di sfruttamento senza limiti delle risorse e instaurare un sistema che si preoccupi della gente comune e della salvaguardia del pianeta.Se non si frà in questo modo sarà la FINE.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	differenze	differenza	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	divisioni	divisione	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+5	sociali	sociale	ADJ	A	Number=Plur	4	amod	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	insostenibili.Si	insostenibili.Si	PROPN	SP	_	46	nsubj	_	_
+8	rischia	rischiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+9	grosso.Abbandonare	grosso.Abbandonare	VERB	V	VerbForm=Inf	8	xcomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	modello	modello	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+12	americano	americano	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	sfruttamento	sfruttamento	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	_
+15	senza	senza	ADP	E	_	16	case	_	_
+16	limiti	limite	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	_
+17-18	delle	_	_	_	_	_	_	_	_
+17	di	di	ADP	E	_	19	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	risorse	risorsa	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	instaurare	instaurare	VERB	V	VerbForm=Inf	8	conj	_	_
+22	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	sistema	sistema	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
+24	che	che	PRON	PR	PronType=Rel	40	nsubj:pass	_	_
+25	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	26	expl	_	_
+26	preoccupi	preoccupio	NOUN	S	Gender=Masc|Number=Plur	40	nsubj	_	_
+27-28	della	_	_	_	_	_	_	_	_
+27	di	di	ADP	E	_	29	case	_	_
+28	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	gente	gente	NOUN	S	Gender=Fem|Number=Sing	26	nmod	_	_
+30	comune	comune	ADJ	A	Number=Sing	29	amod	_	_
+31	e	e	CCONJ	CC	_	34	cc	_	_
+32-33	della	_	_	_	_	_	_	_	_
+32	di	di	ADP	E	_	34	case	_	_
+33	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	salvaguardia	salvaguardia	NOUN	S	Gender=Fem|Number=Sing	29	conj	_	_
+35-36	del	_	_	_	_	_	_	_	_
+35	di	di	ADP	E	_	37	case	_	_
+36	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
+37	pianeta.Se	pianeta.se	NOUN	S	Gender=Masc|Number=Sing	34	nmod	_	_
+38	non	non	ADV	BN	PronType=Neg	40	advmod	_	_
+39	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	40	expl	_	_
+40	frà	fre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	acl:relcl	_	_
+41	in	in	ADP	E	_	43	case	_	_
+42	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	43	det	_	_
+43	modo	modo	NOUN	S	Gender=Masc|Number=Sing	40	obl	_	_
+44	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	46	cop	_	_
+45	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
+46	FINE	fine	PROPN	SP	_	0	root	_	SpaceAfter=No
+47	.	.	PUNCT	FS	_	46	punct	_	SpacesAfter=\n\n
+

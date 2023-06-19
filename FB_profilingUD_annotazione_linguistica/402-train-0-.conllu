@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voterò NO se ne deve andare via
+1	Voterò	Votare	PROPN	SP	_	6	nsubj	_	_
+2	NO	No	PROPN	SP	_	1	flat:name	_	_
+3	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+4	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+5	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	andare	andare	VERB	V	VerbForm=Inf	0	root	_	_
+7	via	via	ADV	B	_	6	advmod	_	SpacesAfter=\n\n
+

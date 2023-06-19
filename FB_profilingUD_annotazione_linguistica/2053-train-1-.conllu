@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ISLAM RELIGIONE DI PAC1E.
+1	ISLAM	Islam	PROPN	SP	_	0	root	_	_
+2	RELIGIONE	religione	PROPN	SP	_	1	flat:name	_	_
+3	DI	Di	ADP	E	_	4	case	_	_
+4	PAC1E.	PAC1E.	PROPN	SP	_	1	nmod	_	_
+
+# sent_id = 2
+# text = ABBIAMO FATTO LE CROCIATE !!11!!!!!11111
+1	ABBIAMO	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	FATTO	fare	PROPN	SP	_	1	obj	_	_
+3	LE	Le	PROPN	SP	_	2	flat:name	_	_
+4	CROCIATE	CROCIATE	PROPN	SP	_	2	flat:name	_	_
+5	!!11	!!11	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+7	!!!!11111	!!!!11111	NUM	N	NumType=Card	1	nummod	_	SpacesAfter=\n\n
+

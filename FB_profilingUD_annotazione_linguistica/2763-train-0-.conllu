@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Potevi risparmiartelo questo post,mi fai venire dubbi sul votarti!
+1	Potevi	Poteve	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	risparmiartelo	risparmiartelo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+4	post,mi	post,mo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	venire	venire	VERB	V	VerbForm=Inf	5	ccomp	_	_
+7	dubbi	dubbio	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8-9	sul	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	votarti	votarto	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	SpacesAfter=\n\n
+

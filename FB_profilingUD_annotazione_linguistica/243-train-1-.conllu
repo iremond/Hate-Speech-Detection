@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = buone per fare le colf......e paga sindacale.
+1	buone	buono	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	_
+2	per	per	ADP	E	_	3	mark	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	6	advcl	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	colf......e	colf......e	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	_
+6	paga	pagare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sindacale.	sindacale.	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .....
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Aspettiamo te Matteo prima di guardarlo ... altrimenti è una noia!
+1	Aspettiamo	aspettare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	Matteo	Matteo	PROPN	SP	_	1	obj	_	_
+4	prima	prima	ADV	B	_	6	mark	_	_
+5	di	di	ADP	E	_	4	fixed	_	_
+6-7	guardarlo	_	_	_	_	_	_	_	_
+6	guardar	guardare	VERB	V	VerbForm=Inf	3	advcl	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	...	...	PUNCT	FF	_	1	punct	_	_
+9	altrimenti	altrimenti	CCONJ	CC	_	12	cc	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	noia	noia	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+13	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

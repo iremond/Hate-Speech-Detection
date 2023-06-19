@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È Parenzo che non esiste !
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	Parenzo	Parenzo	PROPN	SP	_	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+5	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

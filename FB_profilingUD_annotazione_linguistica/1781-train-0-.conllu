@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Un sacco di belle proposte, ma chi le paga?
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	belle	bello	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	_
+5	proposte	proposta	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	8	punct	_	_
+7	ma	ma	CCONJ	CC	_	8	cc	_	_
+8	chi	chi	PRON	PR	Number=Sing|PronType=Rel	2	conj	_	_
+9	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
+10	paga	pagare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

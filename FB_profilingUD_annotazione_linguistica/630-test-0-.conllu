@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quanti bambini ed anziani saranno malmenati prima che mettano le telecamere?
+1	Quanti	quanto	DET	DQ	Gender=Masc|Number=Plur|PronType=Int	2	det	_	_
+2	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	_
+3	ed	e	CCONJ	CC	_	4	cc	_	_
+4	anziani	anziano	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+5	saranno	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	6	aux	_	_
+6	malmenati	malmenare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	prima	prima	ADV	B	_	9	mark	_	_
+8	che	che	SCONJ	CS	_	7	fixed	_	_
+9	mettano	mettere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	telecamere	telecamera	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

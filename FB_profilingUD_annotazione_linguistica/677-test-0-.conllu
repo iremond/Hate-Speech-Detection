@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Viva salviniiiii
+1	Viva	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	salviniiiii	salviniiterzo	ADJ	NO	Number=Sing|NumType=Ord	1	xcomp	_	SpacesAfter=\n\n
+

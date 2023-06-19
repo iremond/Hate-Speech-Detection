@@ -1,0 +1,61 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alfano ha riportato a un solo giorno i tempi di voto.
+1	Alfano	Alfano	PROPN	SP	_	3	nsubj	_	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	riportato	riportare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	ADP	E	_	7	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	solo	solo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+7	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	voto.	voto.	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma guarda caso Renzi e soci han promesso.....proprio ora....
+1	..ma	..mare	ADV	B	_	2	advmod	_	_
+2	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	caso	caso	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	_
+4	Renzi	Renzi	PROPN	SP	_	3	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	soci	socio	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	_
+7	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	promesso.....proprio	promesso.....proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	ora...	ora.	NOUN	S	Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = di triplicare il bonus bebe.
+1	di	di	ADP	E	_	2	mark	_	_
+2	triplicare	triplicare	VERB	V	VerbForm=Inf	5	acl	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bonus	bonus	NOUN	S	Gender=Masc	2	obj	_	_
+5	bebe.	bebe.	NOUN	S	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = ......chiaramente se non se ne vanno.
+1	......chiaramente	......chiaramente	ADV	B	_	6	mark	_	_
+2	se	se	SCONJ	CS	_	1	fixed	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+6	vanno.	vanno.	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = .....è nato baro e tale resterà.Giocare pulito gli è impossibile.
+1	.....è	.....é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	nato	nascere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	baro	baro	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	tale	tale	ADJ	A	Number=Sing	3	conj	_	_
+6	resterà	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj	_	SpaceAfter=No
+7	.Giocare	.Giocaro	VERB	V	VerbForm=Inf	6	xcomp	_	_
+8	pulito	pulito	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	_
+9	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	impossibile	impossibile	ADJ	A	Number=Sing	2	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

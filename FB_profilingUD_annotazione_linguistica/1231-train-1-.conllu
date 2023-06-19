@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ruspa,ma RUSPA di brutto!
+1	Ruspa,ma	Ruspa,ma	PROPN	SP	_	0	root	_	_
+2	RUSPA	RUSPA	PROPN	SP	_	1	flat:name	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	brutto	brutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	nmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

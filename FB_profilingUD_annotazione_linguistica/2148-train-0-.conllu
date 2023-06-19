@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sei grandeeeeeeeeeeeeee
+1	sei	essere	NUM	N	NumType=Card	2	nummod	_	_
+2	grandeeeeeeeeeeeeee	grandeeeeeeeeeeeeeo	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
+

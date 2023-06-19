@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Neanche con il bicarbonato, pero al posto del guttalax vanno benissimo, io pero ho cambiato canale
+1	Neanche	neanche	ADV	BN	PronType=Neg	4	advmod	_	_
+2	con	con	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bicarbonato	bicarbonato	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	pero	perare	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	posto	posto	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	guttalax	guttalax	NOUN	S	Gender=Masc	9	nmod	_	_
+13	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	benissimo	bene	ADV	B	Degree=Abs	13	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+17	pero	perare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	_
+18	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+19	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
+20	canale	canale	NOUN	S	Gender=Masc|Number=Sing	19	obj	_	SpacesAfter=\n\n
+

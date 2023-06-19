@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pesanti come il mal di pancia
+1	Pesanti	pesare	NOUN	S	Number=Plur	0	root	_	_
+2	come	come	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	mal	male	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	pancia	pancia	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n\n
+

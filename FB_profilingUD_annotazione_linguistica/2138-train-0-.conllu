@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Noi ti seguiremo a ruota
+1	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	seguiremo	seguire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	ruota	ruota	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpacesAfter=\n\n
+

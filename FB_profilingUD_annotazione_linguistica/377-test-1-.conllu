@@ -1,0 +1,78 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma se sei un Maestro in tv...quel povero berlusconi si mangia le mani.
+1	Ma	ma	CCONJ	CC	_	11	cc	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Maestro	maestro	PROPN	SP	_	11	advcl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	tv...quel	tv...quello	NOUN	S	Gender=Masc	11	obl	_	_
+8	povero	povero	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	berlusconi	berluscone	ADJ	A	Gender=Masc|Number=Plur	7	amod	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl:pass	_	_
+11	mangia	mangiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	mani.	mani.	NOUN	S	_	11	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..lui sa solo parlare leggendo il gobbo...e renzi.
+1	..lui	..lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	solo	solo	ADV	B	_	4	advmod	_	_
+4	parlare	parlare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+5	leggendo	leggere	VERB	V	VerbForm=Ger	4	advcl	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	gobbo...e	gobbo...e	ADJ	A	Number=Sing	8	amod	_	_
+8	renzi.	renzi.	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ..quelli che lo manovrano lo staranno coprendo di insulti dopo la sparata che se perde il referendum se ne va...ma sicuro che lo perde...gia adesso il no ha il 52% ....
+1	..quelli	..quello	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	manovrano	manovrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+5	lo	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	xcomp	_	_
+6	staranno	staranno	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	coprendo	coprire	VERB	V	VerbForm=Ger	28	advcl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	insulti	insulto	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+10	dopo	dopo	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	sparata	sparata	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	20	nsubj	_	_
+14	se	si	SCONJ	CS	_	15	mark	_	_
+15	perde	perdere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	referendum	referendum	NOUN	S	Gender=Masc	20	nsubj	_	_
+18	se	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl	_	_
+19	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	20	expl	_	_
+20	va...ma	va...mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+21	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	20	xcomp	_	_
+22	che	che	PRON	PR	PronType=Rel	24	nsubj	_	_
+23	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+24	perde...gia	perde...giare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+25	adesso	adesso	ADV	B	_	24	advmod	_	_
+26	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	no	no	NOUN	S	Gender=Masc|Number=Sing	24	xcomp	_	_
+28	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+29	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+30	52	52	NUM	N	NumType=Card	31	nummod	_	SpaceAfter=No
+31	%	%	SYM	SYM	_	28	obj	_	_
+32	...	...	PUNCT	FF	_	28	punct	_	SpaceAfter=No
+33	.	.	PUNCT	FS	_	28	punct	_	_
+
+# sent_id = 4
+# text = la mamma degli idioti é sempre incinta....
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3-4	degli	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	idioti	idiota	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+6	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	sempre	sempre	ADV	B	_	8	advmod	_	_
+8	incinta...	incinta.	NOUN	S	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n\n
+

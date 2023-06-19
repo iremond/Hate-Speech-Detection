@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Qui ormai comandano gli extracomunitari non vedete con quanta supponenza girano per le strade e si credono padroni del mondo pretendono tutto gratis tanto ci sono gli scemi che pagano.
+1	Qui	qui	ADV	B	_	3	advmod	_	_
+2	ormai	ormai	ADV	B	_	3	advmod	_	_
+3	comandano	comandare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	extracomunitari	extracomunitario	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	vedete	vedere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	quanta	quanto	DET	DQ	Gender=Fem|Number=Sing|PronType=Int	10	det	_	_
+10	supponenza	supponenza	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+11	girano	girare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
+14	strade	strada	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
+15	e	e	CCONJ	CC	_	17	cc	_	_
+16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	17	expl:impers	_	_
+17	credono	credere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+18	padroni	padrone	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	_
+19-20	del	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	_
+22	pretendono	pretendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+23	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	24	det	_	_
+24	gratis	gratis	NOUN	S	Gender=Masc	22	obj	_	_
+25	tanto	tanto	ADV	B	_	22	advmod	_	_
+26	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	27	expl	_	_
+27	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+28	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
+29	scemi	scema	NOUN	S	Gender=Masc|Number=Plur	27	nsubj	_	_
+30	che	che	PRON	PR	PronType=Rel	31	case	_	_
+31	pagano.	pagano.	NOUN	S	_	29	acl:relcl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....
+1	....	....	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

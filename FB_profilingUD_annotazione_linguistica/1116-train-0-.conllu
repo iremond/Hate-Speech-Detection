@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Michele Tedesco hahahahah
+1	Michele	Michele	PROPN	SP	_	0	root	_	_
+2	Tedesco	tedesco	PROPN	SP	_	1	flat:name	_	_
+3	hahahahah	hahahahah	INTJ	I	_	1	flat:name	_	SpacesAfter=\n\n
+

@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mal di testa solo a vederle
+1	Mal	male	NOUN	S	Gender=Masc	6	nsubj	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	testa	testa	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+4	solo	solo	ADV	B	_	6	advmod	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6-7	vederle	_	_	_	_	_	_	_	SpacesAfter=\n\n
+6	veder	vedere	VERB	V	VerbForm=Inf	0	root	_	_
+7	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+

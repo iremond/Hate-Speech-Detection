@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = la castrazione chimica è inutile e non risolve nulla: o quella fisica o niente.
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	castrazione	castrazione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	chimica	chimico	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	inutile	inutile	ADJ	A	Number=Sing	0	root	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	risolve	risolvere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	obj	_	SpaceAfter=No
+10	:	:	PUNCT	FC	_	9	punct	_	_
+11	o	o	CCONJ	CC	_	12	cc	_	_
+12	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	13	nsubj	_	_
+13	fisica	fisico	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+14	o	o	CCONJ	CC	_	15	cc	_	_
+15	niente	niente	PRON	PI	Number=Sing|PronType=Ind	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

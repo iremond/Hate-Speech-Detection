@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini ci vogliono le ruspe
+1	Salvini	Salvini	PROPN	SP	_	3	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	vogliono	volere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	ruspe	ruspa	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	SpacesAfter=\n\n
+

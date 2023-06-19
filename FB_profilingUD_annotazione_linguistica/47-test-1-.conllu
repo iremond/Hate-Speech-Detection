@@ -1,0 +1,52 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma cosa ci facevano due individue così tra gente che sa quello che dice due donne inutili arroganti e piene di maleducazione ma cosa le chiami a fare in trasmissione cari Del Debbio solo per irritare i telespettatori che poi ti mandano a quel paese
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	nsubj	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	iobj	_	_
+4	facevano	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	due	due	NUM	N	NumType=Card	6	nummod	_	_
+6	individue	individue	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	_
+7	così	così	ADV	B	_	6	advmod	_	SpacesAfter=\s\s
+8	tra	tra	ADP	E	_	9	case	_	_
+9	gente	gente	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpacesAfter=\s\s
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	obj	_	_
+13	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+14	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	SpacesAfter=\s\s
+15	due	due	NUM	N	NumType=Card	16	nummod	_	_
+16	donne	donna	NOUN	S	Gender=Fem|Number=Plur	14	obj	_	_
+17	inutili	inutile	ADJ	A	Number=Plur	16	amod	_	SpacesAfter=\s\s
+18	arroganti	arrogante	ADJ	A	Number=Plur	16	amod	_	_
+19	e	e	CCONJ	CC	_	20	cc	_	_
+20	piene	pieno	ADJ	A	Gender=Fem|Number=Plur	18	conj	_	_
+21	di	di	ADP	E	_	22	case	_	_
+22	maleducazione	maleducazione	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
+23	ma	ma	CCONJ	CC	_	26	cc	_	_
+24	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	26	nsubj	_	_
+25	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	26	obj	_	_
+26	chiami	chiamare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+27	a	a	ADP	E	_	28	mark	_	_
+28	fare	fare	VERB	V	VerbForm=Inf	26	xcomp	_	_
+29	in	in	ADP	E	_	30	case	_	_
+30	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	28	obl	_	SpacesAfter=\s\s
+31	cari	caro	ADJ	A	Gender=Masc|Number=Plur	30	amod	_	_
+32-33	Del	_	_	_	_	_	_	_	_
+32	Di	Di	ADP	E	_	34	case	_	_
+33	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	Debbio	Debbio	PROPN	SP	_	37	obl	_	_
+35	solo	solo	ADV	B	_	37	advmod	_	_
+36	per	per	ADP	E	_	37	mark	_	_
+37	irritare	irritare	VERB	V	VerbForm=Inf	4	advcl	_	_
+38	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	39	det	_	_
+39	telespettatori	telespettatore	NOUN	S	Gender=Masc|Number=Plur	37	obj	_	_
+40	che	che	PRON	PR	PronType=Rel	43	nsubj	_	_
+41	poi	poi	ADV	B	_	43	advmod	_	_
+42	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	43	iobj	_	_
+43	mandano	mandare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	39	acl:relcl	_	_
+44	a	a	ADP	E	_	46	case	_	_
+45	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	46	det	_	_
+46	paese	paese	NOUN	S	Gender=Masc|Number=Sing	43	obl	_	SpacesAfter=\n\n
+

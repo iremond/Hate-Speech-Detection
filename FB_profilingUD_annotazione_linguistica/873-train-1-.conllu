@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Allah akbar
+1	Allah	Allah	ADV	B	_	2	advmod	_	_
+2	akbar	akbare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n\n
+

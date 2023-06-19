@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non lo sto seguendo, aspetto che arrivi tu!
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	seguendo	seguire	VERB	V	VerbForm=Ger	6	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	aspetto	aspettare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	che	che	SCONJ	CS	_	8	mark	_	_
+8	arrivi	arrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	6	ccomp	_	_
+9	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	obj	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

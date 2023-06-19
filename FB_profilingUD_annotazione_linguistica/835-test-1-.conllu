@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Castrazione chimica e molte ruspe!!!!
+1	Castrazione	Castrazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	chimica	chimico	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	molte	molto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+5	ruspe	ruspa	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+6	!!!!	!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

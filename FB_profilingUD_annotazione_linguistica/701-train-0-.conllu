@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voto no per mandare a casa Renzi !!
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	no	no	ADV	BN	PronType=Neg	2	advmod	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5	mandare	mandare	VERB	V	VerbForm=Inf	2	advcl	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	casa	casa	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+8	Renzi	Renzi	PROPN	SP	_	7	nmod	_	_
+9	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = E come dice il suo compagno Cacciari è una riforma che fa schifo !!! Spero tu vada al governo !!! Forza Capitano
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	come	come	ADV	B	_	3	advmod	_	_
+3	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	compagno	compagno	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+7	Cacciari	Cacciari	PROPN	SP	_	6	nmod	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	riforma	riforma	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+12	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13	schifo	schifo	ADJ	A	Gender=Masc|Number=Sing	12	xcomp	_	_
+14	!!!	!!!	PUNCT	FF	_	15	punct	_	_
+15	Spero	spero	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
+16	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	17	nsubj	_	_
+17	vada	andare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+18-19	al	_	_	_	_	_	_	_	_
+18	a	a	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	governo	governo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+21	!!!	!!!	PUNCT	FF	_	20	punct	_	_
+22	Forza	Forza	PROPN	SP	_	20	nmod	_	_
+23	Capitano	capitano	PROPN	SP	_	22	flat:name	_	SpacesAfter=\n\n
+

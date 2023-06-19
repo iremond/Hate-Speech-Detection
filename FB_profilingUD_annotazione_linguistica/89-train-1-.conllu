@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = devi avere uno stomaco di ferro per non rimettere
+1	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+3	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	stomaco	stomaco	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	ferro	ferro	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	per	per	ADP	E	_	9	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	rimettere	rimettere	VERB	V	VerbForm=Inf	2	advcl	_	SpacesAfter=\n\n
+

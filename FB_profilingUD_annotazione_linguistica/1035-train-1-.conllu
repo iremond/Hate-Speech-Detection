@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A me queste due mi stanno sulla ceppa del c ...specialmente la Castaldini con quattro voti stanno al governo
+1	A	a	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+3	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	4	det	_	_
+4	due	due	NUM	N	NumType=Card	6	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	_
+6	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7-8	sulla	_	_	_	_	_	_	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	ceppa	ceppa	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	c	c	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+13	...specialmente	...specialmente	ADV	B	_	12	advmod	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Castaldini	Castaldini	PROPN	SP	_	19	nsubj	_	_
+16	con	con	ADP	E	_	18	case	_	_
+17	quattro	quattro	NUM	N	NumType=Card	18	nummod	_	_
+18	voti	voto	NOUN	S	Gender=Masc|Number=Plur	15	nmod	_	_
+19	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+20-21	al	_	_	_	_	_	_	_	_
+20	a	a	ADP	E	_	22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	governo	governo	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	SpacesAfter=\n\n
+

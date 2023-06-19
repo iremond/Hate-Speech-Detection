@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma Parenzo esiste davvero?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	Parenzo	Parenzo	PROPN	SP	_	3	nsubj	_	_
+3	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	davvero	davvero	ADV	B	_	3	advmod	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

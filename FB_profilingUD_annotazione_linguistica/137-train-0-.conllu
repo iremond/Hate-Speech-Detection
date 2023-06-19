@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = RIDATECE I MARÒ
+1	RIDATECE	Ridatece	ADP	E	_	3	case	_	_
+2	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	MARÒ	MARÒ	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

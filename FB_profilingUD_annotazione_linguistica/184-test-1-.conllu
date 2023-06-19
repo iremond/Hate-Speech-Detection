@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una bella location dove trasferire la redazione segaiola del Fallo Quotidiano.
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	bella	bello	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
+3	location	location	NOUN	S	Gender=Fem	0	root	_	_
+4	dove	dove	ADV	B	_	5	advmod	_	_
+5	trasferire	trasferire	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	redazione	redazione	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	segaiola	segaiolo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+9-10	del	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Fallo	fallo	PROPN	SP	_	7	nmod	_	_
+12	Quotidiano.	Quotidiano.	PROPN	SP	_	11	flat:name	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....
+1	...	...	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n\n
+

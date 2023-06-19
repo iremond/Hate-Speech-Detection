@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = alle 21.30, Matteo Renzi è un grande perchè ha capito che anche chi lavora ha voglia di interessarsi di politica!
+1-2	alle	_	_	_	_	_	_	_	_
+1	a	a	ADP	E	_	3	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	21.30	21.30	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	Matteo	Matteo	PROPN	SP	_	9	nsubj	_	_
+6	Renzi	Renzi	PROPN	SP	_	5	flat:name	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	grande	grande	ADJ	A	Number=Sing	0	root	_	_
+10	perchè	perchè	SCONJ	CS	_	12	mark	_	_
+11	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	capito	capire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+13	che	che	SCONJ	CS	_	17	mark	_	_
+14	anche	anche	ADV	B	_	15	advmod	_	_
+15	chi	chi	PRON	PR	Number=Sing|PronType=Rel	17	nsubj	_	_
+16	lavora	lavorare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+17	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+18	voglia	vogliare	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+19	di	di	ADP	E	_	20	mark	_	_
+20-21	interessarsi	_	_	_	_	_	_	_	_
+20	interessar	interessare	VERB	V	VerbForm=Inf	18	acl	_	_
+21	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl	_	_
+22	di	di	ADP	E	_	23	case	_	_
+23	politica	politica|politico	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
+24	!	!	PUNCT	FS	_	9	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NO ma non ti nego che sentirle mi diverte,sorrido per non piangere!
+1	NO	no	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ma	ma	CCONJ	CC	_	5	cc	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+5	nego	nego	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	che	che	SCONJ	CS	_	7	mark	_	_
+7-8	sentirle	_	_	_	_	_	_	_	_
+7	sentir	sentire	VERB	V	VerbForm=Inf	5	ccomp	_	_
+8	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	mi	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+10	diverte,sorrido	diverte,sorrido	ADJ	A	Gender=Masc|Number=Sing	7	xcomp	_	_
+11	per	per	ADP	E	_	13	mark	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	piangere	piangere	VERB	V	VerbForm=Inf	7	advcl	_	SpaceAfter=No
+14	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma il rispetto è solo per Del Debbio!
+1	Ma	ma	CCONJ	CC	_	7	cc	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	rispetto	rispetto	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	solo	solo	ADV	B	_	7	advmod	_	_
+6	per	per	ADP	E	_	7	case	_	_
+7-8	Del	_	_	_	_	_	_	_	_
+7	Di	di	PROPN	SP	_	0	root	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Debbio	Debbio	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n\n
+

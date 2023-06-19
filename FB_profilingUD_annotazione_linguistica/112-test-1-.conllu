@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sopprimetele.
+1-2	Sopprimetele	_	_	_	_	_	_	_	SpaceAfter=No
+1	Sopprimete	Sopprimere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voto NO e spero che questo faccia perdere Renzi ed andare a casa.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	NO	No	PROPN	SP	_	2	obj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	_
+7	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	_
+8	faccia	faccia	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+9	perdere	perdere	VERB	V	VerbForm=Inf	8	ccomp	_	_
+10	Renzi	Renzi	PROPN	SP	_	9	obj	_	_
+11	ed	e	CCONJ	CC	_	12	cc	_	_
+12	andare	andare	VERB	V	VerbForm=Inf	9	conj	_	_
+13	a	a	ADP	E	_	14	case	_	_
+14	casa.	casa.	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ma se non fosse così e vince il SI IL PRIMO CHE SI LAMENTA DEL GOVERNO MI FARÀ INCAZZARE
+1	..ma	..mare	ADV	B	_	5	advmod	_	_
+2	se	se	SCONJ	CS	_	5	mark	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+5	così	così	ADV	B	_	20	advmod	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	vince	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	SI	Si	PROPN	SP	_	20	nsubj	_	_
+10	IL	Il	PROPN	SP	_	9	flat:name	_	_
+11	PRIMO	primo	PROPN	SP	_	9	flat:name	_	_
+12	CHE	che	PROPN	SP	_	9	flat:name	_	_
+13	SI	si	PROPN	SP	_	9	flat:name	_	_
+14	LAMENTA	lamenta	PROPN	SP	_	13	flat:name	_	_
+15-16	DEL	_	_	_	_	_	_	_	_
+15	DI	Di	ADP	E	_	16	case	_	_
+16	IL	il	PROPN	SP	_	13	flat:name	_	_
+17	GOVERNO	Governo	PROPN	SP	_	13	flat:name	_	_
+18	MI	mi	PROPN	SP	_	13	flat:name	_	_
+19	FARÀ	fare	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	cop	_	_
+20	INCAZZARE	INCAZZARE	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

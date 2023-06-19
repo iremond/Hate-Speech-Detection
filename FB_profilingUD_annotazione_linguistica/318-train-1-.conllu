@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due befana supponenti
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	befana	befana	NOUN	S	Gender=Fem	0	root	_	_
+3	supponenti	supponente	ADJ	A	Number=Plur	2	amod	_	SpacesAfter=\n\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma perchè le invitano sempre quelle due??
+1	Ma	ma	CCONJ	CC	_	4	cc	_	_
+2	perchè	perché	SCONJ	CS	_	4	mark	_	_
+3	le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	iobj	_	_
+4	invitano	invitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sempre	sempre	ADV	B	_	4	advmod	_	_
+6	quelle	quello	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	7	det	_	_
+7	due	due	NUM	N	NumType=Card	4	nsubj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

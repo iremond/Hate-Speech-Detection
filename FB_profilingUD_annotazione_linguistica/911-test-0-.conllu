@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Chi non ha coscienza dorme sempre sereno, in ogni situazione.
+1	Chi	chi	PRON	PR	PronType=Rel	5	nsubj	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	coscienza	coscienza	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	dorme	dormo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	sempre	sempre	ADV	B	_	7	advmod	_	_
+7	sereno	sereno	ADJ	A	Gender=Masc|Number=Sing	5	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	11	det	_	_
+11	situazione	situazione	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

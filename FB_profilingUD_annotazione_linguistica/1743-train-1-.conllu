@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi si è bloccata la cena nello stomaco.non le posso più sentire.ripetono le stesse cose ogni volta.non si va da nessuna parte.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	bloccata	bloccare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cena	cena	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+7-8	nello	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	stomaco.non	stomaco.non	NOUN	S	Gender=Masc	6	nmod	_	_
+10	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
+11	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	più	più	ADV	B	_	13	advmod	_	_
+13	sentire.ripetono	sentire.ripetere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	stesse	stesso	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	_
+16	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	_
+17	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	18	det	_	_
+18	volta.non	volta.non	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	_
+19	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl:impers	_	_
+20	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+21	da	da	ADP	E	_	23	case	_	_
+22	nessuna	nessuno	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	23	det	_	_
+23	parte	parte	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\n\n
+

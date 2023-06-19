@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voto no
+1	Voto	votare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	no	no	ADV	BN	PronType=Neg	1	advmod	_	SpacesAfter=\n\n
+

@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tu sei la casta sei la vergogna ti permetti di giudicare il ministro vai a lavorare
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	casta	casta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	sei	essere	NUM	N	NumType=Card	4	nummod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+8	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	expl	_	_
+9	permetti	permeggere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	advcl	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	giudicare	giudicare	VERB	V	VerbForm=Inf	14	acl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	ministro	ministro	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+14	vai	vai	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+15	a	a	ADP	E	_	16	mark	_	_
+16	lavorare	lavorare	VERB	V	VerbForm=Inf	14	xcomp	_	SpacesAfter=\n\n
+

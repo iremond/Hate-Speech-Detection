@@ -1,0 +1,63 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avete visto quante se ne inventano pur di imporci tutti i migranti sul suolo italiano?
+1	Avete	avere	AUX	VM	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	4	det	_	_
+4	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	inventano	inventare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	pur	pur	ADV	B	_	9	advmod	_	_
+8	di	di	ADP	E	_	9	mark	_	_
+9	imporci	impore	VERB	V	VerbForm=Inf	6	xcomp	_	_
+10	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	12	det:predet	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	migranti	migrante	NOUN	S	Number=Plur	9	obj	_	_
+13-14	sul	_	_	_	_	_	_	_	_
+13	su	su	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	suolo	suolo	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+16	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Si appellano a qualsiasi cavillo e pretesto.
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	_
+2	appellano	appellare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	qualsiasi	qualsiasi	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+5	cavillo	cavillo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	pretesto.	pretesto.	NOUN	S	_	5	conj	_	SpaceAfter=No
+
+# sent_id = 3
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 4
+# text = sono allucinanti.
+1	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	allucinanti	allucinante	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 5
+# text = L'Italia non è l'eldorado!
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	Italia	Italia	PROPN	SP	_	6	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
+6	eldorado	eldorado	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 6
+# text = Smettetela di illudere quei migranti economici!
+1	Smettetela	Smettetela	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	di	di	ADP	E	_	3	mark	_	_
+3	illudere	illudere	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+5	migranti	migrante	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
+6	economici	economico	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

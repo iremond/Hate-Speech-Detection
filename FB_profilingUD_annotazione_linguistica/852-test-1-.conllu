@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo ci devi promettere che queste due infami presto pagheranno caro quello che stanno facendo al nostro paese e i sodi che ci rubano, loro e tutto il PD e Alfano
+1	Matteo	Matteo	PROPN	SP	_	4	nsubj	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	_
+3	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	promettere	promettere	VERB	V	VerbForm=Inf	0	root	_	_
+5	che	che	SCONJ	CS	_	10	mark	_	_
+6	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	_
+7	due	due	NUM	N	NumType=Card	8	nummod	_	_
+8	infami	infamo	NOUN	S	Gender=Masc|Number=Plur	10	nsubj	_	_
+9	presto	presto	ADV	B	_	10	advmod	_	_
+10	pagheranno	pagherare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	4	advcl	_	_
+11	caro	caro	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	_	_
+12	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	_
+13	che	che	PRON	PR	PronType=Rel	15	nsubj	_	_
+14	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	facendo	fare	VERB	V	VerbForm=Ger	12	acl:relcl	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	19	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	paese	paese	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	_
+20	e	e	CCONJ	CC	_	22	cc	_	_
+21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	sodi	sodio	NOUN	S	Gender=Masc|Number=Plur	19	conj	_	_
+23	che	che	PRON	PR	PronType=Rel	25	nsubj	_	_
+24	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	25	iobj	_	_
+25	rubano	rubano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	SpaceAfter=No
+26	,	,	PUNCT	FF	_	10	punct	_	_
+27	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	10	conj	_	_
+28	e	e	CCONJ	CC	_	31	cc	_	_
+29	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	31	det:predet	_	_
+30	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	PD	Pd	PROPN	SP	_	10	conj	_	_
+32	e	e	CCONJ	CC	_	33	cc	_	_
+33	Alfano	Alfano	PROPN	SP	_	10	conj	_	SpacesAfter=\n\n
+

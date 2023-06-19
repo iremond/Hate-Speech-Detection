@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bufalaro mi piace😊
+1	Bufalaro	Bufalaro	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	piace😊	piace😊	PROPN	SP	_	1	obj	_	SpacesAfter=\n\n
+

@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma finiamola di fare il microfono a cani e porci ! Vorrei vedere se al loro paese ci fanno la stessa opportunità, qui bisogna agire e basta!!!!!
+1	Ma	ma	CCONJ	CC	_	2	cc	_	_
+2-3	finiamola	_	_	_	_	_	_	_	_
+2	finiamo	finire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	2	xcomp	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	microfono	microfono	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	cani	cane	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	porci	porco	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	_
+12	!	!	PUNCT	FS	_	2	punct	_	_
+13	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	_
+14	vedere	vedere	VERB	V	VerbForm=Inf	2	advcl	_	_
+15	se	se	SCONJ	CS	_	21	mark	_	_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	E	_	19	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	loro	loro	DET	AP	Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	paese	paese	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	_
+20	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	21	iobj	_	_
+21	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+23	stessa	stesso	ADJ	A	Gender=Fem|Number=Sing	24	amod	_	_
+24	opportunità	opportunità	NOUN	S	Gender=Fem	21	obj	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	14	punct	_	SpacesAfter=\s\s
+26	qui	qui	ADV	B	_	27	advmod	_	_
+27	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+28	agire	agire	VERB	V	VerbForm=Inf	27	xcomp	_	_
+29	e	e	CCONJ	CC	_	30	cc	_	_
+30	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	SpaceAfter=No
+31	!!!	!!!	PUNCT	FF	_	30	punct	_	SpaceAfter=No
+32	!!	!!	PUNCT	FF	_	14	punct	_	SpacesAfter=\n\n
+

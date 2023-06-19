@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No tanto capitano..già mi danno fastidio...
+1	No	no	INTJ	I	Polarity=Neg	5	discourse	_	_
+2	tanto	tanto	ADV	B	_	5	advmod	_	SpacesAfter=\s\s
+3	capitano..già	capitano..già	NOUN	S	Gender=Fem	5	nsubj	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	danno	dare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	fastidio...	fastidio...	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

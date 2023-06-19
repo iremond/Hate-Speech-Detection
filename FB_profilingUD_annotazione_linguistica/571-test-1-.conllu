@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come donna una racchia e una voce odiosissima
+1	Come	come	ADP	E	_	2	case	_	_
+2	donna	donna	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	racchia	racchia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	voce	voce	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+8	odiosissima	odioso	ADJ	A	Degree=Abs|Gender=Fem|Number=Sing	7	amod	_	SpacesAfter=\n\n
+

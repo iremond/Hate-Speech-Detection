@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A Mandello del Lario (LC) è andata a fuoco una chiesa.
+1	A	a	ADP	E	_	2	case	_	_
+2	Mandello	Mandello	PROPN	SP	_	10	obl	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Lario	Lario	PROPN	SP	_	2	nmod	_	_
+6	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	LC	LC	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	7	punct	_	_
+9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	fuoco	fuoco	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	chiesa	chiesa	NOUN	S	Gender=Fem|Number=Sing	10	nsubj:pass	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	10	punct	_	_
+
+# sent_id = 2
+# text = Così, per dire.
+1	Così	così	ADV	B	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	per	per	ADP	E	_	4	mark	_	_
+4	dire	dire	VERB	V	VerbForm=Inf	1	advcl	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = http://www.lecconotizie.com/cronaca/mandello-in-fiamme-la-chiesa-di-san-lorenzo-309207/
+1	http://www.lecconotizie.com/cronaca/mandello-in-fiamme-la-chiesa-di-san-lorenzo-309207/	http://www.lecconotizie.com/cronaca/mandello-in-fiamme-la-chiesa-di-san-lorenzo-309207/	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

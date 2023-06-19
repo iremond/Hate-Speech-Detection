@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Capitano sei un grande e forza Milan sempre e comunque!!!
+1	Capitano	capitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sei	sei	NUM	N	NumType=Card	1	nummod	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+4	grande	grande	ADJ	A	Number=Sing	7	amod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	forza	forza	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+7	Milan	Milan	PROPN	SP	_	1	nsubj	_	_
+8	sempre	sempre	ADV	B	_	1	advmod	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	comunque	comunque	ADV	B	_	1	conj	_	SpaceAfter=No
+11	!	!	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+12	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

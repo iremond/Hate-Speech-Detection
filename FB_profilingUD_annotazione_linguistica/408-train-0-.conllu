@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dai Salvini fatti valere💪
+1-2	Dai	_	_	_	_	_	_	_	_
+1	Da	da	ADP	E	_	3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Salvini	Salvini	PROPN	SP	_	4	obl	_	_
+4	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	valere💪	valere💪	PROPN	SP	_	4	xcomp	_	SpacesAfter=\n\n
+

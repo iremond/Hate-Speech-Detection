@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Indigeste, tutte e due
+1	Indigeste	indigesto	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	SpacesAfter=\s\s
+3	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	1	conj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	due	due	NUM	N	NumType=Card	1	conj	_	SpacesAfter=\n\n
+

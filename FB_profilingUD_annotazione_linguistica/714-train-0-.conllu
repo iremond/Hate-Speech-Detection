@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ciao Matteo una volante dei Carabinieri della compagnia di Taormina per 15 comuni , con poco personale come si può parlare di sicurezza
+1	Ciao	ciao	INTJ	I	_	0	root	_	_
+2	Matteo	Matteo	PROPN	SP	_	1	flat:name	_	SpacesAfter=\s\s
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	volante	volante	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	Carabinieri	Carabinieri	PROPN	SP	_	4	nmod	_	_
+8-9	della	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	compagnia	compagnia	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	Taormina	Taormina	PROPN	SP	_	10	nmod	_	_
+13	per	per	ADP	E	_	15	case	_	_
+14	15	15	NUM	N	NumType=Card	15	nummod	_	_
+15	comuni	comune	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+16	,	,	PUNCT	FF	_	2	punct	_	_
+17	con	con	ADP	E	_	19	case	_	_
+18	poco	poco	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	19	det	_	_
+19	personale	personale	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	_
+20	come	come	ADP	E	_	23	mark	_	_
+21	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	23	expl:impers	_	_
+22	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	SpacesAfter=\s\s
+23	parlare	parlare	VERB	V	VerbForm=Inf	2	conj	_	_
+24	di	di	ADP	E	_	25	case	_	_
+25	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	SpacesAfter=\n\n
+

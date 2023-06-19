@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scusate per quale referendum si andrà a votare?
+1	Scusate	scusare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	per	per	ADP	E	_	4	case	_	_
+3	quale	quale	DET	DQ	Number=Sing|PronType=Int	4	det	_	_
+4	referendum	referendum	NOUN	S	Gender=Masc	6	obl	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+6	andrà	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
+7	a	a	ADP	E	_	8	mark	_	_
+8	votare	votare	VERB	V	VerbForm=Inf	6	ccomp	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Di cosa si discuterà?
+1	Di	di	ADP	E	_	2	case	_	_
+2	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	obl	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+4	discuterà	discutere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

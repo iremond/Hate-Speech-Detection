@@ -1,0 +1,56 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Del Debbio a quanto pare è un presentatore di Parte, di Destra, cosa continua a invitare queste due ebeti con Librandi un altro fesso, e invita pochi cittadini del M5S magari con loro si può parlare anche di altro e non solo di extracomunitari...
+1-2	Del	_	_	_	_	_	_	_	_
+1	Di	di	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Debbio	Debbio	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	9	obl	_	_
+6	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	presentatore	presentatore	NOUN	S	Gender=Masc|Number=Sing	41	nsubj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Parte	parte	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	9	punct	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	Destra	destra	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	9	punct	_	_
+16	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	17	nsubj	_	_
+17	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	acl:relcl	_	_
+18	a	a	ADP	E	_	19	mark	_	_
+19	invitare	invitare	VERB	V	VerbForm=Inf	17	xcomp	_	_
+20	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	22	det	_	_
+21	due	due	NUM	N	NumType=Card	22	nummod	_	_
+22	ebeti	ebeta	NOUN	S	Gender=Masc|Number=Plur	19	obj	_	_
+23	con	con	ADP	E	_	24	case	_	_
+24	Librandi	Librandi	PROPN	SP	_	19	obl	_	_
+25	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+26	altro	altro	ADJ	A	Gender=Masc|Number=Sing	27	amod	_	_
+27	fesso	fesso	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
+28	,	,	PUNCT	FF	_	30	punct	_	_
+29	e	e	CCONJ	CC	_	30	cc	_	_
+30	invita	invitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	conj	_	_
+31	pochi	poco	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	32	det	_	_
+32	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	30	obj	_	_
+33-34	del	_	_	_	_	_	_	_	_
+33	di	di	ADP	E	_	35	case	_	_
+34	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
+35	M5S	M5S	PROPN	SP	_	32	nmod	_	_
+36	magari	magari	ADV	B	_	30	advmod	_	_
+37	con	con	ADP	E	_	38	case	_	_
+38	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	30	obl	_	_
+39	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	30	obj	_	_
+40	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	aux	_	_
+41	parlare	parlare	VERB	V	VerbForm=Inf	0	root	_	_
+42	anche	anche	ADV	B	_	44	advmod	_	_
+43	di	di	ADP	E	_	44	case	_	_
+44	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	47	obl	_	_
+45	e	e	CCONJ	CC	_	47	cc	_	_
+46	non	non	ADV	BN	PronType=Neg	47	advmod	_	_
+47	solo	solo	ADV	B	_	49	advmod	_	_
+48	di	di	ADP	E	_	49	case	_	_
+49	extracomunitari...	extracomunitari...	NOUN	S	Gender=Masc|Number=Sing	41	obl	_	SpacesAfter=\n\n
+

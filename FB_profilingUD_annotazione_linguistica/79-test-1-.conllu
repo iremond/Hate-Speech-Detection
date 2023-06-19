@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bersani è fuori di testa Ma non da ora da SEMPRE
+1	Bersani	Bersani	PROPN	SP	_	5	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpacesAfter=\s\s
+3	fuori	fuori	ADV	B	_	5	case	_	_
+4	di	di	ADP	E	_	3	fixed	_	_
+5	testa	testa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\s\s
+6	Ma	ma	CCONJ	CC	_	11	cc	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	ora	ora	ADV	B	_	11	advmod	_	_
+10	da	da	ADP	E	_	11	case	_	_
+11	SEMPRE	sempre	NOUN	S	Gender=Fem|Number=Plur	5	conj	_	SpacesAfter=\n\n
+

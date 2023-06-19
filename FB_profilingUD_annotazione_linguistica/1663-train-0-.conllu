@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Meno male...
+1	Meno	meno	ADV	B	_	0	root	_	_
+2	male...	male.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non è ora di sterminare questi maiali
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpacesAfter=\s\s
+3	ora	ora	ADV	B	_	0	root	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	sterminare	sterminare	VERB	V	VerbForm=Inf	3	csubj	_	_
+6	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+7	maiali	maiale	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	SpacesAfter=\n\n
+

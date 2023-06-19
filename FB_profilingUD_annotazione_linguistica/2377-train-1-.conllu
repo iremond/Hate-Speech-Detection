@@ -1,0 +1,25 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non guardo più la trasmissione ; sentire tutte queste contaballe mi fà solo ingrossare il fegato .......e le balle !!!
+1	non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	più	più	ADV	B	_	2	advmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	;	;	PUNCT	FC	_	7	punct	_	_
+7	sentire	sentire	VERB	V	VerbForm=Inf	2	conj	_	_
+8	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	10	det:predet	_	_
+9	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	10	det	_	_
+10	contaballe	contaballa	NOUN	S	Gender=Fem|Number=Plur	12	nsubj	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	iobj	_	_
+12	fà	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	ccomp	_	_
+13	solo	solo	ADV	B	_	14	advmod	_	_
+14	ingrossare	ingrossare	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	fegato	fegato	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+17	.......e	.......e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	balle	balla	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	_
+20	!!!	!!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

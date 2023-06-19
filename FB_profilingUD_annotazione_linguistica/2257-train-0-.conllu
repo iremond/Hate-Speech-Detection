@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bravo Matteo Salvini
+1	Bravo	bravo	PROPN	SP	_	0	root	_	_
+2	Matteo	Matteo	PROPN	SP	_	1	flat:name	_	SpacesAfter=\s\s
+3	Salvini	Salvini	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

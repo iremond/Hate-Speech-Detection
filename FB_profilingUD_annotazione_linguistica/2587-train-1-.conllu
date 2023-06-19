@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La Santanchè grida, fanno male lr orecchie
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Santanchè	Santanchè	PROPN	SP	_	5	nsubj	_	_
+3	grida	grido	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	male	male	ADV	B	_	5	advmod	_	_
+7	lr	lr	ADP	E	_	8	case	_	_
+8	orecchie	orecchio	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	SpacesAfter=\n\n
+

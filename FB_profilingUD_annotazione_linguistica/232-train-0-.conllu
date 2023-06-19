@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bronzo?
+1	Bronzo	Bronzo	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Sicuro sicuro sicuro?
+1	Sicuro	sicuro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+4	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\s
+
+# sent_id = 3
+# text = Ghghgh
+1	Ghghgh	Ghghgh	INTJ	I	_	0	root	_	SpacesAfter=\n\n
+

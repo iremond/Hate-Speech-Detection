@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = NO...sorry, come due zanzare nelle trombe di Eustachio.
+1	NO...sorry	NO...sorry	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	come	come	ADP	E	_	5	case	_	_
+4	due	due	NUM	N	NumType=Card	5	nummod	_	_
+5	zanzare	zanzara	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+6-7	nelle	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	trombe	tromba	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Eustachio.	Eustachio.	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ....
+1	...	...	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	0	root	_	SpacesAfter=\n\n
+

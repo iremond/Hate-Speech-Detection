@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ECCO DOVE SBAGLI!!!https://www.facebook.com/informareXresistere/videos/10154605425683912/
+1	ECCO	ecco	PROPN	SP	_	0	root	_	_
+2	DOVE	Dove	PROPN	SP	_	1	flat:name	_	_
+3	SBAGLI	sbagliare	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+4	!!!https://www.facebook.com	!!!https://www.facebook.com	X	X	_	6	nmod	_	SpaceAfter=No
+5	/	/	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	informareXresistere	informareXresistere	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+7	/	/	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	videos/10154605425683912	videos/10154605425683912	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+9	/	/	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

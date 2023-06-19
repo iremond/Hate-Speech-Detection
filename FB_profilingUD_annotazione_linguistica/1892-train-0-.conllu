@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La statua conteneva esplosivo?
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	statua	statua	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	conteneva	contenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	esplosivo	esplosivo	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ho mal di stomaco.
+1	Ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	mal	male	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	stomaco.	stomaco.	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...
+1	...	.	PUNCT	FF	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !!!!!
+1	!!!!!	!!!!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

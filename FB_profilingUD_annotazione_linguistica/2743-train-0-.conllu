@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No assolutamente no
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	_
+2	assolutamente	assolutamente	ADV	B	_	1	advmod	_	_
+3	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpacesAfter=\n\n
+

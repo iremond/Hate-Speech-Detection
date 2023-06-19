@@ -1,0 +1,85 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La MALPEZZI pare un criceto che corre imperterrito nella sua ruota in un mondo tutto suo.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	MALPEZZI	MALPEZZI	PROPN	SP	_	3	nsubj	_	_
+3	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	criceto	criceto	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	corre	correre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	imperterrito	imperterrire	ADV	B	_	7	advmod	_	_
+9-10	nella	_	_	_	_	_	_	_	_
+9	in	in	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
+12	ruota	ruota	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+13	in	in	ADP	E	_	15	case	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+16	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	15	nmod	_	_
+17	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = La gente si lamenta che ci sono poche donne in politica perché non sa che ci pensa la Malpezzi a far casino per mille.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gente	gente	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	lamenta	lamentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	SCONJ	CS	_	7	mark	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+7	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	poche	poco	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
+9	donne	donna	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+10	in	in	ADP	E	_	11	case	_	_
+11	politica	politica	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	perché	perché	SCONJ	CS	_	14	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	_
+14	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+15	che	che	SCONJ	CS	_	17	mark	_	_
+16	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	17	iobj	_	_
+17	pensa	pensare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	Malpezzi	Malpezzi	PROPN	SP	_	17	nsubj	_	_
+20	a	a	ADP	E	_	21	mark	_	_
+21	far	fare	VERB	V	VerbForm=Inf	17	ccomp	_	_
+22	casino	casino	NOUN	S	Gender=Masc|Number=Sing	21	obj	_	_
+23	per	per	ADP	E	_	24	case	_	_
+24	mille	mille	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\s\s
+
+# sent_id = 3
+# text = IO NON MI SENTO RAPPRESENTATA DA LEI NON SOLO COME POLITICA MA COME DONNA, IL MODO IN CUI PENSA E LE PAROLE CHE DICE SONO ALQUANTO RACCAPRICCIANTI!!
+1	IO	io	PROPN	SP	_	0	root	_	_
+2	NON	non	PROPN	SP	_	6	nsubj	_	_
+3	MI	mi	PROPN	SP	_	2	flat:name	_	_
+4	SENTO	sento	PROPN	SP	_	2	flat:name	_	_
+5	RAPPRESENTATA	rappresentare	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	_
+6	DA	Da	PROPN	SP	_	1	flat:name	_	_
+7	LEI	lei	PROPN	SP	_	6	flat:name	_	_
+8	NON	Non	PROPN	SP	_	6	flat:name	_	_
+9	SOLO	solo	PROPN	SP	_	6	flat:name	_	_
+10	COME	come	PROPN	SP	_	6	flat:name	_	_
+11	POLITICA	politica	PROPN	SP	_	6	flat:name	_	_
+12	MA	Ma	PROPN	SP	_	6	flat:name	_	_
+13	COME	come	PROPN	SP	_	6	flat:name	_	_
+14	DONNA	donna	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	6	punct	_	_
+16	IL	il	PROPN	SP	_	6	flat:name	_	_
+17	MODO	modo	PROPN	SP	_	6	flat:name	_	_
+18	IN	in	PROPN	SP	_	6	flat:name	_	_
+19	CUI	cui	PROPN	SP	_	27	nmod	_	_
+20	PENSA	Pensa	PROPN	SP	_	27	nsubj	_	_
+21	E	e	CCONJ	CC	_	22	cc	_	_
+22	LE	Le	PROPN	SP	_	20	flat:name	_	_
+23	PAROLE	parole	PROPN	SP	_	22	flat:name	_	_
+24	CHE	che	PROPN	SP	_	22	flat:name	_	_
+25	DICE	Dice	PROPN	SP	_	22	flat:name	_	_
+26	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
+27	ALQUANTO	alquanto	PROPN	SP	_	6	flat:name	_	_
+28	RACCAPRICCIANTI	RACCAPRICCIANTI	PROPN	SP	_	27	flat:name	_	SpaceAfter=No
+29	!	!	PUNCT	FS	_	27	punct	_	SpaceAfter=No
+30	!	!	PUNCT	FS	_	27	punct	_	SpacesAfter=\n\n
+

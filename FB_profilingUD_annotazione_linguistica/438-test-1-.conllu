@@ -1,0 +1,58 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A me personalmente mi fanno pena perche penzando che quelle due persone ci devono difendere a noi Italiani ce da dubitare ,a me mi pare che noi non possiamo dire una parola in nostra difesa che subito siamo attacati da queste insensate mi pare che noi Italiani siamo i loro avversari principali.
+1	A	a	ADP	E	_	2	case	_	_
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+3	personalmente	personalmente	ADV	B	_	5	advmod	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	pena	pena	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	perche	perco	ADV	B	_	5	advmod	_	_
+8	penzando	penzare	VERB	V	VerbForm=Ger	5	advcl	_	_
+9	che	che	SCONJ	CS	_	15	mark	_	_
+10	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	15	obj	_	_
+11	due	due	NUM	N	NumType=Card	12	nummod	_	_
+12	persone	persona	NOUN	S	Gender=Fem|Number=Plur	15	nsubj	_	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	15	obj	_	_
+14	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	difendere	difendere	VERB	V	VerbForm=Inf	8	ccomp	_	_
+16	a	a	ADP	E	_	17	case	_	_
+17	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	25	obl	_	_
+18	Italiani	italiani	NOUN	S	Gender=Masc|Number=Plur	25	nsubj	_	_
+19	ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	21	expl	_	_
+20	da	da	ADP	E	_	21	mark	_	_
+21	dubitare	dubitare	VERB	V	VerbForm=Inf	25	advcl	_	_
+22	,a	,a	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	_
+23	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	21	iobj	_	_
+24	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	25	iobj	_	_
+25	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+26	che	che	SCONJ	CS	_	30	mark	_	_
+27	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	30	nsubj	_	_
+28	non	non	ADV	BN	PronType=Neg	30	advmod	_	_
+29	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	30	aux	_	_
+30	dire	dire	VERB	V	VerbForm=Inf	25	advcl	_	_
+31	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+32	parola	parola	NOUN	S	Gender=Fem|Number=Sing	30	obj	_	_
+33	in	in	ADP	E	_	35	case	_	_
+34	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	35	det:poss	_	_
+35	difesa	difesa	NOUN	S	Gender=Fem|Number=Sing	30	obl	_	_
+36	che	che	PRON	PR	PronType=Rel	39	nsubj:pass	_	_
+37	subito	subito	ADV	B	_	39	advmod	_	_
+38	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	39	aux:pass	_	_
+39	attacati	attacare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	35	acl:relcl	_	_
+40	da	da	ADP	E	_	42	case	_	_
+41	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	42	det	_	_
+42	insensate	insensata	NOUN	S	Gender=Fem|Number=Plur	39	obl:agent	_	_
+43	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	44	iobj	_	_
+44	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+45	che	che	SCONJ	CS	_	51	mark	_	_
+46	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	51	nsubj	_	_
+47	Italiani	italiani	NOUN	S	Gender=Masc|Number=Plur	51	nsubj	_	_
+48	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	51	cop	_	_
+49	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	51	det	_	_
+50	loro	loro	DET	AP	Poss=Yes|PronType=Prs	51	det:poss	_	_
+51	avversari	avversario	NOUN	S	Gender=Masc|Number=Plur	44	ccomp	_	_
+52	principali	principale	ADJ	A	Number=Plur	51	amod	_	SpaceAfter=No
+53	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

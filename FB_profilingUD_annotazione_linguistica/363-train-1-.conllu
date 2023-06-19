@@ -1,0 +1,86 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E,e che si fa?
+1	E,e	E,e	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 3
+# text = tanto manca poco ad un altra storia di vittime indifese e passa in un altro piano questa realtà Notizia..così funziona,vorrei chiedere chi vota Pd,o altre politiche che hanno ideali diversi dal difendere i diritti degli italiani.
+1	tanto	tanto	ADV	B	_	2	advmod	_	_
+2	manca	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+3	poco	poco	ADV	B	_	2	advmod	_	_
+4	ad	a	ADP	E	_	7	case	_	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	altra	altro	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+7	storia	storia	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	vittime	vittima	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	_
+10	indifese	indifese	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+11	e	e	CCONJ	CC	_	12	cc	_	_
+12	passa	passare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	in	in	ADP	E	_	16	case	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	altro	altro	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	piano	piano	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+17	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	18	det	_	_
+18	realtà	realtà	NOUN	S	Gender=Fem	20	obj	_	_
+19	Notizia..così	Notizia..così	PROPN	SP	_	20	nsubj	_	_
+20	funziona	funzionare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+21	,vorrei	,vorre	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	chiedere	chiedere	VERB	V	VerbForm=Inf	20	conj	_	_
+23	chi	chi	PRON	PR	Number=Sing|PronType=Rel	22	obj	_	_
+24	vota	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
+25	Pd,o	Pd,o	PROPN	SP	_	24	obj	_	_
+26	altre	altro	ADJ	A	Gender=Fem|Number=Plur	25	amod	_	_
+27	politiche	politica	ADJ	A	Gender=Fem|Number=Plur	25	amod	_	_
+28	che	che	PRON	PR	PronType=Rel	29	nsubj	_	_
+29	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
+30	ideali	ideale	NOUN	S	Gender=Masc|Number=Plur	29	obj	_	_
+31	diversi	diverso	ADJ	A	Gender=Masc|Number=Plur	30	amod	_	_
+32-33	dal	_	_	_	_	_	_	_	_
+32	da	da	ADP	E	_	34	case	_	_
+33	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	difendere	difendere	VERB	V	VerbForm=Inf	31	obl	_	_
+35	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
+36	diritti	diritto	NOUN	S	Gender=Masc|Number=Plur	34	obj	_	_
+37-38	degli	_	_	_	_	_	_	_	_
+37	di	di	ADP	E	_	39	case	_	_
+38	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	39	det	_	_
+39	italiani.	italiani.	NOUN	S	_	36	nmod	_	SpaceAfter=No
+
+# sent_id = 4
+# text = ..Italiani..come fa Napoli o posti come la Liguria a vincere Pd se non lo si sopporta?
+1	..Italiani..come	..Italiani..come	SCONJ	CS	_	2	mark	_	_
+2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Napoli	Napoli	PROPN	SP	_	2	obj	_	_
+4	o	o	CCONJ	CC	_	5	cc	_	_
+5	posti	porre	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	conj	_	_
+6	come	come	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Liguria	Liguria	PROPN	SP	_	5	obl	_	_
+9	a	a	ADP	E	_	10	mark	_	_
+10	vincere	vincere	VERB	V	VerbForm=Inf	5	xcomp	_	_
+11	Pd	pd	PROPN	SP	_	10	obj	_	_
+12	se	se	SCONJ	CS	_	16	mark	_	_
+13	non	non	ADV	BN	PronType=Neg	16	advmod	_	_
+14	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl:impers	_	_
+16	sopporta	sopporgere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+17	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 5
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = ?ah
+1	?ah	?ah	INTJ	I	_	0	root	_	SpacesAfter=\n\n
+

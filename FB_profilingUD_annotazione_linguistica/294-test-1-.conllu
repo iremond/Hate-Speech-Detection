@@ -1,0 +1,36 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Fasulle la malpezzo in che mondo vive di capisce che la sua borsa è piena di soldi e che non capisce nulla di chi ha grossi problemi economici idiota
+1-2	Fasulle	_	_	_	_	_	_	_	_
+1	Fasu	Fasu	ADP	E	_	4	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	malpezzo	malpezzo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	che	che	DET	DQ	PronType=Int	7	det	_	_
+7	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	vive	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	di	di	ADP	E	_	10	mark	_	_
+10	capisce	capire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+11	che	che	SCONJ	CS	_	16	mark	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	borsa	borsa	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	SpacesAfter=\s\s
+16	piena	pieno	ADJ	A	Gender=Fem|Number=Sing	10	ccomp	_	_
+17	di	di	ADP	E	_	18	case	_	_
+18	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	_
+19	e	e	CCONJ	CC	_	22	cc	_	_
+20	che	che	PRON	PR	PronType=Rel	22	nsubj	_	_
+21	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+22	capisce	capire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+23	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	22	obj	_	_
+24	di	di	ADP	E	_	25	case	_	_
+25	chi	chi	PRON	PR	Number=Sing|PronType=Rel	23	nmod	_	_
+26	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
+27	grossi	grosso	ADJ	A	Gender=Masc|Number=Plur	28	amod	_	_
+28	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	26	obj	_	_
+29	economici	economico	ADJ	A	Gender=Masc|Number=Plur	28	amod	_	_
+30	idiota	idioto	ADJ	A	Number=Sing	26	xcomp	_	SpacesAfter=\n\n
+

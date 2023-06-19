@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = x fortuna esistono queste cose x cagar meglio senza prendere farmaci!
+1	x	x	SYM	SYM	_	2	det	_	_
+2	fortuna	fortuna	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
+5	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6	x	x	SYM	SYM	_	7	obj	_	_
+7	cagar	cagare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	meglio	meglio	ADV	B	_	7	advmod	_	_
+9	senza	senza	ADP	E	_	10	mark	_	_
+10	prendere	prendere	VERB	V	VerbForm=Inf	7	advcl	_	_
+11	farmaci	farmaco	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	7	punct	_	SpacesAfter=\n\n
+

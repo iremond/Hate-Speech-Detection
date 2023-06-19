@@ -1,0 +1,93 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = senza vergogna il loro partito ha iniziato a privatizzare tutto il possibile degli asset degli italiani!!! e con benetton gli avete fatto ponti d'oro e adesso le colpe sarebbero di salvini che all'epoca non contava nulla visto che capo della lega era bossi!!! e voi che eravate soci dei forzisti con il patto del nazzareno adesso fate gli gnorri!!
+1	senza	senza	ADP	E	_	2	case	_	_
+2	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	loro	loro	DET	AP	Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	partito	partito	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	iniziato	iniziare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	privatizzare	privatizzare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	12	det:predet	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	possibile	possibile	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+13-14	degli	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	asset	asset	NOUN	S	Gender=Masc	12	nmod	_	_
+16-17	degli	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+19	!!!	!!!	PUNCT	FF	_	25	punct	_	_
+20	e	e	CCONJ	CC	_	25	cc	_	_
+21	con	con	ADP	E	_	22	case	_	_
+22	benetton	benetton	NOUN	S	Gender=Masc	25	obl	_	_
+23	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	iobj	_	_
+24	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	25	aux	_	_
+25	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	conj	_	_
+26	ponti	ponte	NOUN	S	Gender=Masc|Number=Plur	25	obj	_	_
+27	d'	di	ADP	E	_	28	case	_	SpaceAfter=No
+28	oro	oro	NOUN	S	Gender=Masc|Number=Sing	26	nmod	_	_
+29	e	e	CCONJ	CC	_	35	cc	_	_
+30	adesso	adesso	ADV	B	_	35	advmod	_	_
+31	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	32	det	_	_
+32	colpe	colpa	NOUN	S	Gender=Fem|Number=Plur	35	nsubj	_	_
+33	sarebbero	essere	AUX	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	cop	_	_
+34	di	di	ADP	E	_	35	case	_	_
+35	salvini	salvino	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	_
+36	che	che	PRON	PR	PronType=Rel	41	nsubj	_	_
+37-38	all'	_	_	_	_	_	_	_	SpaceAfter=No
+37	a	a	ADP	E	_	39	case	_	_
+38	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	39	det	_	_
+39	epoca	epoca	NOUN	S	Gender=Fem|Number=Sing	41	obl	_	_
+40	non	non	ADV	BN	PronType=Neg	41	advmod	_	_
+41	contava	contavare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	35	acl:relcl	_	_
+42	nulla	nulla	PRON	PI	Number=Sing|PronType=Ind	41	obj	_	_
+43	visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	42	acl	_	_
+44	che	che	SCONJ	CS	_	50	mark	_	_
+45	capo	capo	NOUN	S	Gender=Masc|Number=Sing	50	nsubj	_	_
+46-47	della	_	_	_	_	_	_	_	_
+46	di	di	ADP	E	_	48	case	_	_
+47	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
+48	lega	lega	NOUN	S	Gender=Fem|Number=Sing	45	nmod	_	_
+49	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	50	aux	_	_
+50	bossi	buovere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	43	ccomp	_	SpaceAfter=No
+51	!!!	!!!	PUNCT	FF	_	53	punct	_	_
+52	e	e	CCONJ	CC	_	53	cc	_	_
+53	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	50	conj	_	_
+54	che	che	PRON	PR	PronType=Rel	55	obj	_	_
+55	eravate	eravare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	53	acl:relcl	_	_
+56	soci	socio	ADV	B	_	55	advmod	_	_
+57-58	dei	_	_	_	_	_	_	_	_
+57	di	di	ADP	E	_	59	case	_	_
+58	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	59	det	_	_
+59	forzisti	forzista	NOUN	S	Gender=Masc|Number=Plur	55	obl	_	_
+60	con	con	ADP	E	_	62	case	_	_
+61	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	62	det	_	_
+62	patto	patto	NOUN	S	Gender=Masc|Number=Sing	59	nmod	_	_
+63-64	del	_	_	_	_	_	_	_	_
+63	di	di	ADP	E	_	65	case	_	_
+64	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	65	det	_	_
+65	nazzareno	nazzareno	NOUN	S	Gender=Masc|Number=Sing	62	nmod	_	_
+66	adesso	adesso	ADV	B	_	67	advmod	_	_
+67	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	55	advcl	_	_
+68	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	69	det	_	_
+69	gnorri	gnorro	NOUN	S	Gender=Masc|Number=Plur	67	obj	_	SpaceAfter=No
+70	!	!	PUNCT	FS	_	55	punct	_	SpaceAfter=No
+71	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = siete penosi e soprattutto vigliacchi dentro!!
+1	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	penosi	penoso	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	soprattutto	soprattutto	ADV	B	_	5	advmod	_	_
+5	vigliacchi	vigliacco	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+6	dentro	dentro	ADV	B	_	5	advmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

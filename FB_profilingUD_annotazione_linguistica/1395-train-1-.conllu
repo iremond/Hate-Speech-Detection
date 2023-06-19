@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = no,hanno 1 voce da paura
+1	no,hanno	no,he	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	1	1	NUM	N	NumType=Card	3	nummod	_	_
+3	voce	voce	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	paura	paura	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	SpacesAfter=\n\n
+

@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Antipatia 😡😡😡
+1	Antipatia	Antipatia	ADV	B	_	2	advmod	_	_
+2	😡😡😡	😡😡😡	SYM	SYM	_	0	root	_	SpacesAfter=\n\n
+

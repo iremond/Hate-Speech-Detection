@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ma fare lo stesso trattamento a loro no?
+1	ma	ma	CCONJ	CC	_	2	cc	_	_
+2	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	_
+5	trattamento	trattamento	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	2	obl	_	_
+8	no	no	ADV	BN	PronType=Neg	7	advmod	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

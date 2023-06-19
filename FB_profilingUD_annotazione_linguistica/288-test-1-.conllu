@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gentaglia pericolosa.
+1	Gentaglia	Gentaglia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	pericolosa	pericoloso	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = Mai integrazione
+1	Mai	mai	ADV	B	_	2	advmod	_	_
+2	integrazione	integrazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E gente che non ha mai lavorato in vita loro,non sanno nemmeno il motivo perché stanno su questa Terra.
+1	E	e	CCONJ	CC	_	11	cc	_	_
+2	gente	gente	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+3	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+4	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	mai	mai	ADV	B	_	7	advmod	_	_
+7	lavorato	lavorare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	SpacesAfter=\s\s
+8	in	in	ADP	E	_	9	case	_	_
+9	vita	vita	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+10	loro,non	loro,non	ADV	BN	PronType=Neg	11	advmod	_	_
+11	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	nemmeno	nemmeno	ADV	BN	PronType=Neg	11	advmod	_	SpacesAfter=\s\s
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	motivo	motivo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpacesAfter=\s\s
+15	perché	perché	SCONJ	CS	_	16	mark	_	_
+16	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+17	su	su	ADP	E	_	19	case	_	SpacesAfter=\s\s
+18	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
+19	Terra	Terra	PROPN	SP	_	16	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = Stanno lì solo per fare Danni
+1	Stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	lì	lì	ADV	B	_	3	advmod	_	_
+3	solo	solo	ADV	B	_	5	advmod	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+6	Danni	danni	PROPN	SP	_	5	obj	_	SpacesAfter=\n\n
+

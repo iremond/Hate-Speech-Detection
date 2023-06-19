@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Uun "uomo" inutile che vive con i soldi della politika da 25 anni, BASTA con i mantenuti leghisti.
+1	Uun	Uuno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	SpacesAfter=\s\s
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+3	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	"	"	PUNCT	FB	_	3	punct	_	_
+5	inutile	inutile	ADJ	A	Number=Sing	3	amod	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	vive	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+8	con	con	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	_
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	politika	politika	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	25	25	NUM	N	NumType=Card	16	nummod	_	_
+16	anni	anno	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	3	punct	_	_
+18	BASTA	bastare	PROPN	SP	_	3	appos	_	_
+19	con	con	ADP	E	_	21	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	mantenuti	mantenuto	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+22	leghisti	leghista	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La normalità è la quotidiana stranezza, il resto è mero perbenismo.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	normalità	normalità	NOUN	S	Gender=Fem	6	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	quotidiana	quotidiano	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	stranezza	stranezza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	12	punct	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	resto	resto	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	mero	mero	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	_
+12	perbenismo	perbenismo	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due insieme è troppo!!!
+1	Due	due	NUM	N	NumType=Card	0	root	_	_
+2	insieme	insieme	ADV	B	_	5	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpacesAfter=\s\s
+4	troppo	troppo	ADV	B	_	5	advmod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+6	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

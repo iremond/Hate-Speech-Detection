@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sono insopportabili per quello che dicono perchè non appartengono alla vita che noi cittadini italiani ci troviamo ad affrontare, anche le loro voci sono fastidiose da ascoltare.
+1	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	insopportabili	insopportabile	ADJ	A	Number=Plur	0	root	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obl	_	_
+5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+6	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	perchè	perché	SCONJ	CS	_	9	mark	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	appartengono	appartenere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+10-11	alla	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	vita	vita	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+13	che	che	PRON	PR	PronType=Rel	18	obj	_	_
+14	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
+15	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	14	appos	_	_
+16	italiani	italiano	ADJ	A	Gender=Masc|Number=Plur	15	amod	_	_
+17	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	18	expl	_	_
+18	troviamo	trovare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+19	ad	a	ADP	E	_	20	mark	_	_
+20	affrontare	affrontare	VERB	V	VerbForm=Inf	18	xcomp	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	20	punct	_	_
+22	anche	anche	ADV	B	_	25	advmod	_	_
+23	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
+24	loro	loro	DET	AP	Poss=Yes|PronType=Prs	25	det:poss	_	_
+25	voci	voce	NOUN	S	Gender=Fem|Number=Plur	27	nsubj	_	_
+26	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
+27	fastidiose	fastidiorre	ADJ	A	Gender=Fem|Number=Plur	20	conj	_	_
+28	da	da	ADP	E	_	29	mark	_	_
+29	ascoltare	ascoltare	VERB	V	VerbForm=Inf	27	advcl	_	SpaceAfter=No
+30	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .......
+1	......	......	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

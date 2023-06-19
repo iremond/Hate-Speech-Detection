@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voto per Salvini ,ma al referendum voterò si
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	Salvini	Salvini	PROPN	SP	_	2	obl	_	_
+5	,ma	,mare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	referendum	referendum	NOUN	S	Gender=Masc	5	obl	_	_
+9	voterò	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	SpacesAfter=\n\n
+

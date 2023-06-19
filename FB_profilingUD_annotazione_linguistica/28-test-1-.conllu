@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma questi vermi perché stanno in Italia?
+1	Ma	ma	CCONJ	CC	_	3	cc	_	_
+2	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	SpacesAfter=\s\s
+3	vermi	vermo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\s\s
+4	perché	perché	SCONJ	CS	_	5	mark	_	SpacesAfter=\s\s
+5	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpacesAfter=\s\s
+6	in	in	ADP	E	_	7	case	_	_
+7	Italia	Italia	PROPN	SP	_	5	obl	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

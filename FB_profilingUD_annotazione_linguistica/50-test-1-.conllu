@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 2 stronze ignorantii
+1	2	2	NUM	N	NumType=Card	2	nummod	_	_
+2	stronze	stronza	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	ignorantii	ignorantii	ADJ	NO	Number=Sing|NumType=Ord	2	amod	_	SpacesAfter=\n\n
+

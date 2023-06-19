@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Odiose e brutte
+1	Odiose	Odioso	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	brutte	brutto	ADJ	A	Gender=Fem|Number=Plur	1	conj	_	SpacesAfter=\n\n
+

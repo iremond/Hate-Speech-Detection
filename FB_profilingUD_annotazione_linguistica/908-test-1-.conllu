@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È ora che te ne vai affanculo tu e tutta la razza tua...
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	ora	ora	ADV	B	_	0	root	_	_
+3	che	che	SCONJ	CS	_	6	mark	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+5	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	6	iobj	_	_
+6	vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	affanculo	affanculo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+9	e	e	CCONJ	CC	_	12	cc	_	_
+10	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	12	det:predet	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	razza	razza	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	_
+13	tua...	tua.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = mo so fascista pure io ma solo verso di voi
+1	mo	mo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	so	sapere	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	fascista	fascista	ADJ	A	Number=Sing	1	amod	_	_
+4	pure	pure	ADV	B	_	5	advmod	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+6	ma	ma	CCONJ	CC	_	10	cc	_	_
+7	solo	solo	ADV	B	_	10	advmod	_	_
+8	verso	verso	ADP	E	_	10	case	_	_
+9	di	di	ADP	E	_	8	fixed	_	_
+10	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	5	conj	_	SpacesAfter=\n\n
+

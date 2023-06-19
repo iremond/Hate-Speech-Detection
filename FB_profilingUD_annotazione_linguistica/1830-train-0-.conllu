@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ce poi giura
+1	Ce	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	poi	poi	ADV	B	_	1	advmod	_	_
+3	giura	giurare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

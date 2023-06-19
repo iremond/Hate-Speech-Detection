@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = tutte e due se non si fanno vedere ha vita in televisione sono di due partiti diversi +e pure la castaldini per non perdere la sedia dove e seduta ha poggia la sinistra svergognata della malora +
+1	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	16	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	due	due	NUM	N	NumType=Card	1	conj	_	_
+4	se	se	SCONJ	CS	_	7	mark	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	_
+7	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+8	vedere	vedere	VERB	V	VerbForm=Inf	7	ccomp	_	_
+9	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+10	vita	vita	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	televisione	televisione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+13	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	due	due	NUM	N	NumType=Card	16	nummod	_	_
+16	partiti	partito	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+17	diversi	diverso	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+18	+e	+e	VERB	V	VerbForm=Inf	16	csubj	_	_
+19	pure	pure	ADV	B	_	18	advmod	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	castaldini	castaldine	NOUN	S	Gender=Fem|Number=Plur	18	obj	_	_
+22	per	per	ADP	E	_	24	mark	_	_
+23	non	non	ADV	BN	PronType=Neg	24	advmod	_	_
+24	perdere	perdere	VERB	V	VerbForm=Inf	21	acl	_	SpacesAfter=\s\s
+25	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	sedia	sedia	NOUN	S	Gender=Fem|Number=Sing	24	obj	_	_
+27	dove	dove	ADV	B	_	30	advmod	_	_
+28	e	e	CCONJ	CC	_	29	cc	_	_
+29	seduta	seduta	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	30	advcl	_	_
+30	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	_
+31	poggia	poggiare	ADV	B	_	30	advmod	_	_
+32	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
+33	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	30	obj	_	_
+34	svergognata	svergognato	ADJ	A	Gender=Fem|Number=Sing	33	amod	_	_
+35-36	della	_	_	_	_	_	_	_	_
+35	di	di	ADP	E	_	37	case	_	_
+36	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
+37	malora	malora	NOUN	S	Gender=Fem|Number=Sing	33	nmod	_	_
+38	+	+	SYM	SYM	_	37	nmod	_	SpacesAfter=\n\n
+

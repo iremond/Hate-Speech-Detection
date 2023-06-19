@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voto no e speriamo il buffone vada a casa
+1	Voto	votare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	nsubj	_	_
+2	no	no	ADV	BN	PronType=Neg	1	advmod	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	buffone	buffone	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	vada	andare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	casa	casa	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpacesAfter=\n\n
+

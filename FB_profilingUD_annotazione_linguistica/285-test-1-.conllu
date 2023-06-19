@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La castaldini solo sentire la sua voce così fastidiosa mi costringe a cambiare canale
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	castaldini	castaldine	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	_
+3	solo	solo	ADV	B	_	4	advmod	_	_
+4	sentire	sentire	VERB	V	VerbForm=Inf	2	acl	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	voce	voce	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+8	così	così	ADV	B	_	9	advmod	_	_
+9	fastidiosa	fastidioso	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	_
+11	costringe	costringere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	a	a	ADP	E	_	13	mark	_	_
+13	cambiare	cambiare	VERB	V	VerbForm=Inf	11	xcomp	_	_
+14	canale	canale	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	SpacesAfter=\n\n
+

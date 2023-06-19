@@ -1,0 +1,52 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma stai zitto.sei sempre stato quello che,non vedi,non senti,non parlò,adesso che è successo?
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	stai	stai	ADV	B	_	6	advmod	_	_
+3	zitto.sei	zitto.seo	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	sempre	sempre	ADV	B	_	6	advmod	_	_
+5	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	_
+6	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	_
+7	che,non	che,non	X	SW	Foreign=Yes	6	compound	_	_
+8	vedi,non	vedi,non	X	SW	Foreign=Yes	7	flat:foreign	_	_
+9	senti,non	senti,non	X	SW	Foreign=Yes	7	flat:foreign	_	_
+10	parlò	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	,adesso	,adesso	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	_
+12	che	che	PRON	PR	PronType=Rel	14	nsubj	_	_
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	successo	successo	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	SpaceAfter=No
+15	?	?	PUNCT	FS	_	10	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = Ti hanno imposto di dire ste cazzate??
+1	Ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	imposto	imporre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	dire	dire	VERB	V	VerbForm=Inf	3	xcomp	_	_
+6	ste	sto	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+7	cazzate	cazzata	NOUN	S	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 4
+# text = Vergogna ,siete i veri traditori della Patria,e degli Italiani
+1	Vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+2	,siete	,siere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	veri	vero	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+5	traditori	traditore	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Patria,e	Patria,e	PROPN	SP	_	5	nmod	_	_
+9-10	degli	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	Italiani	Italiani	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpacesAfter=\n\n
+

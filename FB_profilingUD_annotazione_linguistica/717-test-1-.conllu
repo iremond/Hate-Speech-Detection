@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vorrei sapere da che buco sono uscite queste due .....!!!!!!!
+1	Vorrei	volere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sapere	sapere	VERB	V	VerbForm=Inf	7	advcl	_	_
+3	da	da	ADP	E	_	5	case	_	_
+4	che	che	DET	DQ	PronType=Int	5	det	_	_
+5	buco	buco	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+6	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	uscite	uscire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+8	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	9	det	_	_
+9	due	due	NUM	N	NumType=Card	7	nummod	_	_
+10	.....	.....	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	!!!!!!!	!!!!!!!	PUNCT	FF	_	9	punct	_	SpacesAfter=\n\n
+

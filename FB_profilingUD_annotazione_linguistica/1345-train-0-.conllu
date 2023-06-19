@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ma a te cosa ti cambia?
+1	Ma	ma	CCONJ	CC	_	6	cc	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+4	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	6	nsubj	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	iobj	_	_
+6	cambia	cambiare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 2
+# text = Cit
+1	Cit	Cit	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

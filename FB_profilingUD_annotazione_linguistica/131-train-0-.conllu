@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vai Matteo fagli vedere
+1	Vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+2	Matteo	Matteo	PROPN	SP	_	1	obj	_	_
+3	fagli	fagli	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	vedere	vedere	VERB	V	VerbForm=Inf	3	ccomp	_	SpacesAfter=\n\n
+

@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = sono indigeste, fanno anche venire la colica intestinale.
+1	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	indigeste	indigesto	ADJ	A	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	anche	anche	ADV	B	_	6	advmod	_	_
+6	venire	venire	VERB	V	VerbForm=Inf	4	ccomp	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	colica	colica	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	_
+9	intestinale	intestinale	ADJ	A	Number=Sing	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

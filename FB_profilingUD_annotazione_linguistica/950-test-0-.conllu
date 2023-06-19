@@ -1,0 +1,46 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ho quasi mai concordato con Cazzola per quanto riguarda le ricette economiche, ma la sua posizione chiarisce la differenza tra destra e fascismo.
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	quasi	quasi	ADV	B	_	4	advmod	_	_
+4	mai	mai	ADV	B	_	2	advmod	_	_
+5	concordato	concordare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+6	con	con	ADP	E	_	7	case	_	_
+7	Cazzola	Cazzola	PROPN	SP	_	5	obl	_	_
+8	per	per	ADP	E	_	9	case	_	_
+9	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	_
+10	riguarda	riguardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	ricette	ricetta	NOUN	S	Gender=Fem|Number=Plur	10	obj	_	_
+13	economiche	economico	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	19	punct	_	_
+15	ma	ma	CCONJ	CC	_	19	cc	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	posizione	posizione	NOUN	S	Gender=Fem|Number=Sing	19	nsubj	_	_
+19	chiarisce	chiarire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	_
+22	tra	tra	ADP	E	_	23	case	_	_
+23	destra	destra	NOUN	S	Gender=Fem|Number=Sing	21	nmod	_	_
+24	e	e	CCONJ	CC	_	25	cc	_	_
+25	fascismo	fascismo	NOUN	S	Gender=Masc|Number=Sing	23	conj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = La destra economica non è fascismo come la sinistra non è comunismo
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	destra	destra	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	economica	economico	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+4	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	fascismo	fascismo	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
+7	come	come	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	sinistra	sinistra	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+10	non	non	ADV	BN	PronType=Neg	12	advmod	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	comunismo	comunismo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dio me ne liberi!
+1	Dio	Dio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	liberi	libero	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	SpaceAfter=No
+5	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

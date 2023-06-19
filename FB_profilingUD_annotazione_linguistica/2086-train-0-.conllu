@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci sarò eccome!
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	sarò	sarare	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	3	cop	_	_
+3	eccome	eccome	ADV	B	_	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

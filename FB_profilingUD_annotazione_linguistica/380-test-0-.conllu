@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sta ttanqullo Matteo il pd non vuole ci vuole le tuspe di alla Malpemsi che tato i bambini non vanno a scquola
+1	Sta	stare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ttanqullo	ttanqullo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	Matteo	Matteo	PROPN	SP	_	1	obj	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	pd	pd	NOUN	S	_	9	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+7	vuole	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	SpacesAfter=\s\s
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	tuspe	tuspa	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	_
+12	di	di	ADP	E	_	15	case	_	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Malpemsi	Malpemsi	PROPN	SP	_	11	nmod	_	_
+16	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
+17	tato	tato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	17	obj	_	_
+20	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+21	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+22	a	a	ADP	E	_	23	case	_	_
+23	scquola	scquola	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	SpacesAfter=\n\n
+

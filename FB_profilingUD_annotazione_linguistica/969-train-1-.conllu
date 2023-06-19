@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cambio subito canale solo a vederle sto male.
+1	Cambio	cambio	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	subito	subito	ADV	B	_	1	advmod	_	_
+3	canale	canale	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	solo	solo	ADV	B	_	6	advmod	_	_
+5	a	a	ADP	E	_	6	mark	_	_
+6-7	vederle	_	_	_	_	_	_	_	_
+6	veder	vedere	VERB	V	VerbForm=Inf	1	advcl	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+8	sto	sto	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+9	male.	male.	NOUN	S	Gender=Masc	6	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ......ma dico io ma perché le invita.
+1	......ma	......ma	ADV	B	_	2	advmod	_	_
+2	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4	ma	ma	CCONJ	CC	_	7	cc	_	_
+5	perché	perché	SCONJ	CS	_	7	mark	_	_
+6	le	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+7	invita	invita	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

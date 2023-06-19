@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No caro Capitano
+1	No	no	INTJ	I	Polarity=Neg	3	discourse	_	_
+2	caro	caro	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	Capitano	capitano	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

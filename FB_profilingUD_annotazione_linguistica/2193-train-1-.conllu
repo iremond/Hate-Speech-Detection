@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Si!
+1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ma nel gozzo resta sempre faccia di culo salvini e i leghisti del menga.
+1	Ma	ma	CCONJ	CC	_	5	cc	_	_
+2-3	nel	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	gozzo	gozzo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+5	resta	restare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	sempre	sempre	ADV	B	_	5	advmod	_	_
+7	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	culo	culo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	_
+10	salvini	salvino	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	leghisti	leghista	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	_
+14-15	del	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	menga	menere	NOUN	S	Gender=Masc	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

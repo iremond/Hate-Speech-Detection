@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non se ne sente la mancanza , dei giornalisti
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	sente	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	mancanza	mancanza	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	_
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8-9	dei	_	_	_	_	_	_	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	giornalisti	giornalista	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	SpacesAfter=\n\n
+

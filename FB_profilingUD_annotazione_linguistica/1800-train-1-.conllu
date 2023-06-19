@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Cacciamoli via!
+1-2	Cacciamoli	_	_	_	_	_	_	_	_
+1	Cacciamo	Caccare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3	via	via	ADV	B	_	1	advmod	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ma non solo questa gente, anche quei porci che dirigono il nostro paese!
+1	ma	ma	CCONJ	CC	_	5	cc	_	_
+2	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+3	solo	solo	ADV	B	_	5	advmod	_	_
+4	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	gente	gente	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	anche	anche	ADV	B	_	9	advmod	_	_
+8	quei	quello	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
+9	porci	porco	NOUN	S	Gender=Masc|Number=Plur	5	appos	_	_
+10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	_
+11	dirigono	dirigere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	paese	paese	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = Con le ruspe però...
+1	Con	con	ADP	E	_	3	case	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	ruspe	ruspa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+4	però...	però.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

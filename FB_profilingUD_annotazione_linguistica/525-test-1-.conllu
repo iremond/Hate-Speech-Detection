@@ -1,0 +1,147 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dovremmo tt fare una cosa nn pagare più nulla nn dovrebbero avere neanche un centesimo...
+1	Dovremmo	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	tt	tt	ADV	B	_	3	advmod	_	_
+3	fare	fare	VERB	V	VerbForm=Inf	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	nn	nno	ADP	E	_	7	mark	_	_
+7	pagare	pagare	VERB	V	VerbForm=Inf	5	acl	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	nulla	nulla	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obj	_	_
+10	nn	nn	ADV	B	_	12	advmod	_	_
+11	dovrebbero	dovere	AUX	VM	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	avere	avere	VERB	V	VerbForm=Inf	3	conj	_	_
+13	neanche	neanche	ADV	BN	PronType=Neg	15	advmod	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	centesimo..	centesimo..	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Poi che fanno ci tolgono a tt le case...?
+1	Poi	poi	ADV	B	_	5	advmod	_	_
+2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	_
+3	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	obj	_	_
+5	tolgono	tolgere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	tt	tt	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	case...	case...	NOUN	S	_	5	obj	_	SpaceAfter=No
+10	?	?	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 4
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 5
+# text = ?
+1	?	?	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 6
+# text = ......
+1	.....	.....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 7
+# text = Tanto le tasse che paghiamo nn servono a creare lavoro o migliorie al paese servono a mantenere i loro vitalizi.....
+1	Tanto	tanto	ADV	B	_	7	advmod	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	tasse	tassa	NOUN	S	Gender=Fem|Number=Plur	7	nsubj	_	_
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+5	paghiamo	pagare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+6	nn	nno	ADV	B	_	5	advmod	_	_
+7	servono	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	creare	creare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	_
+11	o	o	CCONJ	CC	_	12	cc	_	_
+12	migliorie	miglioria	NOUN	S	Gender=Fem|Number=Plur	10	conj	_	_
+13-14	al	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	paese	paese	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+16	servono	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+17	a	a	ADP	E	_	18	mark	_	_
+18	mantenere	mantenere	VERB	V	VerbForm=Inf	16	xcomp	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+20	loro	loro	DET	AP	Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	vitalizi.....	vitalizi.....	NOUN	S	_	18	obj	_	_
+
+# sent_id = 8
+# text = Rivoluzione.
+1	Rivoluzione	rivoluzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 9
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 10
+# text = ..ci stanno spremendo come limoni.
+1	..ci	..co	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+2	stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	spremendo	spremere	VERB	V	VerbForm=Ger	0	root	_	_
+4	come	come	ADP	E	_	5	case	_	_
+5	limoni.	limoni.	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+
+# sent_id = 11
+# text = .....Togliete subito i vitalizi e recuperate soldi.
+1	.....Togliete	.....Togliere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	subito	subito	ADV	B	_	1	advmod	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	vitalizi	vitalizio	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	recuperate	recuperare	NOUN	S	Gender=Fem|Number=Plur	4	conj	_	_
+7	soldi.	soldi.	NOUN	S	_	1	obl	_	SpaceAfter=No
+
+# sent_id = 12
+# text = ...dateli hai pensionati agli isolati introducete il sussidio x i giovani.
+1-2	...dateli	_	_	_	_	_	_	_	_
+1	...date	...dare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
+3	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	pensionati	pensionare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl:relcl	_	_
+5-6	agli	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	isolati	isolato	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+8	introducete	introducere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	sussidio	sussidio	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	x	x	SYM	SYM	_	10	nmod	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	giovani.	giovani.	NOUN	S	_	1	nsubj	_	SpaceAfter=No
+
+# sent_id = 13
+# text = .
+1	.	.	PUNCT	FS	_	0	root	_	SpaceAfter=No
+
+# sent_id = 14
+# text = ,,utilizzate in nostri soldi x il lavoro e x farsi che la gente nn si impicchi
+1	,	,	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+2	,utilizzate	,utilizzare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	nostri	nostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+6	x	x	SYM	SYM	_	5	nmod	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+9	e	e	CCONJ	CC	_	10	cc	_	_
+10	x	x	SYM	SYM	_	8	conj	_	_
+11-12	farsi	_	_	_	_	_	_	_	_
+11	far	fare	VERB	V	VerbForm=Inf	2	csubj	_	_
+12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+13	che	che	SCONJ	CS	_	18	mark	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	gente	gente	NOUN	S	Gender=Fem|Number=Sing	18	nsubj	_	_
+16	nn	nno	ADV	B	_	15	advmod	_	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	18	expl	_	_
+18	impicchi	impicco	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	ccomp	_	SpacesAfter=\n\n
+

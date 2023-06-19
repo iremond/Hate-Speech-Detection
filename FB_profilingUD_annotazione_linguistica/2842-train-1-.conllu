@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SONO DUE DEMENTI ARROGANTI E INSOPPORTABILI,RAGIONANO COME DUE GALLINE....VA BEEHH!!! SO DEL GOVERNO CHE VOLETE??
+1	SONO	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	DUE	due	PROPN	SP	_	0	root	_	_
+3	DEMENTI	DEMENTI	PROPN	SP	_	2	flat:name	_	_
+4	ARROGANTI	ARROGANTI	PROPN	SP	_	2	flat:name	_	_
+5	E	e	CCONJ	CC	_	6	cc	_	_
+6	INSOPPORTABILI	INSOPPORTABILI	PROPN	SP	_	2	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+8	RAGIONANO	RAGIONANO	PROPN	SP	_	6	flat:name	_	_
+9	COME	come	PROPN	SP	_	8	flat:name	_	_
+10	DUE	due	PROPN	SP	_	8	flat:name	_	_
+11	GALLINE....VA	GALLINE....VA	PROPN	SP	_	8	flat:name	_	_
+12	BEEHH!	BEEHH!	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+13	!!	!!	PUNCT	FF	_	14	punct	_	_
+14	SO	sapere	PROPN	SP	_	8	flat:name	_	_
+15-16	DEL	_	_	_	_	_	_	_	_
+15	DI	Di	ADP	E	_	16	case	_	_
+16	IL	il	PROPN	SP	_	14	flat:name	_	_
+17	GOVERNO	Governo	PROPN	SP	_	14	flat:name	_	_
+18	CHE	che	PROPN	SP	_	14	flat:name	_	_
+19	VOLETE	Volete	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+20	?	?	PUNCT	FS	_	14	punct	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mente sapendo di mentire.
+1	Mente	mente	ADV	B	_	2	advmod	_	_
+2	sapendo	sapere	VERB	V	VerbForm=Ger	0	root	_	_
+3	di	di	ADP	E	_	4	mark	_	_
+4	mentire	mentire	VERB	V	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Buffone, buffone, buffone
+1	Buffone	buffone	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	buffone	buffone	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	buffone	buffone	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	SpacesAfter=\n\n
+

@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi si è fermata la digestione con Malpezzi e la Castaldini.
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fermata	fermare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	digestione	digestione	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+7	con	con	ADP	E	_	8	case	_	_
+8	Malpezzi	Malpezzi	PROPN	SP	_	6	nmod	_	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Castaldini	Castaldini	PROPN	SP	_	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Da prendere a schiaffi !!!
+1	Da	da	ADP	E	_	2	mark	_	_
+2	prendere	prendere	VERB	V	VerbForm=Inf	0	root	_	_
+3	a	a	ADP	E	_	4	case	_	_
+4	schiaffi	schiaffo	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+5	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+6	!!	!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stiamo chiedendo più telecamere, lampioni, più REPRESSIONE, più militari armati, ma il Sindaco DEL PD si sveglia solo ora, ad un mese dalle elezioni!
+1	Stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	chiedendo	chiedere	VERB	V	VerbForm=Ger	0	root	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	telecamere	telecamera	X	X	_	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	6	punct	_	_
+6	lampioni	lampione	NOUN	S	Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	9	punct	_	_
+8	più	più	ADV	B	_	9	advmod	_	_
+9	REPRESSIONE	repressione	PROPN	SP	_	4	conj	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	12	punct	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	militari	militare	ADJ	A	Number=Plur	2	conj	_	_
+13	armati	armato	ADJ	A	Gender=Masc|Number=Plur	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	22	punct	_	_
+15	ma	ma	CCONJ	CC	_	22	cc	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Sindaco	sindaco	PROPN	SP	_	22	nsubj	_	_
+18-19	DEL	_	_	_	_	_	_	_	_
+18	DI	Di	ADP	E	_	19	case	_	_
+19	IL	il	PROPN	SP	_	17	nmod	_	_
+20	PD	Pd	PROPN	SP	_	19	flat:name	_	_
+21	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	22	expl	_	_
+22	sveglia	svegliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+23	solo	solo	ADV	B	_	22	advmod	_	_
+24	ora	ora	ADV	B	_	22	advmod	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	2	punct	_	_
+26	ad	a	ADP	E	_	28	case	_	_
+27	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	mese	mese	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+29-30	dalle	_	_	_	_	_	_	_	_
+29	da	da	ADP	E	_	31	case	_	_
+30	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	31	det	_	_
+31	elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
+32	!	!	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Vogliamo te al potere, forza....a mali estremi....;)
+1	Vogliamo	volere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	potere	potere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	forza....a	forza....a	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	_
+8	mali	male	ADJ	A	Number=Plur	9	amod	_	_
+9	estremi....	estremi..	NOUN	S	_	7	nmod	_	SpaceAfter=No
+10	;	;	PUNCT	FC	_	5	punct	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	5	punct	_	SpacesAfter=\n\n
+

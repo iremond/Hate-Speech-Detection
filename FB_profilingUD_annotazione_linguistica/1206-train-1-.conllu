@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No per niente, quanto li odio!
+1	No	no	INTJ	I	Polarity=Neg	7	discourse	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	quanto	quanto	ADV	B	_	7	advmod	_	_
+6	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+7	odio	odiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	7	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

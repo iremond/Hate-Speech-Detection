@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nella trasmissione di del debbio ci dovrebbero essere plitici competentj.a scusa a ragione del debbio non ce ne sono
+1-2	Nella	_	_	_	_	_	_	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	trasmissione	trasmissione	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+4	di	di	ADP	E	_	7	case	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	4	fixed	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	debbio	debbio	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	dovrebbero	dovere	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	essere	essere	AUX	V	VerbForm=Inf	11	cop	_	_
+11	plitici	plitico	ADJ	A	Gender=Masc|Number=Plur	9	xcomp	_	_
+12	competentj.a	competentj.a	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	_
+13	scusa	scusare	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	debbio	debbio	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+19	non	non	ADV	BN	PronType=Neg	22	advmod	_	_
+20	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	22	expl	_	_
+21	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	22	iobj	_	_
+22	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	SpacesAfter=\n\n
+

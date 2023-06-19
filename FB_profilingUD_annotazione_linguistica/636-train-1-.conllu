@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = CARO cesso MATTEO RENZI
+1	CARO	caro	ADP	E	_	2	case	_	SpacesAfter=\s\s
+2	cesso	cettere	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	MATTEO	MATTEO	PROPN	SP	_	2	nmod	_	_
+4	RENZI	RENZI	PROPN	SP	_	3	flat:name	_	SpacesAfter=\n\n
+

@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non ce la faccio mai fino alla fine- ma del Debbio qualcuno non presuntuoso sincero( perché francamente queste due sono bugiarde nate e mi sento offesa quando parlano ) ce l ha?
+1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+3	la	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mai	mai	ADV	B	_	4	advmod	_	_
+6	fino	fino	ADV	B	_	9	case	_	_
+7-8	alla	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	6	fixed	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	fine	fine	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	4	punct	_	_
+11	ma	ma	CCONJ	CC	_	36	cc	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Debbio	Debbio	NOUN	S	Gender=Masc|Number=Sing	36	obl	_	_
+15	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	36	obj	_	_
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+17	presuntuoso	presuntuoso	ADJ	A	Gender=Masc|Number=Sing	18	amod	_	SpacesAfter=\s\s
+18	sincero	sincero	NOUN	S	Gender=Masc|Number=Sing	36	nsubj	_	SpaceAfter=No
+19	(	(	PUNCT	FB	_	25	punct	_	_
+20	perché	perché	SCONJ	CS	_	25	mark	_	_
+21	francamente	franco	ADV	B	_	25	advmod	_	_
+22	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	23	det	_	_
+23	due	due	NUM	N	NumType=Card	25	nsubj	_	_
+24	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+25	bugiarde	bugiardere	NOUN	S	Gender=Fem|Number=Plur	36	advcl	_	_
+26	nate	nascere	ADJ	A	Gender=Fem|Number=Plur	25	amod	_	_
+27	e	e	CCONJ	CC	_	29	cc	_	_
+28	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	29	iobj	_	_
+29	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	conj	_	_
+30	offesa	offesa	NOUN	S	Gender=Fem|Number=Sing	29	obj	_	_
+31	quando	quando	SCONJ	CS	_	32	mark	_	_
+32	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	advcl	_	_
+33	)	)	PUNCT	FB	_	32	punct	_	_
+34	ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	36	iobj	_	_
+35	l	l	X	X	_	36	nsubj	_	_
+36	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
+37	?	?	PUNCT	FS	_	36	punct	_	SpacesAfter=\n\n
+

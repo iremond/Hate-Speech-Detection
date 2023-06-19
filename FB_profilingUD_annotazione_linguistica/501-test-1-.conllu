@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = La malpezzi mi sta sullo stomaco.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	sullo	_	_	_	_	_	_	_	_
+5	su	su	ADP	E	_	7	case	_	_
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	stomaco.	stomaco.	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..malox
+1	..malox	..malox	ADJ	NO	Number=Sing|NumType=Ord	0	root	_	SpacesAfter=\n\n
+

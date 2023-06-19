@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mattè, pr te questo e altro!
+1	Mattè	Matté	INTJ	I	_	3	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	3	punct	_	_
+3	pr	pre	VERB	V	VerbForm=Inf	0	root	_	_
+4	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
+6	e	e	CCONJ	CC	_	7	cc	_	_
+7	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	5	conj	_	SpaceAfter=No
+8	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !
+1	!	!	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 3
+# text = ASFALTALI TUTTI, MI RACCOMANDO!!
+1	ASFALTALI	Asfaltale	PROPN	SP	_	0	root	_	_
+2	TUTTI	Tutti	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	4	punct	_	_
+4	MI	mi	PROPN	SP	_	1	conj	_	_
+5	RACCOMANDO	RACCOMANDO	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

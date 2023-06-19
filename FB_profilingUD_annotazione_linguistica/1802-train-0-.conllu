@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Non vedo il programma perchè ci sono certi ospiti di governo...
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	programma	programma	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+5	perchè	perché	SCONJ	CS	_	7	mark	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+7	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+8	certi	certo	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	_
+9	ospiti	ospite	NOUN	S	Number=Plur	7	nsubj	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	governo..	governo..	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = intanto bla bbla bla..
+1	intanto	intanto	ADV	B	_	2	advmod	_	_
+2	bla	blare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bbla	bbla	DET	RD	Gender=Fem|Number=Sing	4	det	_	_
+4	bla.	bla.	NOUN	S	_	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

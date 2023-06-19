@@ -1,0 +1,34 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dicono le solite cose, che dicono da due anni, che succedono da due anni e che peggiorano ogni giorno.
+1	Dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	solite	solito	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	_
+4	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	1	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	due	due	NUM	N	NumType=Card	10	nummod	_	_
+10	anni	anno	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	7	punct	_	_
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	succedono	succedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+14	da	da	ADP	E	_	16	case	_	_
+15	due	due	NUM	N	NumType=Card	16	nummod	_	_
+16	anni	anno	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+17	e	e	CCONJ	CC	_	19	cc	_	_
+18	che	che	PRON	PR	PronType=Rel	19	nsubj	_	_
+19	peggiorano	peggiorere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+20	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	21	det	_	_
+21	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Stiamo aspettando te..
+1	Stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	aspettando	aspettare	VERB	V	VerbForm=Ger	0	root	_	_
+3	te.	te.	NOUN	S	_	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

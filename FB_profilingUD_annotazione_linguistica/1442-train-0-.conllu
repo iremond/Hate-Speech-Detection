@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È tutta una manfrina per chiamare il voto dei superstiti di forza italia
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	4	det:predet	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	manfrina	manfrina	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	chiamare	chiamare	VERB	V	VerbForm=Inf	4	acl	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	voto	voto	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	superstiti	superstite	NOUN	S	Number=Plur	8	nmod	_	_
+12	di	di	ADP	E	_	13	case	_	_
+13	forza	forza	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+14	italia	italia	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	SpacesAfter=\n\n
+

@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Saluta savona e lo chef andrea
+1	Saluta	saluta	ADJ	A	Gender=Fem|Number=Sing	2	amod	_	_
+2	savona	savono	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	chef	chef	NOUN	S	Gender=Masc	2	conj	_	_
+6	andrea	andreo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

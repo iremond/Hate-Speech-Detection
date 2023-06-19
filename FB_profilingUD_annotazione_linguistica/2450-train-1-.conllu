@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Renzi il rottamatore di sto caxxo!
+1	Renzi	Renzi	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	rottamatore	rottamatore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	sto	sto	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	caxxo	caxxo	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 2
+# text = Il bullo di firenze ha altre priorità...
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	bullo	bullo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	firenze	firenza	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	_
+5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	altre	altro	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
+7	priorità..	priorità..	NOUN	S	_	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

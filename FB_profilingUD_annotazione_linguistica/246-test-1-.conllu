@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ripulire con tantissime ruspe, tantissimi camion-compattatori e tantissime discariche fognarie con relativi depuratori...umani.
+1	Ripulire	Ripulire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	con	con	ADP	E	_	3	case	_	SpacesAfter=\s\s
+3	tantissime	tanto	NOUN	S	Gender=Fem|Number=Plur	1	obl	_	_
+4	ruspe	ruspa	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	7	punct	_	_
+6	tantissimi	tanto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
+7	camion	camion	NOUN	S	Gender=Masc	1	conj	_	SpaceAfter=No
+8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
+9	compattatori	compattatore	NOUN	S	Gender=Masc|Number=Plur	7	compound	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	tantissime	tanto	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	_
+12	discariche	discarica	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+13	fognarie	fognario	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+14	con	con	ADP	E	_	16	case	_	_
+15	relativi	relativo	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	_
+16	depuratori...umani	depuratori...umano	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

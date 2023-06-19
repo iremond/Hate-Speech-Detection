@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bravo Matteo.
+1	Bravo	bravo	PROPN	SP	_	0	root	_	_
+2	Matteo	Matteo	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Gli stranieri in regola, che lavorano e rispettano la legge non hanno niente da temere.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	stranieri	straniero	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	regola	regola	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	2	punct	_	_
+6	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+7	lavorano	lavorare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+8	e	e	CCONJ	CC	_	9	cc	_	_
+9	rispettano	rispettare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	legge	legge	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	niente	niente	PRON	PI	Number=Sing|PronType=Ind	13	obj	_	_
+15	da	da	ADP	E	_	16	mark	_	_
+16	temere	temere	VERB	V	VerbForm=Inf	14	acl	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	13	punct	_	_
+
+# sent_id = 3
+# text = I clandestini e le zecche invece......
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	clandestini	clandestino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	zecche	zecca	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+6	invece.....	invece...	NOUN	S	_	5	compound	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

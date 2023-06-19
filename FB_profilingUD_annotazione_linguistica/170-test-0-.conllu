@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = da Del Debbio ogni tanto e come essere al circo dove più gente entra più bestie si vedono.
+1	da	da	ADP	E	_	2	case	_	_
+2-3	Del	_	_	_	_	_	_	_	_
+2	Di	di	PROPN	SP	_	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Debbio	Debbio	PROPN	SP	_	2	flat:name	_	_
+5	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	6	det	_	_
+6	tanto	tanto	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7	e	e	CCONJ	CC	_	12	cc	_	_
+8	come	come	SCONJ	CS	_	12	mark	_	_
+9	essere	essere	AUX	V	VerbForm=Inf	12	cop	_	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	circo	circo	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	_
+13	dove	dove	ADV	B	_	16	advmod	_	_
+14	più	più	ADV	B	_	15	advmod	_	_
+15	gente	gente	NOUN	S	Gender=Fem|Number=Sing	16	nsubj	_	_
+16	entra	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+17	più	più	ADV	B	_	16	advmod	_	_
+18	bestie	bestio	NOUN	S	Gender=Fem|Number=Plur	20	nsubj	_	_
+19	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl	_	_
+20	vedono	vedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = due sottosviluppate !!
+1	due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	sottosviluppate	sottosviluppata	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+4	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

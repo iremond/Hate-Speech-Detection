@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due deficienti patentate una peggio dell altra.
+1	Due	due	NUM	N	NumType=Card	3	nummod	_	_
+2	deficienti	deficiento	ADJ	A	Number=Plur	1	amod	_	_
+3	patentate	patentare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	peggio	peggio	NOUN	S	Gender=Fem|Number=Sing	3	xcomp	_	_
+6	dell	dell	ADJ	A	_	5	amod	_	_
+7	altra	altro	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

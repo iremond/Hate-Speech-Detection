@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vuoti a perdere
+1	Vuoti	vuoto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	a	a	ADP	E	_	3	mark	_	_
+3	perdere	perdere	VERB	V	VerbForm=Inf	1	acl	_	SpacesAfter=\n\n
+

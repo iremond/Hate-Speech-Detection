@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = """La stranezza è nella mente di chi la percepisce"" Isaac Asimov"
+1	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+2	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+3	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+4	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	stranezza	stranezza	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7-8	nella	_	_	_	_	_	_	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	mente	mente	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	chi	chi	PRON	PR	Number=Sing|PronType=Rel	9	nmod	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	percepisce	percepiscia	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	16	punct	_	_
+16	Isaac	Isaac	PROPN	SP	_	13	nmod	_	_
+17	Asimov	Asimov	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	16	punct	_	SpacesAfter=\n\n
+

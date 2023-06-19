@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tutti quanti noi VOTEREMO NO sparissero tutti quelli DEL PD
+1	Tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	2	det	_	_
+2	quanti	quanto	PRON	PQ	Gender=Masc|Number=Plur|PronType=Int	6	obl	_	_
+3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+4	VOTEREMO	votare	PROPN	SP	_	3	nmod	_	_
+5	NO	No	PROPN	SP	_	4	flat:name	_	_
+6	sparissero	sparire	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	nmod	_	_
+8	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	6	obj	_	_
+9-10	DEL	_	_	_	_	_	_	_	_
+9	DI	Di	ADP	E	_	10	case	_	_
+10	IL	il	PROPN	SP	_	8	nmod	_	_
+11	PD	Pd	PROPN	SP	_	10	flat:name	_	SpacesAfter=\n\n
+

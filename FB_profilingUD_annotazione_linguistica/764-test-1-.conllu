@@ -1,0 +1,75 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No/ nessuna delle due ..sono proprio indigeste.
+1	No	no	INTJ	I	Polarity=Neg	9	discourse	_	SpaceAfter=No
+2	/	/	PUNCT	FF	_	1	punct	_	SpacesAfter=\s\s
+3	nessuna	nessuno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	9	nsubj	_	_
+4-5	delle	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	due	due	NUM	N	NumType=Card	3	nmod	_	_
+7	..sono	es..sere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	proprio	proprio	ADV	B	_	9	advmod	_	_
+9	indigeste	indigedere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	9	punct	_	_
+
+# sent_id = 2
+# text = Poi avete notato che quelle del PD come curano la loro immagine a chi veste e si trucca meglio?
+1	Poi	poi	ADV	B	_	3	advmod	_	_
+2	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	notato	notare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	che	che	SCONJ	CS	_	10	mark	_	_
+5	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	10	nsubj	_	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	PD	Pd	PROPN	SP	_	5	nmod	_	_
+9	come	come	ADV	B	_	10	advmod	_	_
+10	curano	curare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	loro	loro	DET	AP	Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	immagine	immagine	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
+14	a	a	ADP	E	_	15	case	_	_
+15	chi	chi	PRON	PR	Number=Sing|PronType=Rel	13	nmod	_	_
+16	veste	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+17	e	e	CCONJ	CC	_	19	cc	_	_
+18	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl	_	_
+19	trucca	truccare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	_
+20	meglio	meglio	ADV	B	_	19	advmod	_	SpaceAfter=No
+21	?	?	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = 3
+# text = fateci caso come erano prima e come sono oggi.
+1-2	fateci	_	_	_	_	_	_	_	_
+1	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	obj	_	_
+3	caso	cadere	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	SpacesAfter=\s\s
+4	come	come	SCONJ	CS	_	10	mark	_	_
+5	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+6	prima	prima	ADV	B	_	10	advmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	come	come	SCONJ	CS	_	6	fixed	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	oggi.	oggi.	NOUN	S	_	1	ccomp	_	SpaceAfter=No
+
+# sent_id = 4
+# text = .....loro difendono solo i loro interessi ai nostri non glie ne frega de meno.
+1	.....loro	.....loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	difendono	difendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	solo	solo	ADV	B	_	2	advmod	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	loro	loro	DET	AP	Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	interessi	interesse	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+7-8	ai	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	nostri	nostro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obl	_	_
+10	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+11	glie	gli	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	13	expl:impers	_	_
+12	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	13	iobj	_	_
+13	frega	fregare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+14	de	de	ADP	E	_	15	case	_	_
+15	meno	meno	ADV	B	_	13	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sono insopportabili!!!!!!
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	insopportabili	insopportabile	ADJ	A	Number=Plur	0	root	_	SpaceAfter=No
+3	!!!!!!	!!!!!!	PUNCT	FF	_	2	punct	_	_
+
+# sent_id = 2
+# text = Librandi compreso !!!!!!
+1	Librandi	Librandi	CCONJ	CC	_	2	cc	_	_
+2	compreso	comprendere	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+3	!!!	!!!	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	!!!	!!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

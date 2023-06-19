@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È un mondo di 2 cojoni😂😂😂😂
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	2	2	NUM	N	NumType=Card	3	nummod	_	_
+6	cojoni😂😂😂😂	cojoni😂😂😂😂	PROPN	SP	_	3	nmod	_	SpacesAfter=\n\n
+

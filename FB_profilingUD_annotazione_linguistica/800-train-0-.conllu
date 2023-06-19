@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voto no presidente del consiglio.
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+3	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpacesAfter=\s\s
+4	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpacesAfter=\s\s
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	consiglio	consiglio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Abusivo
+1	Abusivo	abusivo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

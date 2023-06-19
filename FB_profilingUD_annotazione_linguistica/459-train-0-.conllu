@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ha detto anche che si dimetteva se la Juve vinceva lo scudetto ahahahahah
+1	Ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	anche	anche	ADV	B	_	6	advmod	_	_
+4	che	che	SCONJ	CS	_	6	mark	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl:impers	_	_
+6	dimetteva	dimettevare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+7	se	se	SCONJ	CS	_	10	mark	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Juve	Juve	PROPN	SP	_	10	nsubj	_	_
+10	vinceva	vincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	_
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	scudetto	scudetto	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+13	ahahahahah	ahahahahah	ADJ	A	_	12	amod	_	SpacesAfter=\n\n
+

@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mi sa che se riesci seder su quella poltrona caro Matteo l orologio ti convien buttarlo per riparar casini vari altro che 24 ore te ne serviranno minimo minimo altre tante
+1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	expl:impers	_	_
+2	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	parataxis	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	se	se	SCONJ	CS	_	5	mark	_	_
+5	riesci	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	seder	seder	NOUN	S	_	5	obj	_	_
+7	su	su	ADP	E	_	9	case	_	_
+8	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	poltrona	poltrona	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
+10	caro	caro	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+11	Matteo	Matteo	PROPN	SP	_	9	nmod	_	_
+12	l	l	X	X	_	11	nmod	_	_
+13	orologio	orologio	NOUN	S	Gender=Masc|Number=Sing	12	compound	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	iobj	_	_
+15	convien	convien	INTJ	I	_	16	discourse	_	_
+16-17	buttarlo	_	_	_	_	_	_	_	_
+16	buttar	buttare	VERB	V	VerbForm=Inf	12	acl	_	_
+17	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+18	per	per	ADP	E	_	19	mark	_	_
+19	riparar	riparare	VERB	V	VerbForm=Inf	16	advcl	_	_
+20	casini	casino	NOUN	S	Gender=Masc|Number=Plur	19	obj	_	_
+21	vari	vario	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	_
+22	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	28	obl	_	_
+23	che	che	SCONJ	CS	_	28	mark	_	_
+24	24	24	NUM	N	NumType=Card	25	nummod	_	_
+25	ore	ora	NOUN	S	Gender=Fem|Number=Plur	28	obl	_	_
+26	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	28	obj	_	_
+27	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	28	iobj	_	_
+28	serviranno	servire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	19	advcl	_	_
+29	minimo	minimo	ADJ	A	Gender=Masc|Number=Sing	28	xcomp	_	_
+30	minimo	minimo	ADJ	A	Gender=Masc|Number=Sing	31	amod	_	_
+31	altre	altro	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	28	nsubj	_	_
+32	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	0	root	_	SpacesAfter=\n\n
+

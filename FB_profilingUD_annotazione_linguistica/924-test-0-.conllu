@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I 5stelle hanno dato il Paese in mano a Salvini (17% dei consensi alle urne)
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	5stelle	5stella	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Paese	paese	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	mano	mano	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	Salvini	Salvini	PROPN	SP	_	8	nmod	_	_
+11	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+12	17	17	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+13	%	%	SYM	SYM	_	4	obl	_	_
+14-15	dei	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	consensi	consenso	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+17-18	alle	_	_	_	_	_	_	_	_
+17	a	a	ADP	E	_	19	case	_	_
+18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	urne	urna	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
+20	)	)	PUNCT	FB	_	4	punct	_	SpacesAfter=\n\n
+

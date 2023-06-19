@@ -1,0 +1,23 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Gran pirla che sei e chi paga tutte le spese?
+1	Gran	Gran	PROPN	SP	_	0	root	_	_
+2-3	pirla	_	_	_	_	_	_	_	_
+2	pir	pire	ADP	E	_	4	case	_	_
+3	la	lo	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	che	che	PRON	PR	Number=Sing|PronType=Rel	1	nmod	_	_
+5	sei	sei	NUM	N	NumType=Card	4	nummod	_	_
+6	e	e	CCONJ	CC	_	8	cc	_	_
+7	chi	chi	PRON	PR	PronType=Rel	8	nsubj	_	_
+8	paga	pagare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+9	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	11	det:predet	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	spese	spesa	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = SORETAAAAAA?
+1	SORETAAAAAA	SORETAAAAAA	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

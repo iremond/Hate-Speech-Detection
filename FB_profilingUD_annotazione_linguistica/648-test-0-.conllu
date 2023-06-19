@@ -1,0 +1,77 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Come il diritto di espressione, la satira non deve avere limiti di sorta perché domani chi sceglierà dove e su cosa mettere un paletto?
+1	Come	come	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	diritto	diritto	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+4	di	di	ADP	E	_	5	case	_	_
+5	espressione	espressione	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	3	punct	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	satira	satira	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+10	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	avere	avere	VERB	V	VerbForm=Inf	0	root	_	_
+12	limiti	limite	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	_
+13	di	di	ADP	E	_	14	case	_	_
+14	sorta	sorgere	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
+15	perché	perché	SCONJ	CS	_	16	mark	_	_
+16	domani	domani	ADV	B	_	11	advmod	_	_
+17	chi	chi	PRON	PR	Number=Sing|PronType=Rel	16	nsubj	_	_
+18	sceglierà	scegliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	acl:relcl	_	_
+19	dove	dove	ADV	B	_	23	advmod	_	_
+20	e	e	CCONJ	CC	_	23	cc	_	_
+21	su	su	ADP	E	_	22	case	_	_
+22	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	23	obl	_	_
+23	mettere	mettere	VERB	V	VerbForm=Inf	18	ccomp	_	_
+24	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	paletto	paletto	NOUN	S	Gender=Masc|Number=Sing	23	obj	_	SpaceAfter=No
+26	?	?	PUNCT	FS	_	11	punct	_	_
+
+# sent_id = 2
+# text = La libertà di espressione e la satira, la quale è un corollario della prima, funzionano solo se non ci sono limiti se no siamo in balia di vincoli arbitrari:
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	libertà	libertà	NOUN	S	Gender=Fem	18	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	espressione	espressione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	e	e	CCONJ	CC	_	7	cc	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	satira	satira	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	2	punct	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	quale	quale	PRON	PR	Number=Sing|PronType=Rel	13	nsubj	_	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	corollario	corollario	NOUN	S	Gender=Masc|Number=Sing	2	acl:relcl	_	_
+14-15	della	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	13	punct	_	_
+18	funzionano	funzionare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	solo	solo	ADV	B	_	23	advmod	_	_
+20	se	se	SCONJ	CS	_	23	mark	_	_
+21	non	non	ADV	BN	PronType=Neg	23	advmod	_	_
+22	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	23	expl	_	_
+23	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
+24	limiti	limite	NOUN	S	Gender=Masc|Number=Plur	23	nsubj	_	_
+25	se	se	SCONJ	CS	_	27	mark	_	_
+26	no	no	ADV	BN	PronType=Neg	27	advmod	_	_
+27	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+28	in	in	ADP	E	_	29	case	_	_
+29	balia	balia	NOUN	S	Gender=Fem|Number=Sing	27	obl	_	_
+30	di	di	ADP	E	_	31	case	_	_
+31	vincoli	vincolo	NOUN	S	Gender=Masc|Number=Plur	29	nmod	_	_
+32	arbitrari	arbitraro	ADJ	A	Gender=Masc|Number=Plur	31	amod	_	SpaceAfter=No
+33	:	:	PUNCT	FC	_	18	punct	_	_
+
+# sent_id = 3
+# text = le dittature nascono da questo.
+1	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	dittature	dittature	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	nascono	nascere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	da	da	ADP	E	_	5	case	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

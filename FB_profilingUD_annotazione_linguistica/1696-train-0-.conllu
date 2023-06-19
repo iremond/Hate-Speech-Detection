@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Mica tanto.....
+1	Mica	mica	ADV	BN	PronType=Neg	0	root	_	_
+2	tanto.....	tanto...	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

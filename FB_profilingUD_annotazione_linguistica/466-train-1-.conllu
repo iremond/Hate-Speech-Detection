@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io già ci sono movirindiii sgagaga saluti da Carbonia .....Capitano ruspa tutto
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	già	già	ADV	B	_	4	advmod	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+4	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	SpacesAfter=\s\s
+5	movirindiii	movirindterzo	ADJ	NO	Number=Sing|NumType=Ord	6	amod	_	_
+6	sgagaga	sgagaga	NOUN	S	Gender=Masc	4	nsubj	_	_
+7	saluti	salutare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+8	da	da	ADP	E	_	9	case	_	_
+9	Carbonia	Carbonia	PROPN	SP	_	7	obl:agent	_	_
+10	.....Capitano	.....Capitano	PROPN	SP	_	9	flat:name	_	_
+11	ruspa	ruspare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	11	obj	_	SpacesAfter=\n\n
+

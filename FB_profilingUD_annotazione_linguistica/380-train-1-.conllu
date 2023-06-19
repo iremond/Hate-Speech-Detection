@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dobbiamo liberarci di.
+1	Dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2-3	liberarci	_	_	_	_	_	_	_	_
+2	liberar	liberare	VERB	V	VerbForm=Inf	0	root	_	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	2	expl	_	_
+4	di	di	ADP	E	_	5	case	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = Questa gentaglia e di questi politici
+1	Questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	gentaglia	gentaglia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	e	e	CCONJ	CC	_	6	cc	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
+6	politici	politico	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	SpacesAfter=\n\n
+

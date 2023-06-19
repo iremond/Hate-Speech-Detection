@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ci vuole molta citrosodina !!!!!!
+1	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	molta	molto	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
+4	citrosodina	citrosodina	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+5	!!!	!!!	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+6	!!!	!!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n\n
+

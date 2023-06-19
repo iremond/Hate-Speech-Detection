@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = QUA CI FREGANO LA CASA E NOI A PERDETE TEMPO A PARLARE DI DIRITTI CIVILI http://www.ilgiornale.it/news/cronache/chiama-due-imbianchini-immigrati-picchiano-e-occupano-casa-1259343.html
+1	QUA	qua	PROPN	SP	_	0	root	_	_
+2	CI	ci	PROPN	SP	_	1	flat:name	_	_
+3	FREGANO	FREGANO	PROPN	SP	_	1	flat:name	_	_
+4	LA	La	PROPN	SP	_	1	nmod	_	_
+5	CASA	Casa	PROPN	SP	_	4	flat:name	_	_
+6	E	e	CCONJ	CC	_	7	cc	_	_
+7	NOI	No	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	conj	_	_
+8	A	A	ADP	E	_	9	case	_	_
+9	PERDETE	PERDETE	PROPN	SP	_	10	nmod	_	_
+10	TEMPO	tempo	PROPN	SP	_	14	obl	_	_
+11	A	A	ADP	E	_	12	case	_	_
+12	PARLARE	parlare	PROPN	SP	_	14	nmod	_	_
+13	DI	di	ADP	E	_	14	case	_	_
+14	DIRITTI	diritto	PROPN	SP	_	7	flat:name	_	_
+15	CIVILI	civile	PROPN	SP	_	14	flat:name	_	_
+16	http://www.ilgiornale.it/news/cronache/chiama-due-imbianchini-immigrati-picchiano-e-occupano-casa-1259343.html	http://www.ilgiornale.it/news/cronache/chiama-due-imbianchini-immigrati-picchiano-e-occupano-casa-1259343.html	ADJ	A	Number=Sing	7	amod	_	SpacesAfter=\n\n
+

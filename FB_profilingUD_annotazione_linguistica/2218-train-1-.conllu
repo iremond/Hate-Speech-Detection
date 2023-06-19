@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = È comunque più facile che digerire te.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	comunque	comunque	ADV	B	_	4	advmod	_	_
+3	più	più	ADV	B	_	4	advmod	_	_
+4	facile	facile	ADJ	A	Number=Sing	0	root	_	_
+5	che	che	SCONJ	CS	_	6	mark	_	_
+6	digerire	digerire	VERB	V	VerbForm=Inf	4	csubj	_	_
+7	te.	te.	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ..ai miei tempi si che si faceva politica!
+1	..ai	..are	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
+5	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	_
+7	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
+8	politica	politica	ADJ	A	Gender=Fem|Number=Sing	7	xcomp	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

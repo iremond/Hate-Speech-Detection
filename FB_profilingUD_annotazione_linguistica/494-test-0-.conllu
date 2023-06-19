@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = quanto ci sono queste due cambio canale perchè sono arroganti e non fanno parlare nessuno e questo da fastidio.pertanto non vedo quinta colonna.ok
+1	quanto	quanto	ADV	B	_	3	advmod	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+3	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+5	due	due	NUM	N	NumType=Card	6	nummod	_	_
+6	cambio	cambio	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+7	canale	canale	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+8	perchè	perché	SCONJ	CS	_	10	mark	_	_
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	arroganti	arrogare	ADJ	A	Gender=Masc|Number=Plur	3	advcl	_	_
+11	e	e	CCONJ	CC	_	13	cc	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+14	parlare	parlare	VERB	V	VerbForm=Inf	22	xcomp	_	_
+15	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	21	obj	_	_
+16	e	e	CCONJ	CC	_	21	cc	_	_
+17	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	21	nsubj	_	_
+18	da	da	ADP	E	_	19	case	_	_
+19	fastidio.pertanto	fastidio.pertanto	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	SpacesAfter=\s\s
+20	non	non	ADV	BN	PronType=Neg	21	advmod	_	_
+21	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	conj	_	_
+22	quinta	quinto	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	13	obj	_	_
+23	colonna.ok	colonna.ok	NOUN	S	_	3	nsubj	_	SpacesAfter=\n\n
+

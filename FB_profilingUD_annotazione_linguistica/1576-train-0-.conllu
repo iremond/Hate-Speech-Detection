@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Scallarasa bointi
+1	Scallarasa	Scallarasa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	bointi	bointo	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	SpacesAfter=\n\n
+

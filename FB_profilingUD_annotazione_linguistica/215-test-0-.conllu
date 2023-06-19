@@ -1,0 +1,27 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E adesso cosa gli danno?
+1	E	e	CCONJ	CC	_	5	cc	_	_
+2	adesso	adesso	ADV	B	_	5	advmod	_	_
+3	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	5	nsubj	_	_
+4	gli	il	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+5	danno	danno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Una settimana in albergo 5 stelle al Lago di Garda?
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	4	case	_	_
+4	albergo	albergo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	5	5	NUM	N	NumType=Card	6	nummod	_	_
+6	stelle	stella	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Lago	lago	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+10	di	di	ADP	E	_	11	case	_	_
+11	Garda	Garda	PROPN	SP	_	9	nmod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alcune cose no.
+1	Alcune	alcuno	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
+2	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

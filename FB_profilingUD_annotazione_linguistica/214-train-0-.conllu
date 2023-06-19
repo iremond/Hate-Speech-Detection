@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Altro che.
+1	Altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+2	che	che	PRON	PQ	PronType=Int	1	nsubj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 2
+# text = È Parenzo che spesso vive nel suo mondo perbenino.
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	Parenzo	Parenzo	PROPN	SP	_	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	5	nsubj	_	_
+4	spesso	spesso	ADV	B	_	5	advmod	_	_
+5	vive	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6-7	nel	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+10	perbenino	perbenino	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 3
+# text = Beato lui.
+1	Beato	Beare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

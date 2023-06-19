@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nsomma...
+1	Nsomma...	Nsomma.	PUNCT	FS	_	0	root	_	_
+
+# sent_id = 2
+# text = ma c è Daniela
+1	ma	ma	CCONJ	CC	_	4	cc	_	_
+2	c	c	ADV	B	_	4	advmod	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4-5	Daniela	_	_	_	_	_	_	_	SpacesAfter=\n\n
+4	Danie	Danie	PROPN	SP	_	5	nsubj	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	0	root	_	_
+

@@ -1,0 +1,60 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = bersani sei patetico, reciti la commediola , anche male, poi alla fine ti riallinei . Guarda che va avanti così da anni e non ti crede più nessuno, almeno da quanto sento in giro mi risulta così, poi vedi tu se continuare o meno con questo squallido spettacolo.
+1	bersani	bersani	ADV	B	_	3	advmod	_	_
+2	sei	essere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	patetico	patetico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	reciti	recitare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	commediola	commediola	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	anche	anche	ADV	B	_	10	advmod	_	_
+10	male	male	ADV	B	_	3	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	3	punct	_	_
+12	poi	poi	ADV	B	_	15	advmod	_	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	fine	fine	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	_
+16	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	obj	_	_
+17	riallinei	riallineo	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+18	.	.	PUNCT	FS	_	17	punct	_	_
+19	Guarda	guarda	PROPN	SP	_	29	nsubj	_	_
+20	che	che	PRON	PR	PronType=Rel	21	nsubj	_	_
+21	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+22	avanti	avanti	ADV	B	_	21	advmod	_	_
+23	così	così	ADV	B	_	21	advmod	_	_
+24	da	da	ADP	E	_	25	case	_	_
+25	anni	anno	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	_
+26	e	e	CCONJ	CC	_	29	cc	_	_
+27	non	non	ADV	BN	PronType=Neg	29	advmod	_	_
+28	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	29	iobj	_	_
+29	crede	credere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+30	più	più	ADV	B	_	29	advmod	_	_
+31	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	29	obl	_	SpaceAfter=No
+32	,	,	PUNCT	FF	_	31	punct	_	_
+33	almeno	almeno	ADV	B	_	35	advmod	_	_
+34	da	da	ADP	E	_	35	case	_	_
+35	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	40	obl	_	_
+36	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	35	acl:relcl	_	_
+37	in	in	ADP	E	_	38	case	_	_
+38	giro	giro	NOUN	S	Gender=Masc|Number=Sing	36	obl	_	_
+39	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	40	iobj	_	_
+40	risulta	risultare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	acl:relcl	_	_
+41	così	così	ADV	B	_	40	advmod	_	SpaceAfter=No
+42	,	,	PUNCT	FF	_	44	punct	_	_
+43	poi	poi	ADV	B	_	44	advmod	_	_
+44	vedi	vedere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	31	conj	_	_
+45	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	44	obj	_	_
+46	se	se	SCONJ	CS	_	47	mark	_	_
+47	continuare	continuare	VERB	V	VerbForm=Inf	44	advcl	_	_
+48	o	o	CCONJ	CC	_	49	cc	_	_
+49	meno	meno	ADV	B	_	47	conj	_	_
+50	con	con	ADP	E	_	53	case	_	_
+51	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	53	det	_	_
+52	squallido	squallido	ADJ	A	Gender=Masc|Number=Sing	53	amod	_	_
+53	spettacolo	spettacolo	NOUN	S	Gender=Masc|Number=Sing	47	obl	_	SpaceAfter=No
+54	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

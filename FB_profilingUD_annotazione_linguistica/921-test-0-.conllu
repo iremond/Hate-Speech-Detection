@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = andiamoci cauti il premier è in grado ci vuole tempo
+1-2	andiamoci	_	_	_	_	_	_	_	_
+1	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	1	expl	_	_
+3	cauti	caere	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	premier	premier	NOUN	S	_	3	nsubj	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	grado	grado	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+9	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+10	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+11	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpacesAfter=\n\n
+

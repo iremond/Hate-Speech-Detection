@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dobbiamo cacciarlo.PUNTO
+1	Dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	cacciarlo.PUNTO	cacciarlo.PUNTO	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

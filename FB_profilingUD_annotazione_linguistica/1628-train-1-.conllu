@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Purtroppo sì e permette agli incazzati e ai disturbati di dare fiato alle loro "trombe" integre o rotte
+1	Purtroppo	purtroppo	ADV	B	_	2	advmod	_	_
+2	sì	sì	ADV	B	_	0	root	_	_
+3	e	e	CCONJ	CC	_	4	cc	_	_
+4	permette	permettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5-6	agli	_	_	_	_	_	_	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	incazzati	incazzato	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
+8	e	e	CCONJ	CC	_	11	cc	_	_
+9-10	ai	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	disturbati	disturbata	NOUN	S	Gender=Masc|Number=Plur	7	conj	_	_
+12	di	di	ADP	E	_	13	mark	_	_
+13	dare	dare	VERB	V	VerbForm=Inf	11	acl	_	_
+14	fiato	fiato	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+15-16	alle	_	_	_	_	_	_	_	_
+15	a	a	ADP	E	_	21	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+17	loro	loro	DET	AP	Poss=Yes|PronType=Prs	21	det:poss	_	_
+18	"	"	PUNCT	FB	_	21	punct	_	SpaceAfter=No
+19	trombe	tromba	DET	T	Gender=Fem|Number=Plur|PronType=Tot	21	det	_	SpaceAfter=No
+20	"	"	PUNCT	FB	_	21	punct	_	_
+21	integre	integre	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	_
+22	o	o	CCONJ	CC	_	23	cc	_	_
+23	rotte	rurre	NOUN	S	Gender=Fem|Number=Plur	21	conj	_	SpacesAfter=\n\n
+

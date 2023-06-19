@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sto già guardando.
+1	Sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	già	già	ADV	B	_	3	advmod	_	SpacesAfter=\s\s
+3	guardando	guardare	VERB	V	VerbForm=Ger	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

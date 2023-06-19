@@ -1,0 +1,44 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Salvini, io ti appoggio, ma sui tuoi post non pubblichi altro che istigazioni e provocazioni.
+1	Salvini	Salvini	PROPN	SP	_	5	obl	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+5	appoggio	appoggiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	13	punct	_	_
+7	ma	ma	CCONJ	CC	_	13	cc	_	_
+8-9	sui	_	_	_	_	_	_	_	_
+8	su	su	ADP	E	_	11	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	post	post	NOUN	S	_	13	obl	_	_
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	_
+13	pubblichi	pubblico	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	_
+14	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	16	nmod	_	_
+15	che	che	SCONJ	CS	_	16	mark	_	_
+16	istigazioni	istigazioni	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	_
+17	e	e	CCONJ	CC	_	18	cc	_	_
+18	provocazioni	provocazione	NOUN	S	Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Dici che dobbiamo fare?!?!?
+1	Dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	4	mark	_	_
+3	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	fare	fare	VERB	V	VerbForm=Inf	1	ccomp	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+6	!?	!?	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	5	punct	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Cosa proponi di concreto?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	2	obj	_	_
+2	proponi	proponi	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	concreto	concreto	ADJ	A	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

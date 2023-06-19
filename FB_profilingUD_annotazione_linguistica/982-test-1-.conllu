@@ -1,0 +1,39 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I truffatori del PD hanno governato talmente male che oggi ci troviamo il mantenuto nullafacente padano a spadroneggiare.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	truffatori	truffatore	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	PD	pd	PROPN	SP	_	2	nmod	_	_
+6	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	governato	governare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	talmente	talmente	ADV	B	_	9	advmod	_	_
+9	male	male	ADV	B	_	7	obj	_	_
+10	che	che	SCONJ	CS	_	13	mark	_	_
+11	oggi	oggi	ADV	B	_	13	advmod	_	_
+12	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	13	expl	_	_
+13	troviamo	trovare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	mantenuto	mantenuto	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+16	nullafacente	nullafacente	ADJ	A	Number=Sing	15	amod	_	_
+17	padano	padare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+18	a	a	ADP	E	_	19	mark	_	_
+19	spadroneggiare	spadroneggiare	VERB	V	VerbForm=Inf	17	xcomp	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Anche di questo dobbiamo ringraziare Renzusconi e compagnia brutta.
+1	Anche	anche	ADV	B	_	3	advmod	_	_
+2	di	di	ADP	E	_	3	case	_	_
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	_
+4	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	ringraziare	ringraziare	VERB	V	VerbForm=Inf	0	root	_	_
+6	Renzusconi	Renzusconi	PROPN	SP	_	5	obj	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	compagnia	compagnia	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+9	brutta	brutto	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n\n
+

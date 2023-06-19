@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No sono insopportabili dicono solo stronzate.
+1	No	no	INTJ	I	Polarity=Neg	3	nsubj	_	_
+2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	insopportabili	insopportabile	ADJ	A	Number=Plur	0	root	_	_
+4	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+5	solo	solo	ADV	B	_	6	advmod	_	_
+6	stronzate	stronzate	ADJ	A	Gender=Fem|Number=Plur	4	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

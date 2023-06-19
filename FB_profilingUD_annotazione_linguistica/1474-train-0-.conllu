@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Bel programma peccato che I consigli e I problemi delle persone sono al vento.
+1	Bel	bello	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+2	programma	programma	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+3	peccato	peccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpacesAfter=\s\s
+4	che	che	SCONJ	CS	_	16	mark	_	SpacesAfter=\s\s
+5	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	SpacesAfter=\s\s
+6	consigli	consiglio	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	SpacesAfter=\s\s
+7	e	e	CCONJ	CC	_	9	cc	_	SpacesAfter=\s\s
+8	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	SpacesAfter=\s\s
+9	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	SpacesAfter=\s\s
+10-11	delle	_	_	_	_	_	_	_	SpacesAfter=\s\s
+10	di	di	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	persone	persona	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	SpacesAfter=\s\s
+13	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	SpacesAfter=\s\s
+14-15	al	_	_	_	_	_	_	_	SpacesAfter=\s\s
+14	a	a	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	vento.	vento.	NOUN	S	Gender=Masc|Number=Sing	3	ccomp	_	SpaceAfter=No
+
+# sent_id = 2
+# text = .....
+1	....	....	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

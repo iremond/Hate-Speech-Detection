@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Avete dimenticato massoneria, terrorismo, rettiliani, NWO ecc...
+1	Avete	avere	AUX	VM	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	dimenticato	dimenticare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	massoneria	massoneria	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	5	punct	_	_
+5	terrorismo	terrorismo	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	rettiliani	rettiliano	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	NWO	NWO	PROPN	SP	_	3	conj	_	_
+10	ecc...	ecc.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

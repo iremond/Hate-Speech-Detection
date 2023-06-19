@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dio salvi i topi se vengono azzannate dalla malpezzi o dalla castaldini,
+1	Dio	Dio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+2	salvi	salvo	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	topi	topo	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	se	se	SCONJ	CS	_	7	mark	_	_
+6	vengono	venire	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
+7	azzannate	azzannare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
+8-9	dalla	_	_	_	_	_	_	_	_
+8	da	da	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	7	obl:agent	_	SpacesAfter=\s\s
+11	o	o	CCONJ	CC	_	14	cc	_	_
+12-13	dalla	_	_	_	_	_	_	_	_
+12	da	da	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	castaldini	castaldine	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

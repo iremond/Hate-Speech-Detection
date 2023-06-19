@@ -1,0 +1,29 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Quando nn hanno ragione e nn sanno cosa dire ,le creature stolte ridono o sorridono falso.Fanno talmente sch....che nn si possono sentire,ne guardare.
+1	Quando	quando	SCONJ	CS	_	3	advmod	_	_
+2	nn	nn	NUM	N	NumType=Card	3	nsubj	_	_
+3	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+4	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	nn	nn	NOUN	S	Gender=Fem	4	conj	_	_
+7	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	9	obj	_	_
+9	dire	dire	VERB	V	VerbForm=Inf	13	advcl	_	_
+10	,le	,le	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+11	creature	creatura	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	_
+12	stolte	stolto	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	_
+13	ridono	ridere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+14	o	o	CCONJ	CC	_	15	cc	_	_
+15	sorridono	sorridere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	_
+16	falso.Fanno	falso.Fanno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	22	advcl	_	_
+17	talmente	talmente	ADV	B	_	16	advmod	_	_
+18	sch....che	sch....co	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	19	det	_	_
+19	nn	nn	NOUN	S	Gender=Fem	22	nsubj:pass	_	_
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	22	expl:pass	_	_
+21	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+22	sentire,ne	sentire,no	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+23	guardare	guardare	VERB	V	VerbForm=Inf	22	xcomp	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	22	punct	_	SpacesAfter=\n\n
+

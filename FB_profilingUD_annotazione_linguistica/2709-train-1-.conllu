@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = renzi faccia da sbirulino sei un falso pagliaccio
+1	renzi	renzi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	csubj	_	_
+2	faccia	fare	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	sbirulino	sbirulino	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	sei	sei	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	falso	falso	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	_
+8	pagliaccio	pagliaccio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

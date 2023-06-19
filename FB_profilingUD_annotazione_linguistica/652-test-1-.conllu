@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Anche il coraggio di andare in tv chissà come ci prendono per il culo fuori dal Italia
+1	Anche	anche	ADV	B	_	3	advmod	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
+4	di	di	ADP	E	_	5	mark	_	_
+5	andare	andare	VERB	V	VerbForm=Inf	3	acl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	tv	tv	NOUN	S	Gender=Fem	5	obl	_	_
+8	chissà	chissà	ADV	B	_	5	advmod	_	_
+9	come	come	ADP	E	_	10	case	_	_
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	_
+11	prendono	prendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	per	per	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	culo	culo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+15	fuori	fuori	ADV	B	_	18	case	_	_
+16-17	dal	_	_	_	_	_	_	_	_
+16	da	da	ADP	E	_	15	fixed	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Italia	Italia	PROPN	SP	_	14	nmod	_	SpacesAfter=\n\n
+

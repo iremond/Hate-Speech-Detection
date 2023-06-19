@@ -1,0 +1,63 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = "Si può mettere dentro una cariola " Cosa è reale?
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl:impers	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	mettere	mettere	VERB	V	VerbForm=Inf	0	root	_	_
+5	dentro	dentro	ADV	B	_	4	advmod	_	_
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	cariola	cariola	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
+8	"	"	PUNCT	FB	_	7	punct	_	_
+9	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	ccomp	_	_
+10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+11	reale	reale	ADJ	A	Number=Sing	9	amod	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = Cosa è la verità?
+1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	0	root	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	verità	verità	NOUN	S	Gender=Fem	1	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\s
+
+# sent_id = 3
+# text = Sono definizioni e come tali non esistono.
+1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	definizioni	definizione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+3	e	e	CCONJ	CC	_	7	cc	_	_
+4	come	come	SCONJ	CS	_	7	mark	_	_
+5	tali	tale	PRON	PD	Number=Plur|PronType=Dem	7	nsubj	_	_
+6	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+7	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 4
+# text = Non esiste la realtà o la verità .
+1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
+2	esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	realtà	realtà	NOUN	S	Gender=Fem	2	nsubj	_	_
+5	o	o	CCONJ	CC	_	7	cc	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	verità	verità	NOUN	S	Gender=Fem	4	conj	_	_
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = 5
+# text = Esiste la percezione dei fatti e di conseguenza la definizione .
+1	Esiste	esistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	percezione	percezione	NOUN	S	Gender=Fem|Number=Sing	1	nsubj	_	_
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	_
+7	e	e	CCONJ	CC	_	9	cc	_	_
+8	di	di	ADP	E	_	9	case	_	_
+9	conseguenza	conseguenza	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	definizione	definizione	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = digerirle?
+1-2	digerirle	_	_	_	_	_	_	_	SpaceAfter=No
+1	digerir	digerire	ADP	E	_	0	root	_	_
+2	le	lo	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	?	?	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = certo che un dopo cena così non si augura a nessuno perchè fa venire il volta stomaco!
+1	certo	certo	ADV	B	_	0	root	_	_
+2	che	che	SCONJ	CS	_	9	mark	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+4	dopo	dopo	ADP	E	_	5	case	_	_
+5	cena	cena	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
+6	così	così	ADV	B	_	9	advmod	_	_
+7	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	9	expl	_	_
+9	augura	augurare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+10	a	a	ADP	E	_	11	case	_	_
+11	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	obl	_	_
+12	perchè	perché	SCONJ	CS	_	13	mark	_	_
+13	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+14	venire	venire	VERB	V	VerbForm=Inf	13	ccomp	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	volta	volta	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	_
+17	stomaco	stomaco	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+18	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !!!!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpaceAfter=No
+2	!!	!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
+

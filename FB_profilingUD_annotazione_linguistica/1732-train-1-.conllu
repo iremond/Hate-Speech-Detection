@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pessime entrambe . Stop
+1	Pessime	pessime	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+2	entrambe	entrambi	DET	T	Gender=Fem|Number=Plur|PronType=Tot	4	det	_	_
+3	.	.	PUNCT	FS	_	2	punct	_	_
+4	Stop	stop	PROPN	SP	_	1	nmod	_	SpacesAfter=\n\n
+

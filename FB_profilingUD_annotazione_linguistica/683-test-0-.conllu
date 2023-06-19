@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Speriamo che crolli
+1	Speriamo	sperare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	che	che	SCONJ	CS	_	3	mark	_	_
+3	crolli	crollo	NOUN	S	Gender=Masc|Number=Plur	1	ccomp	_	SpacesAfter=\n\n
+

@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Madonna quanto le odio....raus
+1	Madonna	Madonna	PROPN	SP	_	0	root	_	_
+2	quanto	quanto	ADV	B	_	1	fixed	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	odio....raus	odio....raus	NOUN	S	Gender=Fem	1	nmod	_	SpacesAfter=\n\n
+

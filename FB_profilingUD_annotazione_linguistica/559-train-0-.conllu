@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Niente interesante, forse se paga la TRF...
+1	Niente	niente	DET	DI	Number=Sing|PronType=Ind	2	det	_	_
+2	interesante	interesante	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	SpacesAfter=\s\s
+4	forse	forse	ADV	B	_	6	advmod	_	_
+5	se	se	SCONJ	CS	_	6	mark	_	_
+6	paga	paere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	TRF...	TRF...	PROPN	SP	_	6	obj	_	_
+
+# sent_id = 2
+# text = Cosa duci?
+1	Cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	duci	duce	ADJ	A	Number=Plur	1	amod	_	SpaceAfter=No
+3	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

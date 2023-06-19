@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Pasquale Di Napoli
+1	Pasquale	Pasquale	PROPN	SP	_	0	root	_	_
+2	Di	di	PROPN	SP	_	1	flat:name	_	_
+3	Napoli	Napoli	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

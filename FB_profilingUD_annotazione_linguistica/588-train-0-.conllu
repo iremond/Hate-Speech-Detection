@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = io voto no, senza sapere bene cosa propongono di cambiare, per il semplice fatto che la proposta viene fatta da un governo imposto e non eletto dal popolo e un presidente del consiglio non avendo neanche un voto di deputato o senatore
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	senza	senza	ADP	E	_	6	mark	_	_
+6	sapere	sapere	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	bene	bene	ADV	B	_	6	advmod	_	_
+8	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	9	nsubj	_	_
+9	propongono	proporre	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+10	di	di	ADP	E	_	11	mark	_	_
+11	cambiare	cambiare	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	per	per	ADP	E	_	16	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	semplice	semplice	ADJ	A	Number=Sing	16	amod	_	_
+16	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+17	che	che	SCONJ	CS	_	21	mark	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	proposta	proposta	NOUN	S	Gender=Fem|Number=Sing	21	nsubj:pass	_	_
+20	viene	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux:pass	_	_
+21	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
+22	da	da	ADP	E	_	24	case	_	_
+23	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	governo	governo	NOUN	S	Gender=Masc|Number=Sing	21	obl:agent	_	_
+25	imposto	imposto	ADJ	A	Gender=Masc|Number=Sing	24	amod	_	_
+26	e	e	CCONJ	CC	_	28	cc	_	_
+27	non	non	ADV	BN	PronType=Neg	28	advmod	_	_
+28	eletto	eleggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	conj	_	_
+29-30	dal	_	_	_	_	_	_	_	_
+29	da	da	ADP	E	_	31	case	_	_
+30	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	28	obl:agent	_	_
+32	e	e	CCONJ	CC	_	34	cc	_	_
+33	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	presidente	presidente	NOUN	S	Gender=Masc|Number=Sing	31	conj	_	_
+35-36	del	_	_	_	_	_	_	_	_
+35	di	di	ADP	E	_	37	case	_	_
+36	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
+37	consiglio	consiglio	NOUN	S	Gender=Masc|Number=Sing	34	nmod	_	_
+38	non	non	ADV	BN	PronType=Neg	39	advmod	_	_
+39	avendo	avere	VERB	V	VerbForm=Ger	28	advcl	_	_
+40	neanche	neanche	ADV	BN	PronType=Neg	39	advmod	_	_
+41	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
+42	voto	voto	NOUN	S	Gender=Masc|Number=Sing	39	obj	_	_
+43	di	di	ADP	E	_	44	case	_	_
+44	deputato	deputato	NOUN	S	Gender=Masc|Number=Sing	42	nmod	_	_
+45	o	o	CCONJ	CC	_	46	cc	_	_
+46	senatore	senatore	NOUN	S	Gender=Masc|Number=Sing	44	conj	_	SpacesAfter=\n\n
+

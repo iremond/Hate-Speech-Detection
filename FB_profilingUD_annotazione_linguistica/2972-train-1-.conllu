@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Malpezzi e se.
+1	Malpezzi	Malpezzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	se	se	SCONJ	CS	_	1	conj	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Stasera quando torni a casa violentassero te
+1	Stasera	stasera	ADV	B	_	6	advmod	_	_
+2	quando	quando	SCONJ	CS	_	3	mark	_	_
+3	torni	tornare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	casa	casa	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+6	violentassero	violentare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	obj	_	SpacesAfter=\n\n
+

@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Io voto NO... Salvini Premier subito!!!
+1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	NO...	NO...	PROPN	SP	_	2	obj	_	_
+4	Salvini	Salvini	PROPN	SP	_	3	flat:name	_	_
+5	Premier	premier	PROPN	SP	_	3	flat:name	_	_
+6	subito	subito	ADV	B	_	2	advmod	_	SpaceAfter=No
+7	!	!	PUNCT	FS	_	6	punct	_	SpaceAfter=No
+8	!!	!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
+

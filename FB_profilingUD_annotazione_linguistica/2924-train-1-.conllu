@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Castrazione e ruspa questo ci vuole
+1	Castrazione	Castrazione	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	ruspa	ruspa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+4	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	6	expl	_	_
+6	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

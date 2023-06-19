@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Popolo italiano invece di fare commenti andiamo a distruggere il governo.
+1	Popolo	popolo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	italiano	italiano	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	_
+3	invece	invece	ADV	B	_	5	mark	_	_
+4	di	di	ADP	E	_	3	fixed	_	_
+5	fare	fare	VERB	V	VerbForm=Inf	7	advcl	_	_
+6	commenti	commento	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+7	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	distruggere	distruggere	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	governo	governo	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = ....ci hanno distrutto Italia
+1	....ci	....co	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+2	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	distrutto	distruggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	Italia	Italia	PROPN	SP	_	3	obj	_	SpacesAfter=\n\n
+

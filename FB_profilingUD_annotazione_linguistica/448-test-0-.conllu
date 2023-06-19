@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buona sera
+1	Buona	buono	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	2	amod	_	_
+2	sera	sera	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+

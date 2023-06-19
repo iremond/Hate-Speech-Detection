@@ -1,0 +1,13 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = altro che maloos sbadilate ma quante CAZZATE DICONO
+1	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	obl	_	_
+2	che	che	ADP	E	_	3	case	_	_
+3	maloos	maloos	NOUN	S	Gender=Fem|Number=Plur	1	nmod	_	_
+4	sbadilate	sbadilato	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
+5	ma	ma	CCONJ	CC	_	7	cc	_	_
+6	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	7	det	_	_
+7	CAZZATE	CAZZATE	PROPN	SP	_	3	conj	_	_
+8	DICONO	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
+

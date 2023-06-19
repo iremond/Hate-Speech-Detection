@@ -1,0 +1,52 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ci sarà stasera la diretta da Caserta?
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
+2	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	stasera	stasera	ADV	B	_	2	advmod	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	diretta	diretta	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	_
+6	da	da	ADP	E	_	7	case	_	_
+7	Caserta	Caserta	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+8	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = Aspetti un anno per sapere che Salvini sarà a Caserta e poi invece resti senza auto per poterci andare,sfiga!
+1	Aspetti	aspettare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	anno	anno	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5	sapere	sapere	VERB	V	VerbForm=Inf	1	advcl	_	_
+6	che	che	SCONJ	CS	_	8	mark	_	SpacesAfter=\s\s
+7	Salvini	Salvini	PROPN	SP	_	8	nsubj	_	_
+8	sarà	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	ccomp	_	_
+9	a	a	ADP	E	_	10	case	_	_
+10	Caserta	Caserta	PROPN	SP	_	8	obl	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	poi	poi	ADV	B	_	14	advmod	_	_
+13	invece	invece	ADV	B	_	14	advmod	_	_
+14	resti	re	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	conj	_	_
+15	senza	senza	ADP	E	_	16	case	_	_
+16	auto	auto	NOUN	S	Gender=Fem	14	obl	_	_
+17	per	per	ADP	E	_	20	mark	_	_
+18-19	poterci	_	_	_	_	_	_	_	_
+18	poter	potere	AUX	VM	VerbForm=Inf	20	aux	_	_
+19	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	20	expl	_	_
+20	andare,sfiga	andare,sfigere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	SpaceAfter=No
+21	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 3
+# text = !😔 In bocca al lupo per stasera!!
+1	!😔	!😔	PROPN	SP	_	3	nsubj	_	_
+2	In	in	PROPN	SP	_	1	flat:name	_	_
+3	bocca	bocca	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	lupo	lupo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+7	per	per	ADP	E	_	8	case	_	_
+8	stasera	stasera	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	!	!	PUNCT	FS	_	3	punct	_	SpaceAfter=No
+10	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

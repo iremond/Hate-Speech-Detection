@@ -1,0 +1,19 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Vai Salvini un terrone di Nardò Lecce sta con te e non solo io
+1	Vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	SpacesAfter=\s\s\s
+2	Salvini	Salvini	PROPN	SP	_	1	obj	_	_
+3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	SpacesAfter=\s\s
+4	terrone	terrone	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	SpacesAfter=\s\s\s
+5	di	di	ADP	E	_	6	case	_	SpacesAfter=\s\s
+6	Nardò	Nardò	PROPN	SP	_	4	nmod	_	SpacesAfter=\s\s\s
+7	Lecce	Lecce	PROPN	SP	_	6	flat:name	_	SpacesAfter=\s\s\s
+8	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+9	con	con	ADP	E	_	10	case	_	SpacesAfter=\s\s\s
+10	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	obl	_	SpacesAfter=\s\s
+11	e	e	CCONJ	CC	_	13	cc	_	SpacesAfter=\s\s
+12	non	non	ADV	BN	PronType=Neg	13	advmod	_	SpacesAfter=\s\s
+13	solo	solo	ADV	B	_	8	advmod	_	SpacesAfter=\s\s\s
+14	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	xcomp	_	SpacesAfter=\n\n
+

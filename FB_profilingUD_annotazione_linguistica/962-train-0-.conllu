@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = leva cla felpa...
+1	leva	levare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	cla	cla	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	_
+3	felpa...	felpa...	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

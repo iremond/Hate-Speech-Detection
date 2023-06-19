@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = L'invasore è casapound, da schiacciare nel letame.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	invasore	invasore	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	casapound	casapound	NOUN	S	Gender=Masc	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	da	da	ADP	E	_	7	mark	_	_
+7	schiacciare	schiacciare	VERB	V	VerbForm=Inf	4	acl	_	_
+8-9	nel	_	_	_	_	_	_	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	letame	letame	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

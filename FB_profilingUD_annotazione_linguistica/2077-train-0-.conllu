@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = COMBINI OK
+1	COMBINI	COMBINI	PROPN	SP	_	0	root	_	_
+2	OK	Ok	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

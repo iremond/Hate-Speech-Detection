@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = quando dobbiamo sopportare
+1	quando	quando	SCONJ	CS	_	3	mark	_	_
+2	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	sopportare	sopportare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n\n
+

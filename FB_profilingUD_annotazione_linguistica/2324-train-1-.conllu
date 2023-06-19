@@ -1,0 +1,80 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stanno sparando tante cazzate fanno finta di scannarsi ma sono tutti d accordo mi piacerebbe fare provare a questi " politici" cosa vuol dire nn avere lavoro e nn sapere come fare o meglio nn sapere mantenere la tua famiglia vedere se parlano ancora così.
+1	Stanno	stare	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	sparando	sparare	VERB	V	VerbForm=Ger	13	advcl	_	_
+3	tante	tanto	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
+4	cazzate	cazzata	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
+5	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	finta	finta	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	_
+7	di	di	ADP	E	_	8	mark	_	_
+8-9	scannarsi	_	_	_	_	_	_	_	_
+8	scannar	scannare	VERB	V	VerbForm=Inf	6	acl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+10	ma	ma	CCONJ	CC	_	13	cc	_	_
+11	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	13	nsubj	_	_
+13	d	d	X	X	_	0	root	_	_
+14	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	_
+15	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	iobj	_	_
+16	piacerebbe	piaceere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+17	fare	fare	VERB	V	VerbForm=Inf	16	xcomp	_	_
+18	provare	provare	VERB	V	VerbForm=Inf	17	ccomp	_	_
+19	a	a	ADP	E	_	20	case	_	_
+20	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	18	obl	_	_
+21	"	"	PUNCT	FB	_	22	punct	_	_
+22	politici	politico	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	SpaceAfter=No
+23	"	"	PUNCT	FB	_	22	punct	_	_
+24	cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	26	obj	_	_
+25	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	dire	dire	VERB	V	VerbForm=Inf	18	ccomp	_	_
+27	nn	nno	ADP	E	_	28	mark	_	_
+28	avere	avere	VERB	V	VerbForm=Inf	26	ccomp	_	_
+29	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	28	obj	_	_
+30	e	e	CCONJ	CC	_	32	cc	_	_
+31	nn	nn	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	32	det	_	_
+32	sapere	sapere	VERB	V	VerbForm=Inf	28	conj	_	_
+33	come	come	SCONJ	CS	_	34	mark	_	_
+34	fare	fare	VERB	V	VerbForm=Inf	32	ccomp	_	_
+35	o	o	CCONJ	CC	_	38	cc	_	_
+36	meglio	meglio	ADV	B	_	38	advmod	_	_
+37	nn	nn	ADP	E	_	38	mark	_	_
+38	sapere	sapere	VERB	V	VerbForm=Inf	34	conj	_	_
+39	mantenere	mantenere	VERB	V	VerbForm=Inf	38	ccomp	_	_
+40	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	_
+41	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	42	det:poss	_	_
+42	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	39	obj	_	_
+43	vedere	vedere	VERB	V	VerbForm=Inf	39	advcl	_	_
+44	se	se	SCONJ	CS	_	45	mark	_	_
+45	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	43	ccomp	_	_
+46	ancora	ancora	ADV	B	_	45	advmod	_	_
+47	così	così	ADV	B	_	45	advmod	_	SpaceAfter=No
+48	.	.	PUNCT	FS	_	13	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = ...togliere tutta la fufa che ci sta a Montecitorio e riaprire le case di tolleranza facciamo soldi tanto si inculano lun l altro
+1	...togliere	...togliere	VERB	V	VerbForm=Inf	0	root	_	_
+2	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	4	det:predet	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	fufa	fufa	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	7	nsubj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+7	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	Montecitorio	Montecitorio	PROPN	SP	_	7	obl	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11	riaprire	riaprire	VERB	V	VerbForm=Inf	1	conj	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	case	casa	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	tolleranza	tolleranza	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+16	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+17	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
+18	tanto	tanto	ADV	B	_	20	advmod	_	_
+19	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	20	expl:pass	_	_
+20	inculano	inculare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+21	lun	lun	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	l	l	NOUN	S	Gender=Masc	20	nsubj:pass	_	_
+23	altro	altro	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	SpacesAfter=\n\n
+

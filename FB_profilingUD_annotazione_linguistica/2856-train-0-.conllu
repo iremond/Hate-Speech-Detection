@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Primo dovere è curare gli italiani che gli pagano lo stipendio!
+1	Primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	2	amod	_	_
+2	dovere	dovere	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	curare	curare	VERB	V	VerbForm=Inf	0	root	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	italiani	italiano	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	_
+7	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+8	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+9	pagano	pagare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	stipendio	stipendio	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	!	!	PUNCT	FS	_	4	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = !!
+1	!!	!!	PUNCT	FF	_	0	root	_	SpacesAfter=\n\n
+

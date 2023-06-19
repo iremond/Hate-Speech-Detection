@@ -1,0 +1,16 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No😡 No 😡 No 😡 No 😡 No 😡 No 😡
+1	No😡	No😡	PROPN	SP	_	0	root	_	SpacesAfter=\s\s\s\s
+2	No	No	PROPN	SP	_	1	flat:name	_	_
+3	😡	😡	SYM	SYM	_	1	flat:name	_	SpacesAfter=\s\s\s\s\s\s
+4	No	No	PROPN	SP	_	1	nmod	_	_
+5	😡	😡	SYM	SYM	_	4	flat:name	_	SpacesAfter=\s\s\s\s\s
+6	No	No	PROPN	SP	_	4	flat:name	_	_
+7	😡	😡	SYM	SYM	_	4	flat:name	_	SpacesAfter=\s\s\s
+8	No	No	PROPN	SP	_	4	flat:name	_	_
+9	😡	😡	SYM	SYM	_	4	flat:name	_	SpacesAfter=\s\s
+10	No	No	PROPN	SP	_	4	flat:name	_	_
+11	😡	😡	SYM	SYM	_	1	flat:name	_	SpacesAfter=\n\n
+

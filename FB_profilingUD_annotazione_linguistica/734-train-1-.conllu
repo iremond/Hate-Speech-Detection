@@ -1,0 +1,63 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Siete dei Guitti, nel significato più antico, voi e i vostri ospiti.
+1	Siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2-3	dei	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	Guitti	Guitto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6-7	nel	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	significato	significato	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+9	più	più	ADV	B	_	10	advmod	_	_
+10	antico	antico	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	8	punct	_	_
+12	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	8	conj	_	_
+13	e	e	CCONJ	CC	_	16	cc	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	vostri	vostro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	ospiti	ospite	NOUN	S	Number=Plur	12	conj	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	4	punct	_	_
+
+# sent_id = 2
+# text = Recitate una parte, Cruciani il cattivo, Parenzo più o meno "buono e saggio", gli ospiti ormai noiosi nella loro guittaggine.
+1	Recitate	Recitare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	Cruciani	Cruciani	PROPN	SP	_	1	conj	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	cattivo	cattivo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	9	punct	_	_
+9	Parenzo	Parenzo	PROPN	SP	_	5	conj	_	_
+10	più	più	ADV	B	_	14	advmod	_	_
+11	o	o	CCONJ	CC	_	12	cc	_	_
+12	meno	meno	ADV	B	_	10	conj	_	_
+13	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+14	buono	buono	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	saggio	saggio	ADJ	A	Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
+17	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	1	punct	_	_
+19	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	ospiti	ospite	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	_
+21	ormai	ormai	ADV	B	_	22	advmod	_	_
+22	noiosi	noioso	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	_
+23-24	nella	_	_	_	_	_	_	_	_
+23	in	in	ADP	E	_	26	case	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+25	loro	loro	DET	AP	Poss=Yes|PronType=Prs	26	det:poss	_	_
+26	guittaggine	guittaggine	NOUN	S	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Dovete peggiorare o morirete.
+1	Dovete	dovere	AUX	VM	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	peggiorare	peggiorare	VERB	V	VerbForm=Inf	0	root	_	_
+3	o	o	CCONJ	CC	_	4	cc	_	_
+4	morirete	moriere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

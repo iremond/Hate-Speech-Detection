@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SCUSATE MA PROSPERI E BENZINA ??
+1	SCUSATE	scusare	PROPN	SP	_	0	root	_	_
+2	MA	Ma	PROPN	SP	_	1	flat:name	_	_
+3	PROSPERI	PROSPERI	PROPN	SP	_	1	flat:name	_	_
+4	E	e	CCONJ	CC	_	5	cc	_	_
+5	BENZINA	benzina	PROPN	SP	_	1	conj	_	_
+6	?	?	PUNCT	FS	_	1	punct	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

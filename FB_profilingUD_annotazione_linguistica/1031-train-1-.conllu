@@ -1,0 +1,32 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Due odiose la malpezzi una vipera mi fa solo schifo una volgare quella altra antipatica non capisce niente sono brave a rubare lo stipendio e basta vergognatevi
+1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
+2	odiose	odioso	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	vipera	vipera	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
+8	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+9	solo	solo	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+10	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	12	obj	_	_
+12	volgare	volgare	VERB	V	VerbForm=Inf	2	advcl	_	SpacesAfter=\s\s\s
+13	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	15	det	_	_
+14	altra	altro	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	_
+15	antipatica	antipatica	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	_
+16	non	non	ADV	BN	PronType=Neg	17	advmod	_	_
+17	capisce	capire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+18	niente	niente	PRON	PI	Number=Sing|PronType=Ind	20	nsubj	_	_
+19	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+20	brave	brave	ADJ	A	Gender=Fem|Number=Plur	17	ccomp	_	_
+21	a	a	ADP	E	_	22	mark	_	_
+22	rubare	rubare	VERB	V	VerbForm=Inf	20	advcl	_	_
+23	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	stipendio	stipendio	NOUN	S	Gender=Masc|Number=Sing	22	obj	_	_
+25	e	e	CCONJ	CC	_	26	cc	_	_
+26	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
+27	vergognatevi	vergognateve	ADJ	A	Gender=Masc|Number=Plur	26	xcomp	_	SpacesAfter=\n\n
+

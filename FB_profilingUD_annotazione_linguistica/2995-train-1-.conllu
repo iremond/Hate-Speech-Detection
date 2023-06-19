@@ -1,0 +1,55 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Caro Francesco Romanelli, perché non ti poni la domanda, i soldi per mantenere i finti profughi da dove li tirano fuori?
+1	Caro	caro	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	Francesco	Francesco	PROPN	SP	_	0	root	_	_
+3	Romanelli	Romanelli	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
+5	perché	perché	SCONJ	CS	_	10	mark	_	_
+6	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+7	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	expl	_	_
+8	poni	porre	ADV	B	_	7	advmod	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	2	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	10	punct	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	_
+14	per	per	ADP	E	_	15	mark	_	_
+15	mantenere	mantenere	VERB	V	VerbForm=Inf	13	acl	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+17	finti	finto	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	_
+18	profughi	profugo	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
+19	da	da	ADP	E	_	20	case	_	_
+20	dove	dove	ADV	B	_	22	advmod	_	_
+21	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	obj	_	_
+22	tirano	tirare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+23	fuori	fuori	ADV	B	_	22	advmod	_	SpaceAfter=No
+24	?	?	PUNCT	FS	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = Tu, come i tuoi amici PDioti, si capisce che mangiate dallo stesso piatto con quel buffone di Renzie.
+1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	come	come	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	amici	amico	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+7	PDioti	PDioto	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	6	punct	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl:impers	_	_
+10	capisce	capire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	che	che	SCONJ	CS	_	12	mark	_	_
+12	mangiate	mangiare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	ccomp	_	_
+13-14	dallo	_	_	_	_	_	_	_	_
+13	da	da	ADP	E	_	16	case	_	_
+14	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	_
+16	piatto	piatto	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+17	con	con	ADP	E	_	19	case	_	_
+18	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
+19	buffone	buffone	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	_
+20	di	di	ADP	E	_	21	case	_	_
+21	Renzie	Renzie	PROPN	SP	_	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n\n
+

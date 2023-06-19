@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Stasera vomitiamo.....
+1	Stasera	stasera	ADV	B	_	0	root	_	_
+2	vomitiamo.....	vomitiamo...	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

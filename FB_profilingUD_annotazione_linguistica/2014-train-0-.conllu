@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non stati fatti i lavori
+1	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+2	stati	essere	AUX	VA	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	aux:pass	_	_
+3	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	lavori	lavoro	NOUN	S	Gender=Masc|Number=Plur	3	nsubj:pass	_	SpacesAfter=\n\n
+

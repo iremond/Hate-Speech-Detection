@@ -1,0 +1,33 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Ahahahah....
+1	Ahahahah...	Ahahahah.	NOUN	S	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = fate ridere....
+1	fate	fare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ridere...	ridere...	NOUN	S	_	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Il mondo di Parenzo è irreale, quello di Cruciani meglio....
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Parenzo	Parenzo	PROPN	SP	_	2	nmod	_	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	irreale	irreale	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	8	punct	_	_
+8	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	conj	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	Cruciani	Cruciani	PROPN	SP	_	8	nmod	_	_
+11	meglio...	meglio.	NOUN	S	_	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
+
+# sent_id = 4
+# text = senza dubbio
+1	senza	senza	ADP	E	_	2	case	_	_
+2	dubbio	dubbio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+

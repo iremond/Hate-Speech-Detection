@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = No seeeeee!
+1	No	no	INTJ	I	Polarity=Neg	0	root	_	_
+2	seeeeee	seeeeea	ADV	B	_	1	advmod	_	SpaceAfter=No
+3	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = Figuriamoci se in Italia si arrivi a pensare una cosa del genere!
+1-2	Figuriamoci	_	_	_	_	_	_	_	SpacesAfter=\s\s
+1	Figuriamo	figurare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	1	obj	_	_
+3	se	se	SCONJ	CS	_	7	mark	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Italia	Italia	PROPN	SP	_	7	obl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+7	arrivi	arrivare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	pensare	pensare	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	9	obj	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	genere	genere	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	!	!	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 3
+# text = Anzi vanno ri integrati poveretti!
+1	Anzi	anzi	ADV	B	_	2	advmod	_	_
+2	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ri	ro	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+4	integrati	integrato	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
+5	poveretti	poveretto	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	SpaceAfter=No
+6	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
+

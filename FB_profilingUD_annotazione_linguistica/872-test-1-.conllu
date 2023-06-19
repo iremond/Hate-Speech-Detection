@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A. Zoccolaaaaa
+1	A	a	ADP	E	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	Zoccolaaaaa	Zoccolaaaaa	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
+

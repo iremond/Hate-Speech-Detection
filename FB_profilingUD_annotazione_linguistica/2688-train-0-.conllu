@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Tabon mok
+1	Tabon	Tabon	PROPN	SP	_	0	root	_	_
+2	mok	mok	NOUN	S	Gender=Masc	1	nmod	_	SpacesAfter=\n\n
+

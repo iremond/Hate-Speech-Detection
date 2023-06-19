@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Che schifo mi vergogno di essere italiana
+1	Che	che	DET	DQ	PronType=Int	2	det	_	_
+2	schifo	schifo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	vergogno	vergogno	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	di	di	ADP	E	_	7	mark	_	_
+6	essere	essere	AUX	V	VerbForm=Inf	7	cop	_	_
+7	italiana	italiano	ADJ	A	Gender=Fem|Number=Sing	4	xcomp	_	SpacesAfter=\n\n
+

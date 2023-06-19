@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Da vomitare 😡😡😡
+1	Da	da	ADP	E	_	2	mark	_	_
+2	vomitare	vomitare	VERB	V	VerbForm=Inf	0	root	_	_
+3	😡😡😡	😡😡😡	SYM	SYM	_	2	obj	_	SpacesAfter=\n\n
+

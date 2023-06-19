@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Parlano di lavoro
+1	Parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+2	di	di	ADP	E	_	3	case	_	_
+3	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	SpacesAfter=\n\n
+

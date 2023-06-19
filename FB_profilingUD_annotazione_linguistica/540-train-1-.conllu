@@ -1,0 +1,10 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = non se ne puo piu
+1	non	non	ADV	BN	PronType=Neg	4	advmod	_	_
+2	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
+3	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
+4	puo	puo	X	SW	Foreign=Yes	0	root	_	_
+5	piu	piu	X	SW	Foreign=Yes	4	flat:foreign	_	SpacesAfter=\n\n
+

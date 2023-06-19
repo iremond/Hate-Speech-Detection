@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = I centri a- sociali...
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	centri	centro	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
+3	a	a	ADP	E	_	5	case	_	SpaceAfter=No
+4	-	-	PUNCT	FF	_	5	punct	_	_
+5	sociali..	sociali..	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = Associazioni a delinquere...
+1	Associazioni	associazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	delinquere..	delinquere..	NOUN	S	_	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\s\s\s
+
+# sent_id = 3
+# text = E hanno anche qualche copertura politica di una certa sinistra...
+1	E	e	CCONJ	CC	_	2	cc	_	_
+2	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	anche	anche	ADV	B	_	5	advmod	_	_
+4	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	5	det	_	_
+5	copertura	copertura	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+6	politica	politico	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	certa	certo	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	sinistra...	sinistra...	NOUN	S	_	5	nmod	_	SpacesAfter=\s\s\s\s\s
+
+# sent_id = 4
+# text = Ruspa per tutti......l.
+1	Ruspa	Ruspare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	tutti......l	tutti......l	PRON	PQ	Number=Sing|PronType=Int	1	obl	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
+

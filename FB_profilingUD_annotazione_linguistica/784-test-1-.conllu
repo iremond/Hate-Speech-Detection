@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = insopportabili ! ma vivono in Italia?
+1	insopportabili	insopportabile	ADJ	A	Number=Plur	0	root	_	_
+2	!	!	PUNCT	FS	_	4	punct	_	_
+3	ma	ma	CCONJ	CC	_	4	cc	_	_
+4	vivono	vivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	Italia	Italia	PROPN	SP	_	4	obl	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	4	punct	_	SpacesAfter=\n\n
+

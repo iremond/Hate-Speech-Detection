@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Sto vomitando
+1	Sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	vomitando	vomitare	VERB	V	VerbForm=Ger	0	root	_	SpacesAfter=\n\n
+

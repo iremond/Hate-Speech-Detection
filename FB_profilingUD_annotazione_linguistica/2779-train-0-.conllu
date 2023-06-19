@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo salvini non é mai stato razzista, né populista, é solo realista e dice la realtà dei fatti!
+1	Matteo	Matteo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	salvini	salvino	ADJ	A	Number=Plur	1	amod	_	_
+3	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+4	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	mai	mai	ADV	B	_	7	advmod	_	_
+6	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	cop	_	_
+7	razzista	razzista	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	10	punct	_	_
+9	né	né	CCONJ	CC	_	10	cc	_	_
+10	populista	populista	ADJ	A	Number=Sing	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	14	punct	_	_
+12	é	é	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	solo	solo	ADV	B	_	14	advmod	_	_
+14	realista	realista	ADJ	A	Number=Sing	7	conj	_	_
+15	e	e	CCONJ	CC	_	16	cc	_	_
+16	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	realtà	realtà	NOUN	S	Gender=Fem	16	obj	_	_
+19-20	dei	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+22	!	!	PUNCT	FS	_	7	punct	_	_
+
+# sent_id = 2
+# text = Ahimé questa realtà disturba spesso chi onesto non é!!!!!
+1	Ahimé	Ahimé	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	realtà	realtà	NOUN	S	Gender=Fem	4	nsubj	_	_
+4	disturba	disturbare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	spesso	spesso	ADV	B	_	4	advmod	_	_
+6	chi	chi	PRON	PR	Number=Sing|PronType=Rel	4	obj	_	_
+7	onesto	onedere	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+8	non	non	ADV	BN	PronType=Neg	9	advmod	_	_
+9	é	é	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	acl:relcl	_	SpaceAfter=No
+10	!!!!!	!!!!!	PUNCT	FF	_	4	punct	_	SpacesAfter=\n\n
+

@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo nn essere villano,sono pur sempre 2signore;)
+1	Matteo	Matteo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	nn	nn	NUM	N	NumType=Card	1	nummod	_	_
+3	essere	essere	AUX	V	VerbForm=Inf	7	cop	_	_
+4	villano,sono	esvillano,sere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	pur	pure	ADV	B	_	7	advmod	_	_
+6	sempre	sempre	ADV	B	_	7	advmod	_	_
+7	2signore	2signore	NOUN	S	_	0	root	_	SpaceAfter=No
+8	;	;	PUNCT	FC	_	7	punct	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	7	punct	_	SpacesAfter=\n\n
+

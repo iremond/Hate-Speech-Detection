@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Voto Si
+1	Voto	voto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	SpacesAfter=\n\n
+

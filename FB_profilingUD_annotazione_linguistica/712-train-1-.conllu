@@ -1,0 +1,35 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Nn lo so io mi sto incazzando con Fiorella Mannoia e la sua predica sugli animali e il Papa ma ho già provveduto .Forza Matteo adesso vedo!
+1	Nn	Nn	ADV	B	_	3	advmod	_	_
+2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	expl	_	_
+6	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	incazzando	incazzare	VERB	V	VerbForm=Ger	3	advcl	_	_
+8	con	con	ADP	E	_	9	case	_	_
+9	Fiorella	Fiorella	PROPN	SP	_	7	obl	_	_
+10	Mannoia	Mannoia	PROPN	SP	_	9	flat:name	_	_
+11	e	e	CCONJ	CC	_	14	cc	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	predica	predica	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	_
+15-16	sugli	_	_	_	_	_	_	_	_
+15	su	su	ADP	E	_	17	case	_	_
+16	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	animali	animale	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	SpacesAfter=\s\s
+18	e	e	CCONJ	CC	_	20	cc	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	Papa	Papa	PROPN	SP	_	9	conj	_	SpacesAfter=\s\s
+21	ma	ma	CCONJ	CC	_	24	cc	_	_
+22	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	aux	_	_
+23	già	già	ADV	B	_	24	advmod	_	_
+24	provveduto	provvedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+25	.Forza	.Forza	PROPN	SP	_	24	obj	_	_
+26	Matteo	Matteo	PROPN	SP	_	25	flat:name	_	SpacesAfter=\s\s
+27	adesso	adesso	ADV	B	_	28	advmod	_	_
+28	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	advcl	_	SpaceAfter=No
+29	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
+

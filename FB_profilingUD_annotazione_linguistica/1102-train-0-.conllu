@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Il vero Papa è questo.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+3	Papa	papa	PROPN	SP	_	5	nsubj	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 2
+# text = Non a caso è Santo.
+1	Non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+2	a	a	ADP	E	_	3	case	_	_
+3	caso	caso	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	Santo	Santo	PROPN	SP	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
+
+# sent_id = 3
+# text = http://ricerca.repubblica.it/repubblica/archivio/repubblica/1990/01/11/giovanni-paolo-ii-anche-le-bestie-hanno.html
+1	http://ricerca.repubblica.it/repubblica/archivio/repubblica/1990/01/11/giovanni-paolo-ii-anche-le-bestie-hanno.html	http://ricerca.repubblica.it/repubblica/archivio/repubblica/1990/01/11/giovanni-paolo-ii-anche-le-bestie-hanno.html	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n\n
+

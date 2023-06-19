@@ -1,0 +1,11 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Matteo.
+1	Matteo	Matteo	PROPN	SP	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	FS	_	1	punct	_	_
+
+# sent_id = 2
+# text = ...intervieni
+1	...intervieni	...intervieno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n\n
+

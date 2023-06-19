@@ -1,0 +1,22 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = A smorzare i bollenti spiriti sessuali di tutti gli extracomunitari in arrivo ...li farebbero qualcosa di utile
+1	A	a	ADP	E	_	2	mark	_	_
+2	smorzare	smorzare	VERB	V	VerbForm=Inf	14	advcl	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	bollenti	bollente	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	_
+5	spiriti	spirito	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	_
+6	sessuali	sessuale	ADJ	A	Number=Plur	4	amod	_	_
+7	di	di	ADP	E	_	10	case	_	_
+8	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	10	det:predet	_	_
+9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	extracomunitari	extracomunitario	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	arrivo	arrivo	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	_
+13	...li	...le	ADJ	A	Number=Plur	12	amod	_	_
+14	farebbero	fare	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	14	obj	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	utile	utile	ADJ	A	Number=Sing	15	nmod	_	SpacesAfter=\n\n
+

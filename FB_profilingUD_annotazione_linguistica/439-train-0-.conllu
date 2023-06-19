@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = E un po forzato ma non e distante dalla vita reale e luoghi comuni
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	po	po	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	forzato	forzato	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
+5	ma	ma	CCONJ	CC	_	11	cc	_	_
+6	non	non	ADV	BN	PronType=Neg	11	advmod	_	_
+7	e	e	CCONJ	CC	_	8	cc	_	_
+8	distante	distante	ADJ	A	Number=Sing	6	conj	_	_
+9-10	dalla	_	_	_	_	_	_	_	_
+9	da	da	ADP	E	_	11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	vita	vita	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+12	reale	reale	ADJ	A	Number=Sing	11	amod	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	luoghi	luogo	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
+15	comuni	comune	ADJ	A	Number=Plur	14	amod	_	SpacesAfter=\n\n
+

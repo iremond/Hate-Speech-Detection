@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = il pd...tutta una barzelletta
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	pd...tutta	pd...tutta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	barzelletta	barzelletta	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	SpacesAfter=\n\n
+

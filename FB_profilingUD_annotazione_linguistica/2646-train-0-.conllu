@@ -1,0 +1,7 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Alessandro Catalano
+1	Alessandro	Alessandro	PROPN	SP	_	0	root	_	_
+2	Catalano	catalano	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
+

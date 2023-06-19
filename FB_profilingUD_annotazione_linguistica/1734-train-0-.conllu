@@ -1,0 +1,8 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Votate noo noooo
+1	Votate	votare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+2	noo	noo	X	SW	Foreign=Yes	1	xcomp	_	_
+3	noooo	noooo	X	SW	Foreign=Yes	2	flat:foreign	_	SpacesAfter=\n\n
+

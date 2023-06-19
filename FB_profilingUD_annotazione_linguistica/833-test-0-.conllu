@@ -1,0 +1,14 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = V Colonna..terribile quello che sta dicendo la ragazza!!!
+1	V	V	ADJ	NO	Number=Sing|NumType=Ord	3	amod	_	_
+2	Colonna..terribile	Colonna..terribile	ADJ	A	Number=Sing	3	amod	_	_
+3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	sta	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	dicendo	dire	VERB	V	VerbForm=Ger	3	acl:relcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	ragazza	ragazzo	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	!!!	!!!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n\n
+

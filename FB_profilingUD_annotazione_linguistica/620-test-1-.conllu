@@ -1,0 +1,28 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = pescatori prendete tutti quelli che sono al governo e buttateli in mare,con un peso attaccato nelle gambe
+1	pescatori	pescatore	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	prendete	prendere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	4	nmod	_	_
+4	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	2	obj	_	_
+5	che	che	PRON	PR	PronType=Rel	9	nsubj	_	_
+6	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	governo	governo	NOUN	S	Gender=Masc|Number=Sing	4	acl:relcl	_	_
+10	e	e	CCONJ	CC	_	11	cc	_	_
+11-12	buttateli	_	_	_	_	_	_	_	_
+11	buttate	buttare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	mare,con	mare,con	NOUN	S	Gender=Masc	11	obl	_	_
+15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	peso	peso	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+17	attaccato	attaccare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	_
+18-19	nelle	_	_	_	_	_	_	_	_
+18	in	in	ADP	E	_	20	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	gambe	gamba	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	SpacesAfter=\n\n
+

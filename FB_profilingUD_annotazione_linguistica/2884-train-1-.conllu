@@ -1,0 +1,12 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Portali viaaaaaa!!!
+1	Portali	Portale	DET	DD	Number=Plur|PronType=Dem	2	det	_	_
+2	viaaaaaa	viaaaaaa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	!!!	!!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 2
+# text = Fecia
+1	Fecia	Fecia	ADV	B	_	0	root	_	SpacesAfter=\n\n
+
