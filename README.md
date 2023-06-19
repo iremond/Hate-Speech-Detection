@@ -1,0 +1,2 @@
+# Hate-Speech-Detection
+Nei notebook presenti, vengono addestrati diversi modelli di machine learning per svolgere un task di hate speech detection. Nello specifico, vengono addestrati tre diversi SVC addestrati su varie rappresentazioni testuali (testo visto come feature di profiling linguistico, come n-grammi di parole e come embeddings di parole) e un Transformer specifico sull'italiano e basato su Bert base. Le ricerche condotte e i risultati ottenuti sono riassunti nel file pdf.
