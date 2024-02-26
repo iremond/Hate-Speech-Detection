@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = una peggio dell"altra
-1	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	peggio	peggio	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-3	dell"	dell"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-4	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	nmod	_	SpacesAfter=\n\n
-

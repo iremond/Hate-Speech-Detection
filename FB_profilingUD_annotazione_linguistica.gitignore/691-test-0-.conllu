@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Rivoluzione come in Francia
-1	Rivoluzione	Rivoluzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-2	come	come	ADV	B	_	4	advmod	_	_
-3	in	in	ADP	E	_	4	case	_	_
-4	Francia	Francia	PROPN	SP	_	1	nmod	_	SpacesAfter=\n\n
-

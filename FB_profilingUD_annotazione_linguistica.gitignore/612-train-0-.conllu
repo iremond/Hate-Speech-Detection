@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Matteo premier✌✌✌
-1	Matteo	Matteo	PROPN	SP	_	0	root	_	_
-2	premier✌✌✌	premier✌✌✌	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

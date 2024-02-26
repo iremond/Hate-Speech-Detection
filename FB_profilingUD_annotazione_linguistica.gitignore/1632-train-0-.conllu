@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = mmmm no.bastaaaaaaaa.
-1	mmmm	millimmmetro	NOUN	S	Gender=Masc	0	root	_	_
-2	no.bastaaaaaaaa	no.bastaaaaaaao	ADJ	A	Number=Sing	1	amod	_	SpaceAfter=No
-3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = La mettete a tacere
-1	La	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
-2	mettete	mettere	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	a	a	ADP	E	_	4	mark	_	_
-4	tacere	tacere	VERB	V	VerbForm=Inf	2	xcomp	_	SpacesAfter=\n\n
-

@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = WW PUTIN
-1	WW	WW	PROPN	SP	_	0	root	_	SpacesAfter=\s\s
-2	PUTIN	Putin	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

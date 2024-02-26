@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Ben arrivato!
-1	Ben	bene	ADV	B	_	2	advmod	_	_
-2	arrivato	arrivare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
-

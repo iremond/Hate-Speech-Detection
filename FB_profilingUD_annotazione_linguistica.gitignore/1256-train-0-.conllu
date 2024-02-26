@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = come fai tu?
-1	come	come	SCONJ	CS	_	2	mark	_	_
-2	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
-3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
-4	?	?	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
-

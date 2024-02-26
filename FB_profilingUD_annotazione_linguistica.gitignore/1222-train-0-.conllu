@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Bravooooooo matteo
-1	Bravooooooo	Bravooooooo	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
-2	matteo	matteo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
-

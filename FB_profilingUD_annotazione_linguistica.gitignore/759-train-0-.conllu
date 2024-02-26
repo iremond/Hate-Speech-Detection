@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Votiamo tutti NO
-1	Votiamo	Votare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	1	obj	_	_
-3	NO	No	PROPN	SP	_	1	nsubj	_	SpacesAfter=\n\n
-

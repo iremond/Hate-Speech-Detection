@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Meglio vomitare
-1	Meglio	meglio	ADV	B	_	2	advmod	_	_
-2	vomitare	vomitare	VERB	V	VerbForm=Inf	0	root	_	SpacesAfter=\n\n
-

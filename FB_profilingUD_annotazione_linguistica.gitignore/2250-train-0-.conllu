@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Prendi un anti acido
-1	Prendi	prendere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	anti	anti	ADJ	A	_	4	amod	_	SpacesAfter=\s\s
-4	acido	acido	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpacesAfter=\n\n
-

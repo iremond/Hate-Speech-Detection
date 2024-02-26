@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Jacopo Greco
-1	Jacopo	Jacopo	PROPN	SP	_	0	root	_	_
-2	Greco	Greco	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

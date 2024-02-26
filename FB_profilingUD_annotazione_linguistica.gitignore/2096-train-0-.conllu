@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Giusto ,Luca Bolli.
-1	Giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
-2	,Luca	,Luca	PROPN	SP	_	0	root	_	_
-3	Bolli	Bolli	PROPN	SP	_	2	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
-

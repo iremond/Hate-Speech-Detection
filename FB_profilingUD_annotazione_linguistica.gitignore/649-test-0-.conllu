@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Parla altra gallina
-1	Parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	altra	altro	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
-3	gallina	gallina	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	SpacesAfter=\n\n
-

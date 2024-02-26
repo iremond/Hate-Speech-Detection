@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Valerio #AhMaèRovigoOggi
-1	Valerio	Valerio	PROPN	SP	_	0	root	_	_
-2	#AhMaè	#AhMaé	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
-3	RovigoOggi	RovigoOggi	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

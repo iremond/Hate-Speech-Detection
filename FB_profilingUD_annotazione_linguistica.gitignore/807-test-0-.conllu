@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = TROPPO FORTE MATTEO https://www.facebook.com/permalink.php?story_fbid=1724512977788764&id=1436140396626025
-1	TROPPO	troppo	ADP	E	_	2	case	_	_
-2	FORTE	forte	PROPN	SP	_	0	root	_	_
-3	MATTEO	MATTEO	PROPN	SP	_	2	flat:name	_	SpacesAfter=\s\s
-4	https://www.facebook.com/permalink.php?story_fbid=1724512977788764&id=1436140396626025	https://www.facebook.com/permalink.php?story_fbid=1724512977788764&id=1436140396626025	NUM	N	NumType=Card	2	flat:name	_	SpacesAfter=\n\n
-

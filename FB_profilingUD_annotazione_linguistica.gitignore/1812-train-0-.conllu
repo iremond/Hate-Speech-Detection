@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Oppure la Lorenzin
-1	Oppure	oppure	CCONJ	CC	_	3	cc	_	_
-2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	Lorenzin	Lorenzin	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
-

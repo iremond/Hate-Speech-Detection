@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Capitano forza tutta
-1	Capitano	capitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	forza	forza	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
-3	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	1	xcomp	_	SpacesAfter=\n\n
-

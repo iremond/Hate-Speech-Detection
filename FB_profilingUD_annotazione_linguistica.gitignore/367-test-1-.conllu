@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Noooooooo che schifoooo
-1	Noooooooo	Noooooooo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	che	che	SCONJ	CS	_	3	mark	_	_
-3	schifoooo	schifoooo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpacesAfter=\n\n
-

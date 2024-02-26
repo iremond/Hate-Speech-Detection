@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Veramente un personaggio
-1	Veramente	vero	ADV	B	_	3	advmod	_	_
-2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	personaggio	personaggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
-

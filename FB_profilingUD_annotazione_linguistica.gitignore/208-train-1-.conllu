@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Malpezzi scandalosa #vergogna
-1	Malpezzi	Malpezzo	ADP	E	_	3	case	_	_
-2	scandalosa	scandaloso	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	_
-3	#vergogna	#vergognare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
-

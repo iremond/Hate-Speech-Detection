@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = RUSPIAMOLI TUTTI
-1-2	RUSPIAMOLI	_	_	_	_	_	_	_	_
-1	RUSPIAMO	RUSPIAMO	PROPN	SP	_	0	root	_	_
-2	LI	li	PROPN	SP	_	1	flat:name	_	_
-3	TUTTI	Tutti	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

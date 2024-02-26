@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = un ponte senza uscite
-1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	ponte	ponte	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-3	senza	senza	ADP	E	_	4	case	_	_
-4	uscite	uscita	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	SpacesAfter=\n\n
-

@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Brutta troia
-1	Brutta	brutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
-2	troia	troia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
-

@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Bedda matri!!😁😁
-1	Bedda	Beddare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	matri	matro	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	3	det	_	SpaceAfter=No
-3	!!😁😁	!!😁😁	PROPN	SP	_	1	obj	_	SpacesAfter=\n\n
-

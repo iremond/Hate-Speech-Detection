@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = È malata
-1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	malata	malato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n\n
-

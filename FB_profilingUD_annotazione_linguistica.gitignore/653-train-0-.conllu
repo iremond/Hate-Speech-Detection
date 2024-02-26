@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = No !!! Mai !!!
-1	No	no	INTJ	I	Polarity=Neg	3	discourse	_	_
-2	!!!	!!!	PUNCT	FF	_	1	punct	_	_
-3	Mai	Mai	PROPN	SP	_	0	root	_	_
-4	!!!	!!!	PUNCT	FF	_	3	punct	_	SpacesAfter=\n\n
-

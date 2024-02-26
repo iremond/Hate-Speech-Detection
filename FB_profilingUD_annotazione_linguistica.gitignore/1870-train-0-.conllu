@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Con tanto Maloxx
-1	Con	con	ADP	E	_	2	case	_	_
-2	tanto	tanto	ADV	B	_	3	advmod	_	_
-3	Maloxx	Maloxx	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
-

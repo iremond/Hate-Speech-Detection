@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Noi semo stuffi
-1	Noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	semo	se	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
-3	stuffi	stuffo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	SpacesAfter=\n\n
-

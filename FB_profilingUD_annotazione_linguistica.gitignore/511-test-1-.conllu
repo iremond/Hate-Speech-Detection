@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Noooooo odiose...😈😈
-1	Noooooo	Noooooo	PROPN	SP	_	0	root	_	_
-2	odiose...😈😈	odiose...😈😈	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

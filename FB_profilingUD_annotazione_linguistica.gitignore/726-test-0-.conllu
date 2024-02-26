@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Bravo ben detto
-1	Bravo	bravo	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	_
-2	ben	bene	ADV	B	_	3	advmod	_	_
-3	detto	detto	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n\n
-

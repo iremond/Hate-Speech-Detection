@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Le befane live
-1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
-2	befane	befana	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-3	live	live	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	SpacesAfter=\n\n
-

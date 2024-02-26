@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = 2 rumenteee
-1	2	2	NUM	N	NumType=Card	2	nummod	_	_
-2	rumenteee	rumenteea	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
-

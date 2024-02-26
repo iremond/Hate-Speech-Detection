@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = che si inculino
-1	che	che	SCONJ	CS	_	3	mark	_	_
-2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
-3	inculino	inculare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
-

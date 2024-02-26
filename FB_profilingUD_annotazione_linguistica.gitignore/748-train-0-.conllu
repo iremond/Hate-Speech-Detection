@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = X niente!.
-1	X	x	ADJ	NO	Number=Sing|NumType=Ord	2	amod	_	_
-2	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
-3	!	!	PUNCT	FS	_	2	punct	_	SpaceAfter=No
-4	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
-

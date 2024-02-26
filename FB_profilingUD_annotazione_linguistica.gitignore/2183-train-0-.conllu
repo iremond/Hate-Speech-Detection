@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Io non voto più
-1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
-3	voto	votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	più	più	ADV	B	_	3	advmod	_	SpacesAfter=\n\n
-

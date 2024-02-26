@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Vive pour le Si
-1	Vive	vivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	pour	pour	ADV	B	_	1	advmod	_	_
-3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
-4	Si	Si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	SpacesAfter=\n\n
-

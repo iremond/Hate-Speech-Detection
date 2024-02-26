@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = NO PER SEMPRE
-1	NO	No	PROPN	SP	_	3	nsubj	_	_
-2	PER	per	PROPN	SP	_	1	flat:name	_	_
-3	SEMPRE	sempre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
-

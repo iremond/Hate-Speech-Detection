@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Sono in attesa!😉
-1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-2	in	in	ADP	E	_	3	case	_	_
-3	attesa	atteso	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
-4	!😉	!😉	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
-

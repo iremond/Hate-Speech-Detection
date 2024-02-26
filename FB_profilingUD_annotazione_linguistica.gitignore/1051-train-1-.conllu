@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = OdIose e insopportabili
-1	OdIose	OdIoso	ADJ	A	Gender=Fem|Number=Plur	0	root	_	_
-2	e	e	CCONJ	CC	_	3	cc	_	_
-3	insopportabili	insopportabile	ADJ	A	Number=Plur	1	conj	_	SpacesAfter=\n\n
-

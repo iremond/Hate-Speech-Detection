@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Voterò ovviamente NO
-1	Voterò	Votare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
-2	ovviamente	ovviamente	ADV	B	_	1	advmod	_	_
-3	NO	no	PROPN	SP	_	1	obj	_	SpacesAfter=\n\n
-

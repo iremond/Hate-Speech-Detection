@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = No sono odiose
-1	No	no	INTJ	I	Polarity=Neg	3	nsubj	_	_
-2	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	odiose	odioso	ADJ	A	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
-

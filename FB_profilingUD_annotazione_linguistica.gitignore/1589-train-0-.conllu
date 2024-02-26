@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = neppure con dieci amari
-1	neppure	neppure	ADV	BN	PronType=Neg	4	advmod	_	_
-2	con	con	ADP	E	_	4	case	_	_
-3	dieci	dieci	NUM	N	NumType=Card	4	nummod	_	_
-4	amari	amare	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n\n
-

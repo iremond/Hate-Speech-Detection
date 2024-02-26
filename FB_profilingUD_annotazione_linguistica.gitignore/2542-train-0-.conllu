@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Idem voterò NO
-1	Idem	Idem	PROPN	SP	_	2	nsubj	_	_
-2	voterò	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	NO	No	PROPN	SP	_	2	obj	_	SpacesAfter=\n\n
-

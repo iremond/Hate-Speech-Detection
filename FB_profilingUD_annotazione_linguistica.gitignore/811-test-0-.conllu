@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Caccia bombardieri
-1	Caccia	caccia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\s\s
-2	bombardieri	bombardiero	NOUN	S	Gender=Masc|Number=Plur	1	compound	_	SpacesAfter=\n\n
-

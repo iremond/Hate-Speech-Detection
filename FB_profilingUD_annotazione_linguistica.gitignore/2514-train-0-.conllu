@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Sbrigati mi sto addormentando
-1	Sbrigati	Sbrigato	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
-2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	expl	_	_
-3	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	addormentando	addormentare	VERB	V	VerbForm=Ger	0	root	_	SpacesAfter=\n\n
-

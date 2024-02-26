@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Entrambe decerebrate ahahahah
-1	Entrambe	entrambi	DET	T	Gender=Fem|Number=Plur|PronType=Tot	2	det	_	_
-2	decerebrate	decerebrata	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-3	ahahahah	ahahahah	ADJ	A	_	2	amod	_	SpacesAfter=\n\n
-

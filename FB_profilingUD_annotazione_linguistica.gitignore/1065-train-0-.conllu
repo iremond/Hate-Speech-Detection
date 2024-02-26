@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = 100% salvini
-1	100	100	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
-2	%	%	SYM	SYM	_	0	root	_	_
-3	salvini	salvino	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	SpacesAfter=\n\n
-

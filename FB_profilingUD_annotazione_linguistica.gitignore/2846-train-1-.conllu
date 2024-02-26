@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Ruspe e bestemmie.
-1	Ruspe	Ruspe	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-2	e	e	CCONJ	CC	_	3	cc	_	_
-3	bestemmie	bestemmia	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
-4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

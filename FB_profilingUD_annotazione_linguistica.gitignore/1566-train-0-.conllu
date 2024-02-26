@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = CIRCO PARENZUM
-1	CIRCO	circo	PROPN	SP	_	0	root	_	_
-2	PARENZUM	PARENZUM	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

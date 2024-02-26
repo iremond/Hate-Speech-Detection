@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Io no
-1	Io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	no	no	ADV	BN	PronType=Neg	0	root	_	SpacesAfter=\n\n
-

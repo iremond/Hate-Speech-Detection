@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = proprio no
-1	proprio	proprio	ADV	B	_	2	advmod	_	_
-2	no	no	ADV	BN	PronType=Neg	0	root	_	SpacesAfter=\n\n
-

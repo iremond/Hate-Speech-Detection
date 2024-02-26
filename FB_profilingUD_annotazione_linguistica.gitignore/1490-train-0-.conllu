@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Soluzione = votate PD
-1	Soluzione	soluzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-2	=	=	PUNCT	FF	_	1	punct	_	_
-3	votate	votare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	1	acl	_	_
-4	PD	pd	PROPN	SP	_	3	obl	_	SpacesAfter=\n\n
-

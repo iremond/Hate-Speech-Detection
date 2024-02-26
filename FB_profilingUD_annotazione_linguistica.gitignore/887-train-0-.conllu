@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = SI!....purtroppo
-1	SI	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl	_	SpaceAfter=No
-2	!....purtroppo	!....purtroppo	ADV	B	_	0	root	_	SpacesAfter=\n\n
-

@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = mai sentite nominare
-1	mai	mai	ADV	B	_	2	advmod	_	_
-2	sentite	sentire	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
-3	nominare	nominare	VERB	V	VerbForm=Inf	2	xcomp	_	SpacesAfter=\n\n
-

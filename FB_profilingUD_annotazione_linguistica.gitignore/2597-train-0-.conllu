@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Proprio no no
-1	Proprio	proprio	ADV	B	_	2	advmod	_	_
-2	no	no	X	SW	Foreign=Yes	0	root	_	_
-3	no	no	X	SW	Foreign=Yes	2	flat:foreign	_	SpacesAfter=\n\n
-

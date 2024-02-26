@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = 2 insieme?moooooo
-1	2	2	NUM	N	NumType=Card	0	root	_	_
-2	insieme	insieme	ADV	B	_	3	advmod	_	SpaceAfter=No
-3	?moooooo	?moooooo	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpacesAfter=\n\n
-

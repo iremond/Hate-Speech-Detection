@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = IO VOTO NOOOOOOO
-1	IO	io	PROPN	SP	_	0	root	_	_
-2	VOTO	voto	PROPN	SP	_	1	flat:name	_	_
-3	NOOOOOOO	NOOOOOOO	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

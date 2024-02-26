@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Votiamo nooooooo
-1	Votiamo	votiamo	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	nooooooo	nooooooo	ADJ	A	Gender=Masc|Number=Sing	1	xcomp	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Raxxa di infxriori.
-1	Raxxa	Raxxa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-2	di	di	ADP	E	_	3	case	_	_
-3	infxriori	infxriore	NOUN	S	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
-4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

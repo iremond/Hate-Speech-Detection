@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Maledetti comunisti
-1	Maledetti	Maledetto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
-2	comunisti	comunista	ADJ	A	Gender=Masc|Number=Plur	1	amod	_	SpacesAfter=\n\n
-

@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Foto schifosa
-1	Foto	foto	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-2	schifosa	schifoso	ADJ	A	Gender=Fem|Number=Sing	1	amod	_	SpacesAfter=\n\n
-

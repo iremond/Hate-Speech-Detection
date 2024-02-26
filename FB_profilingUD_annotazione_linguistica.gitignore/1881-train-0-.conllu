@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Malpezzi +castaldini=Alfano
-1	Malpezzi	Malpezzi	PROPN	SP	_	0	root	_	_
-2	+castaldini=Alfano	+castaldini=Alfano	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = mangiateli
-1-2	mangiateli	_	_	_	_	_	_	_	SpacesAfter=\n\n
-1	mangiate	mangiare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
-

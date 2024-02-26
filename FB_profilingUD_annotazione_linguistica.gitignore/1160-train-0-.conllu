@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Elisa Veronesi
-1	Elisa	Elisa	PROPN	SP	_	0	root	_	_
-2	Veronesi	Veronesi	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

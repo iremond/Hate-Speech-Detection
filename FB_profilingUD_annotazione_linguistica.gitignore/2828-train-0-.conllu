@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Non mollare mai
-1	Non	non	ADV	BN	PronType=Neg	2	advmod	_	_
-2	mollare	mollare	VERB	V	VerbForm=Inf	0	root	_	_
-3	mai	mai	ADV	B	_	2	advmod	_	SpacesAfter=\n\n
-

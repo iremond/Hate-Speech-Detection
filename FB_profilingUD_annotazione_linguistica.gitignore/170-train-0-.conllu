@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Mito rocco!!
-1	Mito	mito	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-2	rocco	rocco	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
-3	!	!	PUNCT	FS	_	1	punct	_	SpaceAfter=No
-4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

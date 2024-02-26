@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Malpezzi, Castaldini...
-1	Malpezzi	Malpezzo	ADV	B	_	3	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
-3	Castaldini..	Castaldini..	PROPN	SP	_	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
-

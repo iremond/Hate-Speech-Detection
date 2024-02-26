@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Fanno cac...e.
-1	Fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
-2	cac...e	cac...e	NOUN	S	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
-3	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

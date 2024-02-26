@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Matteo continua così
-1	Matteo	Matteo	PROPN	SP	_	2	nsubj	_	_
-2	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	così	così	ADV	B	_	2	advmod	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Non le sopporto.
-1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
-2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	sopporto	sopporto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
-

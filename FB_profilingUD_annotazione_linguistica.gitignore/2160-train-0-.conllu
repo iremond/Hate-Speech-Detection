@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Sisi io ci sono
-1	Sisi	Sisi	PROPN	SP	_	4	nsubj	_	_
-2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-3	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
-4	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
-

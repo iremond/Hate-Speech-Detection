@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Stra NO !!!!!
-1	Stra	Stra	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
-2	NO	No	PROPN	SP	_	0	root	_	_
-3	!!!	!!!	PUNCT	FF	_	2	punct	_	SpaceAfter=No
-4	!!	!!	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
-

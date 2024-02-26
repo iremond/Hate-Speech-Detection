@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Non ti chiedo altro,massacrale
-1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	_
-2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	expl	_	_
-3	chiedo	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	altro,massacrale	altro,massacrale	ADJ	A	Number=Sing	3	xcomp	_	SpacesAfter=\n\n
-

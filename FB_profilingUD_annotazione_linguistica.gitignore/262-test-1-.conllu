@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Prendi.la parola e stendileeee
-1	Prendi.la	Prendi.la	DET	RD	Gender=Fem|Number=Sing	2	det	_	_
-2	parola	parola	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-3	e	e	CCONJ	CC	_	4	cc	_	_
-4	stendileeee	stendileeeo	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	SpacesAfter=\n\n
-

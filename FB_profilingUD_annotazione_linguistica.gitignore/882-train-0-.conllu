@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = I cartellinisti furbi
-1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	cartellinisti	cartellinista	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
-3	furbi	furbo	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	SpacesAfter=\n\n
-

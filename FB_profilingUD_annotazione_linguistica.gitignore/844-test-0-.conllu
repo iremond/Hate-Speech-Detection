@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Matteo che schifo....
-1	Matteo	Matteo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	che	che	DET	DE	PronType=Exc	3	det	_	_
-3	schifo...	schifo.	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
-4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

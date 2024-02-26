@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Buongiorno Matteo
-1	Buongiorno	Buongiorno	PROPN	SP	_	0	root	_	_
-2	Matteo	Matteo	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

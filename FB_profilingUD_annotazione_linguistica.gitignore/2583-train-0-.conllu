@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = CI PUOI CONTARE
-1	CI	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
-2	PUOI	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	CONTARE	contare	PROPN	SP	_	0	root	_	SpacesAfter=\n\n
-

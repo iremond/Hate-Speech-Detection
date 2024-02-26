@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Di finte assunzioni
-1	Di	di	ADP	E	_	2	case	_	_
-2	finte	finto	ADJ	A	Gender=Fem|Number=Plur	3	amod	_	_
-3	assunzioni	assunzione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
-

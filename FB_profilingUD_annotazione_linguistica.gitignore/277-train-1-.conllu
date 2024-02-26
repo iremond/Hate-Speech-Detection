@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Elezioni politiche subito
-1	Elezioni	elezione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-2	politiche	politico	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	_
-3	subito	subito	ADV	B	_	1	advmod	_	SpacesAfter=\n\n
-

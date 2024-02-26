@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Martina Riccardi
-1	Martina	Martina	PROPN	SP	_	0	root	_	_
-2	Riccardi	Riccardi	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

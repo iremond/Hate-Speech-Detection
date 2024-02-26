@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Si ti ascolto
-1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
-2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	expl	_	_
-3	ascolto	ascolgere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\n\n
-

@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = due oche giulive
-1	due	due	NUM	N	NumType=Card	2	nummod	_	_
-2	oche	oca	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-3	giulive	giulive	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	SpacesAfter=\n\n
-

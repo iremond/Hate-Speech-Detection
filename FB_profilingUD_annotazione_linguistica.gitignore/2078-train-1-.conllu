@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Che vergogna 😗
-1	Che	che	DET	DQ	PronType=Int	2	det	_	_
-2	vergogna	vergogna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-3	😗	😗	SYM	SYM	_	2	compound	_	SpacesAfter=\n\n
-

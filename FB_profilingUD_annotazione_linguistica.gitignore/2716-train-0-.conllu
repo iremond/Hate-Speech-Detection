@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = presente capitano
-1	presente	presente	ADJ	A	Number=Sing	2	amod	_	_
-2	capitano	capitano	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
-

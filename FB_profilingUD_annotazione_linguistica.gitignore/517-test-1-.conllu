@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = OMINO SENZA PALLE
-1	OMINO	OMINO	ADP	E	_	2	case	_	_
-2	SENZA	Senza	PROPN	SP	_	0	root	_	_
-3	PALLE	palle	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n\n
-

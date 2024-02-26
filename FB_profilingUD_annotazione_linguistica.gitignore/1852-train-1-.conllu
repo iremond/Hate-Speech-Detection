@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Mamma mia le befane
-1	Mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
-2	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	1	det:poss	_	_
-3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
-4	befane	befana	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
-

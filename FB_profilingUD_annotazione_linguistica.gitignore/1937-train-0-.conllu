@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = NO.SEMPRE NO.FORTISSIMAMENTE NOOOOOOOOOOO!
-1	NO.SEMPRE	NO.SEMPRE	PROPN	SP	_	0	root	_	_
-2	NO.FORTISSIMAMENTE	NO.FORTISSIMAMENTE	PROPN	SP	_	1	flat:name	_	_
-3	NOOOOOOOOOOO	NOOOOOOOOOOO	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
-4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

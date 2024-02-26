@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Daniele 😂
-1	Daniele	Daniele	PROPN	SP	_	0	root	_	_
-2	😂	😂	SYM	SYM	_	1	flat:name	_	SpacesAfter=\n\n
-

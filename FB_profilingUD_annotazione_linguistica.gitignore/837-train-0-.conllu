@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Certo ciao gianna
-1	Certo	certo	ADV	B	_	2	advmod	_	_
-2	ciao	ciao	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	gianna	giannare	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	2	obj	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = certo che voto no...
-1	certo	certo	ADV	B	_	3	advmod	_	_
-2	che	che	DET	DQ	PronType=Int	3	det	_	_
-3	voto	votare	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-4	no...	no.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
-

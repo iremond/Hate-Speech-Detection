@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Vomito 😲
-1	Vomito	Vomire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
-2	😲	😲	SYM	SYM	_	0	root	_	SpacesAfter=\n\n
-

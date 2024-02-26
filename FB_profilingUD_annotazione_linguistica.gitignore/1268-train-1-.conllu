@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Galline petulanti
-1	Galline	Gallina	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-2	petulanti	petulante	ADV	B	_	1	advmod	_	SpacesAfter=\n\n
-

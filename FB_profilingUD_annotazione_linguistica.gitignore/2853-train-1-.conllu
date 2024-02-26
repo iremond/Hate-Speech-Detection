@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Governo maledetto
-1	Governo	Governo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-2	maledetto	maledetto	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpacesAfter=\n\n
-

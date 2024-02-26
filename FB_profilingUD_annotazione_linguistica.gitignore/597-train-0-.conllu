@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Nicola Murru
-1	Nicola	Nicola	PROPN	SP	_	0	root	_	_
-2	Murru	Murru	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

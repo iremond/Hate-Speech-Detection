@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = No no no
-1	No	no	X	SW	Foreign=Yes	0	root	_	_
-2	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	_
-3	no	no	X	SW	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n\n
-

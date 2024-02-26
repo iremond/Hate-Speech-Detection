@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Antipatiche forte ...
-1	Antipatiche	Antipatica	ADV	B	_	2	advmod	_	_
-2	forte	forte	ADJ	A	Number=Sing	0	root	_	_
-3	...	...	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Voterò no... Ovvio...
-1	Voterò	voterò	PROPN	SP	_	0	root	_	_
-2	no...	no.	PUNCT	FF	_	1	punct	_	_
-3	Ovvio..	Ovvio..	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
-4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

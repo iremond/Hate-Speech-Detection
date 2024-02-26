@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Due galline !
-1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
-2	galline	gallina	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
-

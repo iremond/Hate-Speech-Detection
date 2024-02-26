@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = NO poveri mariti
-1	NO	no	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	poveri	povero	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	_
-3	mariti	marite	NOUN	S	Gender=Masc|Number=Plur	1	nsubj	_	SpacesAfter=\n\n
-

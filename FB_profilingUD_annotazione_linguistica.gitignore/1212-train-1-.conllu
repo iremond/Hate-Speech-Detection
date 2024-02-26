@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Presente è arrabbiata,
-1	Presente	presente	ADV	B	_	3	advmod	_	_
-2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
-3	arrabbiata	arrabbiare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	FF	_	3	punct	_	SpacesAfter=\n\n
-

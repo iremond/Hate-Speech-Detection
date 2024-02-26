@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Sono INCOMMENTABILIIIIIII!
-1	Sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	INCOMMENTABILIIIIIII	INCOMMENTABILIIIIIII	PROPN	SP	_	0	root	_	SpaceAfter=No
-3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
-

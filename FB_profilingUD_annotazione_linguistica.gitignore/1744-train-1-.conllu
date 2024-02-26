@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Sgombero immediato stop
-1	Sgombero	sgombero	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
-2	immediato	immediato	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
-3	stop	stop	NOUN	S	Gender=Masc	0	root	_	SpacesAfter=\n\n
-

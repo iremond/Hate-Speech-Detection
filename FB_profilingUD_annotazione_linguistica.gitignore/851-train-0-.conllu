@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = no.no.......no
-1	no.no	no.no	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-2	.......no	.......no	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpacesAfter=\n\n
-

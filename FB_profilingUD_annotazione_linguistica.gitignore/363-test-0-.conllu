@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = É difficile
-1	É	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	SpacesAfter=\s\s
-2	difficile	difficile	ADJ	A	Number=Sing	0	root	_	SpacesAfter=\n\n
-

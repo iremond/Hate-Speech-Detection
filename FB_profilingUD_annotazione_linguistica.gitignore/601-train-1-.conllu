@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Già cagate .......
-1	Già	già	ADV	B	_	2	advmod	_	_
-2	cagate	cagare	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-3	.......	.......	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
-

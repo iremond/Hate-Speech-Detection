@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Naturalmente tutte cazzate
-1	Naturalmente	naturalmente	ADV	B	_	3	advmod	_	_
-2	tutte	tutto	DET	T	Gender=Fem|Number=Plur|PronType=Tot	3	det:poss	_	_
-3	cazzate	cazzato	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = La prende pene?
-1	La	il	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
-2	prende	prendo	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	pene	pena	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	SpaceAfter=No
-4	?	?	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
-

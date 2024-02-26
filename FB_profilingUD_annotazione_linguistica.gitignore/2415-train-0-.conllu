@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = per niente!
-1	per	per	ADP	E	_	2	case	_	SpacesAfter=\s\s
-2	niente	niente	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	SpaceAfter=No
-3	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
-

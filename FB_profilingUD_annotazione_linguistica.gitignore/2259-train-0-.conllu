@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = purtroppo si
-1	purtroppo	purtroppo	ADV	B	_	0	root	_	_
-2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	1	expl	_	SpacesAfter=\n\n
-

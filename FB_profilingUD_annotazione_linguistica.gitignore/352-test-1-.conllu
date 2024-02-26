@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Espulsioni immediatamente
-1	Espulsioni	Espulsione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-2	immediatamente	immediatamente	ADV	B	_	1	advmod	_	SpacesAfter=\n\n
-

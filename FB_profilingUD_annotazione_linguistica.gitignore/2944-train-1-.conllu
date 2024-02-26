@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = abbatti la malpezzi
-1	abbatti	abbarre	ADV	B	_	3	advmod	_	_
-2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	malpezzi	malpezzo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n\n
-

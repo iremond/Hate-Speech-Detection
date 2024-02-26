@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Ma anche no!
-1	Ma	ma	CCONJ	CC	_	3	cc	_	_
-2	anche	anche	ADV	B	_	3	advmod	_	_
-3	no	no	ADV	BN	PronType=Neg	0	root	_	SpaceAfter=No
-4	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
-

@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Ci sono ...
-1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	_
-2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	...	...	PUNCT	FF	_	2	punct	_	SpacesAfter=\n\n
-

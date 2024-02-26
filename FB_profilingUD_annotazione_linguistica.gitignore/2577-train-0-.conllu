@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Si vota no
-1	Si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	2	expl:impers	_	_
-2	vota	votare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	no	no	ADV	BN	PronType=Neg	2	advmod	_	SpacesAfter=\n\n
-

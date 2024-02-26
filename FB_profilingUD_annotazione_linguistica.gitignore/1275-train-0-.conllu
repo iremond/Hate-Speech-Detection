@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = no cambiato canale
-1	no	no	ADV	BN	PronType=Neg	2	advmod	_	_
-2	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-3	canale	canale	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpacesAfter=\n\n
-

@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Parenzo zingaro
-1	Parenzo	Parenzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-2	zingaro	zingaro	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpacesAfter=\n\n
-

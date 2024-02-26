@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = weee cazzunnn
-1	weee	weea	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-2	cazzunnn	cazzunnn	NOUN	S	Gender=Fem	1	compound	_	SpacesAfter=\n\n
-

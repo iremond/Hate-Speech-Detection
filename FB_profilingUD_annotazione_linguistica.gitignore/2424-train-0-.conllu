@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Jajajaja grande 😂😂
-1	Jajajaja	Jajajaja	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	grande	grande	ADJ	A	Number=Sing	3	amod	_	_
-3	😂😂	😂😂	SYM	SYM	_	1	obj	_	SpacesAfter=\n\n
-

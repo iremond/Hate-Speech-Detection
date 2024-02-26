@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = .....AZZI.......LORO !!!!!!!!!!!!!!!!!!!!!!!!!!!
-1	.....AZZI.......LORO	.....AZZI.......LORO	PRON	PE	Number=Plur|Person=3|PronType=Prs	0	root	_	_
-2	!!!!!!!!!!!!!!!!!!!!!!!!!!!	!!!!!!!!!!!!!!!!!!!!!!!!!!!	PUNCT	FF	_	1	punct	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Grande mio Capitano!
-1	Grande	Grande	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	_
-3	Capitano	capitano	PROPN	SP	_	1	nsubj	_	SpaceAfter=No
-4	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

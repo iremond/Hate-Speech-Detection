@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Matteo ruspe...
-1	Matteo	Matteo	PROPN	SP	_	0	root	_	_
-2	ruspe...	ruspe.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

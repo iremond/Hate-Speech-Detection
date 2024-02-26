@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = ...noi ti seguiremo!
-1	...noi	...noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
-3	seguiremo	seguire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	!	!	PUNCT	FS	_	3	punct	_	SpacesAfter=\n\n
-

@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = come siamo belli
-1	come	come	SCONJ	CS	_	3	mark	_	_
-2	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	belli	bello	ADJ	A	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n\n
-

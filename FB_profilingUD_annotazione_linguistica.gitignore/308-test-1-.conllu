@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = FANNO VENIRE LA CAGARELLA
-1	FANNO	fare	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	VENIRE	venire	PROPN	SP	_	0	root	_	_
-3	LA	La	PROPN	SP	_	2	flat:name	_	_
-4	CAGARELLA	CAGARELLA	PROPN	SP	_	2	flat:name	_	SpacesAfter=\n\n
-

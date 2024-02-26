@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Faccia de cazzo
-1	Faccia	fare	NOUN	S	Gender=Fem|Number=Sing	3	case	_	_
-2	de	di	ADP	E	_	1	fixed	_	_
-3	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
-

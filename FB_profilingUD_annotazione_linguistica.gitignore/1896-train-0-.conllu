@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Gregori Emanuele
-1	Gregori	Gregori	PROPN	SP	_	0	root	_	_
-2	Emanuele	Emanuele	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

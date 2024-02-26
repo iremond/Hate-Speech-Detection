@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Riusciamo a digerire voi
-1	Riusciamo	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	a	a	ADP	E	_	3	mark	_	_
-3	digerire	digerire	VERB	V	VerbForm=Inf	1	xcomp	_	_
-4	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	obj	_	SpacesAfter=\n\n
-

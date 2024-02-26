@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Vomito quando parlano
-1	Vomito	Vomire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-2	quando	quando	SCONJ	CS	_	3	mark	_	_
-3	parlano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	SpacesAfter=\n\n
-

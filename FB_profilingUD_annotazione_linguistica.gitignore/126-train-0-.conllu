@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Assolutamente no!
-1	Assolutamente	assolutamente	ADV	B	_	0	root	_	_
-2	no	no	ADV	BN	PronType=Neg	1	advmod	_	SpaceAfter=No
-3	!	!	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

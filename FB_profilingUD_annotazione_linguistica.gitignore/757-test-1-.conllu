@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Buttiamoli fuori
-1-2	Buttiamoli	_	_	_	_	_	_	_	_
-1	Buttiamo	Buttare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
-3	fuori	fuori	ADV	B	_	1	advmod	_	SpacesAfter=\n\n
-

@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Due stronzette
-1	Due	due	NUM	N	NumType=Card	2	nummod	_	_
-2	stronzette	stronzetta	NOUN	S	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
-

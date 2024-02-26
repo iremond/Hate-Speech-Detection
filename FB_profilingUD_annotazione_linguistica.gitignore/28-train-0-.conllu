@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Vai capitano vaiiiii
-1	Vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	capitano	capitano	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
-3	vaiiiii	vaiiterzo	ADJ	NO	Number=Sing|NumType=Ord	2	amod	_	SpacesAfter=\n\n
-

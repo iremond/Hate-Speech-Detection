@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = VOTATE NO
-1	VOTATE	votate	PROPN	SP	_	0	root	_	_
-2	NO	No	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Accoppiata vincente 😡😡😡😡😡
-1	Accoppiata	Accoppiare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
-2	vincente	vincente	ADJ	A	Number=Sing	1	xcomp	_	_
-3	😡😡😡😡😡	😡😡😡😡😡	SYM	SYM	_	0	root	_	SpacesAfter=\n\n
-

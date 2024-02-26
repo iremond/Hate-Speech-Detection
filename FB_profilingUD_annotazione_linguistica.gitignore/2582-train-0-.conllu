@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Grande salvini fatti sentire
-1	Grande	grande	ADJ	A	Number=Sing	2	amod	_	_
-2	salvini	salvino	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
-3	fatti	fare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
-4	sentire	sentire	VERB	V	VerbForm=Inf	3	ccomp	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Mai una gioia!🙈
-1	Mai	mai	ADV	B	_	3	advmod	_	_
-2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	gioia	gioia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-4	!🙈	!🙈	PROPN	SP	_	3	nmod	_	SpacesAfter=\n\n
-

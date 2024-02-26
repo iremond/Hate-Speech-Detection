@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Son due isteriche
-1	Son	essere	NOUN	S	Gender=Fem	0	root	_	_
-2	due	due	NUM	N	NumType=Card	1	nummod	_	_
-3	isteriche	isterica	NOUN	S	Gender=Fem|Number=Plur	1	compound	_	SpacesAfter=\n\n
-

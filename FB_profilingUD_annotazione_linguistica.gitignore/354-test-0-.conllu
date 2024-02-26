@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Spacca tutto matteo.
-1	Spacca	spaccare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	tutto	tutto	DET	DI	Number=Sing|PronType=Ind	3	det	_	_
-3	matteo	matteo	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
-4	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Lorenzo Zanucco Federico Cescut
-1	Lorenzo	Lorenzo	PROPN	SP	_	0	root	_	_
-2	Zanucco	Zanucco	PROPN	SP	_	1	flat:name	_	_
-3	Federico	Federico	PROPN	SP	_	1	flat:name	_	_
-4	Cescut	Cescut	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

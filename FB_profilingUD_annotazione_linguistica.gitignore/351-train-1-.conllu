@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Non ne possiamo più
-1	Non	non	ADV	BN	PronType=Neg	4	advmod	_	_
-2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	_
-3	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	più	più	ADV	B	_	0	root	_	SpacesAfter=\n\n
-

@@ -1,9 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Almeno una parte,sicuramente!
-1	Almeno	almeno	ADV	B	_	2	advmod	_	_
-2	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
-3	parte,sicuramente	parte,sicuramente	ADV	B	_	2	advmod	_	SpaceAfter=No
-4	!	!	PUNCT	FS	_	2	punct	_	SpacesAfter=\n\n
-

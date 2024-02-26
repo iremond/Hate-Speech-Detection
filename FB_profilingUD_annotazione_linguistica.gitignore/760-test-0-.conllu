@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Andrea Argentieri
-1	Andrea	Andrea	PROPN	SP	_	0	root	_	_
-2	Argentieri	Argentieri	PROPN	SP	_	1	flat:name	_	SpacesAfter=\n\n
-

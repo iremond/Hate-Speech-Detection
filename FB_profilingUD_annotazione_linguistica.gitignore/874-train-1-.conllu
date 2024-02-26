@@ -1,7 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Galline frustrate
-1	Galline	Gallina	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-2	frustrate	frustrato	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	SpacesAfter=\n\n
-

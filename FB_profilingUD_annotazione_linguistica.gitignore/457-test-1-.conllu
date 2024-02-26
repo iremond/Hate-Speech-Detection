@@ -1,8 +1,0 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = Quanto li odio
-1	Quanto	quanto	ADV	B	_	3	advmod	_	_
-2	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
-3	odio	odiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\n\n
-
